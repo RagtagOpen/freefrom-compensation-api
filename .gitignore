@@ -3,6 +3,8 @@ capybara-*.html
 .rspec
 /db/*.sqlite3
 /db/*.sqlite3-journal
+# Rails gitignore template from: https://github.com/github/gitignore
+
 /public/system
 /coverage/
 /spec/tmp
