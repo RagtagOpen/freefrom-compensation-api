@@ -27,4 +27,14 @@ describe ResourceCategoriesController, type: :controller do
       end
     end
   end
+
+  describe '#create' do
+    it 'returns 201 and the resource category' do
+      post :create
+      expect(response.status).to eq(201)
+
+      body = JSON.parse(response.body)
+      expect(body).to have_key('id')
+    end
+  end
 end
