@@ -1,6 +1,10 @@
 class ResourceCategoriesController < ApplicationController
   def show
-    resource_category = ResourceCategory.find(params[:id])
+    begin
+      resource_category = ResourceCategory.find(params[:id])
+    rescue
+      render status: 404, json: {} and return
+    end
     render json: resource_category
   end
 
