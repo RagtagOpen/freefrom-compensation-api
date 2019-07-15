@@ -1,5 +1,5 @@
 class ResourceCategoriesController < ApplicationController
-  before_action :find_resource_category, only: [:show, :update, :delete]
+  before_action :find_resource_category, only: [:show, :update, :destroy]
 
   def show
     render json: @resource_category
@@ -8,6 +8,11 @@ class ResourceCategoriesController < ApplicationController
   def create
     resource_category = ResourceCategory.new
     render status: 201, json: resource_category
+  end
+
+  def destroy
+    @resource_category.destroy
+    render status: 204, json: {}
   end
 
   # def update

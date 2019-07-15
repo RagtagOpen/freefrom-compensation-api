@@ -37,4 +37,21 @@ describe ResourceCategoriesController, type: :controller do
       expect(body).to have_key('id')
     end
   end
+
+  describe '#destroy' do
+    let(:id) { 1000 }
+
+    before do
+      resource_category = build(:resource_category, id: id)
+      resource_category.save!
+    end
+
+    it 'returns 204 and an empty body' do
+      delete :destroy, params: { id: id }
+      expect(response.status).to eq(204)
+
+      body = JSON.parse(response.body)
+      expect(body).to be_empty
+    end
+  end
 end
