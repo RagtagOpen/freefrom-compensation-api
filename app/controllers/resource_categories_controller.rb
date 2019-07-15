@@ -2,7 +2,7 @@ class ResourceCategoriesController < ApplicationController
   def show
     begin
       resource_category = ResourceCategory.find(params[:id])
-    rescue
+    rescue ActiveRecord::RecordNotFound
       render status: 404, json: {} and return
     end
     render json: resource_category
