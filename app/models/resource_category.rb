@@ -1,0 +1,2 @@
+class ResourceCategory < ApplicationRecord
+end
