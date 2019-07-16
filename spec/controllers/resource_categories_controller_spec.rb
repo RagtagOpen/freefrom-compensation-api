@@ -70,7 +70,7 @@ describe ResourceCategoriesController, type: :controller do
 
     context 'where resource category does exist' do
       before do
-        resource_category = build(:resource_category, id: id)
+        resource_category = build(:resource_category, id: id, seo_keywords: [])
         resource_category.save!
       end
 

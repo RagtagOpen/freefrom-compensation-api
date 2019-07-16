@@ -7,7 +7,7 @@ class ResourceCategoriesController < ApplicationController
 
   def create
     # TODO: authenticate admin user
-    @resource_category = ResourceCategory.new
+    @resource_category = ResourceCategory.create
     render status: 201, json: @resource_category
   end
 
@@ -20,17 +20,14 @@ class ResourceCategoriesController < ApplicationController
   def update
     # TODO: authenticate admin user
     # TODO: refactor this code
-    # valid_params = ResourceCategory
-    #                 .new
-    #                 .attributes
-    #                 .symbolize_keys
-    #                 .except(:id, :created_at, :updated_at)
-    #                 .keys
-    #                 .merge(:seo_keywords => [])
+    valid_attrs = []
+    ResourceCategory.new.attributes.each do |key, value|
+      valid_attrs << key.to_sym if value.nil?
+      valid_attrs << { key.to_sym => [] } if value == []
+    end
 
-    attributes = params.permit(:name, :short_description, :description, :icon, :seo_title, :seo_description, :share_image, :seo_keywords => [])
+    attributes = params.permit(valid_attrs)
     @resource_category.update!(attributes)
-    byebug
 
     render json: @resource_category
   end
