@@ -6,29 +6,26 @@ class ResourceCategoriesController < ApplicationController
   end
 
   def create
-    resource_category = ResourceCategory.new
-    render status: 201, json: resource_category
+    # TODO: authenticate admin user
+    @resource_category = ResourceCategory.new
+    render status: 201, json: @resource_category
   end
 
   def destroy
+    # TODO: authenticate admin user
     @resource_category.destroy
     render status: 204, json: {}
   end
 
-  # def update
-  #   # TODO: authenticate user
+  def update
+    # TODO: authenticate admin user
+    # TODO: accept all valid parameters
+    attributes = params.permit(:name)
+    @resource_category.update!(attributes)
 
-  #   begin
-  #     resource_category = ResourceCategory.find(params[:id])
-  #   rescue ActiveRecord::RecordNotFound
-  #     render status: 404, json: {} and return
-  #   end
+    render json: @resource_category
+  end
 
-  #   attributes = params.except(:id)
-  #   success = resource_category.update_attributes(attributes)
-
-
-  # end
   private
 
   def find_resource_category

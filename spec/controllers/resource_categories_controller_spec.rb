@@ -54,4 +54,37 @@ describe ResourceCategoriesController, type: :controller do
       expect(body).to be_empty
     end
   end
+
+  describe '#update' do
+    let(:id) { 1000 }
+
+    context 'where resource category doesn\'t exist' do
+      it 'returns 404 and an empty body' do
+        put :update, params: { id: id }
+        expect(response.status).to eq(404)
+
+        body = JSON.parse(response.body)
+        expect(body).to be_empty
+      end
+    end
+
+    context 'where resource category does exist' do
+      let(:new_name) { 'New Name' }
+
+      before do
+        resource_category = build(:resource_category, id: id)
+        resource_category.save!
+      end
+
+      context 'and update succeeds' do
+        it 'returns 200 and new resource category' do
+          put :update, params: { id: id, name: new_name }
+          expect(response.status).to eq(200)
+
+          body = JSON.parse(response.body)
+          expect(body['name']).to eq(new_name)
+        end
+      end
+    end
+  end
 end
