@@ -19,8 +19,15 @@ class ResourceCategoriesController < ApplicationController
 
   def update
     # TODO: authenticate admin user
-    # TODO: accept all valid parameters
-    attributes = params.permit(:name)
+    # TODO: refactor this code
+    valid_params = ResourceCategory
+                    .new
+                    .attributes
+                    .symbolize_keys
+                    .except(:id, :created_at, :updated_at)
+                    .keys
+
+    attributes = params.permit(valid_params)
     @resource_category.update!(attributes)
 
     render json: @resource_category

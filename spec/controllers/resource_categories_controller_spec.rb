@@ -78,6 +78,7 @@ describe ResourceCategoriesController, type: :controller do
 
       context 'and update succeeds' do
         it 'returns 200 and new resource category' do
+          # TODO: test all params
           put :update, params: { id: id, name: new_name }
           expect(response.status).to eq(200)
 
