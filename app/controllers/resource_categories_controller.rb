@@ -19,14 +19,7 @@ class ResourceCategoriesController < ApplicationController
 
   def update
     # TODO: authenticate admin user
-    # TODO: refactor this code
-    valid_attrs = []
-    ResourceCategory.new.attributes.each do |key, value|
-      valid_attrs << key.to_sym if value.nil?
-      valid_attrs << { key.to_sym => [] } if value == []
-    end
-
-    attributes = params.permit(valid_attrs)
+    attributes = params.permit(upsert_params(ResourceCategory))
     @resource_category.update!(attributes)
 
     render json: @resource_category
