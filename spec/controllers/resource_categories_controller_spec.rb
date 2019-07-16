@@ -34,7 +34,7 @@ describe ResourceCategoriesController, type: :controller do
       expect(response.status).to eq(201)
 
       body = JSON.parse(response.body)
-      expect(body).to have_key('id')
+      expect(body['id']).to be_a(Integer)
     end
   end
 
