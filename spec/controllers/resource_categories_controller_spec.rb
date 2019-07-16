@@ -69,21 +69,35 @@ describe ResourceCategoriesController, type: :controller do
     end
 
     context 'where resource category does exist' do
-      let(:new_name) { 'New Name' }
-
       before do
         resource_category = build(:resource_category, id: id)
         resource_category.save!
       end
 
       context 'and update succeeds' do
+        let(:params) do
+          {
+            name: 'New name',
+            short_description: 'New short description',
+            description: 'New description',
+            # icon: icon,
+            seo_title: 'New SEO title',
+            seo_description: 'New SEO description',
+            seo_keywords: ['keyword1', 'keyword2', 'keyword3'],
+            # share_image: share_image,
+          }
+        end
+
         it 'returns 200 and new resource category' do
-          # TODO: test all params
-          put :update, params: { id: id, name: new_name }
+          put :update, params: params.merge({ id: id })
           expect(response.status).to eq(200)
 
           body = JSON.parse(response.body)
-          expect(body['name']).to eq(new_name)
+          keys = %w(description name seo_description seo_keywords seo_title short_description)
+
+          keys.each do |key|
+            expect(body[key]).to eq(params[key.to_sym])
+          end
         end
       end
     end

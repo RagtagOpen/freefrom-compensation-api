@@ -22,7 +22,7 @@ ActiveRecord::Schema.define(version: 2019_07_15_133218) do
     t.binary "icon"
     t.string "seo_title"
     t.text "seo_description"
-    t.string "seo_keywords", array: true
+    t.string "seo_keywords", default: [], array: true
     t.binary "share_image"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false

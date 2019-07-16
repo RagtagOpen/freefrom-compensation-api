@@ -7,7 +7,7 @@ class CreateResourceCategories < ActiveRecord::Migration[5.2]
       t.binary  :icon
       t.string  :seo_title
       t.text    :seo_description
-      t.string  :seo_keywords, array: true
+      t.string  :seo_keywords, array: true, default: []
       t.binary  :share_image
 
       t.timestamps
