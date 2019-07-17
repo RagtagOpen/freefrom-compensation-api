@@ -81,11 +81,11 @@ describe ResourceCategoriesController, type: :controller do
             name: 'New name',
             short_description: 'New short description',
             description: 'New description',
-            # icon: icon, # TODO: figure out binary data types
+            icon: "\x05\x00\x68\x65\x6c\x6c\x6f",
             seo_title: 'New SEO title',
             seo_description: 'New SEO description',
             seo_keywords: ['keyword1', 'keyword2', 'keyword3'],
-            # share_image: share_image, # TODO: figure out binary data types
+            share_image: "\x05\x00\x68\x65\x6c\x6c\x6f",
           }
         end
 
