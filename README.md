@@ -1,15 +1,26 @@
-# Ragtag project skeleton
+# Freefrom Compensation Backend
 
-This repository serves as a template for all Ragtag software repositories.
+## Overview
+FreeFrom is a nonprofit dedicated to helping survivors of domestic violence achieve financial stability. On their website they have a [compensation tool](https://compensation-quiz.freefrom.org/) where users can answer a series of questions in order to get information about financial resources that are available to them depending on their state.
 
-## Initial Setup Checklist
+This repository contains the new Rails backend for the compensation tool and the CMS that allows FreeFrom administrators to change the content in the tool.
 
-- [ ] Create the new repository
-- [ ] Add the LICENSE file (Most projects will use the MIT License, the `LICENSE` file in this repo. Occasionally we will use the AGPL License, the `LICENSE-AGPL` file in this repo.)
-- [ ] Add the appropriate `.gitignore` file (https://github.com/github/gitignore)
-- [ ] Create a `CONTRIBUTORS` file and add yourself to it
-- [ ] Copy the `CODE_OF_CONDUCT.md` file from this repo
-- [ ] Copy the `CONTRIBUTING.md` file from this repo and change "Project Name" to the name of the project
-- [ ] Consider adding any project-specific guidance to CONTRIBUTING.md, especially consider covering how to write tests for this project
-- [ ] Copy the `.github` folder from this repo
-- [ ] Create a README.md that includes an overview of what the project is, why it exists, how to get it running locally, and a link to `CONTRIBUTING.md`
+## Local Development Setup
+### Install Ruby
+Make sure you have ruby version 2.6.3 installed on your local machine, or install it using this guide: https://www.ruby-lang.org/en/documentation/installation/
+
+### Install PostgreSQL
+Install and run a PostgreSQL version 11.4.
+
+### Install Rails
+Run the command `gem install rails` (make sure `rails --version` returns 5.2.3)
+
+### Set up app
+1. Clone this repository onto your local machine
+2. `cd` into the `freefrom-compensation-api` folder
+3. Run `bundle install` to install the app's dependencies (run `gem install bundler` if that doesn't work)
+4. Run `rake db:setup` to create the test and development databases
+5. Run `rake db:migrate` to set up the necessary database tables
+6. Run `bundle exec rails s` to start the server
+
+To contribute, see [CONTRIBUTING.md](./contributing.md)
