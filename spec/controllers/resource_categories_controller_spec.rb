@@ -69,8 +69,9 @@ describe ResourceCategoriesController, type: :controller do
     end
 
     context 'where resource category does exist' do
+      let(:resource_category) { build(:resource_category, id: id) }
+
       before do
-        resource_category = build(:resource_category, id: id, seo_keywords: [])
         resource_category.save!
       end
 
@@ -80,11 +81,11 @@ describe ResourceCategoriesController, type: :controller do
             name: 'New name',
             short_description: 'New short description',
             description: 'New description',
-            # icon: icon,
+            # icon: icon, # TODO: figure out binary data types
             seo_title: 'New SEO title',
             seo_description: 'New SEO description',
             seo_keywords: ['keyword1', 'keyword2', 'keyword3'],
-            # share_image: share_image,
+            # share_image: share_image, # TODO: figure out binary data types
           }
         end
 
@@ -97,6 +98,26 @@ describe ResourceCategoriesController, type: :controller do
 
           keys.each do |key|
             expect(body[key]).to eq(params[key.to_sym])
+          end
+        end
+
+        context 'only altering one field' do
+          let(:new_name) { 'New name' }
+          let(:old_description) { 'Here\'s a description I want to keep' }
+          let(:params) { { name: new_name } }
+
+          before do
+            resource_category.description = old_description
+            resource_category.save!
+          end
+
+          it 'updates the fields passed into the params and does not modify anything else' do
+            put :update, params: params.merge({ id: id })
+            expect(response.status).to eq(200)
+
+            body = JSON.parse(response.body)
+            expect(body['name']).to eq(new_name)
+            expect(body['description']).to eq(old_description)
           end
         end
       end
