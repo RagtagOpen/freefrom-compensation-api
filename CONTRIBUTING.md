@@ -1,10 +1,10 @@
-# Contributing to Project Name
+# Contributing to FreeFrom Compensation API
 
-First off, thank you for considering contributing to Project Name. It's people like you that make Project Name such a great tool.
+First off, thank you for considering contributing to FreeFrom Compensation API. It's people like you that make FreeFrom Compensation API such a great tool.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
-Project Name is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Project Name itself.
+FreeFrom Compensation API is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into FreeFrom Compensation API itself.
 
 ## Responsibilities
 
@@ -12,19 +12,19 @@ Project Name is an open source project and we love to receive contributions from
 - We follow [Google's Style Guides](https://google.github.io/styleguide/) for writing software. Please read and follow the appropriate language guides for your contributions.
 - We require that all code be formatted by [Prettier](https://prettier.io/) where applicable. We use the default settings for each language.
 - Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
-- All changes should be made through by [pull requests](https://help.github.com/articles/about-pull-requests/). Pull requests will be reviewed by one or more of Project Name's maintainers. Once approved, it is the responsibility of the owner of the pull request to merge the changes to the master/main branch.
+- All changes should be made through by [pull requests](https://help.github.com/articles/about-pull-requests/). Pull requests will be reviewed by one or more of FreeFrom Compensation API's maintainers. Once approved, it is the responsibility of the owner of the pull request to merge the changes to the master/main branch.
 
 ## Ways to Get Involved
 
 ### Report Bugs
 
-This section guides you through submitting a bug report for Project Name. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
+This section guides you through submitting a bug report for FreeFrom Compensation API. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
 
 **If you find a security vulnerability, do NOT open an issue. Email security@ragtag.org instead.**
 
 #### Before Submitting a Bug Report
 
-- Perform a [cursory search](https://github.com/ragtagopen/project-slug/issues) to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
+- Perform a [cursory search](https://github.com/ragtagopen/freefrom-compensation-api/issues) to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
   _If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one._
 
 #### How Do I Submit a Good Bug Report?
@@ -44,8 +44,8 @@ Explain the problem and include additional details to help maintainers reproduce
 
 Provide more context by answering these questions:
 
-- **Did the problem start happening recently** (e.g. after updating to a new version of Project Name) or was this always a problem?
-- If the problem started happening recently, **can you reproduce the problem in an older version of Project Name?** What's the most recent version in which the problem doesn't happen?
+- **Did the problem start happening recently** (e.g. after updating to a new version of FreeFrom Compensation API) or was this always a problem?
+- If the problem started happening recently, **can you reproduce the problem in an older version of FreeFrom Compensation API?** What's the most recent version in which the problem doesn't happen?
 - **Can you reliably reproduce the issue?** If not, provide details about how often the problem happens and under which conditions it normally happens.
 
 Include details about your configuration and environment:
@@ -62,7 +62,7 @@ Before creating enhancement suggestions, please check [this list](#before-submit
 
 #### Before Submitting An Enhancement Suggestion
 
-- Perform a [cursory search](https://github.com/ragtagopen/project-slug/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+- Perform a [cursory search](https://github.com/ragtagopen/freefrom-compensation-api/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
@@ -81,8 +81,8 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 
 Unsure where to begin contributing to Project Name? You can start by looking through these `good first issue` and `help wanted` issues:
 
-- [Good first issues](https://github.com/ragtagopen/project-slug/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue"+sort%3Acomments-desc) - issues which should only require a few lines of code, and a test or two.
-- [Help wanted issues](https://github.com/ragtagopen/project-slug/issues?q=is%3Aopen+is%3Aissue+label%3A"help wanted"+sort%3Acomments-desc) - issues which should be a bit more involved than beginner issues.
+- [Good first issues](https://github.com/ragtagopen/freefrom-compensation-api/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue"+sort%3Acomments-desc) - issues which should only require a few lines of code, and a test or two.
+- [Help wanted issues](https://github.com/ragtagopen/freefrom-compensation-api/issues?q=is%3Aopen+is%3Aissue+label%3A"help wanted"+sort%3Acomments-desc) - issues which should be a bit more involved than beginner issues.
 
 _Both issue lists are sorted by total number of comments. While not perfect, number of comments is a reasonable proxy for impact a given change will have._
 
@@ -102,6 +102,11 @@ At this point, you're ready to make your changes! Feel free to ask for help; eve
     - Open a pull request with your changes
     - Project Name's maintainers may have questions or suggestions for your work, please respond as soon as you can
 1.  If you want feedback while you're working on your changes, you can open your pull request early in the process and start the title with `[WIP]` for Work in Progress. Then ask other contributors to review your work and ask any questions you have about what you're working on.
+
+### Writing Tests
+Tests for this repo are written using the [rspec-rails](https://github.com/rspec/rspec-rails) gem. To write tests for a new file, or contribute tests to an existing file, find the corresponding test file in the `spec` folder (for example, if you create a file with the path `app/models/foo.rb`, create a spec file at `spec/models/foo.rb`).
+
+To run all tests in this project, run the command `bundle exec rspec`. To run tests from a specific file, include the path to the file (e.g. `bundle exec rspec spec/models/foo.rb`). To run a specific test, include a colon and a line number (e.g. `bundle exec rspec spec/models/foo.rb:25`).
 
 ## How We Categorize Issues and Pull Requests
 
