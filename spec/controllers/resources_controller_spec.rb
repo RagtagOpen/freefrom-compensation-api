@@ -54,7 +54,7 @@ describe ResourcesController, type: :controller do
         expect(response.status).to eq(400)
         
         body = JSON.parse(response.body)
-        expect(body['error']).to eq("Validation failed: State  is not a valid US state code")
+        expect(body['error']).to eq("Missing state parameter")
       end
     end
 
@@ -158,6 +158,64 @@ describe ResourcesController, type: :controller do
             expect(body['error']).to eq("Validation failed: State #{new_state} is not a valid US state code")
           end
         end
+      end
+    end
+  end
+
+  describe '#search' do
+    let!(:resource_category) { create(:resource_category) }
+    let!(:resource) { create(:resource, state: 'NY', resource_category_id: resource_category.id) }
+
+    let(:state) { 'NY' }
+    let(:resource_category_id) { resource_category.id.to_i }
+
+    let(:params) { { resource_category_id: resource_category_id, state: state } }
+
+    context 'without state param' do
+      let(:state) { nil }
+
+      it 'returns 400' do
+        get :search, params: params
+        expect(response.status).to eq(400)
+        
+        body = JSON.parse(response.body)
+        expect(body['error']).to eq('Missing state parameter')
+      end
+    end
+
+    context 'where resource exists for category but not state' do
+      let(:state) { 'ME' }
+
+      it 'returns 404' do
+        get :search, params: params
+        expect(response.status).to eq(404)
+        
+        body = JSON.parse(response.body)
+        expect(body).to be_empty
+      end
+    end
+
+    context 'where resource exists for state but not category' do
+      let(:resource_category_id) { 'fake-id' }
+
+      it 'returns 404' do
+        get :search, params: params
+        expect(response.status).to eq(404)
+        
+        body = JSON.parse(response.body)
+        expect(body).to be_empty
+      end
+    end
+
+    context 'where resource exists for state and category' do
+      it 'returns 200' do
+        get :search, params: params
+        expect(response.status).to eq(200)
+        
+        body = JSON.parse(response.body)
+        expect(body['id']).to eq(resource.id.to_i)
+        expect(body['resource_category_id']).to eq(resource_category_id)
+        expect(body['state']).to eq(state)
       end
     end
   end

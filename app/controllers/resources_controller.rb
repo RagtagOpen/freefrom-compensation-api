@@ -1,5 +1,6 @@
 class ResourcesController < ApplicationController
   before_action :find_resource, only: [:show, :update, :destroy]
+  before_action :require_state, only: [:create, :search]
 
   def show
     render json: @resource
@@ -35,7 +36,24 @@ class ResourcesController < ApplicationController
     render json: @resource
   end
 
+  def search
+    begin
+      @resource = Resource.find_by!(
+        resource_category_id: params[:resource_category_id],
+        state: params[:state]
+      )
+    rescue ActiveRecord::RecordNotFound
+      render status: 404, json: {} and return
+    end
+
+    render status: 200, json: @resource
+  end
+
   private
+
+  def require_state
+    render status: 400, json: { error: "Missing state parameter"} and return unless params[:state].present?
+  end
 
   def find_resource
     begin
