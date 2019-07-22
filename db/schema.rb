@@ -40,6 +40,7 @@ ActiveRecord::Schema.define(version: 2019_07_22_091140) do
     t.bigint "resource_category_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["resource_category_id", "state"], name: "index_resources_on_resource_category_id_and_state", unique: true
     t.index ["resource_category_id"], name: "index_resources_on_resource_category_id"
   end
 

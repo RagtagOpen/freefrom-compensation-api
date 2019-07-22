@@ -14,5 +14,7 @@ class CreateResources < ActiveRecord::Migration[5.2]
 
       t.timestamps
     end
+
+    add_index :resources, [:resource_category_id, :state], unique: true
   end
 end
