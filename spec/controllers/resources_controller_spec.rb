@@ -7,8 +7,7 @@ describe ResourcesController, type: :controller do
 
     context 'where resource exists' do
       before do
-        resource = build(:resource, id: id)
-        resource.save!
+        resource = create(:resource, :with_resource_category, id: id)
       end
 
       it 'returns 200 and the resource' do
@@ -42,8 +41,7 @@ describe ResourcesController, type: :controller do
     let(:id) { 1000 }
 
     before do
-      resource = build(:resource, id: id)
-      resource.save!
+      resource = create(:resource, :with_resource_category, id: id)
     end
 
     it 'returns 204 and an empty body' do
@@ -69,11 +67,8 @@ describe ResourcesController, type: :controller do
     end
 
     context 'where resource does exist' do
-      let(:resource) { build(:resource, id: id) }
-
-      before do
-        resource.save!
-      end
+      let!(:resource) { create(:resource, :with_resource_category, id: id) }
+      let!(:new_resource_category) { create(:resource_category) }
 
       context 'and update succeeds' do
         let(:params) do
@@ -84,7 +79,8 @@ describe ResourcesController, type: :controller do
             award: 'You can potentially claim full amount of reasonable losses in awards for shattered computer, ER visits, or lost days from work.',
             likelihood: 'The likelihood to get reimbursement through this option depends on whether a criminal case is brought. The system takes care of everything but that only happens if the evidence is strong enough for a prosecutor to bring charges.',
             safety: 'It is likely that the prosecutor will call you to testify in the criminal case with your abuser present.',
-            story: 'You will have to share your story when you make a report to law enforcement and if you are called to testify, you will have to do so on the stand at trial.'
+            story: 'You will have to share your story when you make a report to law enforcement and if you are called to testify, you will have to do so on the stand at trial.',
+            resource_category_id: new_resource_category.id.to_i,
           }
         end
 
@@ -93,7 +89,7 @@ describe ResourcesController, type: :controller do
           expect(response.status).to eq(200)
 
           body = JSON.parse(response.body)
-          keys = %w(description name seo_description seo_keywords seo_title short_description)
+          keys = %w(state time cost award likelihood safety story resource_category_id)
 
           keys.each do |key|
             expect(body[key]).to eq(params[key.to_sym])
