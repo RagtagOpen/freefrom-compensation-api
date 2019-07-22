@@ -16,16 +16,9 @@ RSpec.describe Resource, type: :model do
       end
     end
 
-    context 'when state code is nil' do
-      it 'returns true' do
-        resource = build(:resource, :with_resource_category)
-        expect(resource.valid?).to be true
-      end
-    end
-
     context 'with no resource category' do
       it 'returns false' do
-        resource = build(:resource, state: 'NY')
+        resource = build(:resource)
         expect(resource.valid?).to be false
       end
     end

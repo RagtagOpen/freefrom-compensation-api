@@ -6,5 +6,5 @@ class Resource < ApplicationRecord
 
     belongs_to :resource_category
 
-    validates :state, inclusion: { in: STATE_CODES, allow_nil: true, message: "%{value} is not a valid US state code" }
+    validates :state, inclusion: { in: STATE_CODES, message: "%{value} is not a valid US state code" }
 end
