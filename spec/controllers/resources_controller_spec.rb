@@ -28,8 +28,38 @@ describe ResourcesController, type: :controller do
   end
 
   describe '#create' do
+    let!(:resource_category) { create(:resource_category) }
+    let(:resource_category_id) { resource_category.id.to_i }
+    let(:state) { 'NY' }
+
+    let(:params) { { resource_category_id: resource_category_id, state: state } }
+
+    context 'an invalid resource category id' do
+      let(:resource_category_id) { 'fake-id' }
+
+      it 'returns 400 and an error' do
+        post :create, params: params
+        expect(response.status).to eq(400)
+        
+        body = JSON.parse(response.body)
+        expect(body['error']).to eq("Validation failed: Resource category must exist")
+      end
+    end
+
+    context 'without state' do
+      let(:state) { nil }
+
+      it 'returns 400 and an error' do
+        post :create, params: params
+        expect(response.status).to eq(400)
+        
+        body = JSON.parse(response.body)
+        expect(body['error']).to eq("Validation failed: State  is not a valid US state code")
+      end
+    end
+
     it 'returns 201 and the resource' do
-      post :create
+      post :create, params: params
       expect(response.status).to eq(201)
 
       body = JSON.parse(response.body)

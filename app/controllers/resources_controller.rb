@@ -7,7 +7,13 @@ class ResourcesController < ApplicationController
 
   def create
     # TODO: authenticate admin user
-    @resource = Resource.create
+    @resource = Resource.new(resource_category_id: params[:resource_category_id], state: params[:state])
+
+    begin
+      @resource.save!
+    rescue ActiveRecord::RecordInvalid => e
+      render status: 400, json: { error: e.message } and return
+    end
     render status: 201, json: @resource
   end
 
