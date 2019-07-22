@@ -19,8 +19,12 @@ class ResourcesController < ApplicationController
 
   def update
     # TODO: authenticate admin user
-    attributes = params.permit(upsert_params(Resource))
-    @resource.update!(attributes)
+    begin
+      attributes = params.permit(upsert_params(Resource))
+      @resource.update!(attributes)
+    rescue ActiveRecord::RecordInvalid => e
+      render status: 400, json: { error: e.message } and return
+    end
 
     render json: @resource
   end

@@ -15,5 +15,12 @@ RSpec.describe Resource, type: :model do
         expect(resource.valid?).to be true
       end
     end
+
+    context 'when state code is nil' do
+      it 'returns true' do
+        resource = build(:resource)
+        expect(resource.valid?).to be true
+      end
+    end
   end
 end

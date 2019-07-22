@@ -119,6 +119,19 @@ describe ResourcesController, type: :controller do
             expect(body['time']).to eq(old_time)
           end
         end
+
+        context 'with an invalid field' do
+          let(:new_state) { 'XO' }
+          let(:params) { { state: new_state } }
+
+          it 'returns 400 and an error message' do
+            put :update, params: params.merge({ id: id })
+            expect(response.status).to eq(400)
+            
+            body = JSON.parse(response.body)
+            expect(body['error']).to eq("Validation failed: State #{new_state} is not a valid US state code")
+          end
+        end
       end
     end
   end
