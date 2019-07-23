@@ -124,13 +124,13 @@ describe ResourceStepsController, type: :controller do
         end
 
         context 'only altering one field' do
-          let(:new_state) { 'ME' }
-          let(:old_time) { 'Months. Note: Depending on the case, it could take longer.' }
-          let(:params) { { state: new_state } }
+          let(:new_description) { 'New resource step description' }
+          let(:old_number) { 1 }
+          let(:params) { { description: new_description } }
 
           before do
-            resource.time = old_time
-            resource.save!
+            resource_step.number = old_number
+            resource_step.save!
           end
 
           it 'updates the fields passed into the params and does not modify anything else' do
@@ -138,81 +138,23 @@ describe ResourceStepsController, type: :controller do
             expect(response.status).to eq(200)
 
             body = JSON.parse(response.body)
-            expect(body['state']).to eq(new_state)
-            expect(body['time']).to eq(old_time)
+            expect(body['description']).to eq(new_description)
+            expect(body['number']).to eq(old_number)
           end
         end
 
         context 'with an invalid field' do
-          let(:new_state) { 'XO' }
-          let(:params) { { state: new_state } }
+          let(:new_number) { nil }
+          let(:params) { { number: new_number } }
 
           it 'returns 400 and an error message' do
             put :update, params: params.merge({ id: id })
             expect(response.status).to eq(400)
             
             body = JSON.parse(response.body)
-            expect(body['error']).to eq("Validation failed: State #{new_state} is not a valid US state code")
+            expect(body['error']).to eq("Validation failed: Number can't be blank")
           end
         end
-      end
-    end
-  end
-
-  describe '#search' do
-    let!(:resource_category) { create(:resource_category) }
-    let!(:resource) { create(:resource, state: 'NY', resource_category_id: resource_category.id) }
-
-    let(:state) { 'NY' }
-    let(:resource_category_id) { resource_category.id.to_i }
-
-    let(:params) { { resource_category_id: resource_category_id, state: state } }
-
-    context 'without state param' do
-      let(:state) { nil }
-
-      it 'returns 400' do
-        get :search, params: params
-        expect(response.status).to eq(400)
-        
-        body = JSON.parse(response.body)
-        expect(body['error']).to eq('Missing state parameter')
-      end
-    end
-
-    context 'where resource exists for category but not state' do
-      let(:state) { 'ME' }
-
-      it 'returns 404' do
-        get :search, params: params
-        expect(response.status).to eq(404)
-        
-        body = JSON.parse(response.body)
-        expect(body).to be_empty
-      end
-    end
-
-    context 'where resource exists for state but not category' do
-      let(:resource_category_id) { 'fake-id' }
-
-      it 'returns 404' do
-        get :search, params: params
-        expect(response.status).to eq(404)
-        
-        body = JSON.parse(response.body)
-        expect(body).to be_empty
-      end
-    end
-
-    context 'where resource exists for state and category' do
-      it 'returns 200' do
-        get :search, params: params
-        expect(response.status).to eq(200)
-        
-        body = JSON.parse(response.body)
-        expect(body['id']).to eq(resource.id.to_i)
-        expect(body['resource_category_id']).to eq(resource_category_id)
-        expect(body['state']).to eq(state)
       end
     end
   end
