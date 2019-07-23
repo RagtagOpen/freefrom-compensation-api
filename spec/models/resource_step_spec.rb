@@ -20,5 +20,12 @@ RSpec.describe ResourceStep, type: :model do
         expect(resource_step).to be_valid
       end
     end
+
+    context 'number is nil' do
+      it 'returns false' do
+        resource_step = build(:resource_step, :with_resource, number: nil)
+        expect(resource_step).not_to be_valid
+      end
+    end
   end
 end
