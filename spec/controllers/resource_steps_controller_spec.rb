@@ -28,42 +28,44 @@ describe ResourceStepsController, type: :controller do
   end
 
   describe '#create' do
-    let!(:resource_category) { create(:resource_category) }
-    let(:resource_category_id) { resource_category.id.to_i }
-    let(:state) { 'NY' }
+    let!(:resource) { create(:resource, :with_resource_category) }
+    let(:resource_id) { resource.id.to_i }
+    let(:number) { 1 }
 
-    let(:params) { { resource_category_id: resource_category_id, state: state } }
+    let(:params) { { resource_id: resource_id, number: number } }
 
-    context 'an invalid resource category id' do
-      let(:resource_category_id) { 'fake-id' }
-
-      it 'returns 400 and an error' do
-        post :create, params: params
-        expect(response.status).to eq(400)
-        
-        body = JSON.parse(response.body)
-        expect(body['error']).to eq("Validation failed: Resource category must exist")
-      end
-    end
-
-    context 'without state' do
-      let(:state) { nil }
+    context 'an invalid resource id' do
+      let(:resource_id) { 'fake-id' }
 
       it 'returns 400 and an error' do
         post :create, params: params
         expect(response.status).to eq(400)
         
         body = JSON.parse(response.body)
-        expect(body['error']).to eq("Missing state parameter")
+        expect(body['error']).to eq("Validation failed: Resource must exist")
       end
     end
 
-    it 'returns 201 and the resource' do
+    context 'without number' do
+      let(:number) { nil }
+
+      it 'returns 400 and an error' do
+        post :create, params: params
+        expect(response.status).to eq(400)
+        
+        body = JSON.parse(response.body)
+        expect(body['error']).to eq("Missing number parameter")
+      end
+    end
+
+    it 'returns 201 and the resource step' do
       post :create, params: params
       expect(response.status).to eq(201)
 
       body = JSON.parse(response.body)
       expect(body['id']).to be_a(Integer)
+      expect(body['resource_id']).to eq(resource_id)
+      expect(body['number']).to eq(number)
     end
   end
 
@@ -71,7 +73,7 @@ describe ResourceStepsController, type: :controller do
     let(:id) { 1000 }
 
     before do
-      resource = create(:resource, :with_resource_category, id: id)
+      resource_step = create(:resource_step, :with_resource, id: id)
     end
 
     it 'returns 204 and an empty body' do
@@ -86,7 +88,7 @@ describe ResourceStepsController, type: :controller do
   describe '#update' do
     let(:id) { 1000 }
 
-    context 'where resource doesn\'t exist' do
+    context 'where resource step doesn\'t exist' do
       it 'returns 404 and an empty body' do
         put :update, params: { id: id }
         expect(response.status).to eq(404)
@@ -96,21 +98,16 @@ describe ResourceStepsController, type: :controller do
       end
     end
 
-    context 'where resource does exist' do
-      let!(:resource) { create(:resource, :with_resource_category, id: id) }
-      let!(:new_resource_category) { create(:resource_category) }
+    context 'where resource step does exist' do
+      let!(:resource_step) { create(:resource_step, :with_resource, id: id) }
+      let!(:new_resource) { create(:resource, :with_resource_category) }
 
       context 'and update succeeds' do
         let(:params) do
           {
-            state: 'NY',
-            time: 'Months. Note: Depending on the case, it could take longer.',
-            cost: 'It is free of charge.',
-            award: 'You can potentially claim full amount of reasonable losses in awards for shattered computer, ER visits, or lost days from work.',
-            likelihood: 'The likelihood to get reimbursement through this option depends on whether a criminal case is brought. The system takes care of everything but that only happens if the evidence is strong enough for a prosecutor to bring charges.',
-            safety: 'It is likely that the prosecutor will call you to testify in the criminal case with your abuser present.',
-            story: 'You will have to share your story when you make a report to law enforcement and if you are called to testify, you will have to do so on the stand at trial.',
-            resource_category_id: new_resource_category.id.to_i,
+            description: "resource step description",
+            number: 1,
+            resource_id: new_resource.id.to_i,
           }
         end
 
@@ -119,7 +116,7 @@ describe ResourceStepsController, type: :controller do
           expect(response.status).to eq(200)
 
           body = JSON.parse(response.body)
-          keys = %w(state time cost award likelihood safety story resource_category_id)
+          keys = %w(description number resource_id)
 
           keys.each do |key|
             expect(body[key]).to eq(params[key.to_sym])
