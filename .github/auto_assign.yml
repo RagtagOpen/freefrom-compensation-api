@@ -1,7 +1,8 @@
 addReviewers: true
 addAssignees: false
 reviewers:
-  - jillh510
+  - egiurleo
+  - JZenk
   - dryan
 skipKeywords:
   - wip
