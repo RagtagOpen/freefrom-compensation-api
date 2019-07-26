@@ -1,5 +1,5 @@
 class ResourcesController < ApplicationController
-  before_action :find_resource, only: [:show, :update, :destroy, :list_steps]
+  before_action :find_resource, only: [:show, :update, :destroy, :steps]
   before_action :require_state, only: [:create, :search]
 
   def show
@@ -49,7 +49,7 @@ class ResourcesController < ApplicationController
     render status: 200, json: @resource
   end
 
-  def list_steps
+  def steps
     render json: @resource.resource_steps
   end
 

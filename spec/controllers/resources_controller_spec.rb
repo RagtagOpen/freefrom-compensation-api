@@ -220,10 +220,10 @@ describe ResourcesController, type: :controller do
     end
   end
 
-  describe '#list_steps' do
+  describe '#steps' do
     context 'where resource doesn\'t exist' do
       it 'returns 404' do
-        get :list_steps, params: { id: 'fake-id' }
+        get :steps, params: { id: 'fake-id' }
         expect(response.status).to eq(404)
         
         body = JSON.parse(response.body)
@@ -234,7 +234,7 @@ describe ResourcesController, type: :controller do
     context 'where resource has no resource steps' do
       let!(:resource) { create(:resource, :with_resource_category) }
       it 'returns 200 and an empty array' do
-        get :list_steps, params: { id: resource.id.to_s }
+        get :steps, params: { id: resource.id.to_s }
         expect(response.status).to eq(200)
 
         body = JSON.parse(response.body)
@@ -249,7 +249,7 @@ describe ResourcesController, type: :controller do
       let!(:resource_step_two) { create(:resource_step, number: 6, resource_id: resource.id) }
 
       it 'returns 200 and an empty array' do
-        get :list_steps, params: { id: resource.id.to_s }
+        get :steps, params: { id: resource.id.to_s }
         expect(response.status).to eq(200)
 
         body = JSON.parse(response.body)
