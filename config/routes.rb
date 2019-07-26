@@ -7,10 +7,8 @@ Rails.application.routes.draw do
 
   resources :resources, only: [:show, :update, :destroy] do
     resources :resource_steps, only: [:create]
+    get 'resource_steps', on: :member, to: 'resources#list_steps'
   end
-
-  # TODO: refactor this route
-  get 'resources/:id/resource_steps', to: 'resources#list_steps'
 
   resources :resource_steps, only: [:show, :update, :destroy]
 end

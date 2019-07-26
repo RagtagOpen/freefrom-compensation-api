@@ -10,7 +10,7 @@ class CreateResources < ActiveRecord::Migration[5.2]
       t.text    :story
       t.text    :challenges
 
-      t.belongs_to  :resource_category
+      t.belongs_to  :resource_category, index: true
 
       t.timestamps
     end
