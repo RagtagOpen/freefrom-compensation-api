@@ -66,8 +66,7 @@ describe ResourceCategoriesController, type: :controller do
 
   describe '#destroy' do
     before do
-      resource_category = build(:resource_category, id: id)
-      resource_category.save!
+      create(:resource_category, id: id)
     end
 
     context 'without authentication' do
