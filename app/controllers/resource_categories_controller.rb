@@ -1,6 +1,6 @@
 class ResourceCategoriesController < ApplicationController
-  before_action :find_resource_category, only: [:show, :update, :destroy]
   before_action :authenticate_admin, only: [:create, :destroy, :update]
+  before_action :find_resource_category, only: [:show, :update, :destroy]
 
   def show
     render json: @resource_category
