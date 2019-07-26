@@ -7,6 +7,6 @@ class ApplicationController < ActionController::API
   private
 
   def authenticate_admin
-    return_unauthorized unless !current_user.nil? && current_user.admin?
+    render status: 401 and return unless current_user.present? && current_user.admin?
   end
 end

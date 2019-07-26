@@ -29,12 +29,40 @@ describe ResourceCategoriesController, type: :controller do
   end
 
   describe '#create' do
-    it 'returns 201 and the resource category' do
-      post :create
-      expect(response.status).to eq(201)
+    context 'without authentication' do
+      it 'returns 401' do
+        post :create
+        expect(response.status).to eq(401)
+      end
+    end
 
-      body = JSON.parse(response.body)
-      expect(body['id']).to be_a(Integer)
+    context 'with regular user' do
+      let(:user) { create(:user) }
+      let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
+      let(:headers) { { 'Authorization': "Bearer #{token}" } }
+
+      it 'returns 401' do
+        post :create
+        expect(response.status).to eq(401)
+      end
+    end
+
+    context 'with admin user' do
+      let(:user) { create(:user, :admin) }
+      let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
+      let(:headers) { { 'Authorization': "Bearer #{token}" } }
+
+      before do
+        request.headers.merge! headers
+      end
+
+      it 'returns 201 and the resource category' do
+        post :create
+        expect(response.status).to eq(201)
+
+        body = JSON.parse(response.body)
+        expect(body['id']).to be_a(Integer)
+      end
     end
   end
 
