@@ -5,9 +5,9 @@ describe ResourcesController, type: :controller do
   let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
   let(:headers) { { 'Authorization': "Bearer #{token}" } }
 
-  describe '#show' do
-    let(:id) { 1000 }
+  let(:id) { 1000 }
 
+  describe '#show' do
     context 'where resource exists' do
       before do
         resource = create(:resource, :with_resource_category, id: id)
@@ -99,94 +99,146 @@ describe ResourcesController, type: :controller do
   end
 
   describe '#destroy' do
-    let(:id) { 1000 }
-
     before do
-      resource = create(:resource, :with_resource_category, id: id)
+      create(:resource, :with_resource_category, id: id)
     end
 
-    it 'returns 204 and an empty body' do
-      delete :destroy, params: { id: id }
-      expect(response.status).to eq(204)
-
-      body = JSON.parse(response.body)
-      expect(body).to be_empty
+    context 'without authentication' do
+      it 'returns 401' do
+        delete :destroy, params: { id: id }
+        expect(response.status).to eq(401)
+      end
     end
-  end
 
-  describe '#update' do
-    let(:id) { 1000 }
+    context 'with regular user' do
+      let(:user) { create(:user) }
 
-    context 'where resource doesn\'t exist' do
-      it 'returns 404 and an empty body' do
-        put :update, params: { id: id }
-        expect(response.status).to eq(404)
+      before do
+        request.headers.merge! headers
+      end
+
+      it 'returns 401' do
+        delete :destroy, params: { id: id }
+        expect(response.status).to eq(401)
+      end
+    end
+
+    context 'with admin user' do
+      let(:user) { create(:user, :admin) }
+
+      before do
+        request.headers.merge! headers
+      end
+
+      it 'returns 204 and an empty body' do
+        delete :destroy, params: { id: id }
+        expect(response.status).to eq(204)
 
         body = JSON.parse(response.body)
         expect(body).to be_empty
       end
     end
+  end
 
-    context 'where resource does exist' do
-      let!(:resource) { create(:resource, :with_resource_category, id: id) }
-      let!(:new_resource_category) { create(:resource_category) }
+  describe '#update' do
+    context 'with no authentication' do
+      it 'returns 401' do
+        put :update, params: { id: id }
+        expect(response.status).to eq(401)
+      end
+    end
 
-      context 'and update succeeds' do
-        let(:params) do
-          {
-            state: 'NY',
-            time: 'Months. Note: Depending on the case, it could take longer.',
-            cost: 'It is free of charge.',
-            award: 'You can potentially claim full amount of reasonable losses in awards for shattered computer, ER visits, or lost days from work.',
-            likelihood: 'The likelihood to get reimbursement through this option depends on whether a criminal case is brought. The system takes care of everything but that only happens if the evidence is strong enough for a prosecutor to bring charges.',
-            safety: 'It is likely that the prosecutor will call you to testify in the criminal case with your abuser present.',
-            story: 'You will have to share your story when you make a report to law enforcement and if you are called to testify, you will have to do so on the stand at trial.',
-            resource_category_id: new_resource_category.id.to_i,
-          }
-        end
+    context 'with regular user' do
+      let(:user) { create(:user) }
+      
+      before do
+        request.headers.merge! headers
+      end
 
-        it 'returns 200 and new resource' do
-          put :update, params: params.merge({ id: id })
-          expect(response.status).to eq(200)
+      it 'returns 401' do
+        put :update, params: { id: id }
+        expect(response.status).to eq(401)
+      end
+    end
+
+    context 'with admin user' do
+      let(:user) { create(:user, :admin) }
+      
+      before do
+        request.headers.merge! headers
+      end
+
+      context 'where resource doesn\'t exist' do
+        it 'returns 404 and an empty body' do
+          put :update, params: { id: id }
+          expect(response.status).to eq(404)
 
           body = JSON.parse(response.body)
-          keys = %w(state time cost award likelihood safety story resource_category_id)
-
-          keys.each do |key|
-            expect(body[key]).to eq(params[key.to_sym])
-          end
+          expect(body).to be_empty
         end
+      end
 
-        context 'only altering one field' do
-          let(:new_state) { 'ME' }
-          let(:old_time) { 'Months. Note: Depending on the case, it could take longer.' }
-          let(:params) { { state: new_state } }
+      context 'where resource does exist' do
+        let!(:resource) { create(:resource, :with_resource_category, id: id) }
+        let!(:new_resource_category) { create(:resource_category) }
 
-          before do
-            resource.time = old_time
-            resource.save!
+        context 'and update succeeds' do
+          let(:params) do
+            {
+              state: 'NY',
+              time: 'Months. Note: Depending on the case, it could take longer.',
+              cost: 'It is free of charge.',
+              award: 'You can potentially claim full amount of reasonable losses in awards for shattered computer, ER visits, or lost days from work.',
+              likelihood: 'The likelihood to get reimbursement through this option depends on whether a criminal case is brought. The system takes care of everything but that only happens if the evidence is strong enough for a prosecutor to bring charges.',
+              safety: 'It is likely that the prosecutor will call you to testify in the criminal case with your abuser present.',
+              story: 'You will have to share your story when you make a report to law enforcement and if you are called to testify, you will have to do so on the stand at trial.',
+              resource_category_id: new_resource_category.id.to_i,
+            }
           end
 
-          it 'updates the fields passed into the params and does not modify anything else' do
+          it 'returns 200 and new resource' do
             put :update, params: params.merge({ id: id })
             expect(response.status).to eq(200)
 
             body = JSON.parse(response.body)
-            expect(body['state']).to eq(new_state)
-            expect(body['time']).to eq(old_time)
+            keys = %w(state time cost award likelihood safety story resource_category_id)
+
+            keys.each do |key|
+              expect(body[key]).to eq(params[key.to_sym])
+            end
           end
-        end
 
-        context 'with an invalid field' do
-          let(:new_state) { 'XO' }
-          let(:params) { { state: new_state } }
+          context 'only altering one field' do
+            let(:new_state) { 'ME' }
+            let(:old_time) { 'Months. Note: Depending on the case, it could take longer.' }
+            let(:params) { { state: new_state } }
 
-          it 'returns 400 and an error message' do
-            put :update, params: params.merge({ id: id })
-            expect(response.status).to eq(400)
-            
-            body = JSON.parse(response.body)
-            expect(body['error']).to eq("Validation failed: State #{new_state} is not a valid US state code")
+            before do
+              resource.time = old_time
+              resource.save!
+            end
+
+            it 'updates the fields passed into the params and does not modify anything else' do
+              put :update, params: params.merge({ id: id })
+              expect(response.status).to eq(200)
+
+              body = JSON.parse(response.body)
+              expect(body['state']).to eq(new_state)
+              expect(body['time']).to eq(old_time)
+            end
+          end
+
+          context 'with an invalid field' do
+            let(:new_state) { 'XO' }
+            let(:params) { { state: new_state } }
+
+            it 'returns 400 and an error message' do
+              put :update, params: params.merge({ id: id })
+              expect(response.status).to eq(400)
+              
+              body = JSON.parse(response.body)
+              expect(body['error']).to eq("Validation failed: State #{new_state} is not a valid US state code")
+            end
           end
         end
       end
