@@ -1,5 +1,9 @@
 class UsersController < ApplicationController
   def current
-    render json: current_user
+    if current_user.present?
+      render json: current_user
+    else
+      render status: 401, json: {}
+    end
   end
 end
