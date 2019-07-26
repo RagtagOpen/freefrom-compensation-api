@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_07_23_112123) do
+ActiveRecord::Schema.define(version: 2019_07_26_141248) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -51,6 +51,16 @@ ActiveRecord::Schema.define(version: 2019_07_23_112123) do
     t.datetime "updated_at", null: false
     t.index ["resource_category_id", "state"], name: "index_resources_on_resource_category_id_and_state", unique: true
     t.index ["resource_category_id"], name: "index_resources_on_resource_category_id"
+  end
+
+  create_table "users", force: :cascade do |t|
+    t.string "username", null: false
+    t.string "email", null: false
+    t.string "password_digest"
+    t.string "role", default: "user", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["email"], name: "index_users_on_email"
   end
 
 end
