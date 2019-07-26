@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_07_15_133218) do
+ActiveRecord::Schema.define(version: 2019_07_22_091140) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -26,6 +26,22 @@ ActiveRecord::Schema.define(version: 2019_07_15_133218) do
     t.binary "share_image"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "resources", force: :cascade do |t|
+    t.string "state"
+    t.text "time"
+    t.text "cost"
+    t.text "award"
+    t.text "likelihood"
+    t.text "safety"
+    t.text "story"
+    t.text "challenges"
+    t.bigint "resource_category_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["resource_category_id", "state"], name: "index_resources_on_resource_category_id_and_state", unique: true
+    t.index ["resource_category_id"], name: "index_resources_on_resource_category_id"
   end
 
 end
