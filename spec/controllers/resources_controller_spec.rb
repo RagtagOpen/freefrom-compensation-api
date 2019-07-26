@@ -2,6 +2,9 @@ require 'rails_helper'
 require 'spec_helper'
 
 describe ResourcesController, type: :controller do
+  let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
+  let(:headers) { { 'Authorization': "Bearer #{token}" } }
+
   describe '#show' do
     let(:id) { 1000 }
 
@@ -28,42 +31,70 @@ describe ResourcesController, type: :controller do
   end
 
   describe '#create' do
-    let!(:resource_category) { create(:resource_category) }
-    let(:resource_category_id) { resource_category.id.to_i }
-    let(:state) { 'NY' }
-
-    let(:params) { { resource_category_id: resource_category_id, state: state } }
-
-    context 'an invalid resource category id' do
-      let(:resource_category_id) { 'fake-id' }
-
-      it 'returns 400 and an error' do
-        post :create, params: params
-        expect(response.status).to eq(400)
-        
-        body = JSON.parse(response.body)
-        expect(body['error']).to eq("Validation failed: Resource category must exist")
+    context 'without authentication' do
+      it 'returns 401' do
+        post :create, params: { resource_category_id: 123 }
+        expect(response.status).to eq(401)
       end
     end
 
-    context 'without state' do
-      let(:state) { nil }
+    context 'with regular user' do
+      let(:user) { create(:user) }
 
-      it 'returns 400 and an error' do
-        post :create, params: params
-        expect(response.status).to eq(400)
-        
-        body = JSON.parse(response.body)
-        expect(body['error']).to eq("Missing state parameter")
+      before do
+        request.headers.merge! headers
+      end
+
+      it 'returns 401' do
+        post :create, params: { resource_category_id: 123 }
+        expect(response.status).to eq(401)
       end
     end
 
-    it 'returns 201 and the resource' do
-      post :create, params: params
-      expect(response.status).to eq(201)
+    context 'with admin user' do
+      let(:user) { create(:user, :admin) }
 
-      body = JSON.parse(response.body)
-      expect(body['id']).to be_a(Integer)
+      before do
+        request.headers.merge! headers
+      end
+
+      let!(:resource_category) { create(:resource_category) }
+      let(:resource_category_id) { resource_category.id.to_i }
+      let(:state) { 'NY' }
+
+      let(:params) { { resource_category_id: resource_category_id, state: state } }
+
+      context 'an invalid resource category id' do
+        let(:resource_category_id) { 'fake-id' }
+
+        it 'returns 400 and an error' do
+          post :create, params: params
+          expect(response.status).to eq(400)
+          
+          body = JSON.parse(response.body)
+          expect(body['error']).to eq("Validation failed: Resource category must exist")
+        end
+      end
+
+      context 'without state' do
+        let(:state) { nil }
+
+        it 'returns 400 and an error' do
+          post :create, params: params
+          expect(response.status).to eq(400)
+          
+          body = JSON.parse(response.body)
+          expect(body['error']).to eq("Missing state parameter")
+        end
+      end
+
+      it 'returns 201 and the resource' do
+        post :create, params: params
+        expect(response.status).to eq(201)
+
+        body = JSON.parse(response.body)
+        expect(body['id']).to be_a(Integer)
+      end
     end
   end
 
