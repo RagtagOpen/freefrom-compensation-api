@@ -1,5 +1,5 @@
 class ResourcesController < ApplicationController
-  before_action :authenticate_user, only: [:create, :update, :destroy]
+  before_action :authenticate_admin, only: [:create, :update, :destroy]
   before_action :find_resource, only: [:show, :update, :destroy, :steps]
   before_action :require_state, only: [:create, :search]
 
