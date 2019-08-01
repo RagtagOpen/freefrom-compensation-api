@@ -5,5 +5,10 @@ Rails.application.routes.draw do
 
   get 'resource_categories/:resource_category_id/resources', to: 'resources#search'
 
-  resources :resources, only: [:show, :update, :destroy]
+  resources :resources, only: [:show, :update, :destroy] do
+    resources :resource_steps, only: [:create]
+    get 'resource_steps', on: :member, to: 'resources#steps'
+  end
+
+  resources :resource_steps, only: [:show, :update, :destroy]
 end
