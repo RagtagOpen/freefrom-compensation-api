@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  post 'user-tokens' => 'user_token#create'
+  post 'user_tokens' => 'user_token#create'
   get '/users/current'  => 'users#current'
 
   resources :resource_categories, only: [:show, :create, :update, :destroy] do
