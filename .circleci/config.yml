@@ -13,7 +13,7 @@ jobs:
       - image: circleci/postgres:11.4-alpine # database image
         environment: # environment variables for database
           POSTGRES_USER: ""
-          POSTGRES_DB: freefrom-compensation-test
+          POSTGRES_DB: freefrom-temp_test
           POSTGRES_PASSWORD: ""
 
       # Specify service dependencies here if necessary
