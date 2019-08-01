@@ -16,11 +16,6 @@ jobs:
           POSTGRES_DB: freefrom-compensation-api_test
           POSTGRES_USER: freefrom-compensation-api-user
 
-      # Specify service dependencies here if necessary
-      # CircleCI maintains a library of pre-built images
-      # documented at https://circleci.com/docs/2.0/circleci-images/
-      # - image: circleci/postgres:9.4
-
     working_directory: ~/freefrom-compensation-api
 
     steps:
@@ -45,7 +40,6 @@ jobs:
           key: v1-dependencies-{{ checksum "Gemfile.lock" }}
 
       # Database setup
-      # - run: bundle exec rake db:create
       - run: bundle exec rake db:schema:load
 
       # run tests!
