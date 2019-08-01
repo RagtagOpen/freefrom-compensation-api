@@ -8,6 +8,8 @@ jobs:
     docker:
       # specify the version you desire here
       - image: circleci/ruby:2.6.3
+        environment:
+          RAILS_ENV: "test"
       - image: circleci/postgres:11.4-alpine # database image
         environment: # environment variables for database
           POSTGRES_USER: ""
