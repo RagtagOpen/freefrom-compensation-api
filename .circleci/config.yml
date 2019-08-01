@@ -11,7 +11,7 @@ jobs:
         environment:
           RAILS_ENV: test
           PGHOST: 127.0.0.1
-          PGUSER: freefrom-temp_test
+          # PGUSER: freefrom-temp_test
       - image: circleci/postgres:11.4-alpine # database image
         environment: # environment variables for database
           POSTGRES_USER: ""
