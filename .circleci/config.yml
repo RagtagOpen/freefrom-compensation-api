@@ -8,8 +8,11 @@ jobs:
     docker:
       # specify the version you desire here
       - image: circleci/ruby:2.6.3
-        # environment:
-        #   BUNDLER_VERSION: 2.0.1
+      - image: circleci/postgres:11.4-alpine # database image
+        environment: # environment variables for database
+          POSTGRES_USER: ""
+          POSTGRES_DB: freefrom-compensation-test
+          POSTGRES_PASSWORD: ""
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
@@ -38,6 +41,10 @@ jobs:
           paths:
             - ./vendor/bundle
           key: v1-dependencies-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: Wait for DB
+          command: dockerize -wait tcp://localhost:5432 -timeout 1m
 
       # Database setup
       - run: bundle exec rake db:create
