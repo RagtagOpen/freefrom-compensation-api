@@ -9,14 +9,12 @@ jobs:
       # specify the version you desire here
       - image: circleci/ruby:2.6.3
         environment:
-          RAILS_ENV: test
           PGHOST: 127.0.0.1
-          # PGUSER: freefrom-temp_test
       - image: circleci/postgres:11.4-alpine # database image
         environment: # environment variables for database
-          POSTGRES_USER: ""
+          POSTGRES_USER: root
           POSTGRES_DB: freefrom-temp_test
-          POSTGRES_PASSWORD: ""
+          POSTGRES_PASSWORD: circleci_test
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
