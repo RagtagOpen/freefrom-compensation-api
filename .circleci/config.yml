@@ -9,7 +9,9 @@ jobs:
       # specify the version you desire here
       - image: circleci/ruby:2.6.3
         environment:
-          RAILS_ENV: "test"
+          RAILS_ENV: test
+          PGHOST: 127.0.0.1
+          PGUSER: freefrom-temp_test
       - image: circleci/postgres:11.4-alpine # database image
         environment: # environment variables for database
           POSTGRES_USER: ""
@@ -49,7 +51,7 @@ jobs:
           command: dockerize -wait tcp://localhost:5432 -timeout 1m
 
       # Database setup
-      - run: bundle exec rake db:create
+      # - run: bundle exec rake db:create
       - run: bundle exec rake db:schema:load
 
       # run tests!
