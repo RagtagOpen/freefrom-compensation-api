@@ -12,9 +12,9 @@ jobs:
           PGHOST: 127.0.0.1
       - image: circleci/postgres:11.4-alpine # database image
         environment: # environment variables for database
-          # POSTGRES_USER: root
-          POSTGRES_DB: freefrom-temp_test
-          # POSTGRES_PASSWORD: circleci_test
+          POSTGRES_USER: freefrom-compensation-api
+          POSTGRES_DB: freefrom-compensation_test
+          POSTGRES_PASSWORD: ""
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
@@ -44,13 +44,9 @@ jobs:
             - ./vendor/bundle
           key: v1-dependencies-{{ checksum "Gemfile.lock" }}
 
-      - run:
-          name: Wait for DB
-          command: dockerize -wait tcp://localhost:5432 -timeout 1m
-
       # Database setup
-      - run: bundle exec rake db:create
-      - run: bundle exec rake db:schema:load
+      - run: bundle exec rake db:setup
+      # - run: bundle exec rake db:schema:load
 
       # run tests!
       - run:
