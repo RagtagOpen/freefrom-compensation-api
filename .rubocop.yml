@@ -1,5 +1,6 @@
 AllCops:
   Exclude:
+    - vendor/bundle/**/*
     - config.ru
     - db/*
     - db/*/**
