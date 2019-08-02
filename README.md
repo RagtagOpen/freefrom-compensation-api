@@ -12,6 +12,12 @@ Make sure you have ruby version 2.6.3 installed on your local machine, or instal
 ### Install PostgreSQL
 Install and run a PostgreSQL version 11.4.
 
+### Set up database roles
+1. Start a Postgres client session: `psql`
+2. Create a new user: `create user "freefrom-compensation-api-user";`
+3. Give that user special permissions: `alter user "freefrom-compensation-api-user" with superuser;`
+4. Exit out of the client session: `exit`
+
 ### Install Rails
 Run the command `gem install rails` (make sure `rails --version` returns 5.2.3)
 
