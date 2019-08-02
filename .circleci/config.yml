@@ -59,8 +59,3 @@ jobs:
           destination: test-results
     branches:
       ignore:
-  lint:
-    steps:
-      - run: bundle exec rubocop
-    branches:
-      ignore:
