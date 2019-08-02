@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module APIHelpers
   def upsert_params(model)
     model.new.attributes.map do |key, value|
