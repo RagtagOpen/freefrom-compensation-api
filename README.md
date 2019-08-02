@@ -32,14 +32,117 @@ Run the command `gem install rails` (make sure `rails --version` returns 5.2.3)
 ## API Documentation
 ### Users and Authentication
 #### POST /user_tokens
+Generates a new [JWT](https://jwt.io/introduction/) for the user whose authentication information is specified in the request payload.
 
-### GET /users/me
+_Request Payload:_
+```
+{
+ "auth": {
+   "email": "foo@bar.com",
+   "password": "secret"
+ }
+}
+```
+
+_Response Payload:_
+On success, this endpoint will return a `201 Created` response status as well as a body with a new JWT in the shape:
+```
+{"jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9"}
+```
+On failure, this endpoint will return `401 Unauthorized`.
+
+#### GET /users/current
+Returns a serialized representation of the user as long as a valid JWT is passed as a header.
+
+_Request Headers:_
+```
+{
+  Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
+}
+```
+
+_Response Payload:_
+On success, this endpoint will return a `200 Success` status and a JSON representation of the user corresponding to the JWT:
+```
+{
+  "id": 3,
+  "username": "foo",
+  "email": "foo@bar.com",
+  "role": "admin"
+}
+```
+On failure, this endpoint will return `401 Unauthorized`.
 
 ### Resource Categories
+#### POST /resource_categories**
+Creates a new Resource Category.
+_Request Payload_: This endpoint does not require any request payload.
+_Response Payload_: On success, this endpoint will return a `201 Created` status and a new resource category object in the response body.
+```
+{
+  "id": 1,
+  "name": null,
+  "short_description": null,
+  "description": null,
+  "icon": null,
+  "seo_title": null,
+  "seo_description": null,
+  "seo_keywords": [],
+  "share_image": null,
+  "created_at": "2019-08-02T16:16:36.282Z",
+  "updated_at": "2019-08-02T16:16:36.282Z"
+}
+```
+
+#### PUT /resource_categories/:id**
+Updates an existing Resource Category.
+_Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting it's value to `null` in the request payload will erase that field value from the Resource Category.)
+|Field name|Type|
+|---|---|---|
+|`short_description`|string| 
+|`name`|string|
+|`description`|string|
+|`icon`|binary|
+|`seo_title`|string|
+|`seo_description`|string|
+|`seo_keywords`|array[string]|
+|`share_image`|binary|
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource Category in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
+
+#### DELETE /resource_categories/:id**
+Deletes an existing Resource Category.
+_Request Payload_: This endpoint requires no request payload.
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
+
+#### GET /resource_categories/:id
+Fetches an existing Resource Category.
+_Request Payload_: This endpoint requires no request payload.
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource Category in the response body. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
 
 ### Resources
+#### POST /resources
+
+#### PUT /resources/:id
+
+#### DELETE /resources/:id
+
+#### GET /resources/:id
 
 ### Resource Steps
+#### POST /resource_steps
+
+#### PUT /resource_steps/:id
+
+#### DELETE /resource_steps/:id
+
+#### GET /resource_steps/:id
+
+** Requires a JWT to be passed in as a header:
+```
+{
+  Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
+}
+```
 
 ## Contributing
 To contribute, see [CONTRIBUTING.md](./contributing.md)
