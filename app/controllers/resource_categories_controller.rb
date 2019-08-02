@@ -1,6 +1,8 @@
+# frozen_string_literal: true
+
 class ResourceCategoriesController < ApplicationController
-  before_action :authenticate_admin, only: [:create, :destroy, :update]
-  before_action :find_resource_category, only: [:show, :update, :destroy]
+  before_action :authenticate_admin, only: %i[create destroy update]
+  before_action :find_resource_category, only: %i[destroy show update]
 
   def show
     render json: @resource_category
@@ -26,10 +28,8 @@ class ResourceCategoriesController < ApplicationController
   private
 
   def find_resource_category
-    begin
-      @resource_category = ResourceCategory.find(params[:id])
-    rescue ActiveRecord::RecordNotFound
-      render status: 404, json: {} and return
-    end
+    @resource_category = ResourceCategory.find(params[:id])
+  rescue ActiveRecord::RecordNotFound
+    render status: 404, json: {} and return
   end
 end

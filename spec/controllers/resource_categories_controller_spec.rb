@@ -116,7 +116,7 @@ describe ResourceCategoriesController, type: :controller do
 
     context 'with regular user' do
       let(:user) { create(:user) }
-      
+
       before do
         request.headers.merge! headers
       end
@@ -160,17 +160,17 @@ describe ResourceCategoriesController, type: :controller do
               icon: "\x05\x00\x68\x65\x6c\x6c\x6f",
               seo_title: 'New SEO title',
               seo_description: 'New SEO description',
-              seo_keywords: ['keyword1', 'keyword2', 'keyword3'],
-              share_image: "\x05\x00\x68\x65\x6c\x6c\x6f",
+              seo_keywords: %w[keyword1 keyword2 keyword3],
+              share_image: "\x05\x00\x68\x65\x6c\x6c\x6f"
             }
           end
 
           it 'returns 200 and new resource category' do
-            put :update, params: params.merge({ id: id })
+            put :update, params: params.merge(id: id)
             expect(response.status).to eq(200)
 
             body = JSON.parse(response.body)
-            keys = %w(description name seo_description seo_keywords seo_title short_description)
+            keys = %w[description name seo_description seo_keywords seo_title short_description]
 
             keys.each do |key|
               expect(body[key]).to eq(params[key.to_sym])
@@ -188,7 +188,7 @@ describe ResourceCategoriesController, type: :controller do
             end
 
             it 'updates the fields passed into the params and does not modify anything else' do
-              put :update, params: params.merge({ id: id })
+              put :update, params: params.merge(id: id)
               expect(response.status).to eq(200)
 
               body = JSON.parse(response.body)

@@ -1,7 +1,9 @@
+# frozen_string_literal: true
+
 class ResourcesController < ApplicationController
-  before_action :authenticate_admin, only: [:create, :update, :destroy]
-  before_action :find_resource, only: [:show, :update, :destroy, :steps]
-  before_action :require_state, only: [:create, :search]
+  before_action :authenticate_admin, only: %i[create destroy update]
+  before_action :find_resource, only: %i[destroy show steps update]
+  before_action :require_state, only: %i[create search]
 
   def show
     render json: @resource
@@ -54,14 +56,12 @@ class ResourcesController < ApplicationController
   private
 
   def require_state
-    render status: 400, json: { error: "Missing state parameter"} and return unless params[:state].present?
+    render status: 400, json: { error: 'Missing state parameter' } and return unless params[:state].present?
   end
 
   def find_resource
-    begin
-      @resource = Resource.find(params[:id])
-    rescue ActiveRecord::RecordNotFound
-      render status: 404, json: {} and return
-    end
+    @resource = Resource.find(params[:id])
+  rescue ActiveRecord::RecordNotFound
+    render status: 404, json: {} and return
   end
 end
