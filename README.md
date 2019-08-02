@@ -149,7 +149,7 @@ If the request was unauthorized, it will return a `401 Unauthorized` status. If 
 
 
 #### PUT /resources/:id**
-Updates an existing Resource Category.
+Updates an existing Resource.
 
 _Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting it's value to `null` in the request payload will erase that field value from the Resource.)
 |Field name|Type|
@@ -178,13 +178,45 @@ _Request Payload_: This endpoint requires no request payload.
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource in the response body. If the Resource doesn't exist, it will return a `404 Not Found` response.
 
 ### Resource Steps
-#### POST /resource_steps
+##### POST /resource/:id/resource_steps?number=:number**
+Creates a new Resource Step.
 
-#### PUT /resource_steps/:id
+_Request Params_: This endpoint requires that an integer be passed in the `number` parameter. (The number must be unique for the given resource.)
+_Response Payload_: On success, this endpoint will return a `201 Created` status and a new Resource Step in the response body.
+```
+{
+  "id": 1,
+  "number": 1,
+  "description": null,
+  "resource_id": 1,
+  "created_at": "2019-08-02T16:55:56.098Z",
+  "updated_at": "2019-08-02T16:55:56.098Z"
+}
+```
+If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource ID or number parameter are invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
 
-#### DELETE /resource_steps/:id
+#### PUT /resource_steps/:id**
+Updates an existing Resource Step.
 
-#### GET /resource_steps/:id
+_Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting it's value to `null` in the request payload will erase that field value from the Resource Step.)
+|Field name|Type|
+|---|---|---|
+|`number`|int| 
+|`description`|string|
+|`resource_id`|int|
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource Step in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Step doesn't exist, it will return a `404 Not Found` response.
+
+#### DELETE /resources_steps/:id**
+Deletes an existing Resource Step.
+
+_Request Payload_: This endpoint requires no request payload.
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Step doesn't exist, it will return a `404 Not Found` response.
+
+#### GET /resources/:id
+Fetches an existing Resource Step.
+
+_Request Payload_: This endpoint requires no request payload.
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource Step in the response body. If the Resource  Step doesn't exist, it will return a `404 Not Found` response.
 
 ** Requires a JWT to be passed in as a header:
 ```
