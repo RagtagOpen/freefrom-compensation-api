@@ -1,4 +1,5 @@
 class ResourcesController < ApplicationController
+  before_action :authenticate_admin, only: [:create, :update, :destroy]
   before_action :find_resource, only: [:show, :update, :destroy, :steps]
   before_action :require_state, only: [:create, :search]
 
@@ -7,7 +8,6 @@ class ResourcesController < ApplicationController
   end
 
   def create
-    # TODO: authenticate admin user
     @resource = Resource.new(resource_category_id: params[:resource_category_id], state: params[:state])
 
     begin
@@ -19,13 +19,11 @@ class ResourcesController < ApplicationController
   end
 
   def destroy
-    # TODO: authenticate admin user
     @resource.destroy
     render status: 204, json: {}
   end
 
   def update
-    # TODO: authenticate admin user
     begin
       attributes = params.permit(upsert_params(Resource))
       @resource.update!(attributes)

@@ -1,4 +1,5 @@
 class ResourceStepsController < ApplicationController
+  before_action :authenticate_admin, only: [:create, :update, :destroy]
   before_action :find_resource_step, only: [:show, :update, :destroy]
 
   def show
@@ -6,7 +7,6 @@ class ResourceStepsController < ApplicationController
   end
 
   def create
-    # TODO: authenticate admin user
     render status: 400, json: { error: 'Missing number parameter' } and return unless params[:number].present?
     @resource_step = ResourceStep.new(resource_id: params[:resource_id], number: params[:number])
 
@@ -19,13 +19,11 @@ class ResourceStepsController < ApplicationController
   end
 
   def destroy
-    # TODO: authenticate admin user
     @resource_step.destroy
     render status: 204, json: {}
   end
 
   def update
-    # TODO: authenticate admin user
     begin
       attributes = params.permit(upsert_params(ResourceStep))
       @resource_step.update!(attributes)

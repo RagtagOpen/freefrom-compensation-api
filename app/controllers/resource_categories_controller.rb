@@ -1,4 +1,5 @@
 class ResourceCategoriesController < ApplicationController
+  before_action :authenticate_admin, only: [:create, :destroy, :update]
   before_action :find_resource_category, only: [:show, :update, :destroy]
 
   def show
@@ -6,19 +7,16 @@ class ResourceCategoriesController < ApplicationController
   end
 
   def create
-    # TODO: authenticate admin user
     @resource_category = ResourceCategory.create
     render status: 201, json: @resource_category
   end
 
   def destroy
-    # TODO: authenticate admin user
     @resource_category.destroy
     render status: 204, json: {}
   end
 
   def update
-    # TODO: authenticate admin user
     attributes = params.permit(upsert_params(ResourceCategory))
     @resource_category.update!(attributes)
 
