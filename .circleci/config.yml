@@ -41,7 +41,7 @@ jobs:
 
       - run:
           name: lint code
-          command: bundle exec rubocop
+          command: bundle exec rubocop --cache false
 
       # Database setup
       - run: bundle exec rake db:schema:load
