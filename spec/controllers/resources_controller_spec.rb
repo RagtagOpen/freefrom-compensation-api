@@ -10,7 +10,7 @@ describe ResourcesController, type: :controller do
   describe '#show' do
     context 'where resource exists' do
       before do
-        resource = create(:resource, :with_resource_category, id: id)
+        create(:resource, :with_resource_category, id: id)
       end
 
       it 'returns 200 and the resource' do
@@ -70,9 +70,9 @@ describe ResourcesController, type: :controller do
         it 'returns 400 and an error' do
           post :create, params: params
           expect(response.status).to eq(400)
-          
+
           body = JSON.parse(response.body)
-          expect(body['error']).to eq("Validation failed: Resource category must exist")
+          expect(body['error']).to eq('Validation failed: Resource category must exist')
         end
       end
 
@@ -82,9 +82,9 @@ describe ResourcesController, type: :controller do
         it 'returns 400 and an error' do
           post :create, params: params
           expect(response.status).to eq(400)
-          
+
           body = JSON.parse(response.body)
-          expect(body['error']).to eq("Missing state parameter")
+          expect(body['error']).to eq('Missing state parameter')
         end
       end
 
@@ -150,7 +150,7 @@ describe ResourcesController, type: :controller do
 
     context 'with regular user' do
       let(:user) { create(:user) }
-      
+
       before do
         request.headers.merge! headers
       end
@@ -163,7 +163,7 @@ describe ResourcesController, type: :controller do
 
     context 'with admin user' do
       let(:user) { create(:user, :admin) }
-      
+
       before do
         request.headers.merge! headers
       end
@@ -192,16 +192,16 @@ describe ResourcesController, type: :controller do
               likelihood: 'The likelihood to get reimbursement through this option depends on whether a criminal case is brought. The system takes care of everything but that only happens if the evidence is strong enough for a prosecutor to bring charges.',
               safety: 'It is likely that the prosecutor will call you to testify in the criminal case with your abuser present.',
               story: 'You will have to share your story when you make a report to law enforcement and if you are called to testify, you will have to do so on the stand at trial.',
-              resource_category_id: new_resource_category.id.to_i,
+              resource_category_id: new_resource_category.id.to_i
             }
           end
 
           it 'returns 200 and new resource' do
-            put :update, params: params.merge({ id: id })
+            put :update, params: params.merge(id: id)
             expect(response.status).to eq(200)
 
             body = JSON.parse(response.body)
-            keys = %w(state time cost award likelihood safety story resource_category_id)
+            keys = %w[state time cost award likelihood safety story resource_category_id]
 
             keys.each do |key|
               expect(body[key]).to eq(params[key.to_sym])
@@ -219,7 +219,7 @@ describe ResourcesController, type: :controller do
             end
 
             it 'updates the fields passed into the params and does not modify anything else' do
-              put :update, params: params.merge({ id: id })
+              put :update, params: params.merge(id: id)
               expect(response.status).to eq(200)
 
               body = JSON.parse(response.body)
@@ -233,9 +233,9 @@ describe ResourcesController, type: :controller do
             let(:params) { { state: new_state } }
 
             it 'returns 400 and an error message' do
-              put :update, params: params.merge({ id: id })
+              put :update, params: params.merge(id: id)
               expect(response.status).to eq(400)
-              
+
               body = JSON.parse(response.body)
               expect(body['error']).to eq("Validation failed: State #{new_state} is not a valid US state code")
             end
@@ -260,7 +260,7 @@ describe ResourcesController, type: :controller do
       it 'returns 400' do
         get :search, params: params
         expect(response.status).to eq(400)
-        
+
         body = JSON.parse(response.body)
         expect(body['error']).to eq('Missing state parameter')
       end
@@ -272,7 +272,7 @@ describe ResourcesController, type: :controller do
       it 'returns 404' do
         get :search, params: params
         expect(response.status).to eq(404)
-        
+
         body = JSON.parse(response.body)
         expect(body).to be_empty
       end
@@ -284,7 +284,7 @@ describe ResourcesController, type: :controller do
       it 'returns 404' do
         get :search, params: params
         expect(response.status).to eq(404)
-        
+
         body = JSON.parse(response.body)
         expect(body).to be_empty
       end
@@ -294,7 +294,7 @@ describe ResourcesController, type: :controller do
       it 'returns 200' do
         get :search, params: params
         expect(response.status).to eq(200)
-        
+
         body = JSON.parse(response.body)
         expect(body['id']).to eq(resource.id.to_i)
         expect(body['resource_category_id']).to eq(resource_category_id)
@@ -308,7 +308,7 @@ describe ResourcesController, type: :controller do
       it 'returns 404' do
         get :steps, params: { id: 'fake-id' }
         expect(response.status).to eq(404)
-        
+
         body = JSON.parse(response.body)
         expect(body).to be_empty
       end
@@ -338,7 +338,7 @@ describe ResourcesController, type: :controller do
         body = JSON.parse(response.body)
         ids = body.map { |step| step['id'] }
         numbers = body.map { |step| step['number'] }
-        
+
         expect(ids).to include(resource_step_one.id.to_i)
         expect(ids).to include(resource_step_two.id.to_i)
         expect(numbers).to include(5)

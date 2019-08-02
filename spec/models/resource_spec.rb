@@ -8,7 +8,7 @@ RSpec.describe Resource, type: :model do
         expect(resource).not_to be_valid
       end
     end
-    
+
     context 'when state code is valid' do
       it 'returns true' do
         resource = build(:resource, :with_resource_category, state: 'NY')
