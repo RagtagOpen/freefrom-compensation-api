@@ -33,7 +33,8 @@ group :development, :test do
 
   gem 'factory_bot_rails'
   gem 'rspec-rails', '~> 3.8.2'
-  gem 'rubocop'
+  gem "factory_bot_rails"
+  gem "rubocop"
 end
 
 group :development do
