@@ -76,6 +76,7 @@ On failure, this endpoint will return `401 Unauthorized`.
 ### Resource Categories
 #### POST /resource_categories**
 Creates a new Resource Category.
+
 _Request Payload_: This endpoint does not require any request payload.
 _Response Payload_: On success, this endpoint will return a `201 Created` status and a new resource category object in the response body.
 ```
@@ -96,6 +97,7 @@ _Response Payload_: On success, this endpoint will return a `201 Created` status
 
 #### PUT /resource_categories/:id**
 Updates an existing Resource Category.
+
 _Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting it's value to `null` in the request payload will erase that field value from the Resource Category.)
 |Field name|Type|
 |---|---|---|
@@ -111,22 +113,69 @@ _Response Payload_: On success, this endpoint will return a `200 Success` respon
 
 #### DELETE /resource_categories/:id**
 Deletes an existing Resource Category.
+
 _Request Payload_: This endpoint requires no request payload.
 _Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
 
 #### GET /resource_categories/:id
 Fetches an existing Resource Category.
+
 _Request Payload_: This endpoint requires no request payload.
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource Category in the response body. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
 
 ### Resources
-#### POST /resources
+#### POST /resource_categories/:id/resources?state=:state**
+Creates a new Resource.
 
-#### PUT /resources/:id
+_Request Params_: This endpoint requires that a valid US state code (e.g. "NY" or "ME") be passed in with the `state` param.
+_Response Payload_: On success, this endpoint will return a `201 Created` status and a new resource object in the response body.
+```
+{
+  "id": 1,
+  "state": "NY",
+  "time": null,
+  "cost": null,
+  "award": null,
+  "likelihood": null,
+  "safety": null,
+  "story": null,
+  "challenges": null,
+  "resource_category_id": 2,
+  "created_at": "2019-08-02T16:36:09.933Z",
+  "updated_at": "2019-08-02T16:36:09.933Z"
+}
+```
+If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Category ID or state parameter are invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
 
-#### DELETE /resources/:id
+
+#### PUT /resources/:id**
+Updates an existing Resource Category.
+
+_Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting it's value to `null` in the request payload will erase that field value from the Resource.)
+|Field name|Type|
+|---|---|---|
+|`state`|string| 
+|`time`|string|
+|`cost`|string|
+|`award`|string|
+|`likelihood`|string|
+|`safety`|string|
+|`story`|string|
+|`challenges`|string|
+|`resource_category_id`|int|
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource doesn't exist, it will return a `404 Not Found` response.
+
+#### DELETE /resources/:id**
+Deletes an existing Resource.
+
+_Request Payload_: This endpoint requires no request payload.
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource doesn't exist, it will return a `404 Not Found` response.
 
 #### GET /resources/:id
+Fetches an existing Resource.
+
+_Request Payload_: This endpoint requires no request payload.
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource in the response body. If the Resource doesn't exist, it will return a `404 Not Found` response.
 
 ### Resource Steps
 #### POST /resource_steps
