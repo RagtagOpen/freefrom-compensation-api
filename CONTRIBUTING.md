@@ -9,7 +9,7 @@ FreeFrom Compensation API is an open source project and we love to receive contr
 ## Responsibilities
 
 - We pledge to make participation in our projects and community a harrasment-free experience for everyone. Please read and adhere to [Ragtag's Code of Conduct](https://ragtag.org/coc) when interacting with others on this project. Please report unacceptable behavior to coc@ragtag.org.
-- We follow [Google's Style Guides](https://google.github.io/styleguide/) for writing software. Please read and follow the appropriate language guides for your contributions.
+- We follow the [Rails Style Guide](https://rails.rubystyle.guide/). Please read the sections that are relevant to the parts of the code to which you're contributing (i.e. routing, controllers, etc.)
 - We require that all code be formatted by [Prettier](https://prettier.io/) where applicable. We use the default settings for each language.
 - Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
 - All changes should be made through by [pull requests](https://help.github.com/articles/about-pull-requests/). Pull requests will be reviewed by one or more of FreeFrom Compensation API's maintainers. Once approved, it is the responsibility of the owner of the pull request to merge the changes to the master/main branch.
@@ -50,13 +50,13 @@ Provide more context by answering these questions:
 
 Include details about your configuration and environment:
 
-- **Which version of Project Name are you using?** If you're using Project Name on the web, let us know what dates you experienced the issue on.
+- **Which version of FreeFrom Compensation API are you using?** If you're using FreeFrom Compensation API on the web, let us know what dates you experienced the issue on.
 - **What's the name and version of the operating system you're using?**
 - **What's the name and version of the browser you're using?**
 
 ### Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for Project Name, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
+This section guides you through submitting an enhancement suggestion for FreeFrom Compensation API, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
 
 Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion) as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion).
 
@@ -73,13 +73,13 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 - **Provide specific examples to demonstrate the steps.** Include copy/pasteable snippets which you use in those examples, using [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
 - **Describe the current behavior and explain which behavior you expected to see instead and why.**
 - **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate where the suggestion is expected to go. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
-- **Which version of Project Name are you using?** If you're using Project Name on the web, let us know what dates you experienced the issue on.
+- **Which version of FreeFrom Compensation API are you using?** If you're using FreeFrom Compensation API on the web, let us know what dates you experienced the issue on.
 - **What's the name and version of the operating system you're using?**
 - **What's the name and version of the browser you're using?**
 
 ### Your First Code Contribution
 
-Unsure where to begin contributing to Project Name? You can start by looking through these `good first issue` and `help wanted` issues:
+Unsure where to begin contributing to FreeFrom Compensation API? You can start by looking through these `good first issue` and `help wanted` issues:
 
 - [Good first issues](https://github.com/ragtagopen/freefrom-compensation-api/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue"+sort%3Acomments-desc) - issues which should only require a few lines of code, and a test or two.
 - [Help wanted issues](https://github.com/ragtagopen/freefrom-compensation-api/issues?q=is%3Aopen+is%3Aissue+label%3A"help wanted"+sort%3Acomments-desc) - issues which should be a bit more involved than beginner issues.
