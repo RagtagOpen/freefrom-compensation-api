@@ -78,6 +78,7 @@ On failure, this endpoint will return `401 Unauthorized`.
 Creates a new Resource Category.
 
 _Request Payload_: This endpoint does not require any request payload.
+
 _Response Payload_: On success, this endpoint will return a `201 Created` status and a new resource category object in the response body.
 ```
 {
@@ -99,8 +100,9 @@ _Response Payload_: On success, this endpoint will return a `201 Created` status
 Updates an existing Resource Category.
 
 _Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting it's value to `null` in the request payload will erase that field value from the Resource Category.)
+
 |Field name|Type|
-|---|---|---|
+|---|---|
 |`short_description`|string| 
 |`name`|string|
 |`description`|string|
@@ -109,18 +111,21 @@ _Request Payload_: The request payload may include any of the following fields. 
 |`seo_description`|string|
 |`seo_keywords`|array[string]|
 |`share_image`|binary|
+
 _Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource Category in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
 
 #### DELETE /resource_categories/:id**
 Deletes an existing Resource Category.
 
 _Request Payload_: This endpoint requires no request payload.
+
 _Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
 
 #### GET /resource_categories/:id
 Fetches an existing Resource Category.
 
 _Request Payload_: This endpoint requires no request payload.
+
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource Category in the response body. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
 
 ### Resources
@@ -128,6 +133,7 @@ _Response Payload_: On success, this endpoint will return a `200 Success` status
 Creates a new Resource.
 
 _Request Params_: This endpoint requires that a valid US state code (e.g. "NY" or "ME") be passed in with the `state` param.
+
 _Response Payload_: On success, this endpoint will return a `201 Created` status and a new resource object in the response body.
 ```
 {
@@ -152,6 +158,7 @@ If the request was unauthorized, it will return a `401 Unauthorized` status. If 
 Updates an existing Resource.
 
 _Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting it's value to `null` in the request payload will erase that field value from the Resource.)
+
 |Field name|Type|
 |---|---|---|
 |`state`|string| 
@@ -163,18 +170,21 @@ _Request Payload_: The request payload may include any of the following fields. 
 |`story`|string|
 |`challenges`|string|
 |`resource_category_id`|int|
+
 _Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource doesn't exist, it will return a `404 Not Found` response.
 
 #### DELETE /resources/:id**
 Deletes an existing Resource.
 
 _Request Payload_: This endpoint requires no request payload.
+
 _Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource doesn't exist, it will return a `404 Not Found` response.
 
 #### GET /resources/:id
 Fetches an existing Resource.
 
 _Request Payload_: This endpoint requires no request payload.
+
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource in the response body. If the Resource doesn't exist, it will return a `404 Not Found` response.
 
 ### Resource Steps
@@ -182,6 +192,7 @@ _Response Payload_: On success, this endpoint will return a `200 Success` status
 Creates a new Resource Step.
 
 _Request Params_: This endpoint requires that an integer be passed in the `number` parameter. (The number must be unique for the given resource.)
+
 _Response Payload_: On success, this endpoint will return a `201 Created` status and a new Resource Step in the response body.
 ```
 {
@@ -199,23 +210,27 @@ If the request was unauthorized, it will return a `401 Unauthorized` status. If 
 Updates an existing Resource Step.
 
 _Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting it's value to `null` in the request payload will erase that field value from the Resource Step.)
+
 |Field name|Type|
 |---|---|---|
 |`number`|int| 
 |`description`|string|
 |`resource_id`|int|
+
 _Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource Step in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Step doesn't exist, it will return a `404 Not Found` response.
 
 #### DELETE /resources_steps/:id**
 Deletes an existing Resource Step.
 
 _Request Payload_: This endpoint requires no request payload.
+
 _Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Step doesn't exist, it will return a `404 Not Found` response.
 
 #### GET /resources/:id
 Fetches an existing Resource Step.
 
 _Request Payload_: This endpoint requires no request payload.
+
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource Step in the response body. If the Resource  Step doesn't exist, it will return a `404 Not Found` response.
 
 ** Requires a JWT to be passed in as a header:
