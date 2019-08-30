@@ -160,7 +160,7 @@ Updates an existing Resource.
 _Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting it's value to `null` in the request payload will erase that field value from the Resource.)
 
 |Field name|Type|
-|---|---|---|
+|---|---|
 |`state`|string| 
 |`time`|string|
 |`cost`|string|
@@ -212,7 +212,7 @@ Updates an existing Resource Step.
 _Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting it's value to `null` in the request payload will erase that field value from the Resource Step.)
 
 |Field name|Type|
-|---|---|---|
+|---|---|
 |`number`|int| 
 |`description`|string|
 |`resource_id`|int|
