@@ -1,6 +1,6 @@
 require_relative './helpers'
 
-RSpec.shared_examples "an object authenticated with a regular user" do |model, params={}|
+RSpec.shared_examples 'an object authenticated with a regular user' do |params = {}|
   let(:id) { 1000 }
   let(:user) { create(:user) }
   let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
@@ -26,7 +26,7 @@ RSpec.shared_examples "an object authenticated with a regular user" do |model, p
     end
   end
 
-  describe  '#update' do
+  describe '#update' do
     it 'returns 401' do
       put :update, params: { id: id }
       expect(response.status).to eq(401)
