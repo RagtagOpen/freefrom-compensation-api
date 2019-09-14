@@ -248,4 +248,46 @@ describe ResourcesController, type: :controller do
       end
     end
   end
+
+  describe '#links' do
+    context 'where resource doesn\'t exist' do
+      it 'returns 404' do
+        get :steps, params: { id: 'fake-id' }
+        expect(response.status).to eq(404)
+
+        body = JSON.parse(response.body)
+        expect(body).to be_empty
+      end
+    end
+
+    context 'where resource has no resource links' do
+      let!(:resource) { create(:resource, :with_resource_category) }
+
+      it 'returns 200 and an empty array' do
+        get :links, params: { id: resource.id.to_s }
+        expect(response.status).to eq(200)
+
+        body = JSON.parse(response.body)
+        expect(body).to be_a(Array)
+        expect(body).to be_empty
+      end
+    end
+
+    context 'where resource has steps' do
+      let!(:resource) { create(:resource, :with_resource_category) }
+      let!(:resource_link_one) { create(:resource_link, resource_id: resource.id) }
+      let!(:resource_link_two) { create(:resource_link, resource_id: resource.id) }
+
+      it 'returns 200 and an empty array' do
+        get :links, params: { id: resource.id.to_s }
+        expect(response.status).to eq(200)
+
+        body = JSON.parse(response.body)
+        ids = body.map { |step| step['id'] }
+
+        expect(ids).to include(resource_link_one.id.to_i)
+        expect(ids).to include(resource_link_two.id.to_i)
+      end
+    end
+  end
 end
