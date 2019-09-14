@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_07_26_141248) do
+ActiveRecord::Schema.define(version: 2019_09_14_191550) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -49,6 +49,11 @@ ActiveRecord::Schema.define(version: 2019_07_26_141248) do
     t.bigint "resource_category_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.text "who"
+    t.text "when"
+    t.text "covered_expenses"
+    t.text "attorney"
+    t.text "tips", default: [], array: true
     t.index ["resource_category_id", "state"], name: "index_resources_on_resource_category_id_and_state", unique: true
     t.index ["resource_category_id"], name: "index_resources_on_resource_category_id"
   end

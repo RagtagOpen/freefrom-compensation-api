@@ -81,13 +81,19 @@ describe ResourcesController, type: :controller do
         context 'and update succeeds' do
           let(:params) do
             {
-              state: 'NY',
-              time: 'Months. Note: Depending on the case, it could take longer.',
-              cost: 'It is free of charge.',
-              award: 'You can potentially claim full amount of reasonable losses in awards for shattered computer, ER visits, or lost days from work.',
-              likelihood: 'The likelihood to get reimbursement through this option depends on whether a criminal case is brought. The system takes care of everything but that only happens if the evidence is strong enough for a prosecutor to bring charges.',
-              safety: 'It is likely that the prosecutor will call you to testify in the criminal case with your abuser present.',
-              story: 'You will have to share your story when you make a report to law enforcement and if you are called to testify, you will have to do so on the stand at trial.',
+              state: 'WV',
+              who: 'You are eligible to apply if you were injured as the result of a crime.You are also eligible to apply if you are the legal dependent of someonewho was killed as the result of a crime',
+              when: 'The application must be received within 2 years after the date ofthe crime',
+              time: 'On average, it takes 7.5 months for an application to be approvedor denied',
+              cost: 'It is free to apply',
+              award: 'If you were injured, the maximum you can receive for your expenses is $35,000.',
+              covered_expenses: 'You can get reimbursed for the following expenses: Medical / dental expenses; funeral and burial expenses; mental healthcounseling; lost wages / income; lost support of eligible dependents; andmileage to medical treatment facilities.',
+              likelihood: 'Your chances of getting reimbursement depend on your meeting all of the application’s criteria. See “How-to File” below for moreinformation.',
+              safety: 'This application is made directly to the state. You will not need toconfront your harm-doer to apply.',
+              story: 'You will have to include information about what happened to you inyour application',
+              tips: [
+                ' If you are close to the 2 year deadline but don’t have certain documents (police report, invoices, receipts) do not wait to submit yourapplication.   Instead,   submit   the   application   and   follow-up   with   thedocuments when you get them.'
+              ],
               resource_category_id: new_resource_category.id.to_i
             }
           end
