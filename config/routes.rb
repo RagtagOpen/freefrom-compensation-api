@@ -10,8 +10,10 @@ Rails.application.routes.draw do
 
   resources :resources, only: [:show, :update, :destroy] do
     resources :resource_steps, only: [:create]
+    resources :resource_links, only: [:create]
     get 'resource_steps', on: :member, to: 'resources#steps'
   end
 
   resources :resource_steps, only: [:show, :update, :destroy]
+  resources :resource_links, only: [:show, :update, :destroy]
 end
