@@ -9,13 +9,6 @@ describe ResourceCategoriesController, type: :controller do
   it_behaves_like 'an unauthenticated object', ResourceCategory
 
   describe '#create' do
-    context 'without authentication' do
-      it 'returns 401' do
-        post :create
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with regular user' do
       let(:user) { create(:user) }
 
@@ -45,13 +38,6 @@ describe ResourceCategoriesController, type: :controller do
   describe '#destroy' do
     before do
       create(:resource_category, id: id)
-    end
-
-    context 'without authentication' do
-      it 'returns 401' do
-        delete :destroy, params: { id: id }
-        expect(response.status).to eq(401)
-      end
     end
 
     context 'with regular user' do
@@ -85,13 +71,6 @@ describe ResourceCategoriesController, type: :controller do
   end
 
   describe '#update' do
-    context 'with no authentication' do
-      it 'returns 401' do
-        put :update, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with regular user' do
       let(:user) { create(:user) }
       

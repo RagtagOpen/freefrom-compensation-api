@@ -1,5 +1,5 @@
 require 'rails_helper'
-require 'spec_helper'
+require_relative './shared/unauthenticated_spec'
 
 describe ResourceStepsController, type: :controller do
   let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
@@ -7,28 +7,9 @@ describe ResourceStepsController, type: :controller do
 
   let(:id) { 1000 }
 
-  describe '#show' do
-    context 'where resource step exists' do
-      before do
-        resource_step = create(:resource_step, :with_resource, id: id)
-      end
-
-      it 'returns 200 and the resource' do
-        get :show, params: { id: id }
-        expect(response.status).to eq(200)
-
-        body = JSON.parse(response.body)
-        expect(body['id']).to eq(id)
-      end
-    end
-
-    context 'where the resource step doesn\'t exist' do
-      it 'returns 404' do
-        get :show, params: { id: id }
-        expect(response.status).to eq(404)
-      end
-    end
-  end
+  it_behaves_like 'an unauthenticated object', ResourceStep, {
+    create: { resource_id: 123, number: 1 }
+  }
 
   describe '#create' do
     let!(:resource) { create(:resource, :with_resource_category) }
@@ -36,13 +17,6 @@ describe ResourceStepsController, type: :controller do
     let(:number) { 1 }
 
     let(:params) { { resource_id: resource_id, number: number } }
-
-    context 'without authentication' do
-      it 'returns 401' do
-        post :create, params: { resource_id: '123' }
-        expect(response.status).to eq(401)
-      end
-    end
 
     context 'with regular user' do
       let(:user) { create(:user) }
@@ -97,16 +71,8 @@ describe ResourceStepsController, type: :controller do
   end
 
   describe '#destroy' do
-
     before do
       resource_step = create(:resource_step, :with_resource, id: id)
-    end
-
-    context 'without authentication' do
-      it 'returns 401' do
-        delete :destroy, params: { id: id }
-        expect(response.status).to eq(401)
-      end
     end
 
     context 'with regular user' do
@@ -140,13 +106,6 @@ describe ResourceStepsController, type: :controller do
   end
 
   describe '#update' do
-    context 'with no authentication' do
-      it 'returns 401' do
-        put :update, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with regular user' do
       let(:user) { create(:user) }
       

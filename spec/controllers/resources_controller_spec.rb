@@ -1,5 +1,5 @@
 require 'rails_helper'
-require 'spec_helper'
+require_relative './shared/unauthenticated_spec'
 
 describe ResourcesController, type: :controller do
   let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
@@ -7,37 +7,11 @@ describe ResourcesController, type: :controller do
 
   let(:id) { 1000 }
 
-  describe '#show' do
-    context 'where resource exists' do
-      before do
-        resource = create(:resource, :with_resource_category, id: id)
-      end
-
-      it 'returns 200 and the resource' do
-        get :show, params: { id: id }
-        expect(response.status).to eq(200)
-
-        body = JSON.parse(response.body)
-        expect(body['id']).to eq(id)
-      end
-    end
-
-    context 'where the resource doesn\'t exist' do
-      it 'returns 404' do
-        get :show, params: { id: id }
-        expect(response.status).to eq(404)
-      end
-    end
-  end
+  it_behaves_like 'an unauthenticated object', Resource, {
+    create: { resource_category_id: 123 }
+  }
 
   describe '#create' do
-    context 'without authentication' do
-      it 'returns 401' do
-        post :create, params: { resource_category_id: 123 }
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with regular user' do
       let(:user) { create(:user) }
 
@@ -103,13 +77,6 @@ describe ResourcesController, type: :controller do
       create(:resource, :with_resource_category, id: id)
     end
 
-    context 'without authentication' do
-      it 'returns 401' do
-        delete :destroy, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with regular user' do
       let(:user) { create(:user) }
 
@@ -141,13 +108,6 @@ describe ResourcesController, type: :controller do
   end
 
   describe '#update' do
-    context 'with no authentication' do
-      it 'returns 401' do
-        put :update, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with regular user' do
       let(:user) { create(:user) }
       
