@@ -17,7 +17,7 @@ Rails.application.routes.draw do
     get 'resource_links', on: :member, to: 'resources#links'
   end
 
-  resources :mindsets, only: [:show, :update, :destroy]
+  resources :mindsets, only: [:show, :update, :destroy, :index]
   resources :resource_steps, only: [:show, :update, :destroy]
   resources :resource_links, only: [:show, :update, :destroy]
 end

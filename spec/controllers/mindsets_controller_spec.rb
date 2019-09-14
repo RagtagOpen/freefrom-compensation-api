@@ -6,7 +6,37 @@ describe MindsetsController, type: :controller do
   it_behaves_like 'an unauthenticated object', Mindset, create: { resource_category_id: 123 }
   it_behaves_like 'an object authenticated with a regular user', create: { resource_category_id: 123 }
 
-  describe 'with admin user' do
+  describe '#index' do
+    context 'where mindsets exist' do
+      let!(:mindset1) { create(:mindset, :with_resource_category) }
+      let!(:mindset2) { create(:mindset, :with_resource_category) }
+
+      it 'returns all mindsets' do
+        get :index
+        expect(response.status).to eq(200)
+
+        body = JSON.parse(response.body)
+        ids = body.map { |mindset| mindset['id'] }
+
+        [mindset1, mindset2].map(&:id).each do |id|
+          expect(ids).to include(id)
+        end
+      end
+    end
+
+    context 'where no mindsets exist' do
+      it 'returns an empty array' do
+        get :index
+        expect(response.status).to eq(200)
+
+        body = JSON.parse(response.body)
+        expect(body).to be_a(Array)
+        expect(body).to be_empty
+      end
+    end
+  end
+
+  context 'with admin user' do
     setup_admin_controller_spec
 
     describe '#create' do

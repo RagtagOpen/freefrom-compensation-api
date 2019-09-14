@@ -8,6 +8,10 @@ class MindsetsController < ApplicationController
     render json: @mindset
   end
 
+  def index
+    render json: Mindset.all.to_a
+  end
+
   def create
     @mindset = Mindset.new(resource_category_id: params[:resource_category_id])
 
