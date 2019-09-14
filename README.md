@@ -303,6 +303,59 @@ _Request Payload_: This endpoint requires no request payload.
 
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource Link in the response body. If the Resource Link doesn't exist, it will return a `404 Not Found` response.
 
+### Mindsets
+##### POST /resource_categories/:id/mindsets**
+Creates a new Mindset.
+
+_Request Params_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `201 Created` status and a new Mindset in the response body.
+```
+{
+  "id": 1,
+  "description": null,
+  "name": null,
+  "resource_category_id": 1,
+  "created_at": "2019-08-02T16:55:56.098Z",
+  "updated_at": "2019-08-02T16:55:56.098Z"
+}
+```
+If the request was unauthorized, it will return a `401 Unauthorized` status. If the ResourceCategory ID is invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
+
+#### PUT /mindsets/:id**
+Updates an existing Mindset.
+
+_Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting its value to `null` in the request payload will erase that field value from the Mindset.)
+
+|Field name|Type|
+|---|---|
+|`name`|string|
+|`description`|string|
+|`resource_category_id`|int|
+
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Mindset in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Mindset doesn't exist, it will return a `404 Not Found` response.
+
+#### DELETE /mindsets/:id**
+Deletes an existing Mindset.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Mindset doesn't exist, it will return a `404 Not Found` response.
+
+#### GET /mindsets/:id
+Fetches an existing Mindset.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a Mindset in the response body. If the Mindset doesn't exist, it will return a `404 Not Found` response
+
+#### GET /mindsets
+Fetches all existing Mindsets.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and an array of Mindsets (or an empty array if no Mindsets exist) in the response body.
+
 ** Requires a JWT to be passed in as a header:
 ```
 {
