@@ -1,4 +1,4 @@
-require_relative './spec_helpers'
+require_relative './helpers'
 
 RSpec.shared_examples "an object authenticated with a regular user" do |model, params={}|
   let(:id) { 1000 }

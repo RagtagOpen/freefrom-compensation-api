@@ -27,7 +27,7 @@ describe ResourcesController, type: :controller do
         it 'returns 400 and an error' do
           post :create, params: params
           expect(response.status).to eq(400)
-          
+
           body = JSON.parse(response.body)
           expect(body['error']).to eq("Validation failed: Resource category must exist")
         end
@@ -39,7 +39,7 @@ describe ResourcesController, type: :controller do
         it 'returns 400 and an error' do
           post :create, params: params
           expect(response.status).to eq(400)
-          
+
           body = JSON.parse(response.body)
           expect(body['error']).to eq("Missing state parameter")
         end
@@ -136,7 +136,7 @@ describe ResourcesController, type: :controller do
             it 'returns 400 and an error message' do
               put :update, params: params.merge({ id: id })
               expect(response.status).to eq(400)
-              
+
               body = JSON.parse(response.body)
               expect(body['error']).to eq("Validation failed: State #{new_state} is not a valid US state code")
             end
@@ -161,7 +161,7 @@ describe ResourcesController, type: :controller do
       it 'returns 400' do
         get :search, params: params
         expect(response.status).to eq(400)
-        
+
         body = JSON.parse(response.body)
         expect(body['error']).to eq('Missing state parameter')
       end
@@ -173,7 +173,7 @@ describe ResourcesController, type: :controller do
       it 'returns 404' do
         get :search, params: params
         expect(response.status).to eq(404)
-        
+
         body = JSON.parse(response.body)
         expect(body).to be_empty
       end
@@ -185,7 +185,7 @@ describe ResourcesController, type: :controller do
       it 'returns 404' do
         get :search, params: params
         expect(response.status).to eq(404)
-        
+
         body = JSON.parse(response.body)
         expect(body).to be_empty
       end
@@ -195,7 +195,7 @@ describe ResourcesController, type: :controller do
       it 'returns 200' do
         get :search, params: params
         expect(response.status).to eq(200)
-        
+
         body = JSON.parse(response.body)
         expect(body['id']).to eq(resource.id.to_i)
         expect(body['resource_category_id']).to eq(resource_category_id)
@@ -209,7 +209,7 @@ describe ResourcesController, type: :controller do
       it 'returns 404' do
         get :steps, params: { id: 'fake-id' }
         expect(response.status).to eq(404)
-        
+
         body = JSON.parse(response.body)
         expect(body).to be_empty
       end
@@ -239,7 +239,7 @@ describe ResourcesController, type: :controller do
         body = JSON.parse(response.body)
         ids = body.map { |step| step['id'] }
         numbers = body.map { |step| step['number'] }
-        
+
         expect(ids).to include(resource_step_one.id.to_i)
         expect(ids).to include(resource_step_two.id.to_i)
         expect(numbers).to include(5)

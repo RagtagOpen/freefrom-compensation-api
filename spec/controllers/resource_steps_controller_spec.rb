@@ -27,7 +27,7 @@ describe ResourceStepsController, type: :controller do
         it 'returns 400 and an error' do
           post :create, params: params
           expect(response.status).to eq(400)
-          
+
           body = JSON.parse(response.body)
           expect(body['error']).to eq("Validation failed: Resource must exist")
         end
@@ -39,7 +39,7 @@ describe ResourceStepsController, type: :controller do
         it 'returns 400 and an error' do
           post :create, params: params
           expect(response.status).to eq(400)
-          
+
           body = JSON.parse(response.body)
           expect(body['error']).to eq("Missing number parameter")
         end
@@ -133,7 +133,7 @@ describe ResourceStepsController, type: :controller do
             it 'returns 400 and an error message' do
               put :update, params: params.merge({ id: id })
               expect(response.status).to eq(400)
-              
+
               body = JSON.parse(response.body)
               expect(body['error']).to eq("Validation failed: Number can't be blank")
             end
