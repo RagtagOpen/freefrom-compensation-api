@@ -10,10 +10,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_09_14_193204) do
+ActiveRecord::Schema.define(version: 2019_09_14_222825) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "mindsets", force: :cascade do |t|
+    t.string "name"
+    t.text "description"
+    t.bigint "resource_category_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["resource_category_id"], name: "index_mindsets_on_resource_category_id"
+  end
 
   create_table "resource_categories", force: :cascade do |t|
     t.string "name"

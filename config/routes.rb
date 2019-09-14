@@ -4,6 +4,7 @@ Rails.application.routes.draw do
 
   resources :resource_categories, only: [:show, :create, :update, :destroy] do
     resources :resources, only: [:create]
+    resources :mindsets, only: [:create]
   end
 
   get 'resource_categories/:resource_category_id/resources', to: 'resources#search'
@@ -16,6 +17,7 @@ Rails.application.routes.draw do
     get 'resource_links', on: :member, to: 'resources#links'
   end
 
+  resources :mindsets, only: [:show, :update, :destroy]
   resources :resource_steps, only: [:show, :update, :destroy]
   resources :resource_links, only: [:show, :update, :destroy]
 end
