@@ -1,34 +1,12 @@
 require 'rails_helper'
-require 'spec_helper'
+require_relative './shared/unauthenticated_spec'
 
 describe ResourceCategoriesController, type: :controller do
   let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
   let(:headers) { { 'Authorization': "Bearer #{token}" } }
   let(:id) { 1000 }
 
-  describe '#show' do
-    context 'where resource category exists' do
-      before do
-        resource_category = build(:resource_category, id: id)
-        resource_category.save!
-      end
-
-      it 'returns 200 and the resource category' do
-        get :show, params: { id: id }
-        expect(response.status).to eq(200)
-
-        body = JSON.parse(response.body)
-        expect(body['id']).to eq(id)
-      end
-    end
-
-    context 'where the resource category doesn\'t exist' do
-      it 'returns 404' do
-        get :show, params: { id: id }
-        expect(response.status).to eq(404)
-      end
-    end
-  end
+  it_behaves_like 'an unauthenticated object', ResourceCategory
 
   describe '#create' do
     context 'without authentication' do
