@@ -103,7 +103,7 @@ _Request Payload_: The request payload may include any of the following fields. 
 
 |Field name|Type|
 |---|---|
-|`short_description`|string| 
+|`short_description`|string|
 |`name`|string|
 |`description`|string|
 |`icon`|binary|
@@ -147,6 +147,11 @@ _Response Payload_: On success, this endpoint will return a `201 Created` status
   "story": null,
   "challenges": null,
   "resource_category_id": 2,
+  "who": null,
+  "when": null,
+  "covered_expenses": null,
+  "attorney": null,
+  "tips": null,
   "created_at": "2019-08-02T16:36:09.933Z",
   "updated_at": "2019-08-02T16:36:09.933Z"
 }
@@ -161,7 +166,7 @@ _Request Payload_: The request payload may include any of the following fields. 
 
 |Field name|Type|
 |---|---|
-|`state`|string| 
+|`state`|string|
 |`time`|string|
 |`cost`|string|
 |`award`|string|
@@ -169,6 +174,11 @@ _Request Payload_: The request payload may include any of the following fields. 
 |`safety`|string|
 |`story`|string|
 |`challenges`|string|
+|`who`|string|
+|`when`|string|
+|`covered_expenses`|string|
+|`attorney`|string|
+|`tips`|array[string]|
 |`resource_category_id`|int|
 
 _Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource doesn't exist, it will return a `404 Not Found` response.
@@ -186,6 +196,20 @@ Fetches an existing Resource.
 _Request Payload_: This endpoint requires no request payload.
 
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource in the response body. If the Resource doesn't exist, it will return a `404 Not Found` response.
+
+#### GET /resources/resource_steps
+Fetches all resource steps associated with a resource.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a list of Resource Steps in the response body. If the Resource doesn't exist, it will return a `404 Not Found` response.
+
+#### GET /resources/resource_links
+Fetches all resource links associated with a resource.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a list of Resource Links in the response body. If the Resource doesn't exist, it will return a `404 Not Found` response.
 
 ### Resource Steps
 ##### POST /resource/:id/resource_steps?number=:number**
@@ -213,7 +237,7 @@ _Request Payload_: The request payload may include any of the following fields. 
 
 |Field name|Type|
 |---|---|
-|`number`|int| 
+|`number`|int|
 |`description`|string|
 |`resource_id`|int|
 
@@ -226,12 +250,58 @@ _Request Payload_: This endpoint requires no request payload.
 
 _Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Step doesn't exist, it will return a `404 Not Found` response.
 
-#### GET /resources/:id
+#### GET /resource_steps/:id
 Fetches an existing Resource Step.
 
 _Request Payload_: This endpoint requires no request payload.
 
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource Step in the response body. If the Resource  Step doesn't exist, it will return a `404 Not Found` response.
+
+### Resource Links
+##### POST /resource/:id/resource_links**
+Creates a new Resource Link.
+
+_Request Params_: This endpoint requires no request payload.No e
+
+_Response Payload_: On success, this endpoint will return a `201 Created` status and a new Resource Link in the response body.
+```
+{
+  "id": 1,
+  "description": null,
+  "url": null,
+  "resource_id": 1,
+  "created_at": "2019-08-02T16:55:56.098Z",
+  "updated_at": "2019-08-02T16:55:56.098Z"
+}
+```
+If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource ID is invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
+
+#### PUT /resource_links/:id**
+Updates an existing Resource Link.
+
+_Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting its value to `null` in the request payload will erase that field value from the Resource Link.)
+
+|Field name|Type|
+|---|---|
+|`description`|string|
+|`url`|string|
+|`resource_id`|int|
+
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource Link in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Link doesn't exist, it will return a `404 Not Found` response.
+
+#### DELETE /resource_links/:id**
+Deletes an existing Resource Link.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Link doesn't exist, it will return a `404 Not Found` response.
+
+#### GET /resource_links/:id
+Fetches an existing Resource Link.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource Link in the response body. If the Resource Link doesn't exist, it will return a `404 Not Found` response.
 
 ** Requires a JWT to be passed in as a header:
 ```
