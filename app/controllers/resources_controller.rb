@@ -2,7 +2,7 @@
 
 class ResourcesController < ApplicationController
   before_action :authenticate_admin, only: %i[create destroy update]
-  before_action :find_resource, only: %i[destroy show steps update]
+  before_action :find_resource, only: %i[destroy links show steps update]
   before_action :require_state, only: %i[create search]
 
   def show
@@ -51,6 +51,10 @@ class ResourcesController < ApplicationController
 
   def steps
     render json: @resource.resource_steps
+  end
+
+  def links
+    render json: @resource.resource_links
   end
 
   private
