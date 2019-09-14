@@ -1,6 +1,6 @@
 require_relative './spec_helpers'
 
-RSpec.shared_examples "an unauthenticated object" do |model, params=nil|
+RSpec.shared_examples "an unauthenticated object" do |model, params={}|
   let(:id) { 1000 }
 
   describe '#show' do

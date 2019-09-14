@@ -1,5 +1,6 @@
 require 'rails_helper'
 require_relative './shared/unauthenticated_spec'
+require_relative './shared/regular_user_spec'
 
 describe ResourceStepsController, type: :controller do
   let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
@@ -10,6 +11,9 @@ describe ResourceStepsController, type: :controller do
   it_behaves_like 'an unauthenticated object', ResourceStep, {
     create: { resource_id: 123, number: 1 }
   }
+  it_behaves_like 'an object authenticated with a regular user', ResourceStep, {
+    create: { resource_id: 123, number: 1 }
+  }
 
   describe '#create' do
     let!(:resource) { create(:resource, :with_resource_category) }
@@ -17,15 +21,6 @@ describe ResourceStepsController, type: :controller do
     let(:number) { 1 }
 
     let(:params) { { resource_id: resource_id, number: number } }
-
-    context 'with regular user' do
-      let(:user) { create(:user) }
-
-      it 'returns 401' do
-        post :create, params: { resource_id: '123' }
-        expect(response.status).to eq(401)
-      end
-    end
 
     context 'with admin user' do
       let(:user) { create(:user, :admin) }
@@ -75,19 +70,6 @@ describe ResourceStepsController, type: :controller do
       resource_step = create(:resource_step, :with_resource, id: id)
     end
 
-    context 'with regular user' do
-      let(:user) { create(:user) }
-
-      before do
-        request.headers.merge! headers
-      end
-
-      it 'returns 401' do
-        delete :destroy, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with admin user' do
       let(:user) { create(:user, :admin) }
 
@@ -106,19 +88,6 @@ describe ResourceStepsController, type: :controller do
   end
 
   describe '#update' do
-    context 'with regular user' do
-      let(:user) { create(:user) }
-      
-      before do
-        request.headers.merge! headers
-      end
-
-      it 'returns 401' do
-        put :update, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with admin user' do
       let(:user) { create(:user, :admin) }
 

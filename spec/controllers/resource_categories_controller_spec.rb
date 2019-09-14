@@ -1,5 +1,6 @@
 require 'rails_helper'
 require_relative './shared/unauthenticated_spec'
+require_relative './shared/regular_user_spec'
 
 describe ResourceCategoriesController, type: :controller do
   let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
@@ -7,17 +8,9 @@ describe ResourceCategoriesController, type: :controller do
   let(:id) { 1000 }
 
   it_behaves_like 'an unauthenticated object', ResourceCategory
+  it_behaves_like 'an object authenticated with a regular user', ResourceCategory
 
   describe '#create' do
-    context 'with regular user' do
-      let(:user) { create(:user) }
-
-      it 'returns 401' do
-        post :create
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with admin user' do
       let(:user) { create(:user, :admin) }
 
@@ -40,19 +33,6 @@ describe ResourceCategoriesController, type: :controller do
       create(:resource_category, id: id)
     end
 
-    context 'with regular user' do
-      let(:user) { create(:user) }
-
-      before do
-        request.headers.merge! headers
-      end
-
-      it 'returns 401' do
-        delete :destroy, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with admin user' do
       let(:user) { create(:user, :admin) }
 
@@ -71,19 +51,6 @@ describe ResourceCategoriesController, type: :controller do
   end
 
   describe '#update' do
-    context 'with regular user' do
-      let(:user) { create(:user) }
-      
-      before do
-        request.headers.merge! headers
-      end
-
-      it 'returns 401' do
-        put :update, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
     context 'with admin user' do
       let(:user) { create(:user, :admin) }
 
