@@ -3,21 +3,13 @@ require_relative './shared/unauthenticated_spec'
 require_relative './shared/regular_user_spec'
 
 describe ResourceCategoriesController, type: :controller do
-  let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
-  let(:headers) { { 'Authorization': "Bearer #{token}" } }
-  let(:id) { 1000 }
-
   it_behaves_like 'an unauthenticated object', ResourceCategory
   it_behaves_like 'an object authenticated with a regular user', ResourceCategory
 
-  describe '#create' do
-    context 'with admin user' do
-      let(:user) { create(:user, :admin) }
+  context 'with admin user' do
+    setup_admin_controller_spec
 
-      before do
-        request.headers.merge! headers
-      end
-
+    describe '#create' do
       it 'returns 201 and the resource category' do
         post :create
         expect(response.status).to eq(201)
@@ -26,18 +18,10 @@ describe ResourceCategoriesController, type: :controller do
         expect(body['id']).to be_a(Integer)
       end
     end
-  end
 
-  describe '#destroy' do
-    before do
-      create(:resource_category, id: id)
-    end
-
-    context 'with admin user' do
-      let(:user) { create(:user, :admin) }
-
+    describe '#destroy' do
       before do
-        request.headers.merge! headers
+        create(:resource_category, id: id)
       end
 
       it 'returns 204 and an empty body' do
@@ -48,16 +32,8 @@ describe ResourceCategoriesController, type: :controller do
         expect(body).to be_empty
       end
     end
-  end
 
-  describe '#update' do
-    context 'with admin user' do
-      let(:user) { create(:user, :admin) }
-
-      before do
-        request.headers.merge! headers
-      end
-
+    describe '#update' do
       context 'where resource category doesn\'t exist' do
         it 'returns 404 and an empty body' do
           put :update, params: { id: id }
