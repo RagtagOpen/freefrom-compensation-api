@@ -3,31 +3,23 @@ require_relative './shared/unauthenticated_spec'
 require_relative './shared/regular_user_spec'
 
 describe ResourceStepsController, type: :controller do
-  let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
-  let(:headers) { { 'Authorization': "Bearer #{token}" } }
-
-  let(:id) { 1000 }
-
   it_behaves_like 'an unauthenticated object', ResourceStep, {
     create: { resource_id: 123, number: 1 }
   }
+
   it_behaves_like 'an object authenticated with a regular user', ResourceStep, {
     create: { resource_id: 123, number: 1 }
   }
 
-  describe '#create' do
-    let!(:resource) { create(:resource, :with_resource_category) }
-    let(:resource_id) { resource.id.to_i }
-    let(:number) { 1 }
+  describe 'with admin user' do
+    setup_admin_controller_spec
 
-    let(:params) { { resource_id: resource_id, number: number } }
+    describe '#create' do
+      let!(:resource) { create(:resource, :with_resource_category) }
+      let(:resource_id) { resource.id.to_i }
+      let(:number) { 1 }
 
-    context 'with admin user' do
-      let(:user) { create(:user, :admin) }
-
-      before do
-        request.headers.merge! headers
-      end
+      let(:params) { { resource_id: resource_id, number: number } }
 
       context 'an invalid resource id' do
         let(:resource_id) { 'fake-id' }
@@ -63,18 +55,10 @@ describe ResourceStepsController, type: :controller do
         expect(body['number']).to eq(number)
       end
     end
-  end
 
-  describe '#destroy' do
-    before do
-      resource_step = create(:resource_step, :with_resource, id: id)
-    end
-
-    context 'with admin user' do
-      let(:user) { create(:user, :admin) }
-
+    describe '#destroy' do
       before do
-        request.headers.merge! headers
+        resource_step = create(:resource_step, :with_resource, id: id)
       end
 
       it 'returns 204 and an empty body' do
@@ -85,16 +69,8 @@ describe ResourceStepsController, type: :controller do
         expect(body).to be_empty
       end
     end
-  end
 
-  describe '#update' do
-    context 'with admin user' do
-      let(:user) { create(:user, :admin) }
-
-      before do
-        request.headers.merge! headers
-      end
-
+    describe '#update' do
       context 'where resource step doesn\'t exist' do
         it 'returns 404 and an empty body' do
           put :update, params: { id: id }
