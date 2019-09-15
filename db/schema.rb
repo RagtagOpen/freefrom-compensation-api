@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_09_14_222825) do
+ActiveRecord::Schema.define(version: 2019_09_15_183104) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -22,6 +22,27 @@ ActiveRecord::Schema.define(version: 2019_09_14_222825) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["resource_category_id"], name: "index_mindsets_on_resource_category_id"
+  end
+
+  create_table "mindsets_quiz_responses", id: false, force: :cascade do |t|
+    t.bigint "quiz_response_id", null: false
+    t.bigint "mindset_id", null: false
+    t.index ["quiz_response_id", "mindset_id"], name: "quiz_mindset_index"
+  end
+
+  create_table "quiz_questions", force: :cascade do |t|
+    t.string "title"
+    t.text "description"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "quiz_responses", force: :cascade do |t|
+    t.text "text"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.bigint "quiz_question_id"
+    t.index ["quiz_question_id"], name: "index_quiz_responses_on_quiz_question_id"
   end
 
   create_table "resource_categories", force: :cascade do |t|

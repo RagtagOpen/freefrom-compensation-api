@@ -20,4 +20,8 @@ Rails.application.routes.draw do
   resources :mindsets, only: [:show, :update, :destroy, :index]
   resources :resource_steps, only: [:show, :update, :destroy]
   resources :resource_links, only: [:show, :update, :destroy]
+
+  resources :quiz_questions, only: [:show, :create, :update, :destroy] do
+    resources :quiz_responses, only: [:create, :update, :destroy]
+  end
 end
