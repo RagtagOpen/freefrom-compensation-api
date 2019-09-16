@@ -4,6 +4,10 @@ class QuizQuestionsController < ApplicationController
   before_action :authenticate_admin, only: %i[create destroy update]
   before_action :find_quiz_question, only: %i[destroy links show steps update]
 
+  def show
+    render json: @quiz_question
+  end
+
   def create
     render status: 201, json: QuizQuestion.create
   end
@@ -27,5 +31,4 @@ class QuizQuestionsController < ApplicationController
   rescue ActiveRecord::RecordNotFound
     render status: 404, json: {} and return
   end
-
 end

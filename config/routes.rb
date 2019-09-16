@@ -22,6 +22,8 @@ Rails.application.routes.draw do
   resources :resource_links, only: [:show, :update, :destroy]
 
   resources :quiz_questions, only: [:show, :create, :update, :destroy] do
-    resources :quiz_responses, only: [:create, :update, :destroy]
+    resources :quiz_responses, only: :create
   end
+
+  resources :quiz_responses, only: [:show, :update, :destroy]
 end

@@ -3,6 +3,9 @@ require_relative './shared/unauthenticated_spec'
 require_relative './shared/regular_user_spec'
 
 describe QuizQuestionsController, type: :controller do
+  it_behaves_like 'an unauthenticated object', QuizQuestion
+  it_behaves_like 'an object authenticated with a regular user'
+
   context 'with admin user' do
     setup_admin_controller_spec
 
