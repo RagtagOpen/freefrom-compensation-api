@@ -2,7 +2,7 @@
 
 class QuizQuestionsController < ApplicationController
   before_action :authenticate_admin, only: %i[create destroy update]
-  before_action :find_quiz_question, only: %i[destroy links show steps update]
+  before_action :find_quiz_question, only: %i[destroy links responses show steps update]
 
   def show
     render json: @quiz_question
@@ -26,6 +26,10 @@ class QuizQuestionsController < ApplicationController
 
   def index
     render json: QuizQuestion.all.to_a
+  end
+
+  def responses
+    render json: @quiz_question.quiz_responses
   end
 
   private

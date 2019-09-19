@@ -405,8 +405,16 @@ Fetches all existing QuizQuestions.
 
 _Request Payload_: This endpoint requires no request payload.
 
-_Response Payload_: On success, this endpoint will return a `200 Success` status and an array of QuizQuestions### Mindsets
+_Response Payload_: On success, this endpoint will return a `200 Success` status and an array of QuizQuestions
 
+#### GET /quiz_questions/quiz_responses
+Fetches all QuizResponses associated with a QuizQuestion.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a list of Quiz Responses in the response body. If the Quiz Question doesn't exist, it will return a `404 Not Found` response.
+
+### QuizResponses
 ##### POST /quiz_questions/:id/quiz_responses**
 Creates a new QuizResponse.
 

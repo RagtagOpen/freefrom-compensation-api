@@ -36,6 +36,54 @@ describe QuizQuestionsController, type: :controller do
     end
   end
 
+  describe '#responses' do
+    context 'where quiz question doesn\'t exist' do
+      it 'returns 404' do
+        get :responses, params: { id: 123 }
+        expect(response.status).to eq(404)
+      end
+    end
+
+    context 'where quiz question exists' do
+      let!(:quiz_question) { create(:quiz_question) }
+      let(:params) { { id: quiz_question.id } }
+
+      context 'and it has no responses' do
+        it 'returns 200 and an empty array' do
+          get :responses, params: params
+          expect(response.status).to eq(200)
+
+          body = JSON.parse(response.body)
+          expect(body).to be_a(Array)
+          expect(body).to be_empty
+        end
+      end
+
+      context 'and it has responses' do
+        let!(:mindset) { create(:mindset, :with_resource_category) }
+        let!(:response1) do
+          create(:quiz_response, quiz_question_id: quiz_question.id, mindset_ids: [mindset.id])
+        end
+        let!(:response2) { create(:quiz_response, quiz_question_id: quiz_question.id) }
+
+        it 'returns 200 and an array of responses' do
+          get :responses, params: params
+          expect(response.status).to eq(200)
+
+          body = JSON.parse(response.body)
+          expect(body.length).to eq(2)
+
+          ids = body.map { |response| response['id'] }
+          [response1, response2].map(&:id).each do |id|
+            expect(ids).to include(id)
+          end
+
+          expect(body.first['mindset_ids']).to eq([mindset.id])
+        end
+      end
+    end
+  end
+
   context 'with admin user' do
     setup_admin_controller_spec
 

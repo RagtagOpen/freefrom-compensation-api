@@ -23,6 +23,7 @@ Rails.application.routes.draw do
 
   resources :quiz_questions, only: [:show, :create, :update, :destroy, :index] do
     resources :quiz_responses, only: :create
+    get 'quiz_responses', on: :member, to: 'quiz_questions#responses'
   end
 
   resources :quiz_responses, only: [:show, :update, :destroy]

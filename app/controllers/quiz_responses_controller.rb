@@ -32,8 +32,7 @@ class QuizResponsesController < ApplicationController
       render status: 400, json: { error: e.message } and return
     end
 
-    response_body = JSON.parse(@quiz_response.to_json).merge(mindset_ids: @quiz_response.mindset_ids)
-    render json: response_body
+    render json: @quiz_response
   end
 
   private
