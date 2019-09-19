@@ -5,7 +5,7 @@ module Updateable
 
   module ClassMethods
     def update_params
-      params = self.new.attributes.map do |key, value|
+      new.attributes.map do |key, value|
         value == [] ? { key.to_sym => value } : key.to_sym
       end
     end
