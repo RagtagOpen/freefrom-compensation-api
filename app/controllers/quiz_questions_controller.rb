@@ -24,6 +24,10 @@ class QuizQuestionsController < ApplicationController
     render json: @quiz_question
   end
 
+  def index
+    render json: QuizQuestion.all.to_a
+  end
+
   private
 
   def find_quiz_question

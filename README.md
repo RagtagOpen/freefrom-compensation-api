@@ -356,7 +356,58 @@ _Request Payload_: This endpoint requires no request payload.
 
 _Response Payload_: On success, this endpoint will return a `200 Success` status and an array of Mindsets (or an empty array if no Mindsets exist) in the response body.
 
-** Requires a JWT to be passed in as a header:
+### QuizQuestions
+##### POST /quiz_questions/**
+Creates a new Quiz Question.
+
+_Request Params_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `201 Created` status and a new Quiz Question in the response body.
+```
+{
+  "id": 1,
+  "title": null,
+  "description": null,
+  "created_at": "2019-08-02T16:55:56.098Z",
+  "updated_at": "2019-08-02T16:55:56.098Z"
+}
+```
+If the request was unauthorized, it will return a `401 Unauthorized` status.
+
+#### PUT /quiz_questions/:id**
+Updates an existing QuizQuestion.
+
+_Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting its value to `null` in the request payload will erase that field value from the QuizQuestion.)
+
+|Field name|Type|
+|---|---|
+|`title`|string|
+|`description`|string|
+
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Quiz Question in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Quiz Question doesn't exist, it will return a `404 Not Found` response.
+
+#### DELETE /quiz_questions/:id**
+Deletes an existing Quiz Question.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Quiz Question doesn't exist, it will return a `404 Not Found` response.
+
+#### GET /quiz_questions/:id
+Fetches an existing Quiz Question.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a Quiz Question in the response body. If the Quiz Question doesn't exist, it will return a `404 Not Found` response
+
+#### GET /quiz_questions
+Fetches all existing QuizQuestions.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and an array of QuizQuestions (or an empty array if no QuizQuestions exist) in the response body.
+
+### ** Requires a JWT to be passed in as a header:
 ```
 {
   Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9

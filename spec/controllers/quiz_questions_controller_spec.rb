@@ -6,6 +6,36 @@ describe QuizQuestionsController, type: :controller do
   it_behaves_like 'an unauthenticated object', QuizQuestion
   it_behaves_like 'an object authenticated with a regular user'
 
+  describe '#index' do
+    context 'where quiz questions exist' do
+      let!(:quiz_question1) { create(:quiz_question) }
+      let!(:quiz_question2) { create(:quiz_question) }
+
+      it 'returns all mindsets' do
+        get :index
+        expect(response.status).to eq(200)
+
+        body = JSON.parse(response.body)
+        ids = body.map { |quiz_question| quiz_question['id'] }
+
+        [quiz_question1, quiz_question2].map(&:id).each do |id|
+          expect(ids).to include(id)
+        end
+      end
+    end
+
+    context 'where no quiz questions exist' do
+      it 'returns an empty array' do
+        get :index
+        expect(response.status).to eq(200)
+
+        body = JSON.parse(response.body)
+        expect(body).to be_a(Array)
+        expect(body).to be_empty
+      end
+    end
+  end
+
   context 'with admin user' do
     setup_admin_controller_spec
 
