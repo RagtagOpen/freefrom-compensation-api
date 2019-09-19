@@ -103,7 +103,7 @@ describe QuizResponsesController, type: :controller do
               expect(response.status).to eq(400)
 
               body = JSON.parse(response.body)
-              expect(body['error']).to eq("Validation failed: State #{new_state} is not a valid US state code")
+              expect(body['error']).to eq("Couldn't find Mindset with 'id'=[1]")
             end
           end
         end

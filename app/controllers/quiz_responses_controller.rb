@@ -26,13 +26,14 @@ class QuizResponsesController < ApplicationController
 
   def update
     begin
-      attributes = params.permit(upsert_params(QuizResponse))
+      attributes = params.permit(QuizResponse.update_params)
       @quiz_response.update!(attributes)
-    rescue ActiveRecord::RecordInvalid => e
+    rescue ActiveRecord::RecordInvalid, ActiveRecord::RecordNotFound => e
       render status: 400, json: { error: e.message } and return
     end
 
-    render json: @quiz_response
+    response_body = JSON.parse(@quiz_response.to_json).merge(mindset_ids: @quiz_response.mindset_ids)
+    render json: response_body
   end
 
   private

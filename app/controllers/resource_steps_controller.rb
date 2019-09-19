@@ -27,7 +27,7 @@ class ResourceStepsController < ApplicationController
 
   def update
     begin
-      attributes = params.permit(upsert_params(ResourceStep))
+      attributes = params.permit(ResourceStep.update_params)
       @resource_step.update!(attributes)
     rescue ActiveRecord::RecordInvalid => e
       render status: 400, json: { error: e.message } and return

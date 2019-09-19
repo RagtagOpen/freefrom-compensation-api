@@ -26,7 +26,7 @@ class ResourceLinksController < ApplicationController
 
   def update
     begin
-      attributes = params.permit(upsert_params(ResourceLink))
+      attributes = params.permit(ResourceLink.update_params)
       @resource_link.update!(attributes)
     rescue ActiveRecord::RecordInvalid => e
       render status: 400, json: { error: e.message } and return

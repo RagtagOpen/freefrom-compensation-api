@@ -18,7 +18,7 @@ class QuizQuestionsController < ApplicationController
   end
 
   def update
-    attributes = params.permit(upsert_params(QuizQuestion))
+    attributes = params.permit(QuizQuestion.update_params)
     @quiz_question.update!(attributes)
 
     render json: @quiz_question
