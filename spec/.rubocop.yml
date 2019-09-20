@@ -1,0 +1,10 @@
+AllCops:
+  Exclude:
+    - rails_helper.rb
+    - spec_helper.rb
+BlockLength:
+  Enabled: false
+FrozenStringLiteralComment:
+  Enabled: false
+Metrics/LineLength:
+  Enabled: false

@@ -3,13 +3,8 @@ require_relative './shared/unauthenticated_spec'
 require_relative './shared/regular_user_spec'
 
 describe ResourcesController, type: :controller do
-  it_behaves_like 'an unauthenticated object', Resource, {
-    create: { resource_category_id: 123 }
-  }
-
-  it_behaves_like 'an object authenticated with a regular user', Resource, {
-    create: { resource_category_id: 123 }
-  }
+  it_behaves_like 'an unauthenticated object', Resource, create: { resource_category_id: 123 }
+  it_behaves_like 'an object authenticated with a regular user', create: { resource_category_id: 123 }
 
   context 'with admin user' do
     setup_admin_controller_spec
@@ -29,7 +24,7 @@ describe ResourcesController, type: :controller do
           expect(response.status).to eq(400)
 
           body = JSON.parse(response.body)
-          expect(body['error']).to eq("Validation failed: Resource category must exist")
+          expect(body['error']).to eq('Validation failed: Resource category must exist')
         end
       end
 
@@ -41,7 +36,7 @@ describe ResourcesController, type: :controller do
           expect(response.status).to eq(400)
 
           body = JSON.parse(response.body)
-          expect(body['error']).to eq("Missing state parameter")
+          expect(body['error']).to eq('Missing state parameter')
         end
       end
 
@@ -93,16 +88,16 @@ describe ResourcesController, type: :controller do
               likelihood: 'The likelihood to get reimbursement through this option depends on whether a criminal case is brought. The system takes care of everything but that only happens if the evidence is strong enough for a prosecutor to bring charges.',
               safety: 'It is likely that the prosecutor will call you to testify in the criminal case with your abuser present.',
               story: 'You will have to share your story when you make a report to law enforcement and if you are called to testify, you will have to do so on the stand at trial.',
-              resource_category_id: new_resource_category.id.to_i,
+              resource_category_id: new_resource_category.id.to_i
             }
           end
 
           it 'returns 200 and new resource' do
-            put :update, params: params.merge({ id: id })
+            put :update, params: params.merge(id: id)
             expect(response.status).to eq(200)
 
             body = JSON.parse(response.body)
-            keys = %w(state time cost award likelihood safety story resource_category_id)
+            keys = %w[state time cost award likelihood safety story resource_category_id]
 
             keys.each do |key|
               expect(body[key]).to eq(params[key.to_sym])
@@ -120,7 +115,7 @@ describe ResourcesController, type: :controller do
             end
 
             it 'updates the fields passed into the params and does not modify anything else' do
-              put :update, params: params.merge({ id: id })
+              put :update, params: params.merge(id: id)
               expect(response.status).to eq(200)
 
               body = JSON.parse(response.body)
@@ -134,7 +129,7 @@ describe ResourcesController, type: :controller do
             let(:params) { { state: new_state } }
 
             it 'returns 400 and an error message' do
-              put :update, params: params.merge({ id: id })
+              put :update, params: params.merge(id: id)
               expect(response.status).to eq(400)
 
               body = JSON.parse(response.body)

@@ -3,13 +3,8 @@ require_relative './shared/unauthenticated_spec'
 require_relative './shared/regular_user_spec'
 
 describe ResourceStepsController, type: :controller do
-  it_behaves_like 'an unauthenticated object', ResourceStep, {
-    create: { resource_id: 123, number: 1 }
-  }
-
-  it_behaves_like 'an object authenticated with a regular user', ResourceStep, {
-    create: { resource_id: 123, number: 1 }
-  }
+  it_behaves_like 'an unauthenticated object', ResourceStep, create: { resource_id: 123, number: 1 }
+  it_behaves_like 'an object authenticated with a regular user', create: { resource_id: 123, number: 1 }
 
   describe 'with admin user' do
     setup_admin_controller_spec
@@ -29,7 +24,7 @@ describe ResourceStepsController, type: :controller do
           expect(response.status).to eq(400)
 
           body = JSON.parse(response.body)
-          expect(body['error']).to eq("Validation failed: Resource must exist")
+          expect(body['error']).to eq('Validation failed: Resource must exist')
         end
       end
 
@@ -41,7 +36,7 @@ describe ResourceStepsController, type: :controller do
           expect(response.status).to eq(400)
 
           body = JSON.parse(response.body)
-          expect(body['error']).to eq("Missing number parameter")
+          expect(body['error']).to eq('Missing number parameter')
         end
       end
 
@@ -58,7 +53,7 @@ describe ResourceStepsController, type: :controller do
 
     describe '#destroy' do
       before do
-        resource_step = create(:resource_step, :with_resource, id: id)
+        create(:resource_step, :with_resource, id: id)
       end
 
       it 'returns 204 and an empty body' do
@@ -88,18 +83,18 @@ describe ResourceStepsController, type: :controller do
         context 'and update succeeds' do
           let(:params) do
             {
-              description: "resource step description",
+              description: 'resource step description',
               number: 1,
-              resource_id: new_resource.id.to_i,
+              resource_id: new_resource.id.to_i
             }
           end
 
           it 'returns 200 and new resource' do
-            put :update, params: params.merge({ id: id })
+            put :update, params: params.merge(id: id)
             expect(response.status).to eq(200)
 
             body = JSON.parse(response.body)
-            keys = %w(description number resource_id)
+            keys = %w[description number resource_id]
 
             keys.each do |key|
               expect(body[key]).to eq(params[key.to_sym])
@@ -117,7 +112,7 @@ describe ResourceStepsController, type: :controller do
             end
 
             it 'updates the fields passed into the params and does not modify anything else' do
-              put :update, params: params.merge({ id: id })
+              put :update, params: params.merge(id: id)
               expect(response.status).to eq(200)
 
               body = JSON.parse(response.body)
@@ -131,7 +126,7 @@ describe ResourceStepsController, type: :controller do
             let(:params) { { number: new_number } }
 
             it 'returns 400 and an error message' do
-              put :update, params: params.merge({ id: id })
+              put :update, params: params.merge(id: id)
               expect(response.status).to eq(400)
 
               body = JSON.parse(response.body)

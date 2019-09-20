@@ -1,32 +1,39 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.3'
 
-gem 'rails', '~> 5.2.3'
-# Use postgresql as the database for Active Record
-gem 'pg', '>= 0.18', '< 2.0'
-# Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'active_model_serializers'
+
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'json'
 gem 'carmen'
+gem 'json'
 gem 'knock'
-gem 'active_model_serializers'
 
-# Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
+# Use postgresql as the database for Active Record
+gem 'pg', '>= 0.18', '< 2.0'
+
+# Use Puma as the app server
+gem 'puma', '~> 3.11'
+gem 'rails', '~> 5.2.3'
+
+# Use Rack CORS for handling Cross-Origin Resource Sharing (CORS),
+# making cross-origin AJAX possible
 # gem 'rack-cors'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  gem 'byebug', platforms: %i[mri mingw x64_mingw]
 
+  gem 'factory_bot_rails'
   gem 'rspec-rails', '~> 3.8.2'
-  gem "factory_bot_rails"
+  gem 'rubocop'
 end
 
 group :development do
@@ -36,6 +43,5 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
 
-
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]

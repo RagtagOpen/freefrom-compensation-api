@@ -1,9 +1,11 @@
+# frozen_string_literal: true
+
 class ResourceStepsController < ApplicationController
-  before_action :authenticate_admin, only: [:create, :update, :destroy]
-  before_action :find_resource_step, only: [:show, :update, :destroy]
+  before_action :authenticate_admin, only: %i[create destroy update]
+  before_action :find_resource_step, only: %i[destroy show update]
 
   def show
-    render json: @resource_step    
+    render json: @resource_step
   end
 
   def create
@@ -37,10 +39,8 @@ class ResourceStepsController < ApplicationController
   private
 
   def find_resource_step
-    begin
-      @resource_step = ResourceStep.find(params[:id])
-    rescue ActiveRecord::RecordNotFound
-      render status: 404, json: {} and return
-    end
+    @resource_step = ResourceStep.find(params[:id])
+  rescue ActiveRecord::RecordNotFound
+    render status: 404, json: {} and return
   end
 end

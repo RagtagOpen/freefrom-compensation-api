@@ -1,15 +1,15 @@
 require_relative './helpers'
 
-RSpec.shared_examples "an unauthenticated object" do |model, params={}|
+RSpec.shared_examples 'an unauthenticated object' do |model, params = {}|
   let(:id) { 1000 }
 
   describe '#show' do
-    context "where #{model.to_s} exists" do
+    context "where #{model} exists" do
       before do
         create(factory_name(model), :valid, id: id)
       end
 
-      it "returns 200 and the #{model.to_s}" do
+      it "returns 200 and the #{model}" do
         get :show, params: { id: id }
         expect(response.status).to eq(200)
 
@@ -18,7 +18,7 @@ RSpec.shared_examples "an unauthenticated object" do |model, params={}|
       end
     end
 
-    context "where #{model.to_s} does not exist" do
+    context "where #{model} does not exist" do
       it 'returns 404' do
         get :show, params: { id: id }
         expect(response.status).to eq(404)

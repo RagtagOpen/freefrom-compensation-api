@@ -39,6 +39,10 @@ jobs:
             - ./vendor/bundle
           key: v1-dependencies-{{ checksum "Gemfile.lock" }}
 
+      - run:
+          name: lint code
+          command: bundle exec rubocop --cache false
+
       # Database setup
       - run: bundle exec rake db:schema:load
 
