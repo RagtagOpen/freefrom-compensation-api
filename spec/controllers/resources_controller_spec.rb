@@ -1,63 +1,20 @@
 require 'rails_helper'
-require 'spec_helper'
+require_relative './shared/unauthenticated_spec'
+require_relative './shared/regular_user_spec'
 
 describe ResourcesController, type: :controller do
-  let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
-  let(:headers) { { 'Authorization': "Bearer #{token}" } }
+  it_behaves_like 'an unauthenticated object', Resource, {
+    create: { resource_category_id: 123 }
+  }
 
-  let(:id) { 1000 }
+  it_behaves_like 'an object authenticated with a regular user', Resource, {
+    create: { resource_category_id: 123 }
+  }
 
-  describe '#show' do
-    context 'where resource exists' do
-      before do
-        resource = create(:resource, :with_resource_category, id: id)
-      end
+  context 'with admin user' do
+    setup_admin_controller_spec
 
-      it 'returns 200 and the resource' do
-        get :show, params: { id: id }
-        expect(response.status).to eq(200)
-
-        body = JSON.parse(response.body)
-        expect(body['id']).to eq(id)
-      end
-    end
-
-    context 'where the resource doesn\'t exist' do
-      it 'returns 404' do
-        get :show, params: { id: id }
-        expect(response.status).to eq(404)
-      end
-    end
-  end
-
-  describe '#create' do
-    context 'without authentication' do
-      it 'returns 401' do
-        post :create, params: { resource_category_id: 123 }
-        expect(response.status).to eq(401)
-      end
-    end
-
-    context 'with regular user' do
-      let(:user) { create(:user) }
-
-      before do
-        request.headers.merge! headers
-      end
-
-      it 'returns 401' do
-        post :create, params: { resource_category_id: 123 }
-        expect(response.status).to eq(401)
-      end
-    end
-
-    context 'with admin user' do
-      let(:user) { create(:user, :admin) }
-
-      before do
-        request.headers.merge! headers
-      end
-
+    describe '#create' do
       let!(:resource_category) { create(:resource_category) }
       let(:resource_category_id) { resource_category.id.to_i }
       let(:state) { 'NY' }
@@ -70,7 +27,7 @@ describe ResourcesController, type: :controller do
         it 'returns 400 and an error' do
           post :create, params: params
           expect(response.status).to eq(400)
-          
+
           body = JSON.parse(response.body)
           expect(body['error']).to eq("Validation failed: Resource category must exist")
         end
@@ -82,7 +39,7 @@ describe ResourcesController, type: :controller do
         it 'returns 400 and an error' do
           post :create, params: params
           expect(response.status).to eq(400)
-          
+
           body = JSON.parse(response.body)
           expect(body['error']).to eq("Missing state parameter")
         end
@@ -96,38 +53,10 @@ describe ResourcesController, type: :controller do
         expect(body['id']).to be_a(Integer)
       end
     end
-  end
 
-  describe '#destroy' do
-    before do
-      create(:resource, :with_resource_category, id: id)
-    end
-
-    context 'without authentication' do
-      it 'returns 401' do
-        delete :destroy, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
-    context 'with regular user' do
-      let(:user) { create(:user) }
-
+    describe '#destroy' do
       before do
-        request.headers.merge! headers
-      end
-
-      it 'returns 401' do
-        delete :destroy, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
-    context 'with admin user' do
-      let(:user) { create(:user, :admin) }
-
-      before do
-        request.headers.merge! headers
+        create(:resource, :with_resource_category, id: id)
       end
 
       it 'returns 204 and an empty body' do
@@ -138,36 +67,8 @@ describe ResourcesController, type: :controller do
         expect(body).to be_empty
       end
     end
-  end
 
-  describe '#update' do
-    context 'with no authentication' do
-      it 'returns 401' do
-        put :update, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
-    context 'with regular user' do
-      let(:user) { create(:user) }
-      
-      before do
-        request.headers.merge! headers
-      end
-
-      it 'returns 401' do
-        put :update, params: { id: id }
-        expect(response.status).to eq(401)
-      end
-    end
-
-    context 'with admin user' do
-      let(:user) { create(:user, :admin) }
-      
-      before do
-        request.headers.merge! headers
-      end
-
+    describe '#update' do
       context 'where resource doesn\'t exist' do
         it 'returns 404 and an empty body' do
           put :update, params: { id: id }
@@ -235,7 +136,7 @@ describe ResourcesController, type: :controller do
             it 'returns 400 and an error message' do
               put :update, params: params.merge({ id: id })
               expect(response.status).to eq(400)
-              
+
               body = JSON.parse(response.body)
               expect(body['error']).to eq("Validation failed: State #{new_state} is not a valid US state code")
             end
@@ -260,7 +161,7 @@ describe ResourcesController, type: :controller do
       it 'returns 400' do
         get :search, params: params
         expect(response.status).to eq(400)
-        
+
         body = JSON.parse(response.body)
         expect(body['error']).to eq('Missing state parameter')
       end
@@ -272,7 +173,7 @@ describe ResourcesController, type: :controller do
       it 'returns 404' do
         get :search, params: params
         expect(response.status).to eq(404)
-        
+
         body = JSON.parse(response.body)
         expect(body).to be_empty
       end
@@ -284,7 +185,7 @@ describe ResourcesController, type: :controller do
       it 'returns 404' do
         get :search, params: params
         expect(response.status).to eq(404)
-        
+
         body = JSON.parse(response.body)
         expect(body).to be_empty
       end
@@ -294,7 +195,7 @@ describe ResourcesController, type: :controller do
       it 'returns 200' do
         get :search, params: params
         expect(response.status).to eq(200)
-        
+
         body = JSON.parse(response.body)
         expect(body['id']).to eq(resource.id.to_i)
         expect(body['resource_category_id']).to eq(resource_category_id)
@@ -308,7 +209,7 @@ describe ResourcesController, type: :controller do
       it 'returns 404' do
         get :steps, params: { id: 'fake-id' }
         expect(response.status).to eq(404)
-        
+
         body = JSON.parse(response.body)
         expect(body).to be_empty
       end
@@ -338,7 +239,7 @@ describe ResourcesController, type: :controller do
         body = JSON.parse(response.body)
         ids = body.map { |step| step['id'] }
         numbers = body.map { |step| step['number'] }
-        
+
         expect(ids).to include(resource_step_one.id.to_i)
         expect(ids).to include(resource_step_two.id.to_i)
         expect(numbers).to include(5)

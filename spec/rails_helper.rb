@@ -61,3 +61,15 @@ RSpec.configure do |config|
   # arbitrary gems may also be filtered via:
   # config.filter_gems_from_backtrace("gem name")
 end
+
+def setup_admin_controller_spec
+  let(:user) { create(:user, :admin) }
+  let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
+
+  let(:headers) { { 'Authorization': "Bearer #{token}" } }
+  let(:id) { 1000 }
+
+  before(:each) do
+    request.headers.merge! headers
+  end
+end

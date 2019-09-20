@@ -5,5 +5,9 @@ FactoryBot.define do
     trait :with_resource_category do
       resource_category
     end
+
+    trait :valid do
+      with_resource_category
+    end
   end
 end
