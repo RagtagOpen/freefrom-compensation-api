@@ -82,17 +82,17 @@ describe ResourcesController, type: :controller do
           let(:params) do
             {
               state: 'WV',
-              who: 'You are eligible to apply if you were injured as the result of a crime.You are also eligible to apply if you are the legal dependent of someonewho was killed as the result of a crime',
-              when: 'The application must be received within 2 years after the date ofthe crime',
-              time: 'On average, it takes 7.5 months for an application to be approvedor denied',
+              who: 'You are eligible to apply if you were injured as the result of a crime. You are also eligible to apply if you are the legal dependent of someone who was killed as the result of a crime.',
+              when: 'The application must be received within 2 years after the date of the crime',
+              time: 'On average, it takes 7.5 months for an application to be approved or denied',
               cost: 'It is free to apply',
               award: 'If you were injured, the maximum you can receive for your expenses is $35,000.',
               covered_expenses: 'You can get reimbursed for the following expenses: Medical / dental expenses; funeral and burial expenses; mental healthcounseling; lost wages / income; lost support of eligible dependents; andmileage to medical treatment facilities.',
-              likelihood: 'Your chances of getting reimbursement depend on your meeting all of the application’s criteria. See “How-to File” below for moreinformation.',
-              safety: 'This application is made directly to the state. You will not need toconfront your harm-doer to apply.',
-              story: 'You will have to include information about what happened to you inyour application',
+              likelihood: 'Your chances of getting reimbursement depend on your meeting all of the application’s criteria. See “How-to File” below for more information.',
+              safety: 'This application is made directly to the state. You will not need to confront your harm-doer to apply.',
+              story: 'You will have to include information about what happened to you in your application',
               tips: [
-                ' If you are close to the 2 year deadline but don’t have certain documents (police report, invoices, receipts) do not wait to submit yourapplication.   Instead,   submit   the   application   and   follow-up   with   thedocuments when you get them.'
+                ' If you are close to the 2 year deadline but don’t have certain documents (police report, invoices, receipts) do not wait to submit your application. Instead, submit the application and follow-up with the documents when you get them.'
               ],
               resource_category_id: new_resource_category.id.to_i
             }
