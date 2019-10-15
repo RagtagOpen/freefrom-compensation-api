@@ -81,13 +81,19 @@ describe ResourcesController, type: :controller do
         context 'and update succeeds' do
           let(:params) do
             {
-              state: 'NY',
-              time: 'Months. Note: Depending on the case, it could take longer.',
-              cost: 'It is free of charge.',
-              award: 'You can potentially claim full amount of reasonable losses in awards for shattered computer, ER visits, or lost days from work.',
-              likelihood: 'The likelihood to get reimbursement through this option depends on whether a criminal case is brought. The system takes care of everything but that only happens if the evidence is strong enough for a prosecutor to bring charges.',
-              safety: 'It is likely that the prosecutor will call you to testify in the criminal case with your abuser present.',
-              story: 'You will have to share your story when you make a report to law enforcement and if you are called to testify, you will have to do so on the stand at trial.',
+              state: 'WV',
+              who: 'You are eligible to apply if you were injured as the result of a crime. You are also eligible to apply if you are the legal dependent of someone who was killed as the result of a crime.',
+              when: 'The application must be received within 2 years after the date of the crime',
+              time: 'On average, it takes 7.5 months for an application to be approved or denied',
+              cost: 'It is free to apply',
+              award: 'If you were injured, the maximum you can receive for your expenses is $35,000.',
+              covered_expenses: 'You can get reimbursed for the following expenses: Medical / dental expenses; funeral and burial expenses; mental healthcounseling; lost wages / income; lost support of eligible dependents; andmileage to medical treatment facilities.',
+              likelihood: 'Your chances of getting reimbursement depend on your meeting all of the application’s criteria. See “How-to File” below for more information.',
+              safety: 'This application is made directly to the state. You will not need to confront your harm-doer to apply.',
+              story: 'You will have to include information about what happened to you in your application',
+              tips: [
+                ' If you are close to the 2 year deadline but don’t have certain documents (police report, invoices, receipts) do not wait to submit your application. Instead, submit the application and follow-up with the documents when you get them.'
+              ],
               resource_category_id: new_resource_category.id.to_i
             }
           end
@@ -239,6 +245,48 @@ describe ResourcesController, type: :controller do
         expect(ids).to include(resource_step_two.id.to_i)
         expect(numbers).to include(5)
         expect(numbers).to include(6)
+      end
+    end
+  end
+
+  describe '#links' do
+    context 'where resource doesn\'t exist' do
+      it 'returns 404' do
+        get :steps, params: { id: 'fake-id' }
+        expect(response.status).to eq(404)
+
+        body = JSON.parse(response.body)
+        expect(body).to be_empty
+      end
+    end
+
+    context 'where resource has no resource links' do
+      let!(:resource) { create(:resource, :with_resource_category) }
+
+      it 'returns 200 and an empty array' do
+        get :links, params: { id: resource.id.to_s }
+        expect(response.status).to eq(200)
+
+        body = JSON.parse(response.body)
+        expect(body).to be_a(Array)
+        expect(body).to be_empty
+      end
+    end
+
+    context 'where resource has steps' do
+      let!(:resource) { create(:resource, :with_resource_category) }
+      let!(:resource_link_one) { create(:resource_link, resource_id: resource.id) }
+      let!(:resource_link_two) { create(:resource_link, resource_id: resource.id) }
+
+      it 'returns 200 and an empty array' do
+        get :links, params: { id: resource.id.to_s }
+        expect(response.status).to eq(200)
+
+        body = JSON.parse(response.body)
+        ids = body.map { |step| step['id'] }
+
+        expect(ids).to include(resource_link_one.id.to_i)
+        expect(ids).to include(resource_link_two.id.to_i)
       end
     end
   end
