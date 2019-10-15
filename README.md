@@ -356,7 +356,7 @@ _Request Payload_: This endpoint requires no request payload.
 
 _Response Payload_: On success, this endpoint will return a `200 Success` status and an array of Mindsets (or an empty array if no Mindsets exist) in the response body.
 
-** Requires a JWT to be passed in as a header:
+### ** Requires a JWT to be passed in as a header:
 ```
 {
   Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
