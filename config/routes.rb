@@ -20,4 +20,11 @@ Rails.application.routes.draw do
   resources :mindsets, only: [:show, :update, :destroy, :index]
   resources :resource_steps, only: [:show, :update, :destroy]
   resources :resource_links, only: [:show, :update, :destroy]
+
+  resources :quiz_questions, only: [:show, :create, :update, :destroy, :index] do
+    resources :quiz_responses, only: :create
+    get 'quiz_responses', on: :member, to: 'quiz_questions#responses'
+  end
+
+  resources :quiz_responses, only: [:show, :update, :destroy]
 end

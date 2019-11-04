@@ -4,6 +4,8 @@ require 'carmen'
 
 class Resource < ApplicationRecord
   include Carmen
+  include Updateable
+
   STATE_CODES = Country.named('United States').subregions.map(&:code)
 
   belongs_to  :resource_category

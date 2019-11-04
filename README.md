@@ -356,6 +356,109 @@ _Request Payload_: This endpoint requires no request payload.
 
 _Response Payload_: On success, this endpoint will return a `200 Success` status and an array of Mindsets (or an empty array if no Mindsets exist) in the response body.
 
+### QuizQuestions
+##### POST /quiz_questions/**
+Creates a new Quiz Question.
+
+_Request Params_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `201 Created` status and a new Quiz Question in the response body.
+```
+{
+  "id": 1,
+  "title": null,
+  "description": null,
+  "created_at": "2019-08-02T16:55:56.098Z",
+  "updated_at": "2019-08-02T16:55:56.098Z"
+}
+```
+If the request was unauthorized, it will return a `401 Unauthorized` status.
+
+#### PUT /quiz_questions/:id**
+Updates an existing QuizQuestion.
+
+_Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting its value to `null` in the request payload will erase that field value from the QuizQuestion.)
+
+|Field name|Type|
+|---|---|
+|`title`|string|
+|`description`|string|
+
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Quiz Question in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Quiz Question doesn't exist, it will return a `404 Not Found` response.
+
+#### DELETE /quiz_questions/:id**
+Deletes an existing Quiz Question.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Quiz Question doesn't exist, it will return a `404 Not Found` response.
+
+#### GET /quiz_questions/:id
+Fetches an existing Quiz Question.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a Quiz Question in the response body. If the Quiz Question doesn't exist, it will return a `404 Not Found` response
+
+#### GET /quiz_questions
+Fetches all existing QuizQuestions.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and an array of QuizQuestions
+
+#### GET /quiz_questions/quiz_responses
+Fetches all QuizResponses associated with a QuizQuestion.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a list of Quiz Responses in the response body. If the Quiz Question doesn't exist, it will return a `404 Not Found` response.
+
+### QuizResponses
+##### POST /quiz_questions/:id/quiz_responses**
+Creates a new QuizResponse.
+
+_Request Params_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `201 Created` status and a new QuizResponse in the response body.
+```
+{
+  "id": 1,
+  "text": null,
+  "quiz_question_id": 1,
+  "created_at": "2019-08-02T16:55:56.098Z",
+  "updated_at": "2019-08-02T16:55:56.098Z"
+}
+```
+If the request was unauthorized, it will return a `401 Unauthorized` status. If the QuizQuestion ID is invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
+
+#### PUT /quiz_responses/:id**
+Updates an existing QuizResponse.
+
+_Request Payload_: The request payload may include any of the following fields. To leave a field unchanged, just do not include it in the request payload. (Including a field and setting its value to `null` in the request payload will erase that field value from the QuizResponse.)
+
+|Field name|Type|
+|---|---|
+|`text`|string|
+|`quiz_question_id`|int|
+|`mindset_ids`|array[int]|
+
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated QuizResponse in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the QuizResponse doesn't exist, it will return a `404 Not Found` response.
+
+#### DELETE /quiz_responses/:id**
+Deletes an existing QuizResponse.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the QuizResponse doesn't exist, it will return a `404 Not Found` response.
+
+#### GET /quiz_responses/:id
+Fetches an existing QuizResponse.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a QuizResponse in the response body. If the QuizResponse doesn't exist, it will return a `404 Not Found` respons (or an empty array if no QuizQuestions exist) in the response body.
+
 ### ** Requires a JWT to be passed in as a header:
 ```
 {

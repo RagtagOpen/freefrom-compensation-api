@@ -87,7 +87,7 @@ describe ResourcesController, type: :controller do
               time: 'On average, it takes 7.5 months for an application to be approved or denied',
               cost: 'It is free to apply',
               award: 'If you were injured, the maximum you can receive for your expenses is $35,000.',
-              covered_expenses: 'You can get reimbursed for the following expenses: Medical / dental expenses; funeral and burial expenses; mental healthcounseling; lost wages / income; lost support of eligible dependents; and mileage to medical treatment facilities.',
+              covered_expenses: 'You can get reimbursed for the following expenses: Medical / dental expenses; funeral and burial expenses; mental health counseling; lost wages / income; lost support of eligible dependents; and mileage to medical treatment facilities.',
               likelihood: 'Your chances of getting reimbursement depend on your meeting all of the application’s criteria. See “How-to File” below for more information.',
               safety: 'This application is made directly to the state. You will not need to confront your harm-doer to apply.',
               story: 'You will have to include information about what happened to you in your application',

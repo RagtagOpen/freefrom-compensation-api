@@ -19,7 +19,7 @@ class ResourceCategoriesController < ApplicationController
   end
 
   def update
-    attributes = params.permit(upsert_params(ResourceCategory))
+    attributes = params.permit(ResourceCategory.update_params)
     @resource_category.update!(attributes)
 
     render json: @resource_category
