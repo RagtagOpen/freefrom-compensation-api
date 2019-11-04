@@ -23,7 +23,7 @@ describe QuizResponsesController, type: :controller do
           expect(response.status).to eq(400)
 
           body = JSON.parse(response.body)
-          expect(body['error']).to eq("Quiz question must exist")
+          expect(body['error']).to eq('Quiz question must exist')
         end
       end
 
