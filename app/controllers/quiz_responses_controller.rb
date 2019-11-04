@@ -11,12 +11,11 @@ class QuizResponsesController < ApplicationController
   def create
     @quiz_response = QuizResponse.new(quiz_question_id: params[:quiz_question_id])
 
-    begin
-      @quiz_response.save!
-    rescue ActiveRecord::RecordInvalid => e
-      render status: 400, json: { error: e.message } and return
+    if @quiz_response.save
+      render status: 201, json: @quiz_response
+    else
+      render status: 400, json: { error: @quiz_response.errors.full_messages.first } and return
     end
-    render status: 201, json: @quiz_response
   end
 
   def destroy
@@ -40,6 +39,6 @@ class QuizResponsesController < ApplicationController
   def find_quiz_response
     @quiz_response = QuizResponse.find(params[:id])
   rescue ActiveRecord::RecordNotFound
-    render status: 404, json: {} and return
+    render status: 404, json: {}
   end
 end
