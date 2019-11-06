@@ -6,6 +6,7 @@ AllCops:
     - db/*/**
     - config/*/**
     - config/*
+    - lib/tasks/*
     - script/**
     - bin/**
     - spec/rails_helper.rb
