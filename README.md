@@ -28,6 +28,7 @@ Run the command `gem install rails` (make sure `rails --version` returns 5.2.3)
 4. Run `rake db:setup` to create the test and development databases
 5. Run `rake db:migrate` to set up the necessary database tables
 6. Run `bundle exec rails s` to start the server
+7. Run `bundle exec rake import_data` to import seed data
 
 ## API Documentation
 ### Users and Authentication
