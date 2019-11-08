@@ -1,0 +1,103 @@
+- title: "Your time"
+  description: "Some types of compensation are more time-consuming than others. Think about how much time you have to spend trying to get compensation and pick the statement below that best describes you."
+  responses:
+    - text: "I don’t have a lot of time to spare to try and get compensation (up to 8 hours)."
+      mindsets:
+        - "The Thoughtful Pursuer"
+    - text: "I have some time to spare to try and get compensation (8-20 hours)."
+      mindsets:
+        - "The Reimbursement Boss"
+        - "The Resourceful Strategist"
+    - text: I have a lot of time to spare to try and get compensation (over 20 hours).
+      mindsets:
+        - "The Justice Seeker"
+
+- title: "Timeframe"
+  description: "Some types of compensation take longer than others. Think about how urgently you need the money quickly you would need the money and pick the statement below that best describes you."
+  responses:
+    - text: "I need the money quickly (2-6 months)."
+      mindsets:
+        - "The Thoughtful Pursuer"
+        - "The Reimbursement Boss"
+    - text: "I don’t need the money right away (6 months – 1 year)."
+      mindsets:
+        - "The Resourceful Strategist"
+    - text: "I am able to wait a year or longer."
+      mindsets:
+        - "The Justice Seeker"
+
+- title: "Cost"
+  description: "Some types of compensation cost money to pursue, while others are free or low cost. Think about how much money you are willing/able to spend and pick the statement below that best describes you."
+  responses:
+    - text: "I need the money quickly (2-6 months)."
+      mindsets:
+        - "The Thoughtful Pursuer"
+        - "The Resourceful Strategist"
+    - text: "I can afford to pay some fees ($50 -$200)."
+      mindsets:
+        - "The Resourceful Strategist"
+    - text: "I can afford to pay a lawyer (over $1,000)."
+      mindsets:
+        - "The Justice Seeker"
+
+- title: "Award"
+  description: "Different types of compensation will pay out different amounts of money for different types of costs. Think about what you need compensation for and pick the statement below that best describes you."
+  responses:
+    - text: "I need compensation to cover costs, including damaged property (for example, a broken laptop), that are less than $10,000 in total."
+      mindsets:
+        - "The Reimbursement Boss"
+        - "The Resourceful Strategist"
+    - text: "I need compensation to cover costs, not including damaged property, that are less than $10,000 in total."
+      mindsets:
+        - "The Reimbursement Boss"
+        - "The Resourceful Strategist"
+        - "The Thoughtful Pursuer"
+    - text: "I need compensation to cover costs, including damaged property, that are more than $10,000 in total."
+      mindsets:
+        - "The Justice Seeker"
+        - "The Resourceful Strategist"
+    - text: "I need compensation to cover costs, not including damaged property, that are more than $10,000 in total."
+      mindsets:
+        - "The Justice Seeker"
+        - "The Thoughtful Pursuer"
+        - "The Resourceful Strategist"
+
+- title: "Risk"
+  description: "Some types of compensation are more likely to award money than others. Think about how comfortable you are with taking a risk in this process and pick the statement below that best describes you."
+  responses:
+    - text: "I am willing to take a risk if it means I may be able to get more money."
+      mindsets:
+        - "The Justice Seeker"
+        - "The Reimbursement Boss"
+    - text: "I would rather go with an option that is less risky, even if it means I might get less money."
+      mindsets:
+        - "The Resourceful Strategist"
+        - "The Thoughtful Pursuer"
+
+- title: "Safety"
+  description: "Some types of compensation may require you to go to court and be in the same room as your harm-doer. Pick the statement below that is true for you."
+  responses:
+    - text: "I do not want to be in the same room as my harm-doer."
+      mindsets:
+        - "The Thoughtful Pursuer"
+    - text: "I could be in the same room as my harm-doer if I had an attorney or a support person with me."
+      mindsets:
+        - "The Justice Seeker"
+        - "The Resourceful Strategist"
+    - text: "I could be in the same room as my harm-doer without an attorney or support person with me."
+      mindsets:
+        - "The Reimbursement Boss"
+
+- title: "Story"
+  description: "Some types of compensation require you to tell your story multiple times. Think about whether you feel ok retelling your story and pick the statement below that best describes you."
+  responses:
+    - text: "I am willing to talk to anyone about my story, even without someone there to support me."
+      mindsets:
+        - "The Justice Seeker"
+    - text: "I am willing to talk about my story as long as I am supported by trauma-informed professionals (trained lawyers or other advocates)."
+      mindsets:
+        - "The Thoughtful Pursuer"
+        - "The Resourceful Strategist"
+    - text: "I am willing to talk to anyone about my story, as long as a family member or friend is there to support me."
+      mindsets:
+        - "The Reimbursement Boss"
