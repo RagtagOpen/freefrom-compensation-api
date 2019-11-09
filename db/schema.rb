@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_11_09_222528) do
+ActiveRecord::Schema.define(version: 2019_11_09_230144) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -56,13 +56,6 @@ ActiveRecord::Schema.define(version: 2019_11_09_222528) do
     t.binary "share_image"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-  end
-
-  create_table "resource_links", force: :cascade do |t|
-    t.bigint "resource_id"
-    t.text "description"
-    t.string "url"
-    t.index ["resource_id"], name: "index_resource_links_on_resource_id"
   end
 
   create_table "resources", force: :cascade do |t|

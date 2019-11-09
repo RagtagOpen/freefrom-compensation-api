@@ -49,14 +49,6 @@ class ResourcesController < ApplicationController
     render status: 200, json: @resource
   end
 
-  def steps
-    render json: @resource.resource_steps
-  end
-
-  def links
-    render json: @resource.resource_links
-  end
-
   private
 
   def require_state
