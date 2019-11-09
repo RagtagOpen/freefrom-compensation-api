@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_09_15_183104) do
+ActiveRecord::Schema.define(version: 2019_11_09_222528) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -65,15 +65,6 @@ ActiveRecord::Schema.define(version: 2019_09_15_183104) do
     t.index ["resource_id"], name: "index_resource_links_on_resource_id"
   end
 
-  create_table "resource_steps", force: :cascade do |t|
-    t.integer "number"
-    t.text "description"
-    t.bigint "resource_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["resource_id"], name: "index_resource_steps_on_resource_id"
-  end
-
   create_table "resources", force: :cascade do |t|
     t.string "state"
     t.text "time"
@@ -91,6 +82,11 @@ ActiveRecord::Schema.define(version: 2019_09_15_183104) do
     t.text "covered_expenses"
     t.text "attorney"
     t.text "tips", default: [], array: true
+    t.text "where"
+    t.text "what_to_expect"
+    t.text "what_if_i_disagree"
+    t.text "resources", default: [], array: true
+    t.text "steps", default: [], array: true
     t.index ["resource_category_id", "state"], name: "index_resources_on_resource_category_id_and_state", unique: true
     t.index ["resource_category_id"], name: "index_resources_on_resource_category_id"
   end
