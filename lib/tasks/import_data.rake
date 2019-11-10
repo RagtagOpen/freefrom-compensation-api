@@ -3,12 +3,22 @@ task :import_data => :environment do
 
   # Always destroy data before re-importing
   ResourceCategory.destroy_all
+  Resource.destroy_all
   Mindset.destroy_all
   QuizQuestion.destroy_all
   QuizResponse.destroy_all
 
-  # This is just to create the quiz questions below
-  ResourceCategory.create(id: 1)
+  resource_categories = YAML.load(File.read('data/resource_categories.yml'))
+  resource_category_to_id = {} # Convenient way of associating resource category names with ids
+
+  resource_categories.each do |category|
+    category_obj = ResourceCategory.create(
+      name: category['name'],
+      short_description: category['short_description']
+    )
+
+    resource_category_to_id[category['name']] = category_obj.id
+  end
 
   mindsets = YAML.load(File.read('data/mindsets.yml'))
   mindset_name_to_id = {} # Create a convenient way of associating mindset names with ids
