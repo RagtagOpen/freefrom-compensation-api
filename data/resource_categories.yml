@@ -1,12 +1,8 @@
 - name: Victims of Crime Act (VOCA)
-  short_description: Victims of Crime Act (VOCA) funds are available to compensate victims of crime for certain crime-related expenses.
-  description: ""
+  description: Victims of Crime Act (VOCA) funds are available to compensate victims of crime for certain crime-related expenses.
 - name: Small Claims Court
-  short_description: Small claims court deals with financial claims for $[TBD] or less. Cases in small claims court can be heard and decided relatively quickly and cheaply, without legal representation.
-  description: ""
+  description: Small claims court deals with financial claims for $[TBD] or less. Cases in small claims court can be heard and decided relatively quickly and cheaply, without legal representation.
 - name: Criminal Restitution
-  short_description: Criminal Restitution is given during a criminal sentence issued by a judge. It requires the defendant to pay for the damages they have caused.
-  description: ""
+  description: Criminal Restitution is given during a criminal sentence issued by a judge. It requires the defendant to pay for the damages they have caused.
 - name: Civil Tort
-  short_description: A civil tort case is a complex civil case for financial claims. Civil tort cases are complicated and require parties to follow specific rules and procedures.
-  description: ""
+  description: A civil tort case is a complex civil case for financial claims. Civil tort cases are complicated and require parties to follow specific rules and procedures.
