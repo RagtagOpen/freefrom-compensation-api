@@ -34,6 +34,7 @@ task :import_data => :environment do
   quiz_questions.each { |question_yaml| create_quiz_question(question_yaml) }
 
   verify(QuizQuestion, quiz_questions.length)
+  verify(QuizResponse, quiz_questions.map { |q| q['responses'] }.flatten.length )
 end
 
 def verify(model, expected_count)
@@ -111,7 +112,7 @@ def create_quiz_question(yaml)
 
     QuizResponse.create(
       quiz_question_id: question.id,
-      text: yaml['text'],
+      text: response_yaml['text'],
       mindset_ids: mindset_ids
     )
   end
