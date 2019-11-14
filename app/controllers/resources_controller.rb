@@ -38,8 +38,10 @@ class ResourcesController < ApplicationController
 
   def search
     begin
+      mindset = Mindset.find(params[:mindset_id])
+
       @resource = Resource.find_by!(
-        resource_category_id: params[:resource_category_id],
+        resource_category_id: mindset.resource_category_id,
         state: params[:state]
       )
     rescue ActiveRecord::RecordNotFound
