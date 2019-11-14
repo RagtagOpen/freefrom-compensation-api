@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_11_09_230144) do
+ActiveRecord::Schema.define(version: 2019_11_14_024115) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,7 +21,9 @@ ActiveRecord::Schema.define(version: 2019_11_09_230144) do
     t.bigint "resource_category_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "slug"
     t.index ["resource_category_id"], name: "index_mindsets_on_resource_category_id"
+    t.index ["slug"], name: "index_mindsets_on_slug", unique: true
   end
 
   create_table "mindsets_quiz_responses", id: false, force: :cascade do |t|
@@ -47,15 +49,11 @@ ActiveRecord::Schema.define(version: 2019_11_09_230144) do
 
   create_table "resource_categories", force: :cascade do |t|
     t.string "name"
-    t.text "short_description"
     t.text "description"
-    t.binary "icon"
-    t.string "seo_title"
-    t.text "seo_description"
-    t.string "seo_keywords", default: [], array: true
-    t.binary "share_image"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "slug"
+    t.index ["slug"], name: "index_resource_categories_on_slug", unique: true
   end
 
   create_table "resources", force: :cascade do |t|

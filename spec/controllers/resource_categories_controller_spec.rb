@@ -55,13 +55,8 @@ describe ResourceCategoriesController, type: :controller do
           let(:params) do
             {
               name: 'New name',
-              short_description: 'New short description',
               description: 'New description',
-              icon: "\x05\x00\x68\x65\x6c\x6c\x6f",
-              seo_title: 'New SEO title',
-              seo_description: 'New SEO description',
-              seo_keywords: %w[keyword1 keyword2 keyword3],
-              share_image: "\x05\x00\x68\x65\x6c\x6c\x6f"
+              slug: 'resource_category_slug'
             }
           end
 
@@ -70,10 +65,9 @@ describe ResourceCategoriesController, type: :controller do
             expect(response.status).to eq(200)
 
             body = JSON.parse(response.body)
-            keys = %w[description name seo_description seo_keywords seo_title short_description]
 
-            keys.each do |key|
-              expect(body[key]).to eq(params[key.to_sym])
+            params.keys.each do |key|
+              expect(body[key.to_s]).to eq(params[key.to_sym])
             end
           end
 

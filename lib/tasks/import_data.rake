@@ -48,7 +48,8 @@ end
 def create_resource_category(yaml)
   ResourceCategory.create(
     name: yaml['name'],
-    description: yaml['description']
+    description: yaml['description'],
+    slug: yaml['slug']
   )
 end
 
@@ -91,6 +92,7 @@ def create_mindset(yaml)
   Mindset.create(
     name: yaml['name'],
     description: yaml['description'],
+    slug: yaml['slug'],
     resource_category_id: resource_category_id
   )
 end
