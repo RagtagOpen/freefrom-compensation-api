@@ -23,7 +23,7 @@ task :import_data => :environment do
   end
 
   # TODO: verify that there are the proper number of resources once we have all the state data
-  verify(Resource, 1)
+  verify(Resource, 9)
 
   mindsets = YAML.load(File.read('data/mindsets.yml'))
   mindsets.each { |mindset_yaml| create_mindset(mindset_yaml) }
