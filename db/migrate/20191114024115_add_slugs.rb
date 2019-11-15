@@ -14,7 +14,7 @@ class AddSlugs < ActiveRecord::Migration[5.2]
       t.string  :slug
     end
 
-    add_index :mindsets, :slug, uniqueness: true
-    add_index :resource_categories, :slug, uniqueness: true
+    add_index :mindsets, :slug, unique: true
+    add_index :resource_categories, :slug, unique: true
   end
 end
