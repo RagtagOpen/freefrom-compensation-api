@@ -149,12 +149,13 @@ describe ResourcesController, type: :controller do
 
   describe '#search' do
     let!(:resource_category) { create(:resource_category) }
+    let!(:mindset) { create(:mindset, resource_category_id: resource_category.id) }
     let!(:resource) { create(:resource, state: 'NY', resource_category_id: resource_category.id) }
 
     let(:state) { 'NY' }
-    let(:resource_category_id) { resource_category.id.to_i }
+    let(:mindset_id) { mindset.id.to_i }
 
-    let(:params) { { resource_category_id: resource_category_id, state: state } }
+    let(:params) { { mindset_id: mindset_id, state: state } }
 
     context 'without state param' do
       let(:state) { nil }
@@ -180,8 +181,8 @@ describe ResourcesController, type: :controller do
       end
     end
 
-    context 'where resource exists for state but not category' do
-      let(:resource_category_id) { 'fake-id' }
+    context 'where resource exists but mindset does not' do
+      let(:mindset_id) { 'fake-id' }
 
       it 'returns 404' do
         get :search, params: params
@@ -199,7 +200,7 @@ describe ResourcesController, type: :controller do
 
         body = JSON.parse(response.body)
         expect(body['id']).to eq(resource.id.to_i)
-        expect(body['resource_category_id']).to eq(resource_category_id)
+        expect(body['resource_category_id']).to eq(resource_category.id)
         expect(body['state']).to eq(state)
       end
     end

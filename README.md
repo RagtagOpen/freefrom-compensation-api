@@ -198,6 +198,13 @@ _Request Payload_: This endpoint requires no request payload.
 
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource in the response body. If the Resource doesn't exist, it will return a `404 Not Found` response.
 
+#### GET /mindsets/:mindset_id/resources?state=:state
+Fetches a resource for a particular mindset and state.
+
+_Request Payload_: This endpoint requires that a valid US state code (e.g. "NY" or "ME") be passed in with the `state` param.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource in the response body. If the Mindset or Resource doesn't exist, the endpoint will return a `404 Not Found` response.
+
 ### Mindsets
 ##### POST /resource_categories/:id/mindsets**
 Creates a new Mindset.

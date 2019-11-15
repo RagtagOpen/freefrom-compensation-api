@@ -7,7 +7,7 @@ Rails.application.routes.draw do
     resources :mindsets, only: [:create]
   end
 
-  get 'resource_categories/:resource_category_id/resources', to: 'resources#search'
+  get 'mindsets/:mindset_id/resources', to: 'resources#search'
 
   resources :resources, only: [:show, :update, :destroy]
   resources :mindsets, only: [:show, :update, :destroy, :index]
