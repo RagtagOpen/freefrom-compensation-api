@@ -110,6 +110,7 @@ describe MindsetsController, type: :controller do
             {
               name: 'The Reimbursement Boss',
               description: 'The Reimbursement Boss wants justice from their harm-doer, but also values their time and wants to move forward as quickly as possible. They feel confident telling their story and advocating for themselves in front of others. The name doesn’t lie, this person is an all-around Boss!',
+              slug: 'the_reimbursement_boss',
               resource_category_id: new_resource_category.id.to_i
             }
           end
