@@ -1,16 +1,16 @@
 - name: The Reimbursement Boss
   description: The Reimbursement Boss wants justice from their harm-doer, but also values their time and wants to move forward as quickly as possible. They feel confident telling their story and advocating for themselves in front of others. The name doesn’t lie, this person is an all-around Boss!
   slug: the-reimbursement-boss
-  resource-category: Small Claims Court
+  resource_category: Small Claims Court
 - name: The Thoughtful Pursuer
   description: The Thoughtful Pursuer values safety and wants to avoid risk if possible. They want to get money back without interacting with their harm-doer so they can move on with their life. Their priority is to get compensation while avoiding emotional stress. The Thoughtful Pursuer is an amazing advocate for their own health and healing!
   slug: the-thoughtful-pursuer
-  resource-category: Victims of Crime Act (VOCA)
+  resource_category: Victims of Crime Act (VOCA)
 - name: The Justice Seeker
   description: The Justice Seeker is driven to pursue justice even if it requires time, energy, and involves some risk. It is important to them that their harm-doer is held responsible for their actions. You definitely don’t want to get in the Justice Seeker’s way!
   slug: the-justice-seeker
-  resource-category: Civil Tort
+  resource_category: Civil Tort
 - name: The Resourceful Strategist
   description: The Resourceful Strategist wants to get compensation but has other things in their life that take priority. They don’t want to go through a process that will require a lot of their time and energy and would prefer to take a hands-off approach. The Resourceful Pursuer is all about working smarter, not harder!
   slug: the-resourceful-strategist
-  resource-category: Criminal Restitution
+  resource_category: Criminal Restitution

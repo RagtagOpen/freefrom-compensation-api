@@ -13,17 +13,20 @@ task :import_data => :environment do
 
   verify(ResourceCategory, resource_categories.length)
 
+  resource_count = 0
   Dir.foreach('data/resources') do |filename|
     next if filename == '.' or filename == '..'
 
     state_resources = YAML.load(File.read("data/resources/#{filename}"))
 
     state = state_resources['state']
-    state_resources['resources'].each { |resource_yaml| create_resource(resource_yaml, state) }
+    state_resources['resources'].each do |resource_yaml|
+      create_resource(resource_yaml, state)
+      resource_count += 1
+    end
   end
 
-  # TODO: verify that there are the proper number of resources once we have all the state data
-  verify(Resource, 9)
+  verify(Resource, resource_count)
 
   mindsets = YAML.load(File.read('data/mindsets.yml'))
   mindsets.each { |mindset_yaml| create_mindset(mindset_yaml) }
@@ -41,7 +44,7 @@ def verify(model, expected_count)
   actual_count = model.all.count
 
   unless actual_count == expected_count
-    raise "Expected #{expected_count} #{model}s, but created #{actual count}"
+    raise "Expected #{expected_count} #{model}s, but created #{actual_count}"
   end
 end
 
