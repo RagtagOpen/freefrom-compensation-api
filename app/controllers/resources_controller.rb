@@ -51,6 +51,21 @@ class ResourcesController < ApplicationController
     render status: 200, json: @resource
   end
 
+  def search_by_category
+    begin
+      resource_category = ResourceCategory.find_by(slug: params[:slug])
+
+      @resource = Resource.find_by!(
+        resource_category_id: resource_category.id,
+        state: params[:state]
+      )
+    rescue ActiveRecord::RecordNotFound
+      render status: 404, json: {} and return
+    end
+
+    render status: 200, json: @resource
+  end
+
   private
 
   def require_state
