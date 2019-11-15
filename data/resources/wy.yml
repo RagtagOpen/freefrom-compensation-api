@@ -1,0 +1,187 @@
+state: WY
+resources:
+  - resource_category: Victims of Crime Act (VOCA)
+    who: >
+      You are eligible to apply if you were harmed as the result of a crime, or if you are the legal dependent of someone who was killed as the result of a crime.
+      Eligible crimes include:
+        * Domestic violence
+        * Malicious assault
+        * Assault and battery
+        * Child abuse
+        * Murder
+        * Sexual assault
+        * DUI
+        * Robbery
+        * Kidnapping
+        * Arson
+
+      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+    where: You are eligible to apply if the crime happened in Wyoming.
+    when: The application must be _received_ within **1 year** after the date of the crime.
+    time: On average, it takes three months for an application to be approved or denied.
+    cost: It is free to apply.
+    award: You can receive up to $15,000 for your expenses.
+    covered_expenses: >
+      You can get compensation for the following expenses:
+      * Medical bills
+      * Dental bills
+      * Costs of hospital services
+      * Funeral and burial expenses
+      * Mental health treatment and counseling
+      * Lost wages/income
+      * Relocation
+    likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-To Apply” below for more information.
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
+    story: You will have to include information about what happened to you in your application, and you may have to answer follow-up questions about your experience.
+    attorney: You do not need an attorney to apply. However, if you seek help from an attorney to file the application, you must notify the Division of Victim Services.
+    challenges:
+      - "The Police Must Be Involved: You must report the crime to the police and cooperate in the investigation."
+      - "Not All Costs Are Covered: You cannot get reimbursed for property damage or for pain and suffering."
+    steps:
+      - "Step 1: Report the crime to the police and get a police report."
+      - "Step 2: Gather all the documents you can that relate to the costs you are trying to get covered. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: Access an application online [here](https://drive.google.com/file/d/15iCNUlULvwJ2kNShz7cn7bBH5rQa51mZ/view) (in English) or [here](https://drive.google.com/file/d/0Bx6poawfal01MW92N2x1MW5FNjA/view) (in Spanish), or get an application from a law enforcement agency, domestic violence/sexual assault agency, county attorney’s office, or victim assistance agency, or by calling the Division of Victim Services at (307) 777-7200."
+      - "TIP: You can find helpful instructions on completing the application in English [here](https://drive.google.com/file/d/0Bx6poawfal01TWlyTDIxcEJ4Uk0/view) and in Spanish [here](https://drive.google.com/file/d/0Bx6poawfal01V1ZPbG5KRndDMjg/view)."
+      - "Step 4: After carefully reading the instructions, complete the application on your own or call the Division Victim Services for assistance at (307) 777-7200."
+      - "Step 5: Attach the police report and copies of bills for each expense you include in your application."
+      - "Step 6: Sign page 3 of the application and fill out the tax identification form."
+      - >
+        Step 7: Mail, fax, or deliver in person the completed application along with any other documents to:
+        Division of Victim Services
+        320 W. 25th Street, 2nd Floor
+        Cheyenne, WY 82002
+        FAX: 307-777-6683
+        If you need help, call 1-307-777-7200 or toll-free at 1-888-996-8816.
+      - "TIP: Remember, your application must be received within one year after the crime occurred. It’s a good idea to follow up with an [email](mailto:ag-victimservices@wyo.gov) confirming that your application was received."
+      - "TIP: If you are close to the one-year deadline but don’t have certain documents (police report, invoices, receipts), do not wait to submit your application. Instead, submit the application and follow up with the documents when you get them."
+      - "TIP: If you don’t get a letter or phone call within 30 days after mailing your application, call 1-800-996-8816 or [email](mailto:ag-victimsservices@wyo.gov) to ask about the status of your application."
+    what_to_expect:
+      - "The Division of Victim Services Compensation Program staff will review your entire application to make sure all of the information you’ve included is true and accurate."
+      - "The Division of Victim Services staff will then review the claim and decide if it qualifies for compensation. If so, they will determine the amount you will be awarded."
+      - "The Division of Victim Services might ask you for more documents or other information about your application. If they do, respond as soon as possible."
+      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, [email](mailto:ag-victimsservices@wyo.gov) or call the Division of Victim Services at 1-800-996-8816."
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "If the claim is denied or reduced, the reason will be provided in writing. You will have **30 days** to request an appeal if you disagree with the decision/amount of the award."
+    resources:
+      - "[Wyoming Attorney General - Compensation and Restitution](http://ag.wyo.gov/victim-services-home-page/compensation)"
+      - "[Wyoming Attorney General Division of Victim Services - Compensation FAQ](https://drive.google.com/file/d/0Bx6poawfal01ZUdEY3l0V29ISFk/view)"
+      - "[Wyoming Victim Compensation Application - English](https://drive.google.com/file/d/15iCNUlULvwJ2kNShz7cn7bBH5rQa51mZ/view)"
+      - "[Wyoming Victim Compensation Application - Spanish](https://drive.google.com/file/d/0Bx6poawfal01MW92N2x1MW5FNjA/view)"
+      - "[Wyoming Victim Compensation Application Instructions - English](https://drive.google.com/file/d/0Bx6poawfal01TWlyTDIxcEJ4Uk0/view)"
+      - "[Wyoming Victim Compensation Application Instructions - Spanish](https://drive.google.com/file/d/0Bx6poawfal01V1ZPbG5KRndDMjg/view)"
+  - resource_category: Criminal Restitution
+    who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
+    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant, so the timing of the criminal restitution decision depends on when the defendant is sentenced.
+    cost: It is free of charge.
+    covered_expenses: >
+      You can get compensation for the following expenses:
+      * Medical bills
+      * Dental bills
+      * Therapy costs
+      * Lost or damaged property
+      * Funeral-related costs
+      * Other out-of-pocket costs directly related to the crime
+    likelihood: "A county attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the county attorney of your costs, the more likely you are to get compensation."
+    safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
+    story: >
+      * You must share your story:
+        * With the police when you report the crime; and
+        * With the County Attorney assigned to your case.
+      * You may have to share your story:
+        * If the County Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
+    challenges:
+      - "There Must Be A Criminal Case: There must be a criminal case against the person who harmed you, and that person must either plead guilty or be found guilty in court."
+      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "Collecting Restitution Can Be Challenging: Even if the judge award you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
+    steps:
+      - "Step 1: Report the crime to law enforcement."
+      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
+      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any other invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: Contact the office of the County Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
+      - "TIP: You can locate the office of the County Attorney for each county [here](https://criminal.findlaw.com/criminal-legal-help/wyoming-district-attorneys.html)."
+      - "Step 4: Share the information and documents you have gathered that show your costs with the attorney assigned to your case."
+      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "Step 6: At the sentencing hearing, the County Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "TIP: Collecting restitution can be challenging. Ask the County Attorney assigned to your case for support."
+    resources:
+      - "[Wyoming Board of Parole - Restitution](http://boardofparole.wyo.gov/victim-services/restitution)"
+  - resource_category: Small Claims Court
+    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less.
+    where: >
+      You must file your small claims case in the circuit court of the county where the person who harmed you lives.
+      TIP: Find the location of the circuit court in each county [here](https://www.courts.state.wy.us/circuit-courts/circuit-court-locations/).
+    when: >
+      You must file claims for assault and battery within **1 year** of the date of the wrongful action; for sexual assault within **4 years** of the assault; and for property damage within **4 years** of the date of the damage.
+      TIP: Check out [this resource](https://statelaws.findlaw.com/wyoming-law/wyoming-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+    time: The whole process will generally take several weeks to several months.
+    cost: >
+      You must pay a fee of $10 to file a small claims case. Other fees may apply to deliver your documents to the defendant.
+      If you cannot afford to pay the fees, you can apply for a waiver by completing and filing this [Affidavit of Indigency and Request for Waiver](https://www.courts.state.wy.us/wp-content/uploads/2017/10/MISCGA-8.-Affidavit-of-Indigency.pdf). It’s a good idea to attach proof of your income to the Affidavit (bank statements, pay stubs, EBT cards, disability check, etc.).
+    covered_expenses: The total amount you are seeking must be $6,000.00 or less. You cannot bring claims for false imprisonment, malicious prosecution, slander or libel in small claims court.
+    likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How to Apply” section for more information.
+    safety: You will most likely have to face the person who harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
+    story: You will have to tell the judge specific details about what happened to you, including how you were injured and how much those injuries cost you.
+    attorney: You can be represented by an attorney if you wish, but it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
+    challenges:
+      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and represent yourself."
+      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person who harmed you, which may be challenging. Read more about collecting money [here](https://smallclaims.uslegal.com/small-claims-laws-by-state/wyoming-small-claims-law/)."
+    steps:
+      - "Step 1: Before you file, you must send a letter to the person you are suing to demand that they pay you."
+      - "TIP: For safety reasons, it’s a good idea not to include your address in your written demand letter to the person who harmed you."
+      - "Step 2: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
+      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place. "
+      - "Step 3: Locate the proper circuit court [here](https://www.courts.state.wy.us/circuit-courts/circuit-court-locations/). You will generally be required to file in the county in which the person who harmed you has an address. The relevant circuit court is where you will file all your paperwork."
+      - "Step 4: After carefully reading the instructions, complete a [Civil Cover Sheet](http://www.courts.state.wy.us/wp-content/uploads/2017/03/WRCP31Final_CivilCoverSheet-20150708.pdf), [Small Claims Affidavit](http://www.courts.state.wy.us/wp-content/uploads/2019/02/Small-Claims-Affidavit-2016.pdf), and [Summons](http://www.courts.state.wy.us/wp-content/uploads/2017/04/Small_Claims_Summons_Return.pdf). You can also request the forms from the clerk of the circuit court."
+      - "Step 5: Attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). "
+      - "TIP: Make at least three copies of all forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records. "
+      - "Step 6: Sign the completed documents and attachments, file them with the clerk of the circuit court, and pay the filing fees. "
+      - "TIP: If you cannot afford to pay the fees, you can apply for a waiver by completing and filing this [Affidavit of Indigency and Request for Waiver](https://www.courts.state.wy.us/wp-content/uploads/2017/10/MISCGA-8.-Affidavit-of-Indigency.pdf). It’s a good idea to attach proof of your income to the Affidavit (bank statements, pay stubs, EBT cards, disability check, etc.). "
+      - "Step 7: The person you are suing must get a copy of the documents you’ve filed. You can ask the clerk or sheriff’s department to send the notice, or you can hire a process server to deliver it; you cannot deliver it yourself. All three options require a fee, but if you filled out a fee waiver and it was accepted, then you probably won’t need to pay anything. You can ask the clerk of the circuit court for guidance. "
+      - "Step 8: You will receive proof that the person you are suing received your documents. File that proof with the clerk of the circuit court. "
+      - "Step 9: The court will set a trial date for your case. Do not miss your trial date. "
+      - "Step 10: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "Step 11: Attend your court date. Bring your evidence and witnesses with you. "
+      - "Step 12: Present your case, closely following any instructions given by the judge. "
+      - "Step 13: Receive the judge’s order either at the end of the hearing or at a later date via mail. "
+      - "Step 14: If you win your case, you will need to take steps to collect that compensation. Read more about collecting a small claims judgment [here](https://smallclaims.uslegal.com/small-claims-laws-by-state/wyoming-small-claims-law/)."
+    what_if_i_disagree:
+      - "TIP: Read the judge’s decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "Generally, you must file a notice of appeal with the clerk of the circuit court within 20 days after the judge makes their decision. "
+      - "You must pay a bond and a circuit court filing fee. "
+      - "The file will then be transferred to the Circuit Clerk, and you will then have to file a “petition” for appeal with the Circuit Clerk’s office. "
+    resources:
+      - "[Wyoming Small Claims Forms](https://www.courts.state.wy.us/legal-assistances-and-forms/court-self-help-forms/) "
+      - "[Filing a Small Claims Case - Wyoming](http://www.courts.state.wy.us/wp-content/uploads/2018/05/Albany-Small-Claim-Filing-Instructions.pdf)"
+      - "[Wyoming Small Claims Law - General Information](https://smallclaims.uslegal.com/small-claims-laws-by-state/wyoming-small-claims-law/)"
+      - "[Equal Justice Wyoming - Representing Yourself](https://www.legalhelpwy.org/index.php/get-legal-help/self-help-2/representing-yourself)"
+      - "[Wyoming Small Claims Court](https://small-claims-court.laws.com/wyoming-small-claims-court)"
+  - resource_category: Civil Tort
+    who: You can file a civil tort claim against the person who harmed you if the law recognizes a cause of action that fits the facts of your case.
+    when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
+    time: The whole process will most likely take over a year.
+    cost: Hundreds or even thousands of dollars.
+    likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney who represents you.
+    safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way.
+    challenges:
+      - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
+    steps:
+      - "Step 1: Find an attorney you trust."
+      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - >
+        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+          * Your name and address
+          * The name and address of the person that harmed you
+          * Date of the incident(s)
+          * Brief description of the incident(s)
+          * Itemized list of costs that resulted from the incident(s)
+          * Copies of important documents
+          * If you know it, the income / assets of the person that harmed you
+          * If you can, the type of claim you want to bring against the person that harmed you
+    resources:
+      - "[Find the best Lawyer in Wyoming](https://www.avvo.com/all-lawyers/wy.html)"
+      - "[Top Attorneys in Wyoming](https://attorneys.superlawyers.com/wyoming/)"
+      - "[Equal Justice Wyoming - Find a Lawyer](https://www.legalhelpwy.org/index.php/get-legal-help/find-a-lawyer)"
