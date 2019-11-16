@@ -129,6 +129,13 @@ _Request Payload_: This endpoint requires no request payload.
 
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a Resource Category in the response body. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
 
+#### GET /resource_categories/
+Fetches all existing Resource Category.
+
+_Request Payload_: This endpoint requires no request payload.
+
+_Response Payload_: On success, this endpoint will return a `200 Success` status and an array of Resource Categories in the response body.
+
 ### Resources
 #### POST /resource_categories/:id/resources?state=:state**
 Creates a new Resource.

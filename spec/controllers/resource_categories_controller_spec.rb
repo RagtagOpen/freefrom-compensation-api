@@ -16,6 +16,7 @@ describe ResourceCategoriesController, type: :controller do
         expect(response.status).to eq(200)
 
         body = JSON.parse(response.body)
+        expect(body.length).to eq(2)
       end
     end
 
