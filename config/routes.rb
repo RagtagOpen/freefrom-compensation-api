@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   post 'user_tokens' => 'user_token#create'
   get '/users/current'  => 'users#current'
 
-  resources :resource_categories, only: [:show, :create, :update, :destroy] do
+  resources :resource_categories, only: [:index, :show, :create, :update, :destroy] do
     resources :resources, only: [:create]
     resources :mindsets, only: [:create]
   end

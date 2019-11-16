@@ -6,6 +6,32 @@ describe ResourceCategoriesController, type: :controller do
   it_behaves_like 'an unauthenticated object', ResourceCategory
   it_behaves_like 'an object authenticated with a regular user'
 
+  describe '#index' do
+    context 'where resource categories exist' do
+      let!(:resource_category1) { create(:resource_category) }
+      let!(:resource_category2) { create(:resource_category) }
+
+      it 'returns all resource_category' do
+        get :index
+        expect(response.status).to eq(200)
+
+        body = JSON.parse(response.body)
+        expect(body.length).to eq(2)
+      end
+    end
+
+    context 'where no resource categories exist' do
+      it 'returns an empty array' do
+        get :index
+        expect(response.status).to eq(200)
+
+        body = JSON.parse(response.body)
+        expect(body).to be_a(Array)
+        expect(body).to be_empty
+      end
+    end
+  end
+
   context 'with admin user' do
     setup_admin_controller_spec
 
