@@ -1,17 +1,25 @@
 state: AL
 resources:
   - resource_category: Victims of Crime Act (VOCA)
-    who: >
+    who: |
       You are eligible to apply if you were harmed as the result of a violent crime or if you are the dependent of someone who was killed as the result of a crime.
 
       Elligible crimes include:
+
       * Domestic violence
+
       * Manslaughter
+
       * Assault
+
       * Kidnapping
+
       * Sexual assault
+
       * Robbery
+
       * Arson
+
       * Human trafficking
 
       TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
@@ -20,15 +28,23 @@ resources:
     time: On average, it takes 5.5 months for an application to be approved or denied.
     cost: It is free to apply.
     award: You can receive up to $20,000 for your expenses.
-    covered_expenses: >
+    covered_expenses: |
       You can get compensation for the following expenses:
+
       * Medical expenses
+
       * Lost wages
+
       * Rehabilitation
+
       * Counseling
+
       * Funeral expenses
+
       * Property damage
+
       * Relocation costs
+
       * Travel
     likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-to Apply” below for more information.
     safety: This application is made directly to the state. You will not need to confront the person who harmed you to apply.
@@ -59,7 +75,7 @@ resources:
       - "TIP: You can check the status of your application by entering your claim number [here](https://acvcc.alabama.gov/status.asp). If you don’t know your claim number, request your number by [email](mailto:info@acvcc.alabama.gov)."
       - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, [email](mailto:info@acvcc.alabama.gov) or call the Alabama Crime Victims Compensation Commission using the information listed on the application."
     what_if_i_disagree:
-      - TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully.
+      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - You must sign a request for a hearing for appeal and write a letter requesting an appeal within 30 days after receiving the decision. Deliver the letter and request to the address listed in the application by regular or certified mail.
       - Within 30 days of sending the letter and request, you will receive a notice with the date of the hearing.
       - In the hearing, you will have a chance to explain to why your application should be approved.
@@ -72,25 +88,42 @@ resources:
     time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced.
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely it will be that you will get compensation.
-    covered_expenses: >
+    covered_expenses: |
       You can get reimbursed for expenses including for the following expenses:
+
       * Lost or damaged property
+
       * Medical expenses
+
       * Burial expenses
+
       * Lost wages
+
       * Relocation costs
+
       * Other out-of-pocket costs directly related to the crime
+
       * Crimes Eligible for Specific Restitution
+
         * **First Degree Rape by a Repeat Offender:** If someone is convicted of rape in the first degree and has one or more prior convictions, the court must order that person to pay restitution of at least $10,000.
+
         * **Human Trafficking Victims:** Any profits that the wrongdoer earned through human trafficking shall be used to pay restitution to victims.
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
-    story: >
+    story: |
+
+
       * You must share your story:
+
         * With the police when you report the crime
+
         * In front of the grand jury
+
         * With the District Attorney and Restitution Officer assigned to your case
+
       * You may have to share your story:
+
         * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
+
     challenges:
       - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
       - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
@@ -109,10 +142,11 @@ resources:
       - "Step 8: If the judge awarded you restitution but the defendant won’t pay, contact the District Attorney’s office in your county for help."
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less.
-    when: >
+    when: |
       You must file claims for false imprisonment, assault, and battery within **6 years** of the wrongful conduct, and for personal injury within **2 years** of the injury.
+
       TIP: Check out [this resource](https://www.lawyers.com/legal-info/research/alabama/alabama-statutes-of-limitations.html) to see deadlines for other types of claims.
-    where: >
+    where: |
       You must file your small claims case in the Small Claims Division of the District Court in the county where the person that harmed you lives or has an office.
       TIP: You can find the location and contact information for the District Court in each county [here](https://ballotpedia.org/Alabama_District_Courts).
     time: The whole process generally takes several weeks to several months.
@@ -140,7 +174,7 @@ resources:
       - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
       - "Step 10: Present your case, closely following any directions given by the judge."
       - "Step 11: Receive the judge’s order either at the end of the hearing or later in the mail."
-      - >
+      - |
         Step 12: If the judge awards you a judgment, the defendant has 14 days to pay you. It is your responsibility to collect the compensation if the defendant does not pay voluntarily. There are two ways to try to collect your compensation (both ways require you to pay a fee):
         * [Writ of Execution](http://eforms.alacourt.gov/Civil%20Forms/Writ%20of%20Execution.pdf)  - allows the sheriff to seize property belonging to the wrongdoer.
         * [Process of Garnishment](http://eforms.alacourt.gov/Civil%20Forms/Process%20of%20Garnishment.pdf) – the court directs that wages be seized to pay you.
@@ -165,15 +199,23 @@ resources:
     steps:
       - "Step 1: Find an attorney you trust."
       - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
-      - >
+      - |
         TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
           * Your name and address
+
           * The name and address of the person that harmed you
+
           * Date of the incident(s)
+
           * Brief description of the incident(s)
+
           * Itemized list of costs that resulted from the incident(s)
+
           * Copies of important documents
+
           * If you know it, the income / assets of the person that harmed you
+
           * If you can, the type of claim you want to bring against the person that harmed you
     resources:
       - "[Alabama State Bar](https://www.alabar.org)"
