@@ -7,7 +7,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins ['localhost:5000', 'http://freefrom-compensation-dev.s3-website-us-east-1.amazonaws.com']
+    origins ['localhost:5000', 'http://freefrom-compensation-dev.s3-website-us-east-1.amazonaws.com', 'https://compass.freefrom.org']
 
     resource '*',
       headers: :any,
