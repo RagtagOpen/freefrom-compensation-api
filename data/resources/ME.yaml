@@ -1,0 +1,240 @@
+state: ME
+resources:
+  - resource_category: Victims of Crime Act (VOCA)
+    who: |
+      You are eligible to apply if you were harmed as the result of a violent crime or if you are the legal dependent or family member of someone who was killed as the result of a crime. 
+
+      Eligible crimes include:
+
+      * Domestic violence
+
+      * Assault
+
+      * Murder 
+
+      * Sexual assault or exploitation
+
+      * Kidnapping
+
+      * Robbery
+
+      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+    where: You are eligible to apply if the crime happened in Maine.
+    when: The application must be _received_ within **3 years** after the date of the crime.
+    time: On average, it takes 4.5 months for an application to be approved or denied.
+    cost: It is free to apply. 
+    award: You can receive up to $15,000 for your expenses.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical bills
+
+      * Dental bills
+
+      * Counseling costs
+
+      * Funeral costs
+
+      * Lost income
+
+      * Home security
+
+      * Other out-of-pocket costs directly related to the crime
+
+    likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-to Apply” below for more information.
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
+    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
+    attorney: You do not need an attorney to apply.
+    challenges:
+      - "You Must Report Crime to the Police: You must report the crime within **5 days** of the crime and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "Cooperation is Required: You must cooperate with the police during their investigation and with anyone investigating your application."
+      - "Not All Costs Are Covered: You cannot get reimbursed for property damage, pain and suffering, or expenses that are not related to the crime."      
+    steps:
+      - "Step 1: Report the crime to the police within **5 days** of the incident and get a police report."
+      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: After carefully reading the [Instructions for Victims Compensation Program Application](https://www.maine.gov/ag/forms/index.shtml)  fill out the [Application for Crime Victim Compensation](https://www.maine.gov/ag/forms/index.shtml) on your own or work with a lawyer or a [Victim Witness Advocate](https://www.maine.gov/corrections/VictimServices/documents/VWABrochure.pdf)."
+      - "Step 4: Attach the police report and copies of bills for each expense you include in your application."
+      - "Step 5: Sign and date **both** the medical Release and the Agreement and Warning on page 2 of the application."
+      - |
+        Step 6: Mail or deliver in person the completed application along with any other documents to:
+
+
+        Maine Victims’ Compensation Program
+
+        Office of the Attorney General 
+
+        6 State House Station
+
+        Augusta, Maine 04333
+
+
+      - "TIP: If you are close to the 3-year deadline but don’t have certain documents (police report, invoices, receipts) do not wait to submit your application. Instead, submit the application and follow-up with the documents when you get them."
+      - "TIP: You can also contact your local Prosecutorial District Attorney’s Victim Witness Advocate for help filling out your application. To get connected with your Victim Witness Advocate, [contact](https://www.maine.gov/corrections/VictimServices/documents/VWABrochure.pdf) the office of the District Attorney in your county."
+    what_to_expect:
+      - Once the Board receives your completed application, it will review your entire application to make sure all of the information you’ve included is true and accurate.
+      - The Board will approve or deny your application without a hearing and send you their decision in the mail.
+      - TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application call the Victims’ Compensation Program at (207) 624-7882.
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for any instructions about how to appeal."
+      - If the Board denies your application, you can request a hearing to appeal the decision or to give more information to the Board. The hearing could be in person or by phone.
+      - "TIP: Bring all of the documents you have gathered that relate to the crime and show your costs with you to any scheduled hearing."
+      - If you have the hearing and the Board still denies your application, you can appeal the decision to the Maine Superior Court. You will likely need to hire an attorney to handle the case and you will have to pay court fees.
+    resources:
+      - "[Victim Witness Services](https://www.maine.gov/corrections/VictimServices/documents/VWABrochure.pdf)"
+      - "[Maine Crime Victims’ Compensation Program](https://www.maine.gov/ag/crime/victims_compensation/)"
+      - "[Main Crime Victims’ Compensation Program - Detailed Program Description](https://www.maine.gov/ag/crime/victims_compensation/detailed_program_description.shtml)"
+      - "[Forms & Sample Documents](https://www.maine.gov/ag/forms/index.shtml)"
+  - resource_category: Criminal Restitution
+    who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
+    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced.
+    cost: It is free of charge.
+    likelihood: A Prosecutorial District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecutorial District Attorney of your costs, the more likely it will be that you will get compensation.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Counseling costs
+
+      * Medical bills
+
+      * Dental bills
+
+      * Property damage 
+
+      * Funeral expenses
+
+      * Lost wages
+
+      * Other out-of-pocket expenses directly related to the crime
+
+    safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
+    story: |
+
+      * You must share your story:
+
+        * With the police when you report the crime; and
+
+        * With the Prosecutorial District Attorney assigned to our case.
+
+      * You may have to share your story:
+
+        * If the Prosecutorial District Attorney assigned to your case asks you to testify in the criminal case or make a statement at the sentencing hearing.
+
+    challenges:
+      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the Prosecutorial District Attorney assigned to your case for support."
+    steps:
+      - "Step 1: Report the crime to law enforcement."
+      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
+      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: Contact the office of the Prosecutorial District Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
+      - "TIP: Find the location of the office of the Prosecutorial District Attorney in each county [here](https://criminal.findlaw.com/criminal-legal-help/maine-district-attorneys.html)."
+      - "Step 4: Share the information and documents you have gathered with the attorney assigned to your case."
+      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, especially the sentencing hearing."
+      - "Step 6: At the sentencing hearing, the Prosecutorial District Attorney assigned to your case will present evidence of your costs and ask the Judge to award you criminal restitution."
+      - "TIP: Collecting restitution can be challenging. Read [this resource](https://www.maine.gov/corrections/VictimServices/CourtOrderedRestitution.pdf) for more information and ask the attorney assigned to your case for support if you need help."
+    resources:
+      - "[Victim Friendly Guide to Maine Court Ordered Restitution](https://www.maine.gov/corrections/VictimServices/CourtOrderedRestitution.pdf)"
+  - resource_category: Small Claims Court
+    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less.
+    when: |
+      You must file claims for assault, battery, and false imprisonment within **2 years** of the date of the wrongful action; and for personal injury and property damage within **6 years** of the injury or damage.
+
+      TIP: Check out [this resource](https://statelaws.findlaw.com/maine-law/maine-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+    where: |
+      You must file your small claims case in the District Court in the county where the person that harmed you lives or where the harm happened.
+
+      TIP: You can find the location of the District Court in each county [here](https://www.courts.maine.gov/maine_courts/district/index.shtml).
+    time: The whole process will generally take several weeks to several months.
+    covered_expenses: The total amount you are seeking must be $6,000.00 or less.
+    cost: |
+      The fee to file a case is $70 and the fee to request a hearing to discover the defendant’s assets (called a disclosure hearing) is $30.
+
+      TIP: If you can’t afford to pay the fees, you can ask for a waiver by completing and filing [this form](https://www.courts.maine.gov/fees_forms/forms/pdf_forms/cv/CV-067,%20App%20to%20Proceed%20without%20Fee,%20Rev.%2003_13.pdf).
+    likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
+    safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
+    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
+    attorney: |
+      You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court. 
+
+      TIP: Still have questions? [Here](https://courts.maine.gov/maine_courts/small_claims/sc-guide.pdf)  is a great resource to find out more.
+    challenges:
+      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money in [this resource](https://courts.maine.gov/maine_courts/small_claims/sc-guide.pdf)."
+    steps:
+      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 2: Locate the District Court division where you plan to file your case. You can find a list of the divisions [here](https://www.courts.maine.gov/maine_courts/district/index.shtml). This is where you will file all your paperwork. It should be filed where the event occurred, where the defendant lives, or where they work."
+      - "Step 3: Fill out the [Statement of Claim Form](https://www.courts.maine.gov/fees_forms/forms/pdf_forms/sc/SC-001,%20Statement%20of%20Claim,%20Rev.%2006.14.pdf). You can also get a Statement of Claim Form from the clerk’s office in the District Court. Attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
+      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to file with the court, send to the defendant, and keep for your records."
+      - "Step 4: File the Statement of Claim Form and all attachments with the court and pay the filing fee."
+      - "TIP: If you can’t afford to pay the fees, you can ask for a waiver by completing and filing [this form](https://www.courts.maine.gov/fees_forms/forms/pdf_forms/cv/CV-067,%20App%20to%20Proceed%20without%20Fee,%20Rev.%2003_13.pdf)."
+      - |
+        Step 5: The defendant must get a copy of your Statement of Claim form. You can do this in any of the following ways: 
+
+        * Clerk’s Office Service: You can have the clerk’s office send the Statement of Claim to the defendant. You will have to fill out a [form](https://www.courts.maine.gov/fees_forms/forms/pdf_forms/sc/SC-006,%20Aff%20&%20Req%20for%20Service,%20Rev.%2006.14.pdf) and pay a fee.
+
+        * First-Class Mail, Postage Prepaid: You can send a copy of the Statement of Claim and any attachments along with 2 [Notice of Service forms](https://www.courts.maine.gov/fees_forms/forms/pdf_forms/sc/SC-005,%20Notice%20of%20Service,%20Rev.%2006.14.pdf) in an envelope along with a stamped, self-addressed envelope that the defendant can use to send the signed Notice of Service forms back to you. 
+
+        * TIP: Do not use the First-Class Mail option if you do not want the defendant to know your address.
+
+        * Restricted Delivery, Certified Mail, Return Receipt Requested: Buy and fill out a green certified mail card from the U.S. Post Office and attach it to your first-class, postage-paid envelope. The defendant must sign for the envelope at the post office and the post office will send you the green card. If, after about 3 weeks, the defendant has not signed, the post office will tell you that service has failed. If that happens, you will have to arrange for the sheriff’s office to serve the Statement of Claim.
+
+        * By the Sheriff’s Office: The Sheriff in the county where the defendant lives can deliver the documents for you. Make sure that the second page of the Statement of Claim form is included because this is what the sheriff fills out when service is made. You will have to pay a fee.
+      - "Step 6: You will receive proof of service once the defendant gets your documents. File that proof of service and the original Statement of Claim with the clerk of the District Court within 20 days."
+      - "Step 7: You will get a notice from the court with a hearing date. Do not miss this court date."
+      - "Step 8: Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
+      - "TIP: If you and the defendant attend the hearing, the judge may ask if you are willing to speak with a mediator or with one another directly to resolve the issues without a hearing. You have the right to refuse."
+      - "Step 10: Present your case, closely following any directions given by the judge."
+      - "Step 11: If the defendant does not appear, the judge will give you a default judgment. Find more information about default judgments and the Small Claims Court process in general, [here](https://courts.maine.gov/maine_courts/small_claims/sc-guide.pdf)."
+      - "Step 12: If you win your case, you can request a disclosure hearing where the defendant has to tell the judge about their income, earnings, and assets that can be used to pay the judgment. Read more about this process [here](https://courts.maine.gov/maine_courts/small_claims/sc-guide.pdf). A Request for Disclosure Hearing form can be found [here](https://www.courts.maine.gov/fees_forms/forms/pdf_forms/sc/sc003-request-for-disclosure-hearing.pdf)."
+    what_if_i_disagree:
+      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "Step 1: Generally, you must file a notice of appeal with the clerk of the Superior Court within **30 days** after the date of the judgment and pay the filing fee."
+      - "TIP: Appealing a small claims judgment is more complicated than bringing a small claims case, so you will probably need to hire a lawyer. [Here](http://www.mainebar.org/page/AttorneyRequest) is a resource for finding a lawyer."
+    resources:
+      - "[A Guide to Small Claims Cases](https://courts.maine.gov/maine_courts/small_claims/sc-guide.pdf)"
+      - "[Maine State Bar Association’s Lawyer Referral Service](https://mainebar.community.lawyer/)"
+      - "[Pine Tree Legal Assistance](https://ptla.org/)"
+      - "[Small Claims Court Forms](https://www.courts.maine.gov/fees_forms/forms/index.shtml#sc)"
+  - resource_category: Civil Tort
+    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
+    when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
+    time: The whole process will most likely take over a year.
+    cost: Hundreds or even thousands of dollars.
+    likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
+    safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way.
+    challenges:
+      - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
+    steps:
+      - "Step 1: Find an attorney you trust."
+      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - |
+        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        * Your name and address
+
+        * The name and address of the person that harmed you
+
+        * Date of the incident(s)
+
+        * Brief description of the incident(s)
+
+        * Itemized list of costs that resulted from the incident(s)
+
+        * Copies of important documents
+
+        * If you know it, the income / assets of the person that harmed you
+
+        * If you can, the type of claim you want to bring against the person that harmed you
+
+    resources:
+      - "[Maine Lawyers and Law Firms Near You](https://lawyers.findlaw.com/lawyer/state/maine)"
+      - "[Find an Attorney in Maine](https://www.martindale.com/by-location/maine-lawyers/)"
+      - "[Find a Qualified Lawyer in Maine](https://mainebar.community.lawyer)"
+      - "[Find the Right Lawyer Top Rated Attorneys in Maine](https://www.legalmatch.com/find/maine-lawyers.html)"

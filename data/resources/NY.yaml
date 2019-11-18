@@ -1,0 +1,248 @@
+state: NY
+resources:
+  - resource_category: Victims of Crime Act (VOCA)
+    who: |
+      You are eligible to apply if you were harmed as the result of a crime, are a close relative or dependent of someone who died as the result of a crime, or are a child who witnessed a crime.
+
+      Eligible crimes include:
+
+      * Domestic violence
+      
+      * Assault 
+      
+      * Sexual assault 
+      
+      * Child abuse 
+      
+      * Stalking 
+      
+      * Kidnapping
+      
+      * Arson 
+      
+      * Robbery
+      
+      * Human trafficking
+
+      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+    where: You are eligible to apply if the crime happened in New York, or if the crime happened in a state that doesn’t give compensation to non-residents.
+    when: The application must be _received_ within **1 year** after the date of the crime.
+    time: On average, it takes 3.5 months for an application to be approved or denied.
+    cost: It is free to apply.
+    award: New York has maximum awards based on expense type. You can find a list of the maximum award amounts [here](https://ovs.ny.gov/sites/default/files/brochure/ovs-crime-victim-brochure-2018-web-final-3-18.pdf).
+    covered_expenses: |
+      You can receive compensation for the following expenses:
+
+      * Medical bills
+      
+      * Pharmacy costs
+      
+      * Counseling expenses
+      
+      * Lost or damaged property
+      
+      * Lost wages
+      
+      * Funeral-related expenses
+      
+      * Occupational/vocational rehabilitation
+      
+      * Home security-related costs
+      
+      * Emergency housing costs
+      
+      * Relocation costs 
+
+    likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-to Apply” below for more information.
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
+    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
+    attorney: You do not need an attorney to apply.
+    challenges:
+      - "You Must Report the Crime to the Police: You must report the crime to police within **1 week** of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "Cooperation is Required: You must cooperate with the police when they investigate the crime and anyone reviewing and investigating your application for compensation."
+      - "Not All Costs Are Covered: You cannot get compensation for pain and suffering or mental anguish."     
+    steps:
+      - "Step 1: Report the crime to the police within **1 week** of the incident and get a police report."
+      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: You can apply online or by mail. To apply online, access the Online Application portal [here](https://vsp.ovs.ny.gov/vsp/index.html). To apply by mail, you can access the application online [here](https://ovs.ny.gov/sites/default/files/general-form/ovs-claim-application-9-2015.pdf), or request an application at a police station, precinct house, or hospital emergency room."
+      - "Step 4: After carefully reading the instructions, complete and sign or electronically verify the application and attach or upload the documents you gathered that relate to the crime or show the costs you are trying to get covered."
+      - "TIP: Consider locating a Victim Assistance Program (VAP) through the [OVS website](https://ovs.ny.gov/locate-program), or by calling 1-800-247-8035. VAP staff can offer assistance in completing applications and can provide other direct services and resources."
+      - "Step 5: Complete and sign the “Authorization for Release of Health Information Pursuant to HIPAA” form attached to the application for each health service provider listed on the application. If you need more than one HIPAA form, you can print extra copies or photocopy a blank form."
+      - |
+        Step 6: Submit the completed application and other documents through the online portal or in person or by mail to:
+
+
+        New York State Office of Victim Services
+
+        AE Smith Building 
+
+        80 S. Swan Street 
+
+        Albany, NY  12210-8002
+
+      - "TIP: Remember, **your application must be received within 1 year after the crime occurred**. It’s a good idea to follow-up with a phone call to confirm that your application was received by calling 800-247-8035."
+      - "TIP: If you are close to the 1-year deadline, but don’t have certain documents (police report, invoices, receipts) do not wait to submit your application. Instead, submit your application and follow-up with the documents when you get them."
+    what_to_expect:
+      - The New York State Office of Victim Services will review your application and other documents to make sure all of the information you’ve included is true and accurate.
+      - A representative might contact you for additional information. If they do, respond to the request as soon as possible.
+      - You will be issued a written decision approving or denying your application and explaining the decision.
+      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call the Office of Victim Services: 800-247-8035."
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - If you don’t agree with the decision, you have **30 days** to submit a written appeal to the Director of OVS.
+      - A panel of three OVS staff members will review your claim decision.
+      - The appeal panel’s decision will be final and can only be reviewed by filing a claim in a county Supreme Court against OVS.
+    resources:
+      - "[New York State Office of Victim Services](https://ovs.ny.gov/victim-compensation)"
+      - "[Claim Application and Instructions](https://ovs.ny.gov/sites/default/files/general-form/ovs-claim-application-9-2015.pdf)"
+  - resource_category: Criminal Restitution
+    who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
+    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced.
+    cost: It is free of charge.
+    likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely it will be that you will get compensation.
+    covered_expenses: |
+      You can get compensation for the following expenses: 
+
+      * Medical bills
+      
+      * Dental bills
+      
+      * Counseling expenses
+      
+      * Loss of earnings 
+      
+      * Stolen or damaged property
+      
+      * Funeral-related costs
+      
+      * Other out-of-pocket expenses directly related to the crime
+
+    safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
+    story: |
+
+      * You must share your story:
+
+        * With the police when you report the crime; and
+
+        * With the District Attorney assigned to your case.
+
+      * You may have to share your story:
+
+        * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
+
+    challenges:
+      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+    steps:
+      - "Step 1: Report the crime to law enforcement."
+      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
+      -"Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: Contact the office of the District Attorney in the county where the crime happened and ask to speak to the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
+      - "TIP: You can locate the office of the District Attorney for each county [here](https://www.nypti.org/new-york-district-attorneys/)."
+      - "Step 4: Share the information and documents you’ve gathered about the crime and your costs to the attorney assigned to your case."
+      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "Step 6: At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the Judge to award you criminal restitution."
+      - "TIP: Collecting restitution can be challenging. [Here](https://ovs.ny.gov/faq-type/restitution) is a helpful resource to learn more."
+    resources:
+      - "[A Victim’s Guide to Restitution in New York State](https://victimsofcrime.org/docs/restitution-toolkit/f4_ny-2011-victims-restitution-brochure.pdf?sfvrsn=2)"
+      - "[Office of Victim Services - Restitution](https://ovs.ny.gov/faq-type/restitution)"
+      - "[Civil Justice for Victims of Crime in New York](https://victimsofcrime.org/docs/default-source/CJ%20Brochures/ny.pdf?sfvrsn=4)"
+  - resource_category: Small Claims Court
+    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is either $3,000 or less, or $5,000 or less, depending on where you file.
+    when: |
+      You must file claims for assault and battery within **1 year** of the wrongful conduct; for claims for false imprisonment within **1 year** of the imprisonment; and for personal injury and property damage within **3 years** of the injury or damage.
+
+      TIP: Check out [this resource](https://statelaws.findlaw.com/new-york-law/new-york-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+    where: |
+
+      * **If the person that harmed you lives or works in a Town or Village:** You can file your small claims case in the Small Claims Court**: 
+
+        * In that Town & Village Court for up to $3,000; or
+
+        * In any City Court in that county for up to $5,000.
+
+      * **If the person lives or works in a City:** You can file your small claims case in the Small Claims Court in any CIty Court in that County, for up to $5,000.
+
+      TIP: You can find the locations of the City Courts and Town & Village Courts in New York [here](https://www.nycourts.gov/courts/).
+    time: The whole process will generally take several weeks to several months.
+    covered_expenses: The total amount you are seeking must be $5,000 or less in City Court; $3,000 or less in Town & Village Court.
+    cost: |
+      You will have to pay a filing fee of $10-$20, depending on the court and the amount of money you are asking for. Contact the clerk of the court where you’re filing your case to ask about specific fees.
+
+      TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. Find out more about how to ask for a fee waiver [here](https://www.nycourts.gov/courthelp/GoingToCourt/feeWaiver.shtml).
+    likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
+    safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
+    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
+    attorney: |
+      You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you are requesting.
+
+      TIP: Still have questions? [Here](http://www.nycourts.gov/courthelp/pdfs/SmallClaimsHandbook.pdf) is a great resource to find out more.
+    challenges:
+      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging.  Read more about how to collect a judgment [here](https://www.nycourts.gov/CourtHelp/AfterCourt/collection.shtml)."
+    steps:
+      - "Step 1: Collect any and all documents and other evidence that support your claim and show the amount of your damages."
+      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 2: Locate the proper court in the county or city where the person that harmed you lives or where the harm occurred. This is where you will file all your paperwork."
+      - "TIP: You can find the locations of the City Courts and Town & Village Courts in New York [here](https://www.nycourts.gov/courts/)."
+      - "Step 3: Go to the proper court and ask the clerk for the forms you need to complete to start a small claims case. These forms will likely include some kind of complaint and summons."
+      - "Step 4: After carefully reading the instructions, complete the forms and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
+      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so you’ll have enough to file with the court, send to the defendant, and keep for your records."
+      - "Step 5: Pay the filing fee."
+      - "TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. Find out more about how to ask for a fee waiver [here](https://www.nycourts.gov/courthelp/GoingToCourt/feeWaiver.shtml)."
+      - "Step 6: The defendant must get copies of every document you file. The clerk will send the notice of claim by mailing it to the defendant. If the clerk can’t deliver your documents to the defendant for any reason, the clerk will tell you what to do."
+      - "Step 7: The court will set a date and time for the small claims hearing. Do not miss this court date."
+      - "Step 8: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
+      - "Step 10: Present your case, closely following any directions given by the judge."
+      - "Step 11: Receive the judge’s order either at the end of the hearing or later in the mail."
+      - "Step 12: If you win your small claims case and are awarded a judgment, you will need to take steps to collect that money. Read more about how to collect a judgment [here](https://www.nycourts.gov/CourtHelp/AfterCourt/collection.shtml)."
+    what_if_i_disagree:
+      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "Step 1: You must file a [Notice of Appeal](https://www.nycourts.gov/courts/nyc/civil/forms/noticeofappeal.pdf) with the clerk of the small claims court where the judge heard your case within **30 days** after the judge makes their decision."
+      - "Step 2: You must pay a Court filing fee.  You will also have to pay for a transcript for the higher court."
+      - "TIP: Appeals are complicated and require additional fees. It’s a good idea to find a lawyer to help you through this process."
+    resources:
+      - "[Small Claims Guide](http://www.nycourts.gov/CourtHelp/SmallClaims/index.shtml)"
+      - "[City, Town & Village Courts - Small Claims Court](https://www.nycourts.gov/courts/townandvillage/faqs.shtml#small9)"
+      - "[Guide to Small Claims Court - The Rural Law Center of New York, Inc.](http://www.rurallawcenter.org/docs/Guide%20to%20Small%20Claims%20Court.pdf)"
+      - "[Starting an Appeal](http://www.nycourts.gov/courthelp/aftercourt/appealsstarting.shtml)"
+  - resource_category: Civil Tort
+    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
+    when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
+    time: The whole process will most likely take over a year.
+    cost: Hundreds or even thousands of dollars.
+    likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
+    safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way.
+    challenges:
+      - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
+    steps:
+      - "Step 1: Find an attorney you trust."
+      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - |
+        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes: 
+
+        * Your name and address
+        
+        * The name and address of the person that harmed you
+        
+        * Date of the incident(s)
+        
+        * Brief description of the incident(s)
+        
+        * Itemized list of costs that resulted from the incident(s)
+        
+        * Copies of important documents
+        
+        * If you know it, the income / assets of the person that harmed you
+        
+        * If you can, the type of claim you want to bring against the person that harmed you
+
+    resources:
+      - "[Find an Attorney](https://ag.ny.gov/find-attorney)"
+      - "[LawHelpNY.org](https://www.lawhelpny.org/)"
