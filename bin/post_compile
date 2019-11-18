@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -eo pipefail
+
+indent() {
+    RE="s/^/       /"
+    [ $(uname) == "Darwin" ] && sed -l "$RE" || sed -u "$RE"
+}
+
+echo "-----> Migrating Database"
+bundle exec rake db:migrate  2>&1 | indent
+echo "-----> Importing Data"
+bundle exec rake import_data 2>&1 | indent
+echo
