@@ -1,0 +1,245 @@
+state: VA
+resources:
+  - resource_category: Victims of Crime Act (VOCA)
+    who: |
+      You are eligible to apply if you were harmed as the result of a crime.
+
+      Eligible crimes include:
+
+      * Abduction
+
+      * Arson
+
+      * Assault
+
+      * Breaking & entering
+
+      * Domestic Violence
+
+      * Homicide
+
+      * Human trafficking
+
+      * Robbery
+
+      * Stalking
+
+      * Sexual assault
+
+      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+    where: You are eligible to apply if the crime happened in Virginia or if you live in Virginia and the crime happened in a country that does not offer compensation to crime victims.
+    when: The application must be received within 1 year after the date of the crime. If you apply after a year has passed, you must include a letter with your application explaining why you are applying late.
+    time: On average, it takes six to seven months for an application to be approved or denied.
+    cost: It is free to apply.
+    award: You can receive up to $25,000 for your expenses.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical expenses
+
+      * Funeral expenses
+
+      * Lost wages
+
+      * Prescriptions
+
+      * Crime scene clean-up
+
+      * Relocation
+
+      * Temporary housing
+
+      * Counseling
+    likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How to Apply” below for more information.
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
+    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
+    attorney: You do not need an attorney to apply.
+    challenges:
+      - "You Must Report the Crime to the Police: You must report the crime within **5 days** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "Cooperation Is Required: You must cooperate with the police when they investigate the crime and anyone reviewing and investigating your application for compensation. "
+      - |
+        Not All Costs Are Covered: You cannot get compensation for:
+
+        * Pain and suffering
+
+        * Attorney’s fees
+
+        * Property loss or damage
+    steps:
+      - "Step 1: Report the crime to the police within 5 days of the incident and get a police report. "
+      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: After carefully reading [the instructions](http://www.virginiavictimsfund.org/content/vvf-claim-form), complete [this application](http://www.virginiavictimsfund.org/sites/default/files/Forms/VVF-Claim-Form.pdf) and attach the police report and copies of bills for each expense you include in your application."
+      - "TIP: You can get help filling out the application through a Victim Witness Assistant Program. Find the location and contact information for all of the Programs [here](https://www.dcjs.virginia.gov/sites/dcjs.virginia.gov/files/publications/victims/virginia-victim-assistance-directory.pdf)."
+      - "Step 4: Complete the Notarized Authorization on page 9 of the application and sign in front of a notary. Read [this resource](http://www.cicf.state.va.us/sites/default/files/Documents/Notarized-Authorization-Guide.pdf) for more information."
+      - |
+        Step 5: Mail the completed application, along with any other documents, to:
+
+
+        Virginia Victims Fund
+
+        P.O. Box 26927
+
+        Richmond, VA 23261
+
+
+        You can also submit via fax to: 804-823-6905
+      - "TIP: Remember, **your application must be received within one year after the crime occurred**. It’s a good idea to follow up with an [email](mailto:info@virginiavictimsfund.org) to info@virginiavictimsfund.org, or a phone call to 1-800-552-4007."
+      - "TIP: If you are close to the one-year deadline but don’t have certain documents (police report, invoices, receipts), do not wait to submit your application. Instead, submit the application and follow up with the documents when you get them."
+    what_to_expect:
+      - The Virginia Victims Fund will review and investigate your entire application to make sure all of the information you’ve included is true and accurate.
+      - The Virginia Victims Fund might ask you for more information. Make sure to check your mail and/or email frequently, and to respond to any request as soon as possible.
+      - The Virginia Victims Fund will approve or deny your application and will send you a written decision in the mail.
+      - The determination will state whether your request is granted (and state an amount to be paid) or denied, and state the reasons for the determination.
+      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Fund to let them know. Contact the Fund with an [email](mailto:info@virginiavictimsfund.org) to info@virginiavictimsfund.org, or a phone call to 1-800-552-4007."
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "You must file a written request for reconsideration with the Virginia Victim Fund within **45 days** after you receive the decision."
+      - You must explain why you disagree with the decision, and attach or include any other information or documents that you would like the state to consider.
+      - If you don’t agree with the decision after reconsideration, you can file a second appeal within 45 days, and you are ultimately permitted to file a third appeal if you do not agree with subsequent determinations.
+      - After your third appeal, if you still do not agree with the determination, you may file a formal appeal with the Virginia Court of Appeals. It’s a good idea to look for an attorney to help you with this process.
+    resources:
+      - "[Victims of Crime in Virginia](http://www.cicf.state.va.us/content/victims-crime-virginia)"
+      - "[Virginia Victims Fund - FAQs](http://www.cicf.state.va.us/faqs)"
+      - "[Virginia Victims Fund - Victim Forms](http://www.cicf.state.va.us/victim-forms)"
+      - "[Virginia Victims Fund - Application Instructions](http://www.cicf.state.va.us/content/vvf-claim-form)"
+      - "[Virginia Victims Fund - Application](http://www.cicf.state.va.us/sites/default/files/Forms/VVF-Claim-Form.pdf)"
+      - "[Virginia Victims Fund - Payment Policy](http://www.cicf.state.va.us/content/payment-policy)"
+      - "[Virginia Victims Assistance Directory](https://www.dcjs.virginia.gov/sites/dcjs.virginia.gov/files/publications/victims/virginia-victim-assistance-directory.pdf)"
+  - resource_category: Criminal Restitution
+    who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
+    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant, so the timing of the criminal restitution decision depends on when the defendant is sentenced.
+    cost: It is free of charge.
+    likelihood: A Commonwealth Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Commonwealth Attorney of your costs, the more likely you are to get compensation.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical costs
+
+      * Dental costs
+
+      * Funeral costs
+
+      * Lost or damaged property
+
+      * Stolen goods
+
+      * Other out-of-pocket expenses resulting from the crime
+    safety: You may have to testify in front of the person that harmed you as part of the criminal case and/or at the sentencing hearing.
+    story: |
+
+      * You must share your story:
+
+        * With the police when you report the crime and it’s investigated; and
+
+        * With a Presentence Investigator, and complete a Victim Loss and Restitution Statement.
+
+      * You may have to share your story:
+
+        * If you are asked to testify in the criminal case or make a statement at the sentencing hearing.
+    challenges:
+      - "There Must Be a Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "Not All Costs Are Covered: You cannot get compensation for pain and suffering, or for emotional trauma."
+      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the Commonwealth Attorney assigned to your case for support."
+    steps:
+      - "Step 1: Report the crime to law enforcement."
+      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
+      - "Step 2: Gather all the information and documents you have relating to the costs you are trying to get covered. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: Contact the office of the Commonwealth’s Attorney in the county where the crime took place and ask to speak to the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
+      - "TIP: Find the location and contact information for the Commonwealth’s Attorney in each county [here](http://www.cas.state.va.us/cgi-bin/attorneySearch.cgi) by inputting the city or county where the crime happened."
+      - "Step 4: Share the information and documents you have gathered with the attorney assigned to your case. If you’re not sure what types of documents are necessary, ask the attorney for help."
+      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the trial and/or sentencing hearing."
+      - "Step 6: At the sentencing hearing, the Commonwealth’s Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "TIP: Collecting restitution can be challenging. Ask the Commonwealth’s Attorney assigned to your case for support. [Here](https://vadoc.virginia.gov/victim-services/victim-restitution/) is a helpful resource for more information."
+    resources:
+      - "[Victim Restitution Guide](http://vscc.virginia.gov/17%20Restitution%20Brochure-WEB-1.PDF)"
+      - "[Virginia Victim Restitution](https://vadoc.virginia.gov/victim-services/victim-restitution/)"
+  - resource_category: Small Claims Court
+    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
+    when: |
+      You must file claims for assault, battery, and false imprisonment within **2 years** after the wrongful conduct, and for property damage within **5 years** of the damage.
+
+      TIP: Check out [this resource](https://statelaws.findlaw.com/virginia-law/virginia-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+    where: |
+      You must file your small claims case in the General District Court in the county where the person who harmed you lives.
+
+      TIP: Find the location and contact information for the General District Court in each county using [this map](http://www.courts.state.va.us/courts/maps/home.html).
+    time: The whole process will generally take several weeks to several months.
+    covered_expenses: The total amount you are seeking must be $5,000.00 or less.
+    cost: |
+      Filing fees will vary depending on which county in which you file your case. You can check the fee amount by visiting [this website](http://webdev.courts.state.va.us/cgi-bin/DJIT/ef_djs_gdfees_calc.cgi), selecting the proper court (in the county where the person that harmed you lives or works), and selecting “Warrant In Debt – Small Claims” from the list of case types.
+
+      TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](https://selfhelp.vacourts.gov/node/14/filing-fees-waivers) is a great resource with the proper forms and instructions on how to request a waiver of the fees.
+    likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How to Apply” section below for more information.
+    safety: You will most likely have to face the person who harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
+    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
+    attorney: Lawyers are not allowed in small claims court. You will have to represent yourself.
+    challenges:
+      - "You Will Have to Represent Yourself: You will most likely have to face the person that harmed you in court and you will have to represent yourself."
+      - "Collecting a Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you, which may be challenging. Read more about collecting on your judgment in the section “Enforcing Your Judgment,” [here](https://selfhelp.vacourts.gov/node/11/small-claims)."
+    steps:
+      - "Step 1: Collect any and all documents and other evidence that support your claim and show the amount of your damages."
+      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place. "
+      - "Step 2: Locate the General District Court in the county where the person that harmed you lives. You can find the General District Court in each county using [this map](http://www.courts.state.va.us/courts/maps/home.html)."
+      - "Step 3: After carefully reading [the instructions](http://www.courts.state.va.us/forms/district/dc402inst.pdf), complete and sign the claim form, known as a “Warrant In Debt” form, located [here](http://www.courts.state.va.us/forms/district/dc402.pdf). You can also request a form from the clerk of the General District Court."
+      - "TIP: For more information on this process, Virginia has a self-help page located [here](https://selfhelp.vacourts.gov/node/11/small-claims)."
+      - "Step 4: Attach copies of documents that relate to what happened (for example, a police report) and that show all your costs (for example, medical bills) to the completed Warrant in Debt form."
+      - "TIP: Make at least three copies of all forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
+      - "Step 5: File the completed Warrant in Debt form and any attachments with the clerk of the General District Court, and pay any filing fees. "
+      - "TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](https://selfhelp.vacourts.gov/node/14/filing-fees-waivers) is a great resource with the proper forms and instructions on how to request a waiver of the fees."
+      - "Step 6: The defendant must get a copy of all the documents you file. You cannot deliver the documents yourself. It must be done by certified mail, or in person by the sheriff or a private process server. All three options require fees. Ask the clerk for support if you need it. "
+      - "Step 7: You will receive proof that the defendant received your documents (“proof of service”). File that proof with the clerk."
+      - "Step 8: The court will schedule a hearing or trial for your case (a “Return Date”). Do not miss this court date."
+      - "Step 9: Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "Step 10: Attend your court date. Bring your evidence and witnesses with you."
+      - "Step 11: Present your case, closely following any directions given by the judge."
+      - "TIP: [This resource](http://www.courts.state.va.us/resources/small_claims_court_procedures.pdf) has helpful information about what will happen at trial under “Trial Procedures."
+      - "Step 12: Receive the judge’s order either at the end of the hearing, or at a later date via mail."
+      - "Step 13: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. For more information, check out the “Enforcing the Judgment” section in [this resource](https://selfhelp.vacourts.gov/node/11/small-claims). Do not hesitate, after the judge makes their ruling, to request additional information from the court on how to collect the money."
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for any instructions on how to appeal."
+      - If you do not agree with the judge’s decision, you must file an appeal with the circuit court (check with the clerk on how to file directly to the circuit court) within **10 days** after the date of the judgment.
+      - The form for filing an appeal is [here](https://www.vbgov.com/government/departments/courts/juvenile-domestic-relations-court/Documents/court-forms/dc475.pdf)  (note that you should remove and replace information in the form that doesn’t apply to you). After you file the form, you will be required to pay an appeal bond within 30 days in order to move the appeal forward.
+      - "TIP: An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
+    resources:
+      - "[Virginia Small Claims – Self Help](https://selfhelp.vacourts.gov/node/11/small-claims) "
+      - "[Small Claims Court Procedures](http://www.courts.state.va.us/resources/small_claims_court_procedures.pdf)"
+      - "[Small Claims Courts and Procedures](https://law.richmond.edu/academics/clinics-skills/in-house/ip-clinic/pdf/doclib-memo-small-claims-courts,procedures.pdf)"
+      - "[Small Claims Forms](http://www.courts.state.va.us/forms/district/civil.html)"
+  - resource_category: Civil Tort
+    who: You can file a civil tort claim against the person who harmed you if the law recognizes a cause of action that fits the facts of your case.
+    when: Generally, a claim must be filed within one to two years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
+    time: The whole process will most likely take over a year.
+    cost: Hundreds or even thousands of dollars.
+    likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
+    safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or by their attorney. There will be professionals in the room to support you along the way.
+    challenges:
+      - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
+    steps:
+      - "Step 1: Find an attorney you trust."
+      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - |
+        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        * Your name and address
+
+        * The name and address of the person that harmed you
+
+        * Date of the incident(s)
+
+        * Brief description of the incident(s)
+
+        * Itemized list of costs that resulted from the incident(s)
+
+        * Copies of important documents
+
+        * If you know it, the income/assets of the person that harmed you
+
+        * If possible, the type of claim you want to bring against the person that harmed you
+    resources:
+      - "[Virginia - Pro Bono / Access to Legal Services](https://www.vsb.org/site/pro_bono)"
+      - "[Martindale - Find an Attorney in Virginia](https://www.martindale.com/by-location/virginia-lawyers/)"
+      - "[Virginia Lawyers](https://lawyers.law.cornell.edu/lawyers/virginia)"
