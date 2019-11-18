@@ -205,4 +205,23 @@ describe ResourcesController, type: :controller do
       end
     end
   end
+
+  describe '#search_by_category' do
+    let!(:resource_category) { create(:resource_category, slug: slug) }
+    let!(:resource) { create(:resource, state: state, resource_category_id: resource_category.id) }
+    let(:state) { 'NY' }
+    let(:slug) { 'small-claims-court' }
+
+    let(:params) { { slug: slug, state: state } }
+
+    it 'returns 200' do
+      get :search_by_category, params: params
+      expect(response.status).to eq(200)
+
+      body = JSON.parse(response.body)
+      expect(body['id']).to eq(resource.id.to_i)
+      expect(body['resource_category_id']).to eq(resource_category.id)
+      expect(body['state']).to eq(state)
+    end
+  end
 end

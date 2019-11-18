@@ -8,6 +8,7 @@ Rails.application.routes.draw do
   end
 
   get 'mindsets/:mindset_id/resources', to: 'resources#search'
+  get 'resource_categories/:slug/resources', to: 'resources#search_by_category'
 
   resources :resources, only: [:show, :update, :destroy]
   resources :mindsets, only: [:show, :update, :destroy, :index]
