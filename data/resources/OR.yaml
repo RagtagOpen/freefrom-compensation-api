@@ -1,0 +1,240 @@
+state: OR
+resources:
+  - resource_category: Victims of Crime Act (VOCA)
+    who: |
+      You are eligible to apply if you were harmed as the result of a violent crime, or if you are the legal dependent of someone who died as a result of a crime.
+
+      Eligible crimes include:
+
+      * Domestic violence
+      
+      * Assault 
+      
+      * Sexual assault 
+      
+      * Child abuse 
+      
+      * Stalking 
+      
+      * Kidnapping 
+      
+      * Arson 
+      
+      * Robbery
+      
+      * Human trafficking
+
+      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+    where: You are eligible to apply if the crime happened in Oregon.
+    when: The application must be _received_ within **1 year** after the date of the crime.
+    time: On average, it takes 3 months for an application to be approved or denied. 
+    cost: It is free to apply.
+    award: You can receive up to $47,000 for your expenses.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Hospital and medical bills
+
+      * Counseling
+
+      * Lost income
+
+      * Rehabilitation 
+
+      * Travel expenses for medical care of counseling
+
+      * Funeral expenses
+
+      * Other out-of-pocket costs directly related to the crime
+
+    likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-to Apply” below for more information.
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
+    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
+    attorney: You do not need an attorney to apply.
+    challenges:
+      - "You May Have to Report the Crime to the Police: You must report the crime to law enforcement within **72 hours**. A stalking protective order, sexual abuse restraining order, or medical exam for sexual assault are considered reports to police. You may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "Not All Costs Are Covered: You can not get reimbursed for damage to or loss of property."
+      - "Applications Cannot Be Filed While Incarcerated: You cannot apply while you are incarcerated. Instead, you must file within 6 months of your release. "     
+    steps:
+      - "Step 1.  Report the crime to the police within **72 hours** of the incident and get a police report."
+      - "TIP: You may be excused from reporting within 72 hours if the crime included domestic violence, stalking, sexual abuse or sexual exploitation. Contact the Oregon Department of Justice via [email](mail to:cvssd@doj.state.or.us) or phone (503) 378-5348 for more information."
+      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - |
+        Step 3: You can apply online or via paper application.
+
+        * **Applying online:** You can access the online application [here](https://justice.oregon.gov/victims/compensation) and instruction on how to apply online [here](https://justice.oregon.gov/victims/compensation/Documents/Crime%20Victim%20Portal%20Tutorial%20Victim.pdf).
+
+        * **Paper application:** Contact the [Victim Assistance Program](https://www.doj.state.or.us/crime-victims/victims-resources/other-resources/county-victim-assistance-programs/) in your county for a paper application. 
+      - "Step 4: After carefully reading the instructions, complete and sign / electronically sign the application and attach or upload a copy of the police report / protective order and of bills for each expense you include in  your application."
+      - |
+        Step 5: Submit your completed application and attachments online or via mail to:
+
+
+        Oregon Crime Victims' Compensation Program 
+
+        Oregon Department of Justice
+
+        1162 Court Street, NE
+
+        Salem, OR 97301-4096
+
+
+      - "TIP:  The Victim Assistance Advocate can help you fill out the application. Email or call the [Victim Assistance Program](https://www.doj.state.or.us/crime-victims/victims-resources/other-resources/county-victim-assistance-programs/) for more information."
+      - "Step 6: Include any documents showing that the abuse occurred and the expenses you've incurred."
+      - "TIP: Remember, **your application must  be filed within 1 year after the crime occurred**. It’s a good idea to follow-up with a phone call or email to confirm that your application was received. Contact the Crime Victims’ Compensation Program via [email](mailto:cvssd@doj.state.or.us) or phone (503) 378-5348."
+    what_to_expect:
+      - An investigator will review your entire application to make sure all of the information you’ve included is true and accurate.
+      - You may be asked for more information. If this happens, you will have 30 days to provide it. If you don't do so or request extra time, your claim will be rejected.
+      - You will receive a written decision approving or denying your application.
+      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Program to let them know via [email](mailto:cvssd@doj.state.or.us) or phone (503) 378-5348."
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - If you disagree with the decision, you may ask the Department of Justice for a review within **90 days**. The Department will give you its decision on review within 30 days after it receives your request.
+      - If you still disagree with the decision, you can ask for a hearing before the Workers Compensation Board. Instructions for requesting a hearing are [here](https://www.oregon.gov/wcb/hearings/Pages/filing-instructions-hrg.aspx). The Board won't consider any evidence that wasn't presented to the Department of Justice. The decision of the Workers Compensation Board is final.
+    resources:
+      - "[General Information about VOCA](https://www.doj.state.or.us/crime-victims/victims-resources/victims-services/compensation-for-victims-of-crime/)"
+      - "[Victim Assistance Advocates](https://www.doj.state.or.us/crime-victims/victims-resources/other-resources/county-victim-assistance-programs/)"
+      - "[Sexual Assault Victims Emergency Medical Response Fund](https://www.doj.state.or.us/crime-victims/victims-resources/victims-services/sexual-assault-victims-emergency-medical-response-save-fund/)"
+      - "[Crime Victims Rights](https://www.doj.state.or.us/crime-victims/victims-rights/victims-rights-guides/)"
+  - resource_category: Criminal Restitution
+    who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
+    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant or within 90 days afterward. So the timing of the criminal restitution decision depends on when the defendant is sentenced.
+    cost: It is free of charge.
+    likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical bills
+      
+      * Dental bills
+      
+      * Therapy costs
+      
+      * Prescription drugs
+      
+      * Counseling costs
+      
+      * Lost wages
+      
+      * Lost or damaged property
+      
+      * Other out-of-pocket costs directly related to the crime
+
+    safety: You may have to testify in the criminal case and / or attend the sentencing hearing with your harm-doer present.
+    story: |
+
+      * You must share your story:
+
+        * With the police when you report the crime; and
+
+        * With the District Attorney assigned to your case.
+
+      * You may have to share your story:
+
+        * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
+
+    challenges:
+      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+    steps:
+      - "Step 1: Make a report to law enforcement."
+      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
+      - "Step 2: Gather information and documents you have relating to the costs you are trying to get covered. For example: the police report, hospital or doctor bills, wage statements, and any invoices or receipts for costs you had to pay as a result of the abuse."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: Contact the office of the [District Attorney](https://criminal.findlaw.com/criminal-legal-help/oregon-district-attorneys.html) in the county where the crime took place and ask to speak with the District Attorney assigned to your case. You can also speak with the [Victim Assistance Advocate](https://criminal.findlaw.com/criminal-legal-help/oregon-district-attorneys.html). Tell the attorney and the Victim Assistance Advocate that you are seeking criminal restitution."
+      - "TIP: Find the location and contact information for the District Attorney’s office in each county [here](https://criminal.findlaw.com/criminal-legal-help/oregon-district-attorneys.html)."
+      - "Step 4: Share the information and documents you have gathered with the prosecutor assigned to your case and the Victim Assistance Advocate."
+      - "Step 5: Stay in contact with the prosecutor and the Victim Assistance Advocate to make sure that you are aware of important dates, including the sentencing hearing."
+      - "Step 6: At the sentencing hearing, or within 90 days, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "TIP: Collecting restitution can be challenging. If you need help, ask the District Attorney assigned to your case for support."
+    resources:
+      - "[Civil Justice for Victims of Crime in Oregon](https://victimsofcrime.org/docs/default-source/CJ%20Brochures/oregonciviljusticebrochure.pdf)"
+  - resource_category: Small Claims Court
+    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
+    when: |
+      You must file claims for personal injury or assault and battery within **2 years** of the date of the wrongful action, and for property damage within **6 years** of the date of the damage.
+
+      TIP: Check out [this resource](https://statelaws.findlaw.com/oregon-law/oregon-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+    where: |
+      You must file your small claims case in the circuit court or justice court in the county where the person that harmed you lives or where  the harm happened.
+
+      TIP: Find the location of the circuit court in each county [here](https://www.courts.oregon.gov/courts/Pages/default.aspx), and the justice court in each county [here](https://ballotpedia.org/Oregon_Justice_Courts).
+    time: The whole process will generally take several weeks to several months.
+    covered_expenses: You can seek up to $10,000 in a circuit court and $5,000 in a justice court.
+    cost: |
+      The filing fee depends on how much you are claiming and range from $53-$95.
+
+      TIP: If you cannot afford the filing fee, you can apply for a deferral or waiver of the fees by completing and filing the forms found [here](https://www.courts.oregon.gov/forms/Pages/fee-waiver.aspx). You will have to show proof of your income and monthly bills for the past two months, and appear before a judge or other court staff.
+    likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
+    safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
+    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
+    attorney: Attorneys are not allowed in Oregon small claims courts. You must represent yourself.
+    challenges:
+      - "You Will Have to Represent Yourself: You will most likely have to face the person that harmed you in court and you will have to represent yourself."
+      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting a judgment [here](https://www.thebalancesmb.com/how-do-i-collect-on-a-small-claims-judgment-398830)."
+    steps:
+      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a place."
+      - "Step 2: Locate the [circuit court](https://www.courts.oregon.gov/courts/Pages/default.aspx) or [justice court](https://ballotpedia.org/Oregon_Justice_Courts) in the county where you or the person that harmed you lives. This is where you will file all your paperwork."
+      - "Step 3: You must complete and file a form called a complaint. You can file the complaint [online](https://www.courts.oregon.gov/services/online/Pages/iforms.aspx) or submit a [paper](https://www.courts.oregon.gov/forms/Documents/SC-ClmNotice.pdf) complaint. You can also request the proper forms from the clerk of the circuit or justice court."
+      - "Step 4: After carefully reading any instructions, complete an online or paper complaint form and attach copies of documents that relate to what happened (for example, a police report) and show all of your costs (for example, medical bills)."
+      - "Step 5: File the complaint and any attachments with the clerk and pay the filing fees."
+      - "TIP: If you cannot afford the filing fee, you can apply for a deferral or waiver of the fees by completing and filing the forms found [here](https://www.courts.oregon.gov/forms/Pages/fee-waiver.aspx). You will have to show proof of your income and monthly bills for the past two months, and appear before a judge or other court staff."
+      - "TIP: Make 3 copies of all the forms and attachments you fill out: 1 for the court, 1 to send to the defendant, and 1 to keep for your records."
+      - "Step 6: The person you are suing must get a copy of the documents you’ve filed. You can ask the clerk or sheriff’s department to send the notice, or you can hire a process server to deliver it – you cannot deliver it yourself. All three options require a fee but if you filled out a fee waiver and it was accepted then you likely won’t need to pay anything."
+      - "Step 7: You will receive proof that the defendant received your documents. File that proof with the clerk of the justice court."
+      - "Step 8: The court will set a trial date for your case. Do not miss your trial date."
+      - "Step 9: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "Step 10: Attend your court date. Bring your evidence and witnesses with you."
+      - "Step 11: Present your case, closely following any instructions given by the judge."
+      - "Step 12: Receive the judge’s order either at the end of the hearing or at a later date via mail."
+      - "Step 13: If you win your case, you will need to take steps to collect that compensation. Read more about collecting a small claims judgment [here](https://www.thebalancesmb.com/how-do-i-collect-on-a-small-claims-judgment-398830). "
+    what_if_i_disagree:
+      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - If your case was heard in a circuit court, the judge's decision is final. There is no appeal.
+      - If your case was heard in a justice court and you lose your claim, you cannot appeal. But, if the defendant brings a claim against you in the same case and wins, you may appeal to a circuit court. You must file a notice of appeal with the clerk of the circuit court within **10 days** after the justice makes their decision. The decision of the circuit court on appeal from a justice court is final.
+    resources:
+      - "[Small Claims Instructions for Plaintiffs](https://www.courts.oregon.gov/forms/Documents/SC-INSTR-plntf.pdf)"
+      - "[Going to Small Claims Court in Oregon](https://www.courts.oregon.gov/courts/multnomah/go/Pages/smallclaims.aspx)"
+      - "[Small Claims Court - Oregon State Bar](https://www.osbar.org/public/legalinfo/1061_SmallClaims.htm)"
+      - "[Small Claims forms](https://www.courts.oregon.gov/courts/multnomah/go/Pages/smallclaims.aspx)"
+      - "[Fee waiver forms and instructions](https://www.courts.oregon.gov/forms/Pages/fee-waiver.aspx)"
+  - resource_category: Civil Tort
+    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case. 
+    when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
+    time: The whole process will most likely take over a year.
+    cost: Hundreds or even thousands of dollars.
+    likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
+    safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way.
+    challenges:
+      - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
+    steps:
+      - "Step 1: Find an attorney you trust."
+      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - |
+        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes: 
+
+        * Your name and address
+        
+        * The name and address of the person that harmed you
+        
+        * Date of the incident(s)
+        
+        * Brief description of the incident(s)
+        
+        * Itemized list of costs that resulted from the incident(s)
+        
+        * Copies of important documents
+        
+        * If you know it, the income / assets of the person that harmed you
+        
+        * If you can, the type of claim you want to bring against the person that harmed you
+
+    resources:
+      - "[Lawyer Referral Services- Oregon State Bar](https://www.osbar.org/public/legalinfo/1171_LRS.htm)"
+      - "[LegalMatch - Oregon Lawyers](https://www.legalmatch.com/find/oregon-lawyers.html)"
+      - "[Oregon Legal Research](https://www.oregonlegalresearch.com/content/free-low-cost-lawyer-services)"
+      - "[Oregon Lawyers](https://lawyers.findlaw.com/lawyer/state/oregon)"

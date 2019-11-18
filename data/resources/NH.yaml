@@ -1,0 +1,243 @@
+state: NH
+resources:
+  - resource_category: Victims of Crime Act (VOCA)
+    who: |
+      You are eligible to apply if you were harmed as the result of a crime or if your immediate family member was killed as the result of a crime.
+
+      Eligible crimes include:
+
+      * Domestic violence
+
+      * Assault
+
+      * Sexual assault
+
+      * Robbery
+
+      * Stalking
+
+      * DUI
+
+      * Homicide
+
+      * Child abuse
+
+      * Human trafficking
+
+      * Kidnapping
+
+      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+    where: You are eligible to apply if the crime happened in New Hampshire, or if you live in New Hampshire and the crime happened in a state or country without a crime victim compensation program.
+    when: The application must be received within **2 years** after the date of the crime.
+    time: On average, it takes 2 months for an application to be approved or denied
+    cost: It is free to apply.
+    award: You can receive up to $30,000 for your expenses.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical and dental care
+
+      * Mental health counseling
+
+      * Lost wages
+
+      * Funeral and burial costs
+
+      * Relocation expenses
+
+    likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How to Apply” below for more information.
+    safety: This application is made directly to the state. You will not need to confront the person who harmed you to apply.
+    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
+    attorney: You do not need an attorney to apply.
+    challenges:
+      - "You Must Report the Crime: You must report the crime to the police within **5 days** of the incident and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "Cooperation is Required: You must cooperate with the police as they investigate the crime and with anyone reviewing your application."
+      - "Not all Costs Are Covered:  You can’t get compensation for pain and suffering or property loss or damage."
+    steps:
+      - "Step 1: Report the crime to the police within 5 days and get a police report."
+      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: After carefully reading the instructions, fill out [this application](https://www.doj.nh.gov/grants-management/victims-compensation-program/documents/application-form.pdf) (available in Spanish [here](https://www.doj.nh.gov/grants-management/victims-compensation-program/documents/spanish-application-form.pdf)). You can also file online [here](https://ccvcnh.org/)."
+      - "TIP: If you need help filling out your application, contact the Victim Assistance Program in your county. [Here](https://www.doj.nh.gov/criminal/victim-assistance/assistance-programs.htm) is the contact information for the Victim Assistance Program in each county."
+      - "Step 4: Sign and date the application and attach the police report and copies of bills for each expense you include in your application."
+      - |
+        Step 5: Mail, fax, or deliver in person the completed application along with all attachments to:
+
+
+
+        New Hampshire Victims’ Compensation Program
+
+        Department of Justice
+
+        33 Capitol Street
+
+        Concord, New Hampshire 03301
+
+
+        You can also file online using the online application portal [here](https://ccvcnh.org/).
+      - "TIP: Remember, **your application must be received within 2 years after the crime occurred**. It’s a good idea to follow-up with an email to the New Hampshire Victim’s Compensation Program at [victimcomp@doj.nh.gov](mailto:victimcomp@doj.nh.gov) to confirm your application was received."
+      - "TIP: If you are close to the 1-year deadline but don’t have certain documents (police report, invoices, receipts) do not wait to submit your application. Instead, submit the application and follow-up with the documents when you get them."
+    what_to_expect:
+      - Within 2 weeks after you submit your application, the Victim Compensation Program will send you a confirmation that your application was received.
+      - The Program will review your entire application to make sure all of the information you’ve included is true and accurate.
+      - The Program may request more information or documents from you. If they do, you must respond with the requested documents / information within **30 days**.
+      - The Program will send you a written decision either approving or denying your application.
+      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, email the Program at [victimcomp@doj.nh.gov](mailto:victimcomp@doj.nh.gov) to let them know."
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - |
+        Within **14 days** after the decision you must send either a request for reconsideration or a notice of appeal to:
+
+
+        Victims’ Compensation Unit
+
+        Department of Justice
+
+        33 Capitol Street
+
+        Concord, NH 03301-6397
+
+
+
+      - File a request for reconsideration if you have new information you want the Program to consider, and a notice of appeal if there is no new information but you still disagree with the decision.
+    resources:
+      - "[Financial Help for Crime Victims](https://nhlegalaid.org/financial-help-crime-victims#What%20is)"
+      - "[Online Application System](https://ccvcnh.org/)"
+  - resource_category: Criminal Restitution
+    who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
+    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced.
+    cost: It is free of charge.
+    likelihood: A County Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County attorney of your costs, the more likely it will be that you will get compensation.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical bills
+
+      * Psychiatric and psychological care
+
+      * Physical therapy costs
+
+      * Lost income
+
+      * Funeral-related expenses
+
+      * Childcare expenses
+
+      * Lost income
+
+      * Other out-of-pocket expenses directly related to the crime
+
+    safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
+    story: |
+
+      * You must share your story:
+
+        * With the police when you report the crime; and
+
+        * With the County Attorney.
+
+      * You may have to share your story:
+
+        * If the County Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
+
+    challenges:
+      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
+    steps:
+      - "Step 1: Report the crime to law enforcement."
+      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
+      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: Contact the Office of the County Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
+      - "TIP: You can locate the Office of the County Attorney in for each county [here](https://criminal.findlaw.com/criminal-legal-help/new-hampshire-district-attorneys.html)."
+      - "Step 4: Share the information and documents you have gathered with the County Attorney assigned to your case. If you are uncertain what types of documents are necessary, ask the County Attorney for help."
+      - "Step 5: Stay in contact with the County Attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing, and to make sure that they have all the information they need from you."
+      - "Step 6: At the sentencing hearing, the County Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "TIP: Collecting restitution can be challenging. Ask the County Attorney assigned to your case for support if you need help."
+    resources:
+      - "[Victim / Witness Assistance Programs](https://www.doj.nh.gov/criminal/victim-assistance/assistance-programs.htm)"
+  - resource_category: Small Claims Court
+    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
+    when: |
+      You must file claims for assault and battery, personal injury, and property damage within **3 years** of the wrongful conduct.
+
+      TIP: Check out [this resource](https://statelaws.findlaw.com/new-hampshire-law/new-hampshire-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+    where: |
+      You must file your small claims case in the Circuit Court District Division in the county where the person that harmed you lives.
+
+      TIP: You can find the location and contact information for the Circuit Court District Division in each county [here](https://www.courts.state.nh.us/courtlocations/index.htm#district).
+    time: The whole process will generally take several weeks to several months.
+    covered_expenses: The total amount you are seeking must be $10,000 or less.
+    cost: |
+      The filing fee depends on how much money you are asking for and range from $90-$145. There may be additional costs to deliver your documents to the defendant.
+
+      TIP: If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing [this form](https://www.courts.state.nh.us/forms/ecourt/nhjb-2886-dfpe-MotiontoWaiveFilingFee.pdf).
+    likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
+    safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
+    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
+    attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
+    challenges:
+      - "You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court."
+      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://www.courts.state.nh.us/district/eclaims/process.htm)."
+    steps:
+      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
+      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 2: Locate the Circuit Court District Division in the county where the person that harmed you lives. You can find the location and contact information for the Circuit Court District Division in each county [here](https://www.courts.state.nh.us/courtlocations/index.htm#district)."
+      - "Step 3: All small claims cases in New Hampshire are now filed online via [this TurboCourt system](https://turbocourt.com/go.jsp?act=actShowState&tmstp=1498169639126&id=29465829)."
+      - "TIP: [Here](https://www.courts.state.nh.us/district/eclaims/complaint.htm) are instructions on how to use the TurboCourt system to start your case."
+      - "Step 4: Click 'Small Claims - Start a New Case' [here](https://turbocourt.com/go.jsp?act=actShowState&tmstp=1498169639126&id=29465829) and follow the instructions on how to complete the Small Claim Complaint. Upload copies of documents relating to what happened (for example, a police report) and showing all of your costs (for example, medical bills)."
+      - "Step 5: Complete and submit the Complaint form and pay the filing fee."
+      - "TIP:  If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing [this form](https://www.courts.state.nh.us/forms/ecourt/nhjb-2886-dfpe-MotiontoWaiveFilingFee.pdf)."
+      - "Step 6: The clerk will send the defendant a copy of your complaint by mail."
+      - "Step 7: The court will set a hearing for your case. Do not miss your court date."
+      - "Step 8: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
+      - "Step 10: Present your case, closely following any instructions given by the judge."
+      - "Step 11: Receive the judge’s order either at the end of the hearing, or later in the mail."
+      - "Step 12: If you win your small claims case and are awarded a judgment, you will need to take steps to collect that money. Read more about collecting judgments [here](https://www.courts.state.nh.us/district/eclaims/process.htm)."
+    what_if_i_disagree:
+      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - You must file a Notice of Appeal with the New Hampshire Supreme Court within **30 days** of the decision and pay a filing fee.
+      - "TIP: An appeal will follow more complex rules and procedures. It’s a good idea to find an attorney to help you with this process."
+    resources:
+      -"[Circuit Court District Division - Small Claims](https://www.courts.state.nh.us/district/eclaims/complaint.htm)"
+      - "[New Hampshire Online Filing System](https://turbocourt.com/go.jsp?act=actShowState&tmstp=1569094327020&id=29465829&clerkassistance=null) "
+      - "[New Hampshire Small Claims Forms](https://www.courts.state.nh.us/district/forms/allforms.htm#sc)"
+  - resource_category: Civil Tort
+    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
+    when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
+    time: The whole process will most likely take over a year.
+    cost: Hundreds or even thousands of dollars.
+    likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
+    safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way.
+    challenges:
+      - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
+    steps:
+      - "Step 1: Find an attorney you trust."
+      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - |
+        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        * Your name and address
+
+        * The name and address of the person that harmed you
+
+        * Date of the incident(s)
+
+        * Brief description of the incident(s)
+
+        * Itemized list of costs that resulted from the incident(s)
+
+        * Copies of important documents
+
+        * If you know it, the income / assets of the person that harmed you
+
+        * If you can, the type of claim you want to bring against the person that harmed you
+
+    resources:
+      - "[FindLaw - New Hampshire Lawyers](https://lawyers.findlaw.com/lawyer/state/new-hampshire)"
+      - "[NH Lawyer Referral  service](https://www.nhbar.org/lawyer-referral-service)"
+      - "[Avvo - Find the best Lawyer in NH](https://www.avvo.com/all-lawyers/nh.html)"

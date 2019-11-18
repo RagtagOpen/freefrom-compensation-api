@@ -1,0 +1,237 @@
+state: GA
+resources:
+  - resource_category: Victims of Crime Act (VOCA)
+    who: |
+      You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent of someone who was seriously injured as the result of a crime.
+
+      Eligible crimes include:
+
+      * Domestic violence
+
+      * DUI
+
+      * Sex trafficking
+
+      * Assault and battery
+
+      * Sexual assault
+
+      * Kidnapping
+
+      * Robbery
+
+      * Stalking
+
+      * Arson
+
+      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+    where: You are eligible to apply if the crime happened in Georgia.
+    when: The application must be _received_ within **3 years** after the date of the crime.
+    time: On average, it takes 1.5 months for an application to be approved or denied.
+    cost: It is free to apply.
+    award: You can receive up to $25,000 for your expenses.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical expenses
+
+      * Dental expenses
+
+      * Funeral expenses
+
+      * Counseling expenses
+
+      * Lost wages
+    likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-To Apply” below for more information.
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
+    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
+    attorney: You do not need an attorney to apply.
+    challenges:
+      - "You Must Report the Crime to the Police: You must report the crime to the police within **72 hours** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "Not All Costs Are Covered: You can’t get compensation for property loss or damage or for pain and suffering."
+      - "Cooperation is Required: You must fully cooperate with the police and anyone reviewing your application while they investigate the crime."
+    steps:
+      - "Step 1: Report the crime to the police within **72 hours** of the incident and get a police report."
+      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: After carefully reading the instructions, complete [this application](http://crimevictimscomp.ga.gov/wp-content/uploads/2019/07/Victims-Compensation-Application-Rev-July-2019.pdf) and attach the police report and copies of bills for each expense you include in your application."
+      - "TIP: You can also get an application by contacting the Victims Compensation Division of the Criminal Justice Coordinating Council. Contact the Division by phone at (404) 657-2222 or via email at [victims.info@cjcc.ga.gov](mailto:victims.info@cjcc.ga.gov)."
+      - |
+        Step 4: Sign and submit the completed application and any attachments in person, by mail, or via email to:
+
+
+        Criminal Justice Coordinating Council
+
+        Crime Victims Compensation Program
+
+        104 Marietta Street NW, Suite 440
+
+        Atlanta, Georgia  30303
+
+        [victims.info@cjcc.ga.gov](mailto:victims.info@cjcc.ga.gov)
+
+
+      - "TIP: You can also electronically file your application. You can register for e-filing [here](https://victimscompportal.cjcc.ga.gov/Account/Login?ReturnUrl=%2F)."
+      - "TIP: Remember, **your application must be received within 3 years after the crime occurred**. It’s a good idea to follow-up with a phone call to confirm that your application was received. Contact the Division by phone at (404) 657-2222 or via email at [victims.info@cjcc.ga.gov](mailto:victims.info@cjcc.ga.gov)."
+    what_to_expect:
+      - The Crime Victims Compensation Division staff will review and investigate your entire application to make sure all of the information you’ve included is true and accurate.
+      - The Division staff may ask you for more documents or other information about your application. If they do, you must respond within **30 days**.
+      - The Division will either approve or deny your application and will send you a written decision in the mail.
+      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit you application, contact the Division to let them know. Contact the Division by phone at (404) 657-2222 or via email at [victims.info@cjcc.ga.gov](mailto:victims.info@cjcc.ga.gov)."
+      - You will receive the final decision by mail up to 30 days after the application is received.
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - |
+        You must complete [this Appeal Request](http://crimevictimscomp.ga.gov/wp-content/uploads/2016/12/Appeal-Form-2.pdf?x44846) and submit it within **30 days** of the decision date by mail or email to: 
+
+
+        Criminal Justice Coordinating Council
+
+        Crime Victims Compensation Program
+
+        104 Marietta Street NW, Suite 440
+
+        Atlanta, Georgia 30303
+
+        [victims.info@cjcc.ga.gov](mailto:victims.info@cjcc.ga.gov)
+
+
+    resources:
+      - "[Georgia Crime Victims Compensation Program - For Victims](http://crimevictimscomp.ga.gov/for-victims/)"
+      - "[Georgia Crime Victims Compensation Program - FAQs](http://crimevictimscomp.ga.gov/about-us/frequently-asked-questions/)"
+      - "[Georgia Crime Victims Compensation Program - Application and Instructions](http://crimevictimscomp.ga.gov/wp-content/uploads/2018/05/CVCP-Application-with-Consent-Rev-April-2018.pdf)"
+      - "[Georgia Crime Victims Compensation Program - Forms](http://crimevictimscomp.ga.gov/about-us/forms/)"
+  - resource_category: Criminal Restitution
+    who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of the crime in court.
+    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So the timing of the criminal restitution decision depends on when the defendant is sentenced.
+    cost: It is free of charge.
+    likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical bills
+
+      * Psychiatric and psychological care
+
+      * Physical therapy
+
+      * Lost income
+
+      * Funeral-related expenses
+
+      * Other out-of-pocket expenses directly related to the crime
+    safety: You may have to testify in front of the person that harmed you as part of the criminal case and/or at the sentencing hearing.
+    story: |
+      * You must share your story: 
+
+        * With the police when you report the crime and it is investigated; and
+
+        * With the District Attorney assigned to your case.
+
+      * You may have to share your story:
+
+        * If you are asked to testify in the criminal case or make a statement at the sentencing hearing.
+    challenges:
+      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+    steps:
+      - "Step 1: Report the crime to law enforcement."
+      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
+      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any other invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: Contact the office of the District Attorney in the county where the crime happened and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
+      - "TIP: Find the location and contact information for the District Attorney’s Office in each county [here](https://pacga.org/find-your-prosecutor/)."
+      - "Step 4: Share the information and documents you have gathered that show your costs with the attorney assigned to your case and continue to send them evidence of any ongoing costs."
+      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "Step 6: At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "TIP: Collecting restitution can be challenging. Ask the District Attorney assigned to your case for support."
+    resources:
+      - "[Civil Justice for Victims of Crime in Georgia](https://victimsofcrime.org/docs/default-source/CJ%20Brochures/ga.pdf?sfvrsn=4)"
+  - resource_category: Small Claims Court
+    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $15,000 or less.
+    when: |
+      You must file claims for assault and battery, false imprisonment, and personal injury within **2 years** of the wrongful conduct, and for property damage within **4 years** of the damage.
+
+      TIP: Check out [this resource](https://statelaws.findlaw.com/georgia-law/georgia-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+    where: |
+      You must file your small claims case in the Magistrate Court in the county where the person that harmed you lives.
+
+      TIP: Find the location and contact information for the Magistrate Court in each county [here](https://ballotpedia.org/Georgia_Magistrate_Courts).
+    time: The whole process will generally take several weeks to several months.
+    covered_expenses: The total amount you are seeking must be $15,000 or less.
+    cost: |
+      You will have to pay a filing fee between $45 and $55. You may also have to pay fees to deliver your documents to the defendant. 
+
+      TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. Each county’s Magistrate Court has its own fee waiver forms. Contact the clerk of the Magistrate Court where you are filing for more information.
+    likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
+    safety: You will most likely have to face the person who harmed you in court. A sheriff or bailiff will be present in court to ensure your safety. You can also bring a friend or family member with you for support.
+    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
+    attorney: You can be represented by an attorney if you wish. But it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
+    challenges:
+      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and represent yourself."
+      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you, which may be challenging. Read more about collecting money in [this resource](https://www.georgiamagistratecouncil.com/wp-content/uploads/2018/08/mag-14-01-post-judgment-collection-proceduresR.pdf)."
+    steps:
+      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 2: Locate the Magistrate Court in the county where the person that harmed you lives or where the harm occurred. This is where you’ll file all your paperwork."
+      - "TIP: Find the location and contact information for the Magistrate Court in each county [here](https://ballotpedia.org/Georgia_Magistrate_Courts)."
+      - "Step 3: After carefully reading the instructions, complete a Statement of Claim and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). You can access a Statement of Claim online [here](https://georgiamagistratecouncil.com/wp-content/uploads/2019/05/MAG-10-01-STATEMENT-OF-CLAIM.pdf) or request one from the Magistrate Court clerk."
+      - "TIP: Make at least 3 copies of all forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
+      - "Step 4: Sign and file the completed Statement of Claim and any attachments with the Magistrate Court clerk and pay the filing fees."
+      - "TIP:  If you can’t afford to pay the fees, you can ask the court for a waiver. Each county’s Magistrate Court has its own fee waiver forms. Contact the clerk of the Magistrate Court where you are filing for more information."
+      - "Step 5: The defendant must get a copy of all the documents you file.You can ask the clerk or the sheriff’s department to send the notice, or you can hire a process server. All three options require a fee. Ask the clerk of the Magistrate Court for more information."
+      - "Step 6: You will receive proof that the defendant was served. File that proof with the clerk of the Magistrate Court."
+      - "Step 7: The court will schedule a hearing or trial for your case. Do not miss this court date."
+      - "Step 8: Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "TIP: Find out more about preparing for court in [this resource](https://www.bfvlaw.com/wp-content/uploads/2015/11/Piercy-Representing-Yourself.pdf)."
+      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
+      - "Step 10: Present your case, closely following any directions given by the judge."
+      - "Step 11: Receive the judge’s order either at the end of the hearing or later in the mail."
+      - "Step 12: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Read more about collecting money in [this resource](https://www.georgiamagistratecouncil.com/wp-content/uploads/2018/08/mag-14-01-post-judgment-collection-proceduresR.pdf)."
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "Step 1: You must file a written Notice of Appeal within **30 days** and pay the filing fee."
+      - "Step 2: Your appeal will be heard by the State or Superior Court in the same county where you filed your small claims case."
+      - "TIP: An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
+    resources:
+      - "[How to Sue in Magistrate’s Court | Brochure](https://www.georgialegalaid.org/files/6FCBD72D-B465-109D-9EC1-5A4F52A74EE9/attachments/A9125E62-DA54-5289-4DA9-0166ABD67715/21681Magistrates%20court.pdf)"
+      - "[Georgia Small Claims Court: An Overview](https://www.nolo.com/legal-encyclopedia/georgia-small-claims-court-31687.html)"
+      - "[How to File a Small Claims Lawsuit in Georgia](https://www.wikihow.com/File-a-Small-Claims-Lawsuit-in-Georgia)"
+      - "[Georgia Magistrate Court Forms](https://georgiamagistratecouncil.com/forms/)"
+  - resource_category: Civil Tort
+    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
+    when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
+    time: The whole process will most likely take over a year.
+    cost: Hundreds or even thousands of dollars.
+    likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
+    safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way. 
+    challenges:
+      - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
+    steps:
+      - "Step 1: Find an attorney you trust."
+      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - |
+        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes: 
+
+        * Your name and address
+
+        * The name and address of the person that harmed you
+
+        * Date of the incident(s)
+
+        * Brief description of the incident(s)
+
+        * Itemized list of costs that resulted from the incident(s)
+
+        * Copies of important documents
+
+        * If you know it, the income/assets of the person that harmed you
+
+        * If you can, the type of claim you want to bring against the person that harmed you
+    resources:
+      - "[Find a Lawyer- State of Georgia](https://www.gabar.org/forthepublic/findalawyer.cfm)"
+      - "[FindLaw | Georgia Lawyers](https://lawyers.findlaw.com/lawyer/state/georgia)"
+      - "[Martindale | Find an Attorney in Georgia](https://www.martindale.com/by-location/georgia-lawyers/) "

@@ -1,0 +1,256 @@
+state: CA
+resources:
+  - resource_category: Victims of Crime Act (VOCA)
+    who: |
+      You are eligible to apply if you were harmed as the result of a crime or if a family member that you lived with for at least 2 years was harmed or died as the result of a crime.
+
+      Eligible crimes include:
+
+      * Domestic violence
+
+      * Child abuse
+
+      * Assault
+
+      * Sexual assault
+
+      * Elder abuse
+
+      * Homicide
+
+      * Robbery
+
+      * DUI
+
+      * Human trafficking
+
+      * Stalking
+
+      * Online harassment
+
+      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+    where: You are eligible to apply if the crime happened in California or if you were a resident of California when the crime occurred.
+    when: The application must be received within **3 years** after the date of the crime.
+    time: On average, it takes 3 months for an application to be approved or denied.
+    cost: It is free to apply.
+    award: You can receive up to $70,000 for your expenses.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical expenses
+
+      * Lost income
+
+      * Funeral and burial costs
+
+      * Relocation
+
+      * Crime scene clean up
+
+      * Home security
+
+      * Home modification
+
+      * Service animals
+
+      * Job retraining
+
+      * Mental health treatment
+    likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-To Apply” below for more information.
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
+    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
+    attorney: You do not need an attorney to apply.
+    challenges:
+      - "Not All Costs Are Covered: You can’t get compensation for property loss, property damage, or pain and suffering."
+    steps:
+      - "Step 1: Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: a police report, a permanent restraining order, letter from a domestic violence advocate or therapist, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "Step 2: After carefully reading the instructions, complete an application [online](https://online.victims.ca.gov/), using [this fillable pdf](https://victims.ca.gov/docs/forms/victims/apps/victimcompensationapp_eng.pdf?10-4-17), or by printing out [this application](https://victims.ca.gov/docs/forms/victims/apps/handprintapp_English.pdf?updated-10-7-16) and completing it by hand."
+      - "TIP: Spanish language applications can be found [here](https://victims.ca.gov/docs/forms/victims/apps/victimcompensationapp_Spanish.pdf?2017-11-16) and [here](https://victims.ca.gov/docs/forms/victims/apps/handprintapp_Spanish.pdf?2019-04-23). Other language applications can be found [here](https://victims.ca.gov/victims/howtoapply.aspx)."
+      - "Step 3: Attach or upload the documents you’ve gathered that relate to the crime and show your costs."
+      - |
+        Step 4: Sign or electronically sign your application and submit it and all attached documents online or via mail to:
+
+
+        California Victim Compensation Board
+
+        P.O. Box 3036
+
+        Sacramento, California
+
+        95812
+      - "TIP: Remember, your application must be filed within 3 years after the crime occurred. It’s a good idea to follow-up with a phone call to CalVCB to confirm your application was received. Contact CalVCB via phone at (916) 491-3600 or via email at [info@victims.ca.gov](mailto:info@victims.ca.gov)."
+      - "TIP: If you need help completing your application, you can ask a local Victim Advocate for support. Find your local Victim Advocate [here](https://victims.ca.gov/victims/localhelp.aspx)."
+    what_to_expect:
+      - CalVCB will review your entire application to make sure all of the information you’ve included is true and accurate.
+      - CalVCB may ask you for more information. If so, you must respond within **30 days** with the requested information.
+      - CalVCB will make a recommendation to the Board about whether to approve or deny your application. You will receive a copy of the recommendation in the mail.
+      - "TIP: You will be receiving important information in the mail. If your address changes after you submit your application, contact CalVCB via phone at (916) 491-3600 or via email: [info@victims.ca.gov](mailto:info@victims.ca.gov)."
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - You must complete [an Appeal Form](file:///Users/amydurrence/Downloads/CalVCBAppealForm.pdf) and mail it to: Legal and Appeals Office, P.O. Box 350 Sacramento, California 95812 within **45 days** after you receive the written recommendation.
+      - You will receive a notice in the mail letting you know whether you’ll have to appear in person for a hearing in front of a Hearing Officer or if the appeal will be done in writing.
+      - At an in-person hearing, you can call witnesses and provide documents or other evidence.
+      - If the hearing is done in writing, you will have **30 days** to submit additional documents to help prove your case.
+    resources:
+      - "[California Victim Compensation Board Website](https://victims.ca.gov/)"
+      - "[How to Apply for Victim Compensation](https://victims.ca.gov/victims/howtoapply.aspx)"
+      - "[Who’s Eligible for Victim Compensation](https://victims.ca.gov/victims/eligibility.aspx)"
+      - "[California Victim Compensation Board FAQs](https://victims.ca.gov/victims/faq/eligibility.aspx)"
+      - "[California Victim Compensation Board Forms](https://victims.ca.gov/publications/calvcpforms.aspx#appeal)"
+  - resource_category: Criminal Restitution
+    who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
+    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced.
+    cost: It is free of charge.
+    likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of  your costs, the more likely it will be that you will get compensation.
+    covered_expenses: |
+      You can get compensation for expenses such as:
+
+      * Stolen or damaged property
+
+      * Medical expenses
+
+      * Mental health counseling expenses
+
+      * Lost wages
+
+      * Attorney’s fees
+
+      * Relocation
+
+      * Home security
+
+      * Other out-of-pocket expenses directly related to the crime
+    safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
+    story: |
+      * You must share your story:
+
+        * With the police when you report the crime; and
+
+        * With the District Attorney and Victim Assistance Coordinator assigned to your case.
+
+      * You may have to share your story:
+
+        * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
+    challenges:
+      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+    steps:
+      - "Step 1: Report the crime to law enforcement."
+      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
+      - "Step 2: Gather any information and documents you have relating to the costs you are trying to get covered. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay as a result of you injuries caused by the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay in a safe place."
+      - "Step 3: Contact the probation department in the county where the crime happened and let them know that you are seeking criminal restitution."
+      - "TIP: Find the location and contact information for the probation department in each county [here](https://www.cpoc.org/post/find-my-county-probation-department)."
+      - "Step 4: Share all of the information and copies of documents you’ve gathered that show the costs you are trying to get covered with the probation department."
+      - "Step 5: Contact the office of the District Attorney in the county where the crime happened and ask to speak to the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and that you are cooperating with the probation department."
+      - "TIP: Find the location and contact information for the District Attorney for each county [here](https://criminal.findlaw.com/criminal-legal-help/california-district-attorneys.html)."
+      - "Step 6: Stay in contact with the probation department and the attorney assigned to your case to make sure you are aware of important dates, including the sentencing hearing."
+      - "Step 7: The probation department will create a report for the District Attorney and the court using the information that you give them."
+      - "Step 8: At the sentencing hearing, the District Attorney assigned to your case will present the report to the court and ask the judge to award you criminal restitution."
+      - "TIP: If you need help at any time during the process, you can contact a Victim Advocate from the county Victim Witness Assistance Center for support. Find the location and contact information for the Victim Witness Assistance Center in each county [here](https://victims.ca.gov/victims/localhelp.aspx)."
+      - "Step 9: After sentencing, you will get a copy of the judge’s signed Order for Restitution and Abstraction of Judgment. Complete the back page and file with the clerk’s office to receive an Abstract of Judgment."
+      - "TIP: Collecting restitution can be challenging if the defendant doesn’t pay voluntarily. You can ask the probation department for support."
+    resources:
+      - "[Restitution Basics for Victims of Crimes by Adults](https://www.courts.ca.gov/documents/restitution_basics_adult_web.pdf)"
+      - "[How does a victim get restitution ordered?](https://www.cdcr.ca.gov/victim-services/victim-services/restitution-ordering/)"
+      - "[Collecting Restitution](https://victims.ca.gov/restitution/collecting.aspx)"
+      - "[Victim Restitution in California Criminal Cases](https://www.shouselaw.com/victim-restitution.html)"
+      - "[Victim Witness Assistance Centers by County](https://victims.ca.gov/victims/localhelp.aspx)"
+  - resource_category: Small Claims Court
+    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
+    when: |
+      You must file claims for assault and battery and personal injury within **2 years** of the wrongful conduct, and for property damage within **3 years** of the date of the damage.
+
+      TIP: Check out [this resource](https://statelaws.findlaw.com/california-law/california-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+    where: |
+      You must file your small claims case in the county where the person that harmed you lives or where the harm occurred.
+
+      TIP: Find the location of the proper small claims court by inputting your community or zip code into [this](http://www.lacourt.org/filinglocatornet/ui/filingsearch.aspx) search engine.
+    time: The whole process generally takes several weeks to several months.
+    covered_expenses: The total amount you are seeking must be $10,000.00 or less.
+    cost: |
+      Fees depend on the amount of money you are asking for and range from $50-$75 for filing, plus fees necessary to deliver your documents to the defendant. You can find a list of all of the potential fees [here](https://www.courts.ca.gov/documents/StatewideCivilFeeSchedule-20160101.pdf).
+
+      TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](https://www.courts.ca.gov/selfhelp-feewaiver.htm) is a great resource with the necessary forms and specific instructions on how to ask the court to waive your fees.
+    likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See “How-To” for more information.
+    safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
+    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
+    attorney: |
+      Attorneys are not allowed in small claims court in California, so you will have to represent yourself before the judge. You can work with a lawyer before or after you go to court, but it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
+
+      TIP: Still have questions? You can work with a Small Claims Advisor for help during the process. Find a Small Claims Advisor in your county [here](https://www.courts.ca.gov/selfhelp-advisors.htm).
+    challenges:
+      - "You Will Have to Represent Yourself: You will most likely have to face the person that harmed you in court and you will have to represent yourself."
+      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://www.courts.ca.gov/1014.htm)."
+    steps:
+      - "TIP: Have a look at the “Suing Someone” checklist [here](https://www.courts.ca.gov/1007.htm) and familiarize yourself with the small claims process."
+      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of you damages."
+      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 2: Locate the small claims court in the county / community where the person that harmed you lives, or where the harm happened. This will be where you file all your paperwork."
+      - "TIP: Find the location of the proper small claims court by inputting your community or zip code into [this](http://www.lacourt.org/filinglocatornet/ui/filingsearch.aspx) search engine."
+      - "Step 3: After carefully reading the instructions, complete a [Plaintiff’s Claim](https://www.courts.ca.gov/documents/sc100.pdf) and any other necessary forms. [This](https://www.courts.ca.gov/9744.htm) is a great resource to help you complete the Complaint, and for information on other forms."
+      - "TIP: You can also request forms from the clerk of the court."
+      - "TIP: You can work with a Small Claims Advisor for help throughout the process, including in completing the necessary forms. Find a Small Claims Advisor in your county [here](https://www.courts.ca.gov/selfhelp-advisors.htm)."
+      - "Step 4: Attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills) to the Claim form."
+      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
+      - "Step 5: Sign the Claim form and any other required forms, file them with the clerk of the small claims court, and pay the filing fees."
+      - "TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](https://www.courts.ca.gov/selfhelp-feewaiver.htm) is a great resource with the necessary forms and specific instructions on how to ask the court to waive your fees. It’s a good idea to attach proof of your income (bank statements, pay stubs, EBT cards, disability checks, etc.) to any waiver request."
+      - "Step 6: The defendant must get a copy of all the documents you file. You cannot deliver the documents yourself, it must be done by mail or by someone who is not listed in the complaint.  For information on how to do this, speak to your small claims advisor, or read [this resource](https://www.courts.ca.gov/9742.htm)."
+      - "Step 7: You will receive proof that the defendant received your documents (“proof of service”). File that proof with the clerk."
+      - "Step 8: The court will schedule a hearing or trial for your case. Do not miss this court date."
+      - "Step 9: Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "TIP: Read the [“Going to Court”](https://www.courts.ca.gov/1094.htm) link for more information and work with a Small Claims Advisor for support."
+      - "Step 10: Attend your court date. Bring your evidence and witnesses with you."
+      - "Step 11: Present your case, closely following any directions given by the judge."
+      - "Step 12: Receive the judge’s order either at the end of the hearing or later in the mail."
+      - "Step 13: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting money [here](https://www.courts.ca.gov/1014.htm)."
+    what_if_i_disagree:
+      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "Step 1: Only a defendant can appeal a small claims judgment. However, if the defendant responded to your claims by bringing a claim against you and wins, you can appeal that decision."
+      - "Step 2: You must file a [Notice of Appeal](https://www.courts.ca.gov/documents/sc140.pdf) with the clerk of the magistrate court within 30 days after the judge makes their decision."
+      - "Step 3: You must pay the filing fees."
+      - "Step 4: The file will then be transferred to the civil division of the Superior Court."
+      - "TIP: An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process. Learn more [here](https://www.courts.ca.gov/1016.htm)."
+    resources:
+      - "[Small Claims Court Forms](https://www.courts.ca.gov/1017.htm)"
+      - "[Small Claims Self-Help](https://www.courts.ca.gov/selfhelp-smallclaims.htm)"
+      - "[Small Claims Advisors by County](https://www.courts.ca.gov/selfhelp-advisors.htm)"
+      - "[Ask a Law Librarian](https://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&page=frame&institution=11341&type=2&language=1)"
+  - resource_category: Civil Tort
+    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
+    when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
+    time: The whole process will most likely take over a year.
+    cost: Hundreds or even thousands of dollars.
+    likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
+    safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way.
+    challenges:
+      - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
+    steps:
+      - "Step 1: Find an attorney you trust."
+      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - |
+        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        * Your name and address
+
+        * The name and address of the person that harmed you
+
+        * Date of the incident(s)
+
+        * Brief description of the incident(s)
+
+        * Itemized list of costs that resulted from the incident(s)
+
+        * Copies of important documents
+
+        * If you know it, the income / assets of the person that harmed you
+
+        * If you can, the type of claim you want to bring against the person that harmed you
+    resources:
+      - "[Find Free Legal Help](http://www.calbar.ca.gov/Public/Need-Legal-Help/Free-Legal-Help)"
+      - "[Lawyer Referral Services](http://www.calbar.ca.gov/Public/Free-Legal-Information/Legal-Guides/Lawyer-Referral-Service) "
+      - "[Finding a lawyer- California Courts](https://www.courts.ca.gov/selfhelp-findlawyer.htm)"
+      - "[LegalMatch Find the Right Lawyer](https://www.legalmatch.com/find/california-lawyers.html)"
+      - "[Legal bar association- Find a lawyer near me](https://californiaattorneyreferral.com/?PPCCode=G4-CA-LAW&gclid=CjwKCAjwq4fsBRBnEiwANTahcIex52-n15X8zQhgCAop7qpmuz8mPkuAzCr0UZwkV-_-j3xLKmR9NRoCDQ4QAvD_BwE)"

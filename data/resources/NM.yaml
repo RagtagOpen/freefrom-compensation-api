@@ -1,0 +1,211 @@
+state: NM
+resources:
+  - resource_category: Victims of Crime Act (VOCA)
+    who: |
+      You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent of someone who was killed as the result of a crime.
+
+      Eligible crimes include:
+
+      * Domestic violence
+
+      * Assault
+
+      * Battery
+
+      * Sexual assault
+
+      * Murder
+
+      * Stalking
+
+      * Kidnapping
+
+      * Human trafficking
+
+      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+    where: You are eligible to apply if the crime happened in New Mexico.
+    when: The application must be _received_ within **2 years** after the date of the crime.
+    time: On average, it takes 4 months for an application to be approved or denied.
+    cost: It is free to apply.
+    award: You can receive up to $20,000 for your expenses.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical care
+
+      * Dental care
+
+      * Mental health counseling
+
+      * Funeral and burial expenses
+
+      * Lost wages
+
+      * Eyeglasses and other necessary medical devices
+
+    likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-to Apply” below for more information.
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
+    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
+    attorney: You do not need an attorney to apply.
+    challenges:
+      - "Not All Costs Are Covered: You can’t get compensation for property loss, pain and suffering, or attorney’s fees."
+      - "You Must Report the Crime: You must report the crime to a licensed medical provider, licensed mental health provider, tribal health provider, or law enforcement agency. If law enforcement is involved, you must cooperate with their investigation and prosecution of the crime."
+    steps:
+      - "Step 1: Report the crime to a licensed medical provider, licensed mental health provider, tribal health provider, or law enforcement agency."
+      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example, police reports, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: Applications in New Mexico are online. Follow [this link](https://ccvcnm.org) and create a log-in to access an application."
+      - "TIP: You can also request an application by contacting the Crime Victims Reparation Commission via email at cvrc@state.nm.us."
+      - "Step 4: After carefully reading the instructions, fill out the application. Follow any directions about how to upload all necessary documents, including police reports, medical bills, and any other receipts."
+      - "Step 5: Electronically sign and submit the completed application and supporting documents."
+      - "TIP: Remember, **your application must be received within 2  years after the crime occurred**. It’s a good idea to follow-up with [an email](mailto:cvrc@state.nm.us)  to confirm that your application was received."
+      - "TIP: If you need help completing your application, you can contact the New Mexico Crime Victims Reparation Commission for help via email at cvrc@state.nm.us or phone at (505) 841-9432."
+    what_to_expect:
+      - Your application will be given a claim number and your entire application and attachments will be reviewed to make sure all of the information you’ve included is true and accurate.
+      - The New Mexico Crime Victims Reparation Commission will either approve or deny your application, and you will get notified in writing about their decision.
+    what_if_i_disagree:
+      - "TIP: Read the decision carefully and look for any instructions about how to appeal."
+      - You must send a written notice to the agency Director that explains why you think the decision was wrong along with any documents you want the Director to consider when deciding on your application.
+      - If you disagree with the Director’s decision, you must make a written request to meet with the agency staff and an independent victim advocate.
+      - "TIP: Make sure to bring any and all documents and other evidence relating to the crime and showing your costs to any scheduled meeting."
+    resources:
+      - "[New Mexico Compensation FAQ](https://www.cvrc.state.nm.us/cvrc-application/)"
+      - "[New Mexico Crime Victims Compensation- Online Application Portal](https://ccvcnm.org)"
+      - "[Crime Victims Compensation - Brochure](https://www.cvrc.state.nm.us/wp-content/uploads/2019/08/CVRC-Brochure-2019-2.pdf) "
+  - resource_category: Criminal Restitution
+    who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
+    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced
+    cost: It is free of charge.
+    likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
+    covered_expenses: |
+      You can get compensation for the following expenses:
+
+      * Medical bills
+
+      * Dental bills
+
+      * Counseling
+
+      * Transportation
+
+      * Lost wages
+
+      * Stolen or damaged property
+
+      * Other out-of-pocket costs directly related to the crime
+
+    safety: You may have to testify in front of the person that harmed you as part of the criminal case and  / or at the sentencing hearing.
+    story: |
+
+      * You must share your story:
+
+        * With the police when you report the crime; and
+
+        * With the District Attorney assigned to your case.
+
+      * You may have to share your story:
+
+        * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
+
+    challenges:
+      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+    steps:
+      - "Step 1: Report the crime to law enforcement."
+      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
+      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 3: Contact the office of the District Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney assigned to your case that you are seeking criminal restitution."
+      - "TIP: You can locate the office of the District Attorney for each county [here](https://criminal.findlaw.com/criminal-legal-help/new-mexico-district-attorneys.html)."
+      - "Step 4: Share the information and documents you’ve gathered with the attorney assigned to your case and continue to send them evidence of any ongoing costs."
+      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "Step 6: At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "TIP: Collecting criminal restitution can be challenging. If you need help, ask the District Attorney assigned to your case for support."
+    resources:
+      - "[Civil justice for Victims of Crime in New Mexico - Brochure](https://victimsofcrime.org/docs/default-source/CJ%20Brochures/nm-civil-justice-bro_reader.pdf?sfvrsn=4)"
+  - resource_category: Small Claims Court
+    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
+    when: |
+      You must file claims for personal injury and assault within **3 years** of the injury or assault; and for property damage within **4 years** of the damage.
+
+      TIP: Check out [this resource](https://statelaws.findlaw.com/new-mexico-law/new-mexico-statutes-of-limitations.html) to see deadlines for other types of claims.
+    where: |
+      You must file your small claims case in either the Magistrate or Metropolitan court in the county where the person that harmed you lives or where the harm occurred.
+
+      TIP: Find the location of the Magistrate or Metropolitan court in each county [here](https://www.nmcourts.gov/find-a-court.aspx).
+    time: The whole process will generally take several weeks to several months.
+    covered_expenses: The total amount you are seeking must be $10,000 or less.
+    cost: You are required to pay a filing fee. The amount of the filing fee will depend on the county but generally range from $25-$100. You can call the clerk of the court to ask how much the filing fee for small claims cases is in that county. Find the phone numbers for each court [here](https://www.nmcourts.gov/find-a-court.aspx).
+    likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
+    safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
+    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
+    attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you get from court.
+    challenges:
+      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments [here](http://jec.unm.edu/manuals-resources/court-brochures/judgment-collection.doc/view)."
+    steps:
+      - "Step 1: Collect any and all documents and other evidence that supports your claims and show the amount of  your damages."
+      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "Step 2: Locate the Magistrate or Metropolitan Court that serves the county where the person that harmed you lives or where the harm happened."
+      - "TIP: Find the location of the Magistrate or Metropolitan Court in each county [here](https://www.nmcourts.gov/find-a-court.aspx)."
+      - "Step 3: You must fill out a complaint and summons and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). You can find the form complaint (Form 4-201) [here](https://www.nmonesource.com/nmos/forms/en/item/16464/index.do?q=Form+4-201). You can also ask for the proper forms in person from the clerk in the Magistrate or Metropolitan Court."
+      - "TIP: You must include the correct address of the person that harmed you. The Clerk cannot find the address for you."
+      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to file with the court, send to the defendant, and keep for your records."
+      - "Step 4: Sign and file the completed forms with the clerk of the proper Magistrate or Metropolitan Court."
+      - "Step 5: Pay the filing fees. If you can’t afford the filing fees, tell the clerk that you’d like to ask for a waiver and follow any instructions carefully."
+      - "TIP: If you know you are going to be asking for a fee waiver, it’s a good idea to bring proof of your income with you to court (pay stubs, bank statements, EBT card, etc.)"
+      - "Step 6: The person that harmed you must get a copy of the documents you filed. Ask the clerk for help with this process."
+      - "Step 7: After your paperwork is filed, you will receive a court date for the trial in your case. Do not miss that court date."
+      - "Step 8: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses. If you decide that you want to bring witnesses, ask the clerk for help in how to proceed."
+      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
+      - "Step 10: Present your case, closely following any directions given by the judge."
+      - "Step 11: Receive the judge’s decision either at the end of the hearing or later in the mail."
+      - "Step 12: If you win your small claims case and are awarded a judgment, you will need to take steps to collect that money. Read more about collecting judgments [here](http://jec.unm.edu/manuals-resources/court-brochures/judgment-collection.doc/view)."
+    what_if_i_disagree:
+      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "Step 1: Within **15 days** of the decision, complete and a Notice of Appeal (Form 4-707), attach a copy of the decision, and file with the clerk of the District Court in the same county where you filed your small claims case. You can find a Notice of Appeal form [here](https://www.nmonesource.com/nmos/forms/en/item/16396/index.do?q=Form+4-707). You can also request one in-person from the clerk."
+      - "Step 2: You will have to pay a filing fee."
+      - "Step 3: File a file-stamped copy of the Notice of Appeal with the Magistrate or Metropolitan Court where your case was heard."
+      - "Step 4: Mail a file-stamped copy of the Notice of Appeal and attachments to the person that harmed you."
+      - "Step 5: The District Court will re-hear your case and hold a new trial."
+      - "TIP: The appeal will follow more complex rules and procedures. This will be complicated, and it’s a good idea to try and find a lawyer to represent you."
+    resources:
+      - "[Civil Justice for Victims of Crime in New Mexico](https://victimsofcrime.org/docs/default-source/CJ%20Brochures/nm-civil-justice-bro_reader.pdf?sfvrsn=4)"
+  - resource_category: Civil Tort
+    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
+    when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
+    time: The whole process will most likely take over a year.
+    cost: Hundreds or even thousands of dollars.
+    likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
+    safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way.
+    challenges:
+      - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
+    steps:
+      - "Step 1: Find an attorney you trust."
+      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - |
+        You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        * Your name and address
+
+        * The name and address of the person that harmed you
+
+        * Date of the incident(s)
+
+        * Brief description of the incident(s)
+
+        * Itemized list of costs that resulted from the incident(s)
+
+        * Copies of important documents
+
+        * If you know it, the income / assets of the person that harmed you
+
+        * If you can, the type of claim you want to bring against the person that harmed you
+
+    resources:
+      - "[Online Bar Directory](https://www.nmbar.org/Nmstatebar/FindAnAttorney)"
+      - "[Find the Best Lawyer in New Mexico](https://www.avvo.com/all-lawyers/nm.html)"
+      - "[New Mexico Lawyers - Compare Top Attorneys in New Mexico](https://www.justia.com/lawyers/new-mexico)"
+      - "[New Mexico Lawyers | Find the right Attorney in New Mexico](https://www.legalmatch.com/find/new-mexico-lawyers.html)"
