@@ -1,24 +1,24 @@
-state:
+state: WI
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
       You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent or family member of someone that was killed as the result of a crime.
 
-      * Eligible crimes include:
+      Eligible crimes include:
 
-        * Domestic violence
+      * Domestic violence
 
-        * Battery
+      * Battery
 
-        * Homicide
+      * Homicide
 
-        * Sexual Assault
+      * Sexual Assault
 
-        * Child abuse
+      * Child abuse
 
-        * Theft
+      * Theft
 
-        * Stalking
+      * Stalking
 
       TIP: You can apply even if the person who harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Wisconsin.
@@ -58,9 +58,13 @@ resources:
       - |
         Step 4: Submit your completed application and any additional documents in person, by mail, or by email to:
 
+
         Office of Crime Victim Services
+
         PO Box 7951
+
         Madison, Wisconsin 53707
+
         [ocvs@doj.state.wi.us](mailto:ocvs@doj.state.wi.us)
       - "TIP: Remember, **your application must be received within one year after the crime occurred.** It’s a good idea to follow up with an email to [ocvs@doj.state.wi.us](mailto:ocvs@doj.state.wi.us) confirming that your application was received."
       - "TIP: If you are close to the one-year deadline but don’t have certain documents (police report, invoices, receipts), do not wait to submit your application. Instead, submit the application and follow up with the documents when you get them."

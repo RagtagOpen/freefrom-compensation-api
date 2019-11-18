@@ -1,4 +1,4 @@
-state:
+state: WV
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
@@ -6,27 +6,27 @@ resources:
 
       Eligible crimes include:
 
-        * Domestic violence
+      * Domestic violence
 
-        * Malicious assault
+      * Malicious assault
 
-        * Assault and battery
+      * Assault and battery
 
-        * Child abuse
+      * Child abuse
 
-        * Murder
+      * Murder
 
-        * Sexual assault
+      * Sexual assault
 
-        * DUI
+      * DUI
 
-        * Robbery
+      * Robbery
 
-        * Kidnapping
+      * Kidnapping
 
-        * Arson
+      * Arson
 
-        TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in West Virginia.
     when: The application must be received within 2 years after the date of the crime.
     time: On average, it takes seven and a half months for an application to be approved or denied.
