@@ -2,10 +2,9 @@ state: AZ
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
-      You are eligible to apply if you were harmed as the result of a crime or if your spouse, child, parent, stepparent, stepchild, or sibling was killed as the result of a crime. 
+      You are eligible to apply if you were harmed as the result of a crime or if your spouse, child, parent, stepparent, stepchild, or sibling was killed as the result of a crime.
 
-
-      Eligible crimes include: 
+      Eligible crimes include:
 
       * Domestic violence
 
@@ -25,7 +24,7 @@ resources:
 
 
       TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
-    where: You are eligible to apply if the crime happened in Arizona or if you are a resident of Arizona and were harmed in a state that does not have a crime victim compensation program. 
+    where: You are eligible to apply if the crime happened in Arizona or if you are a resident of Arizona and were harmed in a state that does not have a crime victim compensation program.
     when: The application must be _received_ within **2 years** after the date of the crime.
     time: On average, it takes 1.5 months for an application to be approved or denied.
     cost: It is free to apply.
@@ -51,8 +50,8 @@ resources:
     challenges:
       - "You Must Report the Crime to the Police: You must report the crime within **72 hours** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "For Sexual Assault, You Must Have an Exam: If the crime was a sexual assault, you must have a forensic medical exam before applying."
-      - "Cooperation is Required: You must cooperate with the police during their investigation, and with anyone reviewing and investigating your application."    
-      - "Not All Costs Are Covered: You can’t get compensation for attorney's fees, property losss or damage, or pain and suffering."   
+      - "Cooperation is Required: You must cooperate with the police during their investigation, and with anyone reviewing and investigating your application."
+      - "Not All Costs Are Covered: You can’t get compensation for attorney's fees, property losss or damage, or pain and suffering."
     steps:
       - "Step 1: Report the crime to the police within **72 hours** of the incident and get a police report. If the crime was a sexual assault, get a forensic medical exam."
       - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time or get a forensic medical exam. Apply and explain why you waited to report / were unable to get an exam."
@@ -95,7 +94,7 @@ resources:
       * Other out-of-pocket costs directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
-      * You must share your story: 
+      * You must share your story:
 
         * With the police when you report the crime; and
 
@@ -103,7 +102,7 @@ resources:
 
       * You may have to share your story:
 
-        * If the County Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing. 
+        * If the County Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
     challenges:
       - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
       - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
@@ -175,7 +174,7 @@ resources:
   - resource_category: Civil Tort
     who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
     when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
-    time: The whole process will most likely take over a year. 
+    time: The whole process will most likely take over a year.
     cost: Hundreds or even thousands of dollars.
     likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
     safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.

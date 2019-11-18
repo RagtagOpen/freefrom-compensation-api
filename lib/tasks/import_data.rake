@@ -17,12 +17,16 @@ task :import_data => :environment do
   Dir.foreach('data/resources') do |filename|
     next if filename == '.' or filename == '..'
 
-    state_resources = YAML.load(File.read("data/resources/#{filename}"))
+    begin
+      state_resources = YAML.load(File.read("data/resources/#{filename}"))
 
-    state = state_resources['state']
-    state_resources['resources'].each do |resource_yaml|
-      create_resource(resource_yaml, state)
-      resource_count += 1
+      state = state_resources['state']
+      state_resources['resources'].each do |resource_yaml|
+        create_resource(resource_yaml, state)
+        resource_count += 1
+      end
+    rescue => e
+      raise "Error with #{filename}: #{e.message}"
     end
   end
 

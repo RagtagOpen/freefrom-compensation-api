@@ -1,4 +1,4 @@
-state:
+state: UT
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
@@ -241,7 +241,7 @@ resources:
 
         * If you can, the type of claim you want to bring against the person that harmed you
     resources:
-      - [Find a Utah Lawyer](https://www.utahbar.org/public-services/)
-      - [Find Legal Help- Utah Courts](https://www.utcourts.gov/howto/legalassist/)
-      - [Find an attorney in Utah](https://www.legalmatch.com/law-library/article/finding-an-attorney-in-utah.html)
-      - [Utah Lawyers](https://lawyers.findlaw.com/lawyer/state/utah)
+      - "[Find a Utah Lawyer](https://www.utahbar.org/public-services/)"
+      - "[Find Legal Help- Utah Courts](https://www.utcourts.gov/howto/legalassist/)"
+      - "[Find an attorney in Utah](https://www.legalmatch.com/law-library/article/finding-an-attorney-in-utah.html)"
+      - "[Utah Lawyers](https://lawyers.findlaw.com/lawyer/state/utah)"
