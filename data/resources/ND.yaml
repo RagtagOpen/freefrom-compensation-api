@@ -7,57 +7,57 @@ resources:
       Eligible crimes include:
 
       * Domestic violence
-      
+
       * Assault
-      
+
       * Robbery
-      
+
       * Child abuse
-      
+
       * Human trafficking
-      
+
       * Homicide
-      
+
       * Arson
-      
+
       * DUI
-      
+
       * Burglary
-      
+
       * Sexual assault
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in North Dakota, or if the crime happened in a state that doesn’t give crime victim compensation to non-residents.
     when: The application must be _received_ within **1 year** after the date of the crime.
     time: On average, it takes 2 months for your application to be approved or denied.
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
-      You can get compensation for the following expenses: 
+      You can get compensation for the following expenses:
 
       * Medical treatment
-      
+
       * Mental health treatment
-      
+
       * Prescription medication
-      
+
       * Lost wages
-      
+
       * Funeral expenses
 
     likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-to Apply” below for more information.
-    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply. 
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need to have an attorney to apply.
     challenges:
       - "You Must Report the Crime to the Police: You must report the crime to the police within **96 hours** (4 days). However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "Cooperation is Required: You must cooperate with the police when they investigate the crime and anyone reviewing and investigating your application for compensation."
-      - "Not All Costs Are Covered: You can’t get compensation for property damage or loss."      
+      - "Not All Costs Are Covered: You can’t get compensation for property damage or loss."
     steps:
       - "Step 1: Report the crime to the police within **96 hours** (4 days) of the incident and get a police report."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
       - "Step 2: Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
       - |
         Step 3: Access the Crime Victim Compensation Application [here](https://docr.nd.gov/sites/www/files/documents/victims/CVC%20Forms/CVC%20App.pdf), or by request from the:
 
@@ -80,38 +80,38 @@ resources:
 
         ND DOCR Crime Victims Compensation Program
 
-        PO Box 1898 
+        PO Box 1898
 
         Bismarck, ND 58502
 
 
-      - "TIP: Remember, **your application must be received within 1 year after the crime occurred**. It’s a good idea to follow up [with an email](mailto:DOCRcompensation@nd.gov) to confirm that your application was received."
+      - "**TIP:** Remember, **your application must be received within 1 year after the crime occurred**. It’s a good idea to follow up [with an email](mailto:DOCRcompensation@nd.gov) to confirm that your application was received."
     what_to_expect:
-      - "TIP: You can check the status of your application and payments [here](https://docr.nd.gov/crime-victims-compensation) under the “Claim Status” tab."
+      - "**TIP:** You can check the status of your application and payments [here](https://docr.nd.gov/crime-victims-compensation) under the “Claim Status” tab."
       - The North Dakota Department of Corrections and Rehabilitation Division of Adult Services will review and investigate your entire application to make sure all of the information you’ve included in it is true and accurate.
       - A representative of the Division might ask you for additional information. If they do, respond to the request as soon as possible.
       - The Division will approve or deny your application and will send you a written decision in the mail.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Crime Victim Compensation Program to let them know. Contact the Program by phone at (701) 328-6195 or email at [DOCRcompensation@nd.gov](mailto:DOCRcompensation@nd.gov)."
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Crime Victim Compensation Program to let them know. Contact the Program by phone at (701) 328-6195 or email at [DOCRcompensation@nd.gov](mailto:DOCRcompensation@nd.gov)."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - You must send a written request for an informal review to the North Dakota Department of Corrections and Rehabilitation Division of Adult Services within **30 days** of the decision.
       - The Division will review your claim and send you a written decision.
       - If you don’t agree with this decision, you can request an administrative hearing or appeal your case to the District Court. Either option is complex, and it’s a good idea to try and find an attorney to help you.
-      - "TIP: Read more about the appeals process [here](https://www.legis.nd.gov/information/acdata/pdf/94-03-04.pdf)."
+      - "**TIP:** Read more about the appeals process [here](https://www.legis.nd.gov/information/acdata/pdf/94-03-04.pdf)."
     resources:
       - "[North Dakota Crime Victims Compensation](https://docr.nd.gov/crime-victims-compensation)"
   - resource_category: Criminal Restitution
     who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
     time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced.
-    cost: It is free of charge. 
+    cost: It is free of charge.
     likelihood: A State’s Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the State's Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
-      You can get compensation for the following expenses: 
+      You can get compensation for the following expenses:
 
       * Medical expenses
-      
-      * Counseling or therapy costs 
-      
+
+      * Counseling or therapy costs
+
       * Other out-of-pocket costs that are a direct result of the crime
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
@@ -133,33 +133,33 @@ resources:
       - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the State's Attorney assigned to your case for support."
     steps:
       - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
       - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any other invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
       - "Step 3: Contact the office of the State’s Attorney in the county where the crime happened and ask to speak with the attorney and Victim Witness Coordinator assigned to your case. Tell the attorney and Victim WItness Coordinator assigned to your case that you are seeking criminal restitution."
-      - "TIP: You can find the location and contact information for the office of the State’s Attorney in each county [here](http://www.ndsaa.org/directory/)."
+      - "**TIP:** You can find the location and contact information for the office of the State’s Attorney in each county [here](http://www.ndsaa.org/directory/)."
       - "Step 4: Share the information and documents you have gathered with the attorney and Victim Witness Coordinator assigned to your case. If you’re not sure what types of documents are necessary, ask the attorney for help."
       - "Step 5: Stay in contact with the attorney and Victim Witness Coordinator assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
       - "Step 6: At the sentencing hearing, the State’s Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting restitution can be challenging. Ask the attorney assigned to your case for support."
+      - "**TIP:** Collecting restitution can be challenging. Ask the attorney assigned to your case for support."
     resources:
       - "[North Dakota State’s Attorney Directory](http://www.ndsaa.org/directory/)"
   - resource_category: Small Claims Court
-    who: You are eligible to bring claims in small claims court if you are 18 or older and the amount of money you are asking for is $15,000 or less. 
+    who: You are eligible to bring claims in small claims court if you are 18 or older and the amount of money you are asking for is $15,000 or less.
     when: |
       You must bring claims for assault and battery within **2 years** of the wrongful conduct; for personal injury within **6 years** of the injury; and for property damage within **6 years** of the damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/north-dakota-law/north-dakota-civil-statute-of-limitations-laws.html) to see deadlines for different types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/north-dakota-law/north-dakota-civil-statute-of-limitations-laws.html) to see deadlines for different types of claims.
     where: |
       You must file your small claims case in small claims division of the District Court in the county where the person who harmed you lives.
 
-      TIP: Find the location and contact information for the District Court in each county using [this map](https://www.ndcourts.gov/district-court). 
+      **TIP:** Find the location and contact information for the District Court in each county using [this map](https://www.ndcourts.gov/district-court).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $15,000 or less.
     cost: |
       You will have to pay a filing fee of $10. You may also have to pay fees to deliver your documents to the defendant.
 
-      TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](http://www.legalassist.org/image/cache/Petition-In_Forma_Pauperis.pdf) is the form you’ll need to ask for a waiver. It’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.). Ask the clerk for support if you need help completing the form.
+      **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](http://www.legalassist.org/image/cache/Petition-In_Forma_Pauperis.pdf) is the form you’ll need to ask for a waiver. It’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.). Ask the clerk for support if you need help completing the form.
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
@@ -169,14 +169,14 @@ resources:
       - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. For more information, check out “The Judgment” section in [this resource](http://www.legalassist.org/?id=86&form_data_id=39)."
     steps:
       - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
       - "Step 2: Locate the proper District Court. You must file your small claims case in the county where the person that harmed you lives."
-      - "TIP: Find the location and contact information for the District Court in each county using [this map](https://www.ndcourts.gov/district-court)."
+      - "**TIP:** Find the location and contact information for the District Court in each county using [this map](https://www.ndcourts.gov/district-court)."
       - "Step 3: After carefully reading the instructions, complete a [Claim Affidavit](https://www.ndcourts.gov/Media/Default/Legal%20Resources/Legal%20Self%20Help/Small%20Claims/Form2.pdf) and attach copies of documents relating to what happened (for example, a police report) and showing all of your costs (for example, medical bills)."
-      - "TIP: You can also request a Claim Affidavit from the clerk of the District Court."
-      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
+      - "**TIP:** You can also request a Claim Affidavit from the clerk of the District Court."
+      - "**TIP:** Make at least 3 copies of all the forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
       - "Step 4: Sign and file the completed Claim Affidavit and pay the filing fee."
-      - "TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](http://www.legalassist.org/image/cache/Petition-In_Forma_Pauperis.pdf) is the form you’ll need to complete to ask for a waiver. It’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.). Ask the clerk for support if you need help completing the form."
+      - "**TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](http://www.legalassist.org/image/cache/Petition-In_Forma_Pauperis.pdf) is the form you’ll need to complete to ask for a waiver. It’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.). Ask the clerk for support if you need help completing the form."
       - "Step 5: The person that harmed you must get a copy of all of the documents that you file. You cannot deliver the documents yourself, it must be done by certified mail, or in person by the Sheriff or a private process server. All three options require fees. Ask the clerk for support if you need it."
       - "Step 6: Once the defendant received your documents, you must file a completed [Affidavit of Mailing / Personal Service](https://www.ndcourts.gov/Media/Default/Legal%20Resources/Legal%20Self%20Help/Small%20Claims/Form6.pdf) form to show that your documents were delivered. If you have questions, ask the clerk for support."
       - "Step 7: The court will schedule a hearing for your case. Do not miss this court date."
@@ -186,15 +186,15 @@ resources:
       - "Step 11: Receive the judge’s order either at the end of the hearing, or at a later date via mail."
       - "Step 12: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. For more information, check out “The Judgment” section in [this resource](http://www.legalassist.org/?id=86&form_data_id=39)."
     what_if_i_disagree:
-      - Small claims court decisions in North Dakota are final and cannot be appealed. 
+      - Small claims court decisions in North Dakota are final and cannot be appealed.
     resources:
       - "[North Dakota Small Claims Court Actions](https://www.ndcourts.gov/legal-self-help/small-claims)"
       - "[North Dakota Small Claims Court - Legal Services Resource](http://www.legalassist.org/?id=86&form_data_id=39)"
       - "[Small Claims Court FAQs](http://library.nd.gov/statedocs/AttorneyGeneral/SmallClaimsCourt20101026.pdf)"
   - resource_category: Civil Tort
-    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case. 
+    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
     when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
-    time: The whole process will most likely take over a year. 
+    time: The whole process will most likely take over a year.
     cost: Hundreds or even thousands of dollars.
     likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
     safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
@@ -205,22 +205,22 @@ resources:
       - "Step 1: Find an attorney you trust."
       - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
-        
+
         * The name and address of the person that harmed you
-        
+
         * Date of the incident(s)
-        
+
         * Brief description of the incident(s)
-        
+
         * Itemized list of costs that resulted from the incident(s)
-        
+
         * Copies of important documents
-        
+
         * If you know it, the income / assets of the person that harmed you
-        
+
         * If you can, the type of claim you want to bring against the person that harmed you
 
     resources:
