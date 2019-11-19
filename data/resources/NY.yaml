@@ -58,7 +58,7 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "**You Must Report the Crime to the Police:** You must report the crime to police within **1 week** of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**You must report the crime to the police:** You must report the crime to police within **1 week** of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "**Cooperation is Required:** You must cooperate with the police when they investigate the crime and anyone reviewing and investigating your application for compensation."
       - "**Not All Costs Are Covered:** You cannot get compensation for pain and suffering or mental anguish."
     steps:
