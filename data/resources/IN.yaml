@@ -60,7 +60,7 @@ resources:
     attorney: You do not need an attorney to apply.
     challenges:
       - "**You Must Report the Crime:** You must report the crime to law enforcement within **72 hours** and obtain a police report. An Order of Protection is not enough. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "**Cooperation is Required:** You must cooperate with the police and anyone reviewing your application while they investigate the crime."
+      - "**You must cooperate with the police:** You must cooperate with the police and anyone reviewing your application while they investigate the crime."
       - "**Not All Costs Are Covered:** You cannot get reimbursed for the following: property damage and stolen items; damages for pain and suffering; relocation expenses; travel expenses related to court proceedings; rent, utilities, or food; crime scene cleanup; or burial expenses."
       - "**Your Financial Situation May Impact Compensation:** Benefits may not be awarded if your net worth exceeded $200,000 at the time of the crime."
     steps:

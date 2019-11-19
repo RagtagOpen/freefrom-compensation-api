@@ -61,7 +61,7 @@ resources:
     attorney: You do not need an attorney to apply.
     challenges:
       - "**You must report the crime to the police:** You must report the crime to the police within **72 hours**. If the crime is sexual assault, sexual abuse, or human trafficking, you must report the crime to police within **7 days**. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "**Cooperation is Required:** You must cooperate with the police, the prosecutor’s office, the court, and the person reviewing your application."
+      - "**You must cooperate with the police:** You must cooperate with the police, the prosecutor’s office, the court, and the person reviewing your application."
       - "**Not All Costs Are Covered:** You can’t get compensation for property damage or pain and suffering."
       - "**Having a Criminal Record May Disqualify You:** If you are currently incarcerated or on parole, probation, or supervised release, you will not receive any funds until you are released, but the application still needs to be filed within the normal deadline."
     steps:

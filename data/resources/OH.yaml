@@ -53,7 +53,7 @@ resources:
     attorney: You do not need an attorney to apply.
     challenges:
       - "**The Crime Must Be Reported To Police:** You do not have to be named in the police report, but the crime must be reported to police."
-      - "**Cooperation is Required:** You must cooperate with the police when they investigate the crime and anyone reviewing and investigating your application for compensation."
+      - "**You must cooperate with the police:** You must cooperate with the police when they investigate the crime and anyone reviewing and investigating your application for compensation."
       - "**Not All Costs Are Covered:** You cannot get reimbursed for stolen, damaged, or lost property, or for pain and suffering."
       - "**Having a Criminal Record May Disqualify You:** You are not eligible if you have certain felony convictions. [Here](https://cvonlinecompensationapp.ohioattorneygeneral.gov/Home/CompensationInfo) is some more information."
     steps:
