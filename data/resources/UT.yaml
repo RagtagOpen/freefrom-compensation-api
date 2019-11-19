@@ -55,8 +55,8 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You don’t need an attorney to apply.
     challenges:
-      - "The Police Must Be Involved: You must report the crime to the police and get a police report."
-      - "Not All Costs Are Covered: You can’t get compensated for property damage or pain and suffering."
+      - "**The Police Must Be Involved:** You must report the crime to the police and get a police report."
+      - "**Not All Costs Are Covered:** You can’t get compensated for property damage or pain and suffering."
     steps:
       - "**Step 1:** Report the crime to the police and get a police report."
       - "**Step 2:** Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
@@ -129,9 +129,9 @@ resources:
         * If the County Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
     steps:
       - "**Step 1:** Report the crime to law enforcement."
       - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
@@ -168,8 +168,8 @@ resources:
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you get from court.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments [here](https://www.utcourts.gov/howto/judgment/)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments [here](https://www.utcourts.gov/howto/judgment/)."
     steps:
       - "**Step 1:** Collect any and all documents and other evidence that support your claim and show the amount of your damages."
       - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."

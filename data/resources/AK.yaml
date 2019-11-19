@@ -59,9 +59,9 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply. However, if you seek help from an attorney to file the application, reasonable fees will be covered at no cost to you.
     challenges:
-      - "You Must Report the Crime to the Police: You must report the crime to law enforcement within **5 days** of the incident and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Cooperation is Required: You must cooperate with the police and with the person reviewing and investigating your application."
-      - "Not All Costs Are Covered: You can not get reimbursed for property damage."
+      - "**You Must Report the Crime to the Police:** You must report the crime to law enforcement within **5 days** of the incident and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with the police and with the person reviewing and investigating your application."
+      - "**Not All Costs Are Covered:** You can not get reimbursed for property damage."
     steps:
       - "**Step 1:** Report the crime to the police within **5 days** of the incident and get a police report."
       - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
@@ -123,9 +123,9 @@ resources:
 
         * If the Distric Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
     steps:
       - "**Step 1:** Report the crime to law enforcement."
       - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
@@ -160,8 +160,8 @@ resources:
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you  in court and represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](http://judicial.alabama.gov/docs/library/docs/smguide.pdf)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you  in court and represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](http://judicial.alabama.gov/docs/library/docs/smguide.pdf)."
     steps:
       - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages."
       - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."

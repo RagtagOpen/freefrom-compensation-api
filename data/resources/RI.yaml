@@ -52,9 +52,9 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "You Must Report Crimes to the Police: You must report the crime to the police within **10 days**. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Cooperation is Required: You must cooperate with the police, the prosecutor’s office, the court’s, and the person reviewing your application."
-      - "Not All Costs Are Covered: You cannot get reimbursed for property damage or pain and suffering."
+      - "**You Must Report Crimes to the Police:** You must report the crime to the police within **10 days**. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with the police, the prosecutor’s office, the court’s, and the person reviewing your application."
+      - "**Not All Costs Are Covered:** You cannot get reimbursed for property damage or pain and suffering."
     steps:
       - "**Step 1:** Report the crime to the police within **10 days** of the incident and get a police report."
       - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited. "
@@ -127,9 +127,9 @@ resources:
         * If the prosecuting attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the prosecuting attorney assigned to your case for support. "
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the prosecuting attorney assigned to your case for support. "
     steps:
       - "**Step 1:** Report the crime to law enforcement."
       - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
@@ -168,8 +168,8 @@ resources:
     attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
     challenges:
       - "**Only Contract Claims Are Permitted: You can only bring claims against the person that harmed you in Rhode Island small claims court if that person somehow breached an oral or written contract they had with you.**"
-      - "You Will Have to Represent Yourself: You will most likely have to face the person that harmed you in court and you will have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments [here](https://www.nolo.com/legal-encyclopedia/judgment-liens-rhode-island-46855.html)."
+      - "**You Will Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and you will have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments [here](https://www.nolo.com/legal-encyclopedia/judgment-liens-rhode-island-46855.html)."
     steps:
       - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages."
       - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."

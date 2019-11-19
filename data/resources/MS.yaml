@@ -58,11 +58,11 @@ resources:
     story: You will have to include information about what happened to you in your application and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply and the program does not cover attorneys fees.
     challenges:
-      - "You Must Report the Crime: You must report the crime to law enforcement within **72 hours** and get a police report. An Order of Protection is not enough. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Cooperation is Required: You must cooperate with law enforcement in the investigation of the crime and with anyone reviewing your application."
-      - "Not All Costs Are Covered: You cannot get reimbursed for property damage, pain and suffering, or attorneys fees."
+      - "**You Must Report the Crime:** You must report the crime to law enforcement within **72 hours** and get a police report. An Order of Protection is not enough. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with law enforcement in the investigation of the crime and with anyone reviewing your application."
+      - "**Not All Costs Are Covered:** You cannot get reimbursed for property damage, pain and suffering, or attorneys fees."
       - |
-        A Criminal Record Might Disqualify You: You can’t get compensation if:
+        **A Criminal Record Might Disqualify You:** You can’t get compensation if:
 
         * You were in jail or prison when the crime occurred
 
@@ -142,9 +142,9 @@ resources:
         * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
     steps:
       - "**Step 1:** Report the crime to law enforcement."
       - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
@@ -177,8 +177,8 @@ resources:
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
     challenges:
-      - "You Will Have to Represent Yourself: You will most likely have to face the person that harmed you in court and you will have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://legalbeagle.com/5472417-mississippi-smallclaims-court-procedures.html) and [here](https://www.lawyers.com/legal-info/research/mississippi/mississippi-small-claims.html)."
+      - "**You Will Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and you will have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://legalbeagle.com/5472417-mississippi-smallclaims-court-procedures.html) and [here](https://www.lawyers.com/legal-info/research/mississippi/mississippi-small-claims.html)."
     steps:
       - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages."
       - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."

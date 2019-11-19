@@ -61,7 +61,7 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "Not All Costs Are Covered: You can’t get compensation for property loss, property damage, or pain and suffering."
+      - "**Not All Costs Are Covered:** You can’t get compensation for property loss, property damage, or pain and suffering."
     steps:
       - "**Step 1:** Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: a police report, a permanent restraining order, letter from a domestic violence advocate or therapist, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
       - "**Step 2:** After carefully reading the instructions, complete an application [online](https://online.victims.ca.gov/), using [this fillable pdf](https://victims.ca.gov/docs/forms/victims/apps/victimcompensationapp_eng.pdf?10-4-17), or by printing out [this application](https://victims.ca.gov/docs/forms/victims/apps/handprintapp_English.pdf?updated-10-7-16) and completing it by hand."
@@ -133,9 +133,9 @@ resources:
 
         * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
     steps:
       - "**Step 1:** Report the crime to law enforcement."
       - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
@@ -182,8 +182,8 @@ resources:
 
       **TIP:** Still have questions? You can work with a Small Claims Advisor for help during the process. Find a Small Claims Advisor in your county [here](https://www.courts.ca.gov/selfhelp-advisors.htm).
     challenges:
-      - "You Will Have to Represent Yourself: You will most likely have to face the person that harmed you in court and you will have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://www.courts.ca.gov/1014.htm)."
+      - "**You Will Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and you will have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://www.courts.ca.gov/1014.htm)."
     steps:
       - "**TIP:** Have a look at the “Suing Someone” checklist [here](https://www.courts.ca.gov/1007.htm) and familiarize yourself with the small claims process."
       - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of you damages."

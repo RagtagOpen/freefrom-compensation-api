@@ -48,8 +48,8 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "You Must Report the Crime to the Police: You must report the crime within 3 days of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Not All Costs Are Covered: You can’t get compensated for property loss or pain and suffering. "
+      - "**You Must Report the Crime to the Police:** You must report the crime within 3 days of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Not All Costs Are Covered:** You can’t get compensated for property loss or pain and suffering. "
     steps:
       - "**Step 1:** Report the crime to the police within 3 days of the incident and get a police report."
       - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
@@ -119,9 +119,9 @@ resources:
 
         * If the County Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
     steps:
       - "**Step 1:** Report the crime to law enforcement."
       - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
@@ -151,8 +151,8 @@ resources:
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: Attorneys are not allowed in Nebraska small claims court.
     challenges:
-      - "You Will Have to Represent Yourself: You will most likely have to face the person that harmed you in court and you will have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting a judgment [here](https://supremecourt.nebraska.gov/self-help/small-claims/Collecting-Your-Money) [here](https://www.offutt.af.mil/Portals/97/55%20WG%20Legal/Small%20Claims%20Court.pdf?ver=2016-03-21-153924-770), and [here](https://asun.unl.edu/ASUN_NEW/SLS/PDF/court.pdf)."
+      - "**You Will Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and you will have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting a judgment [here](https://supremecourt.nebraska.gov/self-help/small-claims/Collecting-Your-Money) [here](https://www.offutt.af.mil/Portals/97/55%20WG%20Legal/Small%20Claims%20Court.pdf?ver=2016-03-21-153924-770), and [here](https://asun.unl.edu/ASUN_NEW/SLS/PDF/court.pdf)."
     steps:
       - "**Step 1:** Collect any and all documents and other evidence that support your claim and show the amount of your damages."
       - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."

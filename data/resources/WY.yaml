@@ -35,8 +35,8 @@ resources:
     story: You will have to include information about what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply. However, if you seek help from an attorney to file the application, you must notify the Division of Victim Services.
     challenges:
-      - "The Police Must Be Involved: You must report the crime to the police and cooperate in the investigation."
-      - "Not All Costs Are Covered: You cannot get reimbursed for property damage or for pain and suffering."
+      - "**The Police Must Be Involved:** You must report the crime to the police and cooperate in the investigation."
+      - "**Not All Costs Are Covered:** You cannot get reimbursed for property damage or for pain and suffering."
     steps:
       - "**Step 1:** Report the crime to the police and get a police report."
       - "**Step 2:** Gather all the documents you can that relate to the costs you are trying to get covered. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay as a result of the crime."
@@ -92,9 +92,9 @@ resources:
       * You may have to share your story:
         * If the County Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person who harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge award you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person who harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge award you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
     steps:
       - "**Step 1:** Report the crime to law enforcement."
       - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
@@ -126,8 +126,8 @@ resources:
     story: You will have to tell the judge specific details about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish, but it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person who harmed you, which may be challenging. Read more about collecting money [here](https://smallclaims.uslegal.com/small-claims-laws-by-state/wyoming-small-claims-law/)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person who harmed you, which may be challenging. Read more about collecting money [here](https://smallclaims.uslegal.com/small-claims-laws-by-state/wyoming-small-claims-law/)."
     steps:
       - "**Step 1:** Before you file, you must send a letter to the person you are suing to demand that they pay you."
       - "**TIP:** For safety reasons, it’s a good idea not to include your address in your written demand letter to the person who harmed you."

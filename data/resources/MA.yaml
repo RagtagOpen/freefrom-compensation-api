@@ -62,9 +62,9 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply. However, if you seek help from an attorney to file the application, attorney fees may be covered as part of the compensation award.
     challenges:
-      - "You Must Report the Crime to the Police: You must report the crime within **5 days** and get a police report. If you don’t report the crime in time, you will need to explain why you didn’t.  However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Cooperation is Required: You must cooperate with law enforcement officials while they investigate and prosecute the crime and anyone reviewing your application."
-      - "Not All Costs Are Covered: You can’t get compensated for property loss, for pain and suffering, or other categories not specifically listed on the application."
+      - "**You Must Report the Crime to the Police:** You must report the crime within **5 days** and get a police report. If you don’t report the crime in time, you will need to explain why you didn’t.  However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with law enforcement officials while they investigate and prosecute the crime and anyone reviewing your application."
+      - "**Not All Costs Are Covered:** You can’t get compensated for property loss, for pain and suffering, or other categories not specifically listed on the application."
     steps:
       - "**Step 1:** Report the crime to the police within **5 days** of the incident and get a police report."
       - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
@@ -141,9 +141,9 @@ resources:
         * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
     steps:
       - "**Step 1:** Report the crime to law enforcement."
       - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
@@ -181,8 +181,8 @@ resources:
 
       **TIP:** Still have questions? [Here](http://www.lawv.net/Resources/Self-Help-Library/Representing-Yourself/Going-to-Magistrate-Court-How-to-file-your-own-civil-case#1) is a great resource to find out more.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://www.mass.gov/service-details/what-to-do-if-you-win-your-small-claims-case)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://www.mass.gov/service-details/what-to-do-if-you-win-your-small-claims-case)."
     steps:
       - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages."
       - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
