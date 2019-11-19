@@ -36,6 +36,8 @@ resources:
     time: On average, it takes 4 months for an application to be approved or denied.
     cost: It is free to apply.
     award: |
+
+
       * If You Were Injured: You can receive up to $15,000 for physical injuries, and $5,000 for emotional injuries.
 
       * If Your Family Member Was Killed: You can receive up to $25,000 to cover costs related to their death.
@@ -103,17 +105,9 @@ resources:
       - |
         **Step 5:** Submit the application in person, via mail, or via email to:
 
-
-        Office of Victim Services
-
-        Victim Compensation Unit
-
-        225 Spring Street, 4th Floor
-
-        Wethersfield, CT 06109
+        Office of Victim Services<br />Victim Compensation Unit<br />225 Spring Street, 4th Floor<br />Wethersfield, CT 06109
 
         Fax: 860-263-2780
-
         Email: [OVSCompensation@jud.ct.gov](mailto:OVSCompensation@jud.ct.gov)
 
       - "**TIP:** For questions or help filling out the application, contact the Victim Compensation Program at 1-888-286-73487 or via email: [OVSCompensation@jud.ct.gov](mailto:OVSCompensation@jud.ct.gov)."
