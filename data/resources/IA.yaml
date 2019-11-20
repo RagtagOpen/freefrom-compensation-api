@@ -82,7 +82,7 @@ resources:
     resources:
       - "[Iowa Department of Justice - Crime Victim Compensation Program](https://www.iowaattorneygeneral.gov/for-crime-victims/crime-victim-compensation-program)"
       - "[Iowa Department of Justice - Crime Victim Compensation Facts](https://www.iowaattorneygeneral.gov/for-crime-victims/crime-victim-compensation-program/crime-victim-compensation-facts)"
-      - "[Legislative Services Agency- Crime Victim Compensation Program](https://www.legis.iowa.gov/docs/publications/FTNO/16801.pdf#targetText=Claims%20are%20paid%20from%20the,Act%20(VOCA)%20funds)"
+      - "[Legislative Services Agency - Crime Victim Compensation Program](https://www.legis.iowa.gov/docs/publications/FTNO/16801.pdf#targetText=Claims%20are%20paid%20from%20the,Act%20%28VOCA%29%20funds)"
   - resource_category: Criminal Restitution
     who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
     time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced.
