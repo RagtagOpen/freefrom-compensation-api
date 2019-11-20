@@ -80,7 +80,6 @@ resources:
       - "CVC staff may ask you for more information or documents. If they do, respond as soon as possible."
       - "CVC will approve or deny your application and will send you a written decision."
       - |
-
         **TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, send a written address change request to CVC including the following information:
 
         * Name
@@ -157,9 +156,9 @@ resources:
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
 
-      You must file claims for assault, battery, and false imprisonment within 2 years of the wrongful conduct, and for personal injury and property damage within 3 years of the injury or damage.
+      You must file claims for assault, battery, and false imprisonment within **2 years** of the wrongful conduct, and for personal injury and property damage within **3 years** of the injury or damage.
 
-      **TIP:** Check out [this resource](https://statelaws.findlaw.com/washington-law/washington-statutes-of-limitations.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/washington-law/washington-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
 
       You must file your small claims case in the small claims division of the District Court in the county where the person that harmed you lives or where the harm happened.
