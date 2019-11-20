@@ -59,8 +59,8 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply. However, if you seek help from an attorney to file the application, reasonable fees will be covered at no cost to you.
     challenges:
-      - "**You must report the crime to the police:** You must report the crime to law enforcement within **5 days** of the incident and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "**You must cooperate with the police:** You must cooperate with the police and with the person reviewing and investigating your application."
+      - "**You Must Report the Crime to the Police:** You must report the crime to law enforcement within **5 days** of the incident and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with the police and with the person reviewing and investigating your application."
       - "**Not All Costs Are Covered:** You can not get reimbursed for property damage."
     steps:
       - "**Step 1:** Report the crime to the police within **5 days** of the incident and get a police report."

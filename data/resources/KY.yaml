@@ -28,7 +28,7 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply. However, if you seek help from an attorney to file the application, reasonable fees will be covered at no cost to you.
     challenges:
-      - "**You must report the crime to the police:** You must report the crime within **48 hours** and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**You Must Report the Crime to the Police** You must report the crime within **48 hours** and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "**Not All Costs Are Covered:** You can’t get compensated for property damage, court-related expenses, household living expenses, relocation costs, or pain and suffering."
       - "**You Must Have Proof of Legal Residence:** To apply, you must have a social security number or other government-issued ID."
     steps:
