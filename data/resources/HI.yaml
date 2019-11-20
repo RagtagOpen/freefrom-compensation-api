@@ -53,7 +53,7 @@ resources:
       - "**Step 2:** Gather all the information and documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, insurance statements, and any invoices or receipts for costs you had to pay as a result of the crime."
       - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
       - "**Step 3:** After carefully reading the instructions, complete [this two-page application](https://dps.hawaii.gov/cvcc/files/2013/01/APPLICATION-ONLY.pdf) and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
-      - "**Step 4:** After carefully reading the instructions, complete a [Medical Authorization Form](https://dps.hawaii.gov/cvcc/files/2019/07/Medical-Authorization-1.pdfmedical authorization form) for each and every doctor, hospital, or other health care provider you saw as a result of the incident."
+      - "**Step 4:** After carefully reading the instructions, complete a [Medical Authorization Form](https://dps.hawaii.gov/cvcc/files/2019/07/Medical-Authorization.pdf) for each and every doctor, hospital, or other health care provider you saw as a result of the incident."
       - "**Step 5:** If you are claiming lost wages, you must fill out the top portion of the [Employment Authorization Form](https://dps.hawaii.gov/cvcc/files/2019/07/Lost-Earnings-1.pdf) and then give it to your employer. Your employer must complete and return the form to the Crime Victim Compensation Commission."
       - |
         **TIP:** You can also request forms from the Crime Victim Compensation Commission by calling (808) 587-1143 or from the neighbor islands:
@@ -151,7 +151,7 @@ resources:
     when: |
       You must bring claims for assault, personal injury, or property damage within **2 years** of the wrongful conduct.
 
-      **TIP:** Check out [this resource](https://statelaws.findlaw.com/hawaii-law/hawaii-statutes-of-limitations.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/hawaii-law/hawaii-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
       You must file your small claims case in person at the District Court Legal Documents Branch on the island where the person that harmed you lives or where the harm occurred.
 
