@@ -63,7 +63,7 @@ resources:
     attorney: You do not need an attorney to apply.
     challenges:
       - "**The Police Must Be Involved:** You must report the crime to the police within a reasonable time and obtain a police report."
-      - "**You must cooperate with the police:** You must cooperate with the police as they investigate the crime and anyone reviewing your application."
+      - "**Cooperation is Required:** You must cooperate with the police as they investigate the crime and anyone reviewing your application."
       - "**Not All Costs Are Covered:** You can’t get compensation for property loss, property damage or pain and suffering."
     steps:
       - "**Step 1:** Report the crime to the police and get a police report. "

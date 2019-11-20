@@ -55,7 +55,7 @@ resources:
     attorney: You do not need an attorney to apply.
     challenges:
       - "**You Must Report the Crime:** You must report the crime  to police or apply for a protective order within **3 days** of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "**You must cooperate with the police:** You must cooperate with the police as they investigate the crime and with anyone reviewing your application."
+      - "**Cooperation is Required:** You must cooperate with the police as they investigate the crime and with anyone reviewing your application."
       - "**Not All Costs Are Covered:** You can’t get compensation for property loss, property damage, or pain and suffering."
     steps:
       - "**Step 1:** Report the crime to the police or apply for a restraining order within **3 days** of the incident."

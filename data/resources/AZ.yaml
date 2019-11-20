@@ -52,7 +52,7 @@ resources:
     challenges:
       - "**You Must Report the Crime to the Police** You must report the crime within **72 hours** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "**For Sexual Assault, You Must Have an Exam:** If the crime was a sexual assault, you must have a forensic medical exam before applying."
-      - "**You must cooperate with the police:** You must cooperate with the police during their investigation, and with anyone reviewing and investigating your application."
+      - "**Cooperation is Required:** You must cooperate with the police during their investigation, and with anyone reviewing and investigating your application."
       - "**Not All Costs Are Covered:** You can’t get compensation for attorney's fees, property losss or damage, or pain and suffering."
     steps:
       - "**Step 1:** Report the crime to the police within **72 hours** of the incident and get a police report. If the crime was a sexual assault, get a forensic medical exam."

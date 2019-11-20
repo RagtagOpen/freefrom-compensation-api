@@ -57,7 +57,7 @@ resources:
     attorney: You do not need an attorney to apply.
     challenges:
       - "**You Must Report Crimes to the Police:** You must report the crime to the police within **48 hours** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "**You must cooperate with the police:** You must cooperate with the police, the prosecutor’s office, the court’s, and the person reviewing your application."
+      - "**Cooperation is Required:** You must cooperate with the police, the prosecutor’s office, the court’s, and the person reviewing your application."
       - "**Not All Costs Are Covered:** You can’t get compensation for travel expenses, identity theft, relocation expenses, property loss / damage, or pain and suffering."
     steps:
       - "**Step 1:** Report the crime to the police within **48 hours** of the incident and get a police report."

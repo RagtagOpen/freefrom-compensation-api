@@ -49,7 +49,7 @@ resources:
     challenges:
       - "**You Must Report the Crime to the Police** You must report the crime within **5 days** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "**Not All Costs Are Covered:** You cannot get compensation for property loss or damage or for pain and suffering. "
-      - "**You must cooperate with the police:** You must fully cooperate with the police while they investigate the crime and agency staff while they review your application."
+      - "**Cooperation is Required:** You must fully cooperate with the police while they investigate the crime and agency staff while they review your application."
     steps:
       - "**Step 1:** Report the crime to the police within **5 days** of the incident and get a police report."
       - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
