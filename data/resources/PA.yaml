@@ -87,7 +87,6 @@ resources:
       - "**TIP:** Read about the appeals process in more detail [here](https://www.pccd.pa.gov/Victim-Services/Documents/APPEALS%20PROCESS.pdf)."
     resources:
       - "[Victims Compensation Assistance Program - General Info](https://pcv.pccd.pa.gov/available-services/Pages/Victims-Compensation.aspx)"
-      - "[Victims Compensation Assistance Program - Helping Crime Victims](https://www.pccd.pa.gov/Victim-Services/Pages/Victims-Compensation-Assistance-Program-(VCAP).aspx)"
       - "[Victims Compensation FAQs](https://pcv.pccd.pa.gov/available-services/Pages/Victims-Compensation-FAQ.aspx)"
       - "[Victim Compensation Assistance Program Application](https://pcv.pccd.pa.gov/available-services/Documents/Victims%20Compensation%20Assistance%20Program%20Short%20Form%20(2).pdf)"
       - "[Online Application Portal](https://www.dave.pa.gov/Public/VictimLogin.aspx)"
@@ -160,7 +159,7 @@ resources:
 
       You must file your small claims case in the Magisterial District Court in the county where the person that harmed you lives or where the harm happened.
 
-      **TIP:** Find the Magisterial District Court in each county [here](https://ballotpedia.org/Pennsylvania_Magisterial_Districts).
+      **TIP:** Find the Magisterial District Court in each county [here](https://statelaws.findlaw.com/pennsylvania-law/pennsylvania-civil-statute-of-limitations-laws.html).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $12,000 or less.
     cost: |
