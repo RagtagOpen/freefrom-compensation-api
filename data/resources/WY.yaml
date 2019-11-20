@@ -1,19 +1,33 @@
 state: WY
 resources:
   - resource_category: Victims of Crime Act (VOCA)
-    who: >
+    who: |
+
       You are eligible to apply if you were harmed as the result of a crime, or if you are the legal dependent of someone who was killed as the result of a crime.
+
+
       Eligible crimes include:
+
         * Domestic violence
+
         * Malicious assault
+
         * Assault and battery
+
         * Child abuse
+
         * Murder
+
         * Sexual assault
+
         * DUI
+
         * Robbery
+
         * Kidnapping
+
         * Arson
+
 
       **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Wyoming.
@@ -21,14 +35,22 @@ resources:
     time: On average, it takes three months for an application to be approved or denied.
     cost: It is free to apply.
     award: You can receive up to $15,000 for your expenses.
-    covered_expenses: >
+    covered_expenses: |
+
       You can get compensation for the following expenses:
+
       * Medical bills
+
       * Dental bills
+
       * Costs of hospital services
+
       * Funeral and burial expenses
+
       * Mental health treatment and counseling
+
       * Lost wages/income
+
       * Relocation
     likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-To Apply” below for more information.
     safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
@@ -46,11 +68,11 @@ resources:
       - "**Step 4:** After carefully reading the instructions, complete the application on your own or call the Division Victim Services for assistance at (307) 777-7200."
       - "**Step 5:** Attach the police report and copies of bills for each expense you include in your application."
       - "**Step 6:** Sign page 3 of the application and fill out the tax identification form."
-      - >
+      - |
         **Step 7:** Mail, fax, or deliver in person the completed application along with any other documents to:
 
 
-        Division of Victim Services<br />320 W. 25th Street, 2nd Floor<br />Cheyenne, WY 82002<br />FAX: 307-777-6683
+        Division of Victim Services<br /|320 W. 25th Street, 2nd Floor<br /|Cheyenne, WY 82002<br /|FAX: 307-777-6683
 
         If you need help, call 1-307-777-7200 or toll-free at 1-888-996-8816.
       - "**TIP:** Remember, your application must be received within one year after the crime occurred. It’s a good idea to follow up with an [email](mailto:ag-victimservices@wyo.gov) confirming that your application was received."
@@ -75,21 +97,33 @@ resources:
     who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
     time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant, so the timing of the criminal restitution decision depends on when the defendant is sentenced.
     cost: It is free of charge.
-    covered_expenses: >
+    covered_expenses: |
+
       You can get compensation for the following expenses:
+
       * Medical bills
+
       * Dental bills
+
       * Therapy costs
+
       * Lost or damaged property
+
       * Funeral-related costs
+
       * Other out-of-pocket costs directly related to the crime
     likelihood: "A county attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the county attorney of your costs, the more likely you are to get compensation."
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
-    story: >
+    story: |
+
       * You must share your story:
+
         * With the police when you report the crime; and
+
         * With the County Attorney assigned to your case.
+
       * You may have to share your story:
+
         * If the County Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
     challenges:
       - "**There Must Be A Criminal Case:** There must be a criminal case against the person who harmed you, and that person must either plead guilty or be found guilty in court."
@@ -110,14 +144,14 @@ resources:
       - "[Wyoming Board of Parole - Restitution](http://boardofparole.wyo.gov/victim-services/restitution)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less.
-    where: >
+    where: |
       You must file your small claims case in the circuit court of the county where the person who harmed you lives.
       **TIP:** Find the location of the circuit court in each county [here](https://www.courts.state.wy.us/circuit-courts/circuit-court-locations/).
-    when: >
+    when: |
       You must file claims for assault and battery within **1 year** of the date of the wrongful action; for sexual assault within **4 years** of the assault; and for property damage within **4 years** of the date of the damage.
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/wyoming-law/wyoming-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     time: The whole process will generally take several weeks to several months.
-    cost: >
+    cost: |
       You must pay a fee of $10 to file a small claims case. Other fees may apply to deliver your documents to the defendant.
       If you cannot afford to pay the fees, you can apply for a waiver by completing and filing this [Affidavit of Indigency and Request for Waiver](https://www.courts.state.wy.us/wp-content/uploads/2017/10/MISCGA-8.-Affidavit-of-Indigency.pdf). It’s a good idea to attach proof of your income to the Affidavit (bank statements, pay stubs, EBT cards, disability check, etc.).
     covered_expenses: The total amount you are seeking must be $6,000.00 or less. You cannot bring claims for false imprisonment, malicious prosecution, slander or libel in small claims court.
@@ -171,15 +205,24 @@ resources:
     steps:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
-      - >
+      - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
           * Your name and address
+
           * The name and address of the person that harmed you
+
           * Date of the incident(s)
+
           * Brief description of the incident(s)
+
           * Itemized list of costs that resulted from the incident(s)
+
           * Copies of important documents
+
           * If you know it, the income / assets of the person that harmed you
+         
           * If you can, the type of claim you want to bring against the person that harmed you
     resources:
       - "[Find the best Lawyer in Wyoming](https://www.avvo.com/all-lawyers/wy.html)"
