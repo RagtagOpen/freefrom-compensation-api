@@ -116,7 +116,7 @@ resources:
     when: |
       You must file claims for personal injury within 1 year of the injury and for property damage within 2 years of the damage.
 
-      **TIP:** Check out [this resource](https://statelaws.findlaw.com/kentucky-law/kentucky-statutes-of-limitations.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/kentucky-law/kentucky-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: You must file your small claims case in the county where the person you are suing lives or does business.
     time: The whole process will generally take 2-4 months.
     covered_expenses: The total amount you are seeking must be for less than $2,500. You can file claims to collect money or property from someone who has wronged you. You can’t bring claims for libel, slander, malicious prosecution, or abuse of process.
@@ -191,7 +191,7 @@ resources:
         * If you can, the type of claim you want to bring against the person that harmed you
 
     resources:
-      - "[Lawyer Locator - Kentucky Bar Association) (https://www.kybar.org/search/custom.asp?id=2947)"
+      - "[Lawyer Locator - Kentucky Bar Association)(https://www.kybar.org/search/custom.asp?id=2947)"
       - "[Kentucky Lawyers | Find the right Attorney in Kentucky](https://www.legalmatch.com/find/kentucky-lawyers.html)"
       - "[Find the best lawyer in Kentucky - Avvo](https://www.avvo.com/all-lawyers/ky.html)"
       - "[Top Attorneys in Kentucky | Super Lawyers](https://attorneys.superlawyers.com/kentucky/)"
