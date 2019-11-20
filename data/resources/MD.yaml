@@ -140,6 +140,7 @@ resources:
     resources:
       _ "[Maryland Crime Victims Resource Center Brochure](https://www.mdcrimevictims.org/victim-services/legal-rights-in-the-criminal-justice-system/your-rights-as-a-victim-to-restitution/)"
       - "[The People’s Law Library of Maryland - Rights of a Crime Victim, or Victim’s Representative](https://www.peoples-law.org/rights-crime-victim-or-victims-representative)"
+      - "[Your Rights as a Victim to Restitution](https://www.mdcrimevictims.org/victim-services/legal-rights-in-the-criminal-justice-system/your-rights-as-a-victim-to-restitution/)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
