@@ -113,7 +113,6 @@ resources:
     resources:
       - "[Nevada Victims of Crime Program website](http://voc.nv.gov/)"
       - "[VOCP Online Application](http://voc.nv.gov/VOC/Application/)"
-      - "[VOCP Policies](http://voc.nv.gov/uploadedFiles/vocnvgov/content/Advocates/Final%20VOCP%20Policies%20(CB%20Recs)%201.pdf)"
   - resource_category: Criminal Restitution
     who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
     time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced.
