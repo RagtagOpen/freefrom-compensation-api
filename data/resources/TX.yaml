@@ -71,6 +71,9 @@ resources:
       - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
       - |
 
+        **Step 3:**
+
+
         Access an application in any of the following ways:
 
         * The online portal [here](https://cvs.texasattorneygeneral.gov/portal/login)
@@ -80,6 +83,9 @@ resources:
         * By requesting a paper application from the Crime Victim Compensation at (800) 983-9933.
       - "**Step 4:** After carefully reading the instructions, complete and sign the application and attach (or if online, upload) the police report and copies of bills for each expense you include in your application."
       - |
+
+        **Step 5:**
+
 
         Submit the completed application and all attachments in one of the following ways:
 
@@ -96,7 +102,6 @@ resources:
     what_if_i_disagree:
       - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - |
-
         There are 3 levels to appeal a Crime Victim Compensation decision:
 
 
@@ -167,7 +172,8 @@ resources:
       - "**Step 6:** At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
       - "**TIP:** Collecting restitution can be challenging. Ask the attorney assigned to your case for help if you need support."
     resources:
-      -"[Criminal Restitution Brochure](https://www.tdcj.texas.gov/documents/Restitution_Brochure.pdf)"
+      - "[Criminal Restitution Brochure](https://www.tdcj.texas.gov/documents/Restitution_Brochure.pdf)"
+      - "[Restitution Brochure](https://www.tdcj.texas.gov/documents/Restitution_Brochure.pdf)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
