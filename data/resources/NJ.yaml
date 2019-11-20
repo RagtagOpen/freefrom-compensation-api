@@ -134,7 +134,7 @@ resources:
       - "**Step 6:** At the sentencing hearing, the prosecutor assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
       - "**TIP:** Collecting criminal restitution can be challenging. If you need help, ask the prosecutor assigned to your case for support."
     resources:
-      - "[Restitution: A Payback for VIctims - Brochure](https://www.njcourts.gov/forms/11544_cep_restitution_victims.pdf)"
+      - "[Restitution: A Payback for Victims - Brochure](https://www.njcourts.gov/forms/11544_cep_restitution_victims.pdf)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $3,000 or less.
     when: |
@@ -179,6 +179,8 @@ resources:
       - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
       - "**Step 1:** You must file a Notice of Appeal  in the Appellate Division of Superior Court within 45 days of the court’s decision, pay a filing fee of $250, and request a transcript of your case from the Appellate Division."
       - |
+
+
         **Step 2:** Send copies of your appeals documents to:
 
         * All parties in the case who appeared in Court;
