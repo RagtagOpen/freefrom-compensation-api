@@ -61,7 +61,10 @@ resources:
       - "**You must cooperate with the police:** You must cooperate with the police when they investigate the crime and anyone reviewing and investigating your application for compensation. "
       - |
 
-        **Not All Costs Are Covered:** You cannot get compensation for:
+        **Not All Costs Are Covered:**
+
+
+        You cannot get compensation for:
 
         * Pain and suffering
 
@@ -201,7 +204,7 @@ resources:
       - "**Step 9:** Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
       - "**Step 10:** Attend your court date. Bring your evidence and witnesses with you."
       - "**Step 11:** Present your case, closely following any directions given by the judge."
-      - "**TIP:** [This resource](http://www.courts.state.va.us/resources/small_claims_court_procedures.pdf) has helpful information about what will happen at trial under “Trial Procedures."
+      - "**TIP:** [This resource](http://www.courts.state.va.us/resources/small_claims_court_procedures.pdf) has helpful information about what will happen at trial under “Trial Procedures.“"
       - "**Step 12:** Receive the judge’s order either at the end of the hearing, or at a later date via mail."
       - "**Step 13:** If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. For more information, check out the “Enforcing the Judgment” section in [this resource](https://selfhelp.vacourts.gov/node/11/small-claims). Do not hesitate, after the judge makes their ruling, to request additional information from the court on how to collect the money."
     what_if_i_disagree:
