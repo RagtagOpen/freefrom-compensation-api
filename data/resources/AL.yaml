@@ -78,7 +78,7 @@ resources:
       - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - You must sign a request for a hearing for appeal and write a letter requesting an appeal within 30 days after receiving the decision. Deliver the letter and request to the address listed in the application by regular or certified mail.
       - Within 30 days of sending the letter and request, you will receive a notice with the date of the hearing.
-      - In the hearing, you will have a chance to explain to why your application should be approved.
+      - In the hearing, you will have a chance to explain why your application should be approved.
       - "**TIP:** Make sure to bring any and all documentation with you to the hearing; for example: police reports, medical bills, other receipts, etc."
       - A final decision will be made within 10 days of the hearing.
     resources:
@@ -164,10 +164,10 @@ resources:
       - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
       - "**Step 2:** Locate the District Court in the county where the person that harmed you lives or has an office. This is where you will file all your paperwork."
       - "**TIP:** You can find the location and contact information for the District Court in each county [here](https://ballotpedia.org/Alabama_District_Courts)."
-      - "**Step 3:** After carefully reading the instructions, fill out a general [Statement of Claim](http://courtswv.gov/lower-courts/magistrate-forms/C5-CivilComplaint-SCA-M207.pdf) or, if you are trying to get back specific property use this [Statement of claim](http://eforms.alacourt.gov/Small%20Claims/Statement%20of%20Claim%20(Complaint)%20for%20Specific%20Property.pdf). Attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). File the form and attachments with the clerk of the court."
+      - "**Step 3:** After carefully reading the instructions, fill out a general [Statement of Claim](http://eforms.alacourt.gov/Small%20Claims/Statement%20of%20Claim%20(Complaint)%20-%20General.pdf) Attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). File the form and attachments with the clerk of the court."
       - "**Step 4:** Fill out a [small claims summons](http://eforms.alacourt.gov/Small%20Claims/Small%20Claims%20-%20Summons.pdf)."
       - "**TIP:** You can also request the required forms from the clerk of court."
-      - "**Step 5:** Pay filing fees. If you cannot afford the fees, fill out an [Affidavit of Substantial Hardship and Order](http://dhr.alabama.gov/services/Child_Support_Services/Documents/379031ALAUJS%20C-10%20Affidavit%20of%20Substantial%20Hardship%200295.pdf) to ask the judge to delay filing fee payment. You will have to provide evidence of your income and expenses (bank statement, pay stub, disability check, EBT card, etc.) and a judge will decide whether to allow you to delay paying the filing fee."
+      - "**Step 5:** Pay filing fees. If you cannot afford the fees, fill out an [Affidavit of Substantial Hardship and Order](http://dhr.alabama.gov/services/Child_Support_Services/Documents/379031ALAUJS%20C-10%20Affidavit%20of%20Substantial%20Hardship%200295.pdf) to ask the judge to waive the fees. It’s a good idea to attach evidence of your income and expenses (bank statement, pay stub, disability check, EBT card, etc.)."
       - "**Step 6:** The defendant must get a copy of your statement of claim. You can ask the clerk or the sheriff’s department to send the notice, or you can hire a process server. All three options require a fee. Otherwise, you can send the documents to the defendant by certified mail. If you choose to use certified mail, ask the clerk for guidance."
       - "**Step 7:** The defendant will have 14 days to file an Answer with the Court. If the defendant does not file an Answer on time, you can ask for a default judgment by filling out an [Application and Affidavit for Entry of Default Judgment](http://eforms.alacourt.gov/Civil%20Forms/Application%20and%20Affidavit%20for%20Entry%20of%20Default%20Judgment.pdf). You might have to give information to the judge to show the amount that you are owed. The Application and Affidavit for Entry of Default Judgment will be delivered to the defendant to give them a chance to respond. Learn more about default judgments [here](http://judicial.alabama.gov/docs/library/docs/smguide.pdf)."
       - "**Step 8:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
@@ -176,7 +176,9 @@ resources:
       - "**Step 11:** Receive the judge’s order either at the end of the hearing or later in the mail."
       - |
         **Step 12:** If the judge awards you a judgment, the defendant has 14 days to pay you. It is your responsibility to collect the compensation if the defendant does not pay voluntarily. There are two ways to try to collect your compensation (both ways require you to pay a fee):
+
         * [Writ of Execution](http://eforms.alacourt.gov/Civil%20Forms/Writ%20of%20Execution.pdf)  - allows the sheriff to seize property belonging to the wrongdoer.
+
         * [Process of Garnishment](http://eforms.alacourt.gov/Civil%20Forms/Process%20of%20Garnishment.pdf) – the court directs that wages be seized to pay you.
     what_if_i_disagree:
       - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
@@ -185,7 +187,7 @@ resources:
       - "**TIP:** An appeal is treated like a regular case with more complicated procedures and requirements than apply in small claims court. You should consider hiring an attorney to help you."
     resources:
       - "[A Guide to Alabama Small Claims Courts](http://judicial.alabama.gov/docs/library/docs/smguide.pdf)"
-      - "Find links to all Small Claims Court forms [here](http://eforms.alacourt.gov/Civil%20Forms/Process%20of%20Garnishment.pdf)."
+      - "Find links to all Small Claims Court forms [here](http://eforms.alacourt.gov/Small%20Claims/Forms/AllItems.aspx)."
   - resource_category: Civil Tort
     who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
     when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
@@ -220,6 +222,6 @@ resources:
     resources:
       - "[Alabama State Bar](https://www.alabar.org)"
       - "[Lawyer Directory- Alabama Lawyers](https://alabamalawyers.org/Lawyers/FilterType/State/FilterTerm/Alabama)"
-      - "[Bar Directories and Lawyers Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)"
+      - "[Bar Directories and Lawyer Finders](https://www.americanbar.org/groups/legal_services/flh-home/flh-bar-directories-and-lawyer-finders/)"
       - "[Finding an Attorney / Northern District of Alabama](https://www.alnb.uscourts.gov/finding-attorney)"
 
