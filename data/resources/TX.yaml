@@ -2,72 +2,78 @@ state: TX
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime, or if you are the legal dependent of someone that was killed as the result of a crime.
 
       Eligible crimes include:
 
       * Domestic violence
-      
+
       * Assault
-      
+
       * Child abuse
-      
+
       * DUI
-      
+
       * Elder abuse
-      
+
       * Hit and Run
-      
+
       * Homicide
-      
+
       * Human Trafficking
-      
+
       * Kidnapping
-      
+
       * Robbery
-      
+
       * Sexul Assault
-      
+
       * Stalking
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
-    where: You are eligible to apply if the crime happened in Texas or if you live in Texas and were injured in a state or country that doesn’t award compensation to non-residents. 
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+    where: You are eligible to apply if the crime happened in Texas or if you live in Texas and were injured in a state or country that doesn’t award compensation to non-residents.
     when: The application must be _received_ within **3 years** after the date of the crime.
     time: On average, it takes 2 months for an application to be approved or denied.
     cost: It is free to apply.
     award: You can receive up to $50,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
-      
+
       * Dental care
-      
+
       * Lost wages
-      
+
       * Child care
-      
+
       * Funeral and burial expenses
-      
+
       * Crime scene cleanup
-      
+
       * Mental health counseling
-      
+
       * Relocation costs
 
     likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-to Apply” below for more information.
     safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
-    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience. 
+    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "The Police Must Be Involved: You must report the crime to the police within a reasonable time and obtain a police report."
-      - "Cooperation is Required: You must cooperate with the police as they investigate the crime and anyone reviewing your application."
-      - "Not All Costs Are Covered: You can’t get compensation for property loss, property damage or pain and suffering."
+      - "**The Police Must Be Involved:** You must report the crime to the police within a reasonable time and obtain a police report."
+      - "**Cooperation is Required:** You must cooperate with the police as they investigate the crime and anyone reviewing your application."
+      - "**Not All Costs Are Covered:** You can’t get compensation for property loss, property damage or pain and suffering."
     steps:
-      - "Step 1: Report the crime to the police and get a police report. "
-      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 1:** Report the crime to the police and get a police report. "
+      - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
       - |
+
+        **Step 3:**
+
+
         Access an application in any of the following ways:
 
         * The online portal [here](https://cvs.texasattorneygeneral.gov/portal/login)
@@ -75,30 +81,26 @@ resources:
         * By downloading an English application [here](https://www.texasattorneygeneral.gov/sites/default/files/files/divisions/crime-victims/Printed%20CVC%20Application.pdf) or Spanish application [here](https://www.texasattorneygeneral.gov/sites/default/files/files/divisions/crime-victims/CVC_Application_Spanish.pdf)
 
         * By requesting a paper application from the Crime Victim Compensation at (800) 983-9933.
-      - "Step 4: After carefully reading the instructions, complete and sign the application and attach (or if online, upload) the police report and copies of bills for each expense you include in your application."
+      - "**Step 4:** After carefully reading the instructions, complete and sign the application and attach (or if online, upload) the police report and copies of bills for each expense you include in your application."
       - |
+
+        **Step 5:**
+
+
         Submit the completed application and all attachments in one of the following ways:
 
         * Via the online portal [here](https://cvs.texasattorneygeneral.gov/portal/login)
-        * By mail to: 
+        * By mail to:
 
 
-        * Office of the Attorney General
-        
-        * Crime Victims’ Compensation Program (011)
-        
-        * P.O. Box 12198
-        
-        * Austin, Texas 78711
-
-
-      - "TIP: Remember, **your application must be filed within 3 years after the crime occurred**. It’s a good idea to follow-up with a phone call or message to the Crime Victims’ Compensation Program to confirm that your application was received. Contact CVC via phone at (512) 936-1200 or by sending them a message on their [website](https://www.texasattorneygeneral.gov/crime-victims/crime-victim-services-contact-us)."
+          Office of the Attorney General<br />Crime Victims’ Compensation Program (011)<br />P.O. Box 12198<br />Austin, Texas 78711
+      - "**TIP:** Remember, **your application must be filed within 3 years after the crime occurred**. It’s a good idea to follow-up with a phone call or message to the Crime Victims’ Compensation Program to confirm that your application was received. Contact CVC via phone at (512) 936-1200 or by sending them a message on their [website](https://www.texasattorneygeneral.gov/crime-victims/crime-victim-services-contact-us)."
     what_to_expect:
       - The Texas Crime Victims’ Compensation Program staff will review your entire application to make sure all of the information you’ve included is true and accurate.
       - CVC staff may request more information or documentation from you. If they do, respond with the requested information as soon as possible.
       - CVC will approve or deny your application and will send you a letter with their decision in the mail.
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - |
         There are 3 levels to appeal a Crime Victim Compensation decision:
 
@@ -108,8 +110,8 @@ resources:
         * **Level 2 - Final Ruling Hearing:** Within **30 days** of the reconsideration decision, you must send a signed letter asking for a hearing. CVC will schedule a telephone hearing and send you a notice of when it will take place. During the hearing, you can tell the hearing officer why you think your application should be approved. The hearing officer will send you their hearing in the mail. If you still disagree with the decision, you can move to the final level of review.
 
         * **Level 3 - Judicial Review:** You must submit a signed “written notice of dissatisfaction” with the Office of the Attorney General within 40 days of the prior decision. You must then file a lawsuit in the District Court within 40 days after you submit the written notice.
-      - "TIP: An appeal to District Court will be complex and follow complicated procedures. It’s a good idea to try and find a lawyer to help you through the process."
-      - "TIP: [Here](https://www.texasattorneygeneral.gov/crime-victims/crime-victims-compensation-program/appeals-process) is a great resource with more information on the appeals process."
+      - "**TIP:** An appeal to District Court will be complex and follow complicated procedures. It’s a good idea to try and find a lawyer to help you through the process."
+      - "**TIP:** [Here](https://www.texasattorneygeneral.gov/crime-victims/crime-victims-compensation-program/appeals-process) is a great resource with more information on the appeals process."
     resources:
       - "[Crime Victims’ Compensation Program](https://www.texasattorneygeneral.gov/crime-victims/crime-victims-compensation-program)"
       - "[Apply for Crime Victims’ Compensation](https://www.texasattorneygeneral.gov/crime-victims/crime-victims-compensation-program/apply-crime-victims-compensation)"
@@ -120,28 +122,31 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
-      
+
       * Dental care
-      
+
       * Mental health care
-      
+
       * Physical therapy costs
-      
+
       * Lost income
-      
+
       * Funeral-related expenses
-      
+
       * Property damage
-      
+
       * Other out-of-pocket costs directly related to the crime
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
 
-      * You must share your story: 
+
+
+      * You must share your story:
 
         * With the police when you report the crime; and
 
@@ -149,75 +154,80 @@ resources:
 
       * You may have to share your story:
 
-        * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing. 
+        * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Contact the office of the District Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
-      - "TIP: Find the location and contact information for the District Attorney in each county [here](https://www.txdirectory.com/online/da/)."
-      - "Step 4: Share the information and documents you have gathered with the attorney assigned to your case. If you are uncertain what types are documents are necessary, the District Attorney should be able to provide you with assistance. "
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting restitution can be challenging. Ask the attorney assigned to your case for help if you need support."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Contact the office of the District Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
+      - "**TIP:** Find the location and contact information for the District Attorney in each county [here](https://www.txdirectory.com/online/da/)."
+      - "**Step 4:** Share the information and documents you have gathered with the attorney assigned to your case. If you are uncertain what types are documents are necessary, the District Attorney should be able to provide you with assistance. "
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting restitution can be challenging. Ask the attorney assigned to your case for help if you need support."
     resources:
-      -"[Criminal Restitution Brochure](https://www.tdcj.texas.gov/documents/Restitution_Brochure.pdf)"
+      - "[Criminal Restitution Brochure](https://www.tdcj.texas.gov/documents/Restitution_Brochure.pdf)"
+      - "[Restitution Brochure](https://www.tdcj.texas.gov/documents/Restitution_Brochure.pdf)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for assault and battery, false imprisonment, personal injury, and property damage within **2 years** of the wrongful conduct or damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/texas-law/texas-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/texas-law/texas-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Justice Court in the county and / or precinct where the person that harmed you lives or where the harm occurred.
 
-      TIP: You can find the location of the Justice Courts in each county using the interactive map [here](http://maps.txcourts.gov/).
+      **TIP:** You can find the location of the Justice Courts in each county using the interactive map [here](http://maps.txcourts.gov/).
     time: The whole process will generally take around 3 months.
     covered_expenses: The total amount you are seeking must be $10,000 or less.
     cost: |
-      You will have to pay a filing fee which varies depending on where you file, but is usually around $50. You will also have to pay a fee to deliver your documents to the defendant, which is usually between $75-$100. Call the clerk of the Justice Court in the county where you’re filing to get specific information about the filing fees. 
 
-      TIP: If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing a [Statement of Inability to Afford Payment of Court Costs](http://www.txcourts.gov/media/1435953/statement-final-version.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.).
+      You will have to pay a filing fee which varies depending on where you file, but is usually around $50. You will also have to pay a fee to deliver your documents to the defendant, which is usually between $75-$100. Call the clerk of the Justice Court in the county where you’re filing to get specific information about the filing fees.
+
+      **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing a [Statement of Inability to Afford Payment of Court Costs](http://www.txcourts.gov/media/1435953/statement-final-version.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.).
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://www.depts.ttu.edu/sls/forms/How-to-Sue-in-Small-Claims-Court.pdf) under “What Do I Do After I Win?”"
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://www.depts.ttu.edu/sls/forms/How-to-Sue-in-Small-Claims-Court.pdf) under “What Do I Do After I Win?”"
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages. "
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the Justice Court in the county and / or precinct where the person that harmed you lives or where the harm occurred. You can find the location of the Justice Courts in each county using the interactive map [here](http://maps.txcourts.gov/)."
+      - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages. "
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the Justice Court in the county and / or precinct where the person that harmed you lives or where the harm occurred. You can find the location of the Justice Courts in each county using the interactive map [here](http://maps.txcourts.gov/)."
       - |
-        Step 3: Access a Small Claims petition by one of the following ways:
+
+        **Step 3:** Access a Small Claims petition by one of the following ways:
 
         * Using the online portal [here](https://selfhelp.efiletexas.gov/SRL/SRL/ExecuteInterview)
 
         * By downloading a form from the Justice Court website in the county where you’re filing
 
         * By requested a paper application from the Justice Court clerk in the county where you’re filing
-      - "Step 4: After carefully reading the instructions, complete the Small Claims petition and attach (or if applying online, upload) copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
-      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to give to the court, send to the defendant, and keep for your records."
-      - "Step 5: File the completed petition in the Justice Court or online via the e-filing portal and pay the filing fee. If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing a [Statement of Inability to Afford Payment of Court Costs](http://www.txcourts.gov/media/1435953/statement-final-version.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)."
-      - "Step 6: The court will set a trial date in your case. Do not miss your court date."
-      - "Step 7: Ask the clerk of the Justice Court if you are responsible for sending any notice to the defendant, and closely follow any instructions."
-      - "Step 8: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses"
-      - "TIP: [Here](https://www.depts.ttu.edu/sls/forms/How-to-Sue-in-Small-Claims-Court.pdf) is a great resource that includes tips on how to prepare for trial."
-      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 10: Present your case, closely following any instructions given by the judge."
-      - "Step 11: Receive the judge’s order either at the end of the hearing or later in the mail."
-      - "Step 12: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting money [here](https://www.depts.ttu.edu/sls/forms/How-to-Sue-in-Small-Claims-Court.pdf) under “What Do I Do After I Win?”"
+      - "**Step 4:** After carefully reading the instructions, complete the Small Claims petition and attach (or if applying online, upload) copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
+      - "**TIP:** Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to give to the court, send to the defendant, and keep for your records."
+      - "**Step 5:** File the completed petition in the Justice Court or online via the e-filing portal and pay the filing fee. If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing a [Statement of Inability to Afford Payment of Court Costs](http://www.txcourts.gov/media/1435953/statement-final-version.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)."
+      - "**Step 6:** The court will set a trial date in your case. Do not miss your court date."
+      - "**Step 7:** Ask the clerk of the Justice Court if you are responsible for sending any notice to the defendant, and closely follow any instructions."
+      - "**Step 8:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses"
+      - "**TIP:** [Here](https://www.depts.ttu.edu/sls/forms/How-to-Sue-in-Small-Claims-Court.pdf) is a great resource that includes tips on how to prepare for trial."
+      - "**Step 9:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 10:** Present your case, closely following any instructions given by the judge."
+      - "**Step 11:** Receive the judge’s order either at the end of the hearing or later in the mail."
+      - "**Step 12:** If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting money [here](https://www.depts.ttu.edu/sls/forms/How-to-Sue-in-Small-Claims-Court.pdf) under “What Do I Do After I Win?”"
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
       - You must file a Notice of Appeal in the county court within 10 days after the case was decided in small claims court and pay a filing fee.
-      - "TIP: An appeal will follow more complex rules and procedures. It’s a good idea to find an attorney to help you with this process."
+      - "**TIP:** An appeal will follow more complex rules and procedures. It’s a good idea to find an attorney to help you with this process."
     resources:
       - "[How to Sue in Small Claims Court](https://www.depts.ttu.edu/sls/forms/How-to-Sue-in-Small-Claims-Court.pdf)"
       - "[Texas Judicial Branch - Small Claims Self-help](http://www.txcourts.gov/programs-services/self-help/)"
@@ -233,25 +243,26 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
-        
+
         * The name and address of the person that harmed you
-        
+
         * Date of the incident(s)
-        
+
         * Brief description of the incident(s)
-        
+
         * Itemized list of costs that resulted from the incident(s)
-        
+
         * Copies of important documents
-        
+
         * If you know it, the income / assets of the person that harmed you
-        
+
         * If you can, the type of claim you want to bring against the person that harmed you
 
     resources:

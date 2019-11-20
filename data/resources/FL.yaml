@@ -2,7 +2,8 @@ state: FL
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
-      You are eligible to apply if you were harmed as the result of a crime or if your spouse, parent, child, or sibling was killed as the result of a crime. 
+
+      You are eligible to apply if you were harmed as the result of a crime or if your spouse, parent, child, or sibling was killed as the result of a crime.
 
       Eligible crimes include:
 
@@ -22,9 +23,12 @@ resources:
 
       * Human trafficking
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Florida.
     when: |
+
+
+
       * For crimes that occurred before October 1, 2019: Your application must be _received_ within **1 year** of the date of the crime, or within **2 years** if you can show good cause for why you filed late.
 
       * For crimes that occurred after October 1, 2019: Your application must be _received_ within **3 years** of the date of the crime, or within **5 years** if you can show good cause for why you filed late.
@@ -34,6 +38,7 @@ resources:
     cost: There is no cost to apply.
     award: Generally, you can receive up to $25,000 for your expenses. If the crime caused a catastrophic injury, you can receive up to $50,000.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical and dental treatment
@@ -57,45 +62,38 @@ resources:
     attorney: You can, but do not need to, hire a lawyer. You must notify the Attorney General if you hire a lawyer.
     challenges:
       - |
-        You Must Report the Crime to the Police: 
+
+        **You Must Report the Crime to the Police**
 
           * For crimes occurring before October 1, 2019: You must report the crime within **72 hours** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report in the [Reporting Time Explanation Form](http://myfloridalegal.com/webfiles.nsf/WF/MRAY-73XKJL/$file/RptTimeExpl.pdf).
 
           * For crimes occurring after October 1, 2019: You must report the crime within **5 days**. If you didn’t report the crime in 5 days, you can still apply, but you must also complete and file the [Reporting Time Explanation Form](http://myfloridalegal.com/webfiles.nsf/WF/MRAY-73XKJL/$file/RptTimeExpl.pdf).
-      - "Cooperation is Required: You must cooperate with law enforcement during their investigation and with anyone investigating your application."
-      - "A Criminal Record Might Disqualify You: You cannot get compensation if you have been convicted of violent felonies."       
+      - "**Cooperation is Required:** You must cooperate with law enforcement during their investigation and with anyone investigating your application."
+      - "**A Criminal Record Might Disqualify You:** You cannot get compensation if you have been convicted of violent felonies."
     steps:
-      - "Step 1: Report the crime to the police within required time and get a police report."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report by completing and filing a [Reporting Time Explanation Form](http://myfloridalegal.com/webfiles.nsf/WF/MRAY-73XKJL/$file/RptTimeExpl.pdf) along with your application."
-      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: After carefully reading the instructions, fill out a [Bureau of Victim Compensation Claim Form](http://myfloridalegal.com/webfiles.nsf/WF/RMAS-9P7GFD/$file/VictimCompClaimFormEng.pdf)."
-      - "Step 4: Attach the police report and copies of itemized bills for every cost you include in your application."
-      - "Step 5: Sign the application."
+      - "**Step 1:** Report the crime to the police within required time and get a police report."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report by completing and filing a [Reporting Time Explanation Form](http://myfloridalegal.com/webfiles.nsf/WF/MRAY-73XKJL/$file/RptTimeExpl.pdf) along with your application."
+      - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** After carefully reading the instructions, fill out a [Bureau of Victim Compensation Claim Form](http://myfloridalegal.com/webfiles.nsf/WF/RMAS-9P7GFD/$file/VictimCompClaimFormEng.pdf)."
+      - "**Step 4:** Attach the police report and copies of itemized bills for every cost you include in your application."
+      - "**Step 5:** Sign the application."
       - |
-        Step 6: Mail, email, fax, or deliver in person the completed application along with any other documents to:
+
+        **Step 6:** Mail, email, fax, or deliver in person the completed application along with any other documents to:
 
 
-        Bureau of Victim Compensation
-
-        The Capitol, PL-01
-
-        Tallahassee, FL 32399-1050
-
-        Fax: (850) 414-6197 or (850) 414-5779
-
-        Email:[vcintake@myfloridalegal.com](mailto:vcintake@myfloridalegal.com) 
-
-      - "TIP: Remember, **your application must be received within 1 year after the crime occurred or 2 years with good cause shown for the delay in filing.** It’s a good idea to follow-up [with an email](mailto:vcintake@myfloridalegal.com) confirming that your application was received."
-      - "TIP: If you are close to the deadline but don’t have certain documents (police report, invoices, receipts) do not wait to submit your application. Instead, submit the application and follow-up with the documents when you get them."
-      - "TIP: For help filling out the application, contact the Florida Bureau of Victim Compensation via [email](mailto:vcintake@myfloridalegal.com) or by phone at (800) 226-6667."
+        Bureau of Victim Compensation<br />The Capitol, PL-01<br />Tallahassee, FL 32399-1050<br />Fax: (850) 414-6197 or (850) 414-5779<br />Email:[vcintake@myfloridalegal.com](mailto:vcintake@myfloridalegal.com)
+      - "**TIP:** Remember, **your application must be received within 1 year after the crime occurred or 2 years with good cause shown for the delay in filing.** It’s a good idea to follow-up [with an email](mailto:vcintake@myfloridalegal.com) confirming that your application was received."
+      - "**TIP:** If you are close to the deadline but don’t have certain documents (police report, invoices, receipts) do not wait to submit your application. Instead, submit the application and follow-up with the documents when you get them."
+      - "**TIP:** For help filling out the application, contact the Florida Bureau of Victim Compensation via [email](mailto:vcintake@myfloridalegal.com) or by phone at (800) 226-6667."
     what_to_expect:
       - The Bureau of Victim Compensation will review your application to make sure all of the information you’ve included in it is true and accurate.
       - The Bureau may ask you for additional information or documents. If they do, respond as quickly as possible.
       - Your application will be approved or denied, and you will receive a written decision in the mail.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call the Bureau to update them with your new address at (800) 226-6667."
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call the Bureau to update them with your new address at (800) 226-6667."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - On the back of the written decision you receive will be a “Notice of Rights Hearing” form. This is the appeals form. Complete the form and return it to the Bureau as directed as soon as possible.
       - The Bureau may ask you for more information or documents. If they do, respond as soon as possible.
       - If the Bureau schedules any hearings, attend and bring with you the documents you’ve gathered that relate to what happened and show the costs you are trying to get covered.
@@ -108,6 +106,7 @@ resources:
     cost: It is free of charge.
     likelihood: A State Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the State Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -125,6 +124,9 @@ resources:
       * Other out-of-pocket expenses directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
+
+
       * You must share your story:
 
         * With the police when you report the crime and with the State Attorney assigned to your case.
@@ -133,20 +135,20 @@ resources:
 
         * If the State Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the State Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the State Attorney assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Contact the office of the State Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney and the Victim Assistance Coordinator that you are seeking criminal restitution."
-      - "TIP: Find the location and contact information for the State Attorney in each county [here](https://criminal.findlaw.com/criminal-legal-help/florida-district-attorneys.html)."
-      - "Step 4: Share the information and documents you have gathered with the attorney assigned to your case."
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the State Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting criminal restitution can be challenging. Ask the attorney assigned to your case for support if you need help."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Contact the office of the State Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney and the Victim Assistance Coordinator that you are seeking criminal restitution."
+      - "**TIP:** Find the location and contact information for the State Attorney in each county [here](https://criminal.findlaw.com/criminal-legal-help/florida-district-attorneys.html)."
+      - "**Step 4:** Share the information and documents you have gathered with the attorney assigned to your case."
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the State Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting criminal restitution can be challenging. Ask the attorney assigned to your case for support if you need help."
     resources:
       - "[FDLE Victims’ Rights Brochure](https://www.fdle.state.fl.us/Publications/Documents/Brochures/FDLE-Victim-Rights-Brochure_08122016.aspx)"
       - "[Understanding Restitution in Florida](https://www.hutchhufflaw.com/2017/09/18/understanding-restitution-florida/)"
@@ -154,49 +156,53 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must file claims for personal injury, assault and battery, and property damage within **4 years** of the date of injury, assault, or damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/florida-law/florida-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
-    where: You must file small claims in County Court (Civil Division) in the county where the person that harmed you lives or where the harm happened.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/florida-law/florida-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+    where: |
+
+      You must file small claims in County Court (Civil Division) in the county where the person that harmed you lives or where the harm happened.
+
+      **TIP:** You can find the contact information and location of the County Court in each county [here](https://dos.myflorida.com/library-archives/research/florida-information/government/local-resources/clerks-of-county-courts/).
     time: The whole process will generally take several months.
     covered_expenses: The total amount you are seeking must be $5,000.00 or less.
     cost: |
+
       Filing fees vary by county based on the amount of money you are asking for, the type of claim you’re bringing, and how you decide to deliver your documents to the defendant. Check with the appropriate county clerk to find out the specific fees that will apply to your case.
 
-      TIP: You can find the contact information and location of the County Court in each county [here](https://dos.myflorida.com/library-archives/research/florida-information/government/local-resources/clerks-of-county-courts/). 
-
-      TIP: If you can’t afford the fees, you can ask for a waiver by filing an [Application for Determination of Civil Indigent Status](http://www.miami-dadeclerk.com/library/eFiling/Application%20for%20Determination%20of%20Civil%20Indigent%20Status.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)
+      **TIP:** If you can’t afford the fees, you can ask for a waiver by filing an [Application for Determination of Civil Indigent Status](http://www.miami-dadeclerk.com/library/eFiling/Application%20for%20Determination%20of%20Civil%20Indigent%20Status.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you are requesting.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you  in court and represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money in [this resource](https://www.floridalawhelp.org/content/going-small-claims-court)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you  in court and represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money in [this resource](https://www.floridalawhelp.org/content/going-small-claims-court)."
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the proper County Court (Civil Division). You can file your small claims case in the county where the person that harmed you lives or where the harm happened."
-      - "TIP: You can find the contact information and location of the County Court in each county [here](https://dos.myflorida.com/library-archives/research/florida-information/government/local-resources/clerks-of-county-courts/) and you can search for each Clerk of Court [here](https://www.flclerks.com/page/FindaClerk)."
-      - "Step 3: Visit the proper court and ask the clerk for a Statement of Claim or complaint form."
-      - "Step 4: After carefully reading the instructions, complete the complaint form and attach copies of documents relating to what happened (for example, a police report) and showing all of your costs (for example, medical bills)."
-      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
-      - "Step 5: Sign and file the completed form and pay the filing fees."
-      - "TIP: If you can’t afford the fees, you can ask for a waiver by filing an [Application for Determination of Civil Indigent Status](http://www.miami-dadeclerk.com/library/eFiling/Application%20for%20Determination%20of%20Civil%20Indigent%20Status.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)"
-      - "TIP: Ask the clerk if there are any other forms that you are required to file in that county."
-      - "Step 6: The person that harmed you must get a copy of all of the documents that you file. You must decide if you want to send the documents by certified mail or have the sheriff or a process server deliver the documents. Ask the clerk for more information on these options."
-      - "Step 7: You will get confirmation that the person that harmed you received your documents. File that confirmation with the court."
-      - "Step 8: The court will schedule a date for your trial. Do not miss your court date."
-      - "Step 9: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "Step 10: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 11: Present your case, closely following any directions given by the judge."
-      - "Step 12: Receive the judge’s decision either at the end of the hearing or later in the mail."
-      - "Step 13: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more in [this resource](https://www.floridalawhelp.org/content/going-small-claims-court)."
+      - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the proper County Court (Civil Division). You can file your small claims case in the county where the person that harmed you lives or where the harm happened."
+      - "**TIP:** You can find the contact information and location of the County Court in each county [here](https://dos.myflorida.com/library-archives/research/florida-information/government/local-resources/clerks-of-county-courts/) and you can search for each Clerk of Court [here](https://www.flclerks.com/page/FindaClerk)."
+      - "**Step 3:** Visit the proper court and ask the clerk for a Statement of Claim or complaint form."
+      - "**Step 4:** After carefully reading the instructions, complete the complaint form and attach copies of documents relating to what happened (for example, a police report) and showing all of your costs (for example, medical bills)."
+      - "**TIP:** Make at least 3 copies of all the forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
+      - "**Step 5:** Sign and file the completed form and pay the filing fees."
+      - "**TIP:** If you can’t afford the fees, you can ask for a waiver by filing an [Application for Determination of Civil Indigent Status](http://www.miami-dadeclerk.com/library/eFiling/Application%20for%20Determination%20of%20Civil%20Indigent%20Status.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)"
+      - "**TIP:** Ask the clerk if there are any other forms that you are required to file in that county."
+      - "**Step 6:** The person that harmed you must get a copy of all of the documents that you file. You must decide if you want to send the documents by certified mail or have the sheriff or a process server deliver the documents. Ask the clerk for more information on these options."
+      - "**Step 7:** You will get confirmation that the person that harmed you received your documents. File that confirmation with the court."
+      - "**Step 8:** The court will schedule a date for your trial. Do not miss your court date."
+      - "**Step 9:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**Step 10:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 11:** Present your case, closely following any directions given by the judge."
+      - "**Step 12:** Receive the judge’s decision either at the end of the hearing or later in the mail."
+      - "**Step 13:** If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more in [this resource](https://www.floridalawhelp.org/content/going-small-claims-court)."
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
       - You can file a Motion for New Trial or Motion for Rehearing to ask the judge to reconsider their ruling. You must file one of these motions within **10 days** of the judge’s decision.
       - If you do not agree with the judge’s decision after a new hearing, you must file a Notice of Appeal and pay the required fees within **30 days** of the new judgment.
-      - "TIP: An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
+      - "**TIP:** An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
     resources:
       - "[Florida Courts - Small Claims](https://www.flcourts.org/Resources-Services/Court-Improvement/Family-Courts/Family-Law-Self-Help-Information/Small-Claims)"
       - "[How to File a Small Claims Action](http://miami-dadeclerk.com/library/small_claims/881-Web.pdf)"
@@ -212,10 +218,11 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
 

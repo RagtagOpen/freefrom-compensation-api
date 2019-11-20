@@ -2,6 +2,7 @@ state: LA
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime, or if you are a family member of someone who was killed as the result of a crime.
 
       Eligible crimes include:
@@ -24,16 +25,17 @@ resources:
 
       * Arson
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Louisiana.
-    when: The application must be _received_ within **1 year** after the date of the crime. 
+    when: The application must be _received_ within **1 year** after the date of the crime.
     time: On average, it takes  30 to 45 days for an application to be approved or denied.
     cost: It is free to apply.
     award: Generally, you can receive up to $10,000 for your expenses. If you were permanently disabled by the crime, you may qualify for up to $25,000.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
-      * Medical bills 
+      * Medical bills
 
       * Dental bills
 
@@ -50,48 +52,41 @@ resources:
       * Forensic medical exams
 
     likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How to Apply” below for more information.
-    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply. 
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "You Must Report the Crime to the Police: You must report the crime to law enforcement within **72 hours** and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Cooperation is Required: You must cooperate with the police during their investigation and with anyone investigating your application."
-      - "Not All Costs Are Covered: You cannot get compensation for property damage or pain and suffering."
-      - "Having a Criminal Record May Disqualify You: You aren’t eligible for compensation if you have / had a felony conviction within 5 years of the date of the crime."       
+      - "**You Must Report the Crime to the Police** You must report the crime to law enforcement within **72 hours** and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with the police during their investigation and with anyone investigating your application."
+      - "**Not All Costs Are Covered:** You cannot get compensation for property damage or pain and suffering."
+      - "**Having a Criminal Record May Disqualify You:** You aren’t eligible for compensation if you have / had a felony conviction within 5 years of the date of the crime."
     steps:
-      - "Step 1: Report the crime to the police within 72 hours of the incident and get a police report."
-      - "TIP: You may still be eligible for compensation If you didn’t report the crime in time. Apply and explain why you waited to report."
-      - "Step 2: Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: After carefully reading the instructions, fill out [this application](http://www.cole.state.la.us/programs/uploads/cvr_forms/cvr_appl.pdf) for most crimes, and [this application](http://www.cole.state.la.us/programs/uploads/cvr_forms/21%20SEXUAL%20ASSAULT%20VICTIMS%20APPLICATION%20(FOR%20VICTIMS)-12-12-2018.pdf) if the crime was a sexual assault."
-      - "Step 4: Sign the application and attach the police report and copies of itemized bills for every cost you include in your application."
-      - "Step 5: Depending on the types of costs you are trying to get covered, you will most likely have to complete and submit other forms (for example, a Claim Form for Medical Expenses and Medical Expense Verification Form. You can find all of these forms [here](http://www.lcle.state.la.us/programs/cvr.asp#downloads)."
-      - "TIP: If you need help completing your application, you can call the Crime Victims Reparations Board for support at (225) 342-1749."
-      - "TIP: Use paper clips, not staples, to attach documents to your application."
+      - "**Step 1:** Report the crime to the police within 72 hours of the incident and get a police report."
+      - "**TIP:** You may still be eligible for compensation If you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**Step 2:** Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** After carefully reading the instructions, fill out [this application](http://www.lcle.state.la.us/programs/uploads/cvr_forms/21%20SEXUAL%20ASSAULT%20VICTIMS%20APPLICATION%20(FOR%20VICTIMS)-12-12-2018.pdf) for most crimes, and [this application](http://www.cole.state.la.us/programs/uploads/cvr_forms/21%20SEXUAL%20ASSAULT%20VICTIMS%20APPLICATION%20(FOR%20VICTIMS)-12-12-2018.pdf) if the crime was a sexual assault."
+      - "**Step 4:** Sign the application and attach the police report and copies of itemized bills for every cost you include in your application."
+      - "**Step 5:** Depending on the types of costs you are trying to get covered, you will most likely have to complete and submit other forms (for example, a Claim Form for Medical Expenses and Medical Expense Verification Form). You can find all of these forms [here](http://www.lcle.state.la.us/programs/cvr.asp#downloads)."
+      - "**TIP:** If you need help completing your application, you can call the Crime Victims Reparations Board for support at (225) 342-1749."
+      - "**TIP:** Use paper clips, not staples, to attach documents to your application."
       - |
-        Step 6: Submit your application, attachments, and other forms to:
+
+        **Step 6:** Submit your application, attachments, and other forms to:
 
 
-        Louisiana Commission on Law Enforcement
-
-        Crime Victims Reparations Office
-
-        P.O. Box 3133
-
-        Baton Rouge, LA 70821
-
-
-      - "TIP: Remember, **your application must be received within 1 year after the crime occurred**. It’s a good idea to follow up with a phone call confirming that your application was received. Contact the Crime Victims Reparations Board at (225) 342-1749."
-      - "TIP: If you are close to the 1-year deadline but don’t have certain documents (police report, invoices, receipts), do not wait to submit your application. Instead, submit the application and follow up with the documents when you get them."
+        Louisiana Commission on Law Enforcement<br />Crime Victims Reparations Office<br />P.O. Box 3133<br />Baton Rouge, LA 70821
+      - "**TIP:** Remember, **your application must be received within 1 year after the crime occurred**. It’s a good idea to follow up with a phone call confirming that your application was received. Contact the Crime Victims Reparations Board at (225) 342-1749."
+      - "**TIP:** If you are close to the 1-year deadline but don’t have certain documents (police report, invoices, receipts), do not wait to submit your application. Instead, submit the application and follow up with the documents when you get them."
     what_to_expect:
       - The sheriff’s office will review your entire application to make sure all of the information you’ve included is true and accurate.
       - The sheriff’s office will approve or deny your application and send you a written decision via mail.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call the Crime Victims Reparations Board to update them with your new address at (225) 342-1749."
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call the Crime Victims Reparations Board to update them with your new address at (225) 342-1749."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - If you disagree with the Board’s decision, you have the right to file an appeal. You must notify the Board of the reason that you don’t agree with the decision and provide any additional information that supports your application.
       - The Board will make a decision on your appeal. If you don’t agree with this decision, you can appeal to the district court.
-      - "TIP: The appeal to district court will follow the more complex rules that apply to a normal civil case. This will be complicated, and it’s a good idea to try and find a lawyer to represent you."
+      - "**TIP:** The appeal to district court will follow the more complex rules that apply to a normal civil case. This will be complicated, and it’s a good idea to try and find a lawyer to represent you."
     resources:
       - "[Crime Victim Reparations - Louisiana](http://www.lcle.state.la.us/programs/cvr.asp) "
   - resource_category: Criminal Restitution
@@ -100,6 +95,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensated for the following expenses:
 
       * Medical bills
@@ -121,6 +117,8 @@ resources:
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
 
+
+
       * You must share your story:
 
         * With the police when you report the crime; and
@@ -132,71 +130,74 @@ resources:
         * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Contact the office of the District Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney assigned to your case that you are seeking criminal restitution."
-      - "TIP: You can find links to the websites for the District Attorney’s office in each county [here](https://www.ldaa.org/main/resources). "
-      - "Step 4: Share the information and documents you’ve gathered with the attorney assigned to your case and continue to send them evidence of ongoing costs."
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting criminal restitution can be challenging. If you need help, ask the District Attorney assigned to your case for support."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Contact the office of the District Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney assigned to your case that you are seeking criminal restitution."
+      - "**TIP:** You can find links to the websites for the District Attorney’s office in each county [here](https://www.ldaa.org/main/resources). "
+      - "**Step 4:** Share the information and documents you’ve gathered with the attorney assigned to your case and continue to send them evidence of ongoing costs."
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting criminal restitution can be challenging. If you need help, ask the District Attorney assigned to your case for support."
     resources:
       - "[Crime Victim / Witness FAQ](https://www.26thda.org/victimwitness/victimwitness-faq/)"
       - "[Louisiana Victim Rights Laws](https://law.lclark.edu/live/files/4952-louisiana)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must file claims for assault and battery, false imprisonment, personal injury, and property damage within **1 year** of the wrongful conduct.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/louisiana-law/louisiana-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/louisiana-law/louisiana-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Small Claims Division of the City Court in the parish where you or the person that harmed you lives.
 
-      TIP: Find the location of the City Court in each parish [here](http://www.lasc.org/links.asp#CityandParishCourts).
+      **TIP:** Find the location of the City Court in each parish [here](http://www.lasc.org/links.asp#CityandParishCourts).
     time: The whole process will take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $5000 or less.
     cost: |
+
       The filing fee depends on the city court. Generally, the fees range from $50-$150 for a claim against one person, with additional fees for claims against additional people.
 
-      TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. You can find the necessary forms and instructions [here](https://www.9thjdcselfhelp.com/fee-delayer-ifp). It’s a good idea to attach proof of your income to the necessary forms (bank statements, pay stubs, disability checks, EBT cards, etc.).
+      **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. You can find the necessary forms and instructions [here](https://www.9thjdcselfhelp.com/fee-delayer-ifp). It’s a good idea to attach proof of your income to the necessary forms (bank statements, pay stubs, disability checks, EBT cards, etc.).
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe and you can bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you are requesting.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you, which may be challenging."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you, which may be challenging."
     steps:
-      - "**TIP: Each City Court has its own rules and procedures. What follows is general information, but it’s a good idea to contact the specific City Court to get information about the necessary procedures that apply there.**"
-      - "Step 1: Collect any and all documents and other evidence that support your claim and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the City Court in the parish where the person that harmed you lives."
-      - "TIP: Find the location of the City Court in each parish [here](http://www.lasc.org/links.asp#CityandParishCourts)."
-      - "Step 3: Go to the City Court and ask the small claims clerk for a complaint form and a summons form."
-      - "Step 4: After carefully reading the instructions complete both forms and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
-      - "TIP: Make at least 3 copies of all forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
-      - "Step 5: Sign and file the completed documents and attachments with the clerk of the City Court and pay the filing fees."
-      - "TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. You can find the necessary forms and instructions [here](https://www.9thjdcselfhelp.com/fee-delayer-ifp). It’s a good idea to attach proof of your income to the necessary forms (bank statements, pay stubs, disability checks, EBT cards, etc.)."
-      - "Step 6: The person you are suing must get a copy of all the documents you file. You can ask the clerk or sheriff’s department to send the notice, or you can hire a process server to deliver it – you cannot deliver it yourself. All three options require a fee but if you filled out a fee waiver and it was accepted then you likely won’t need to pay anything. You can ask the clerk of the City Court for guidance."
-      - "Step 7: You will receive proof that the person you are suing received your documents. File that proof with the clerk of the City Court."
-      - "Step 8: The court will set a trial date for your case. Do not miss your trial date."
-      - "Step 9: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "Step 10: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 11: Present your case, closely following any instructions given by the judge."
-      - "Step 12: Receive the judge’s order either at the end of the hearing or at a later date via mail."
+      - "****TIP:** Each City Court has its own rules and procedures. What follows is general information, but it’s a good idea to contact the specific City Court to get information about the necessary procedures that apply there.**"
+      - "**Step 1:** Collect any and all documents and other evidence that support your claim and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the City Court in the parish where the person that harmed you lives."
+      - "**TIP:** Find the location of the City Court in each parish [here](http://www.lasc.org/links.asp#CityandParishCourts)."
+      - "**Step 3:** Go to the City Court and ask the small claims clerk for a complaint form and a summons form."
+      - "**Step 4:** After carefully reading the instructions complete both forms and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
+      - "**TIP:** Make at least 3 copies of all forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
+      - "**Step 5:** Sign and file the completed documents and attachments with the clerk of the City Court and pay the filing fees."
+      - "**TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. You can find the necessary forms and instructions [here](https://www.9thjdcselfhelp.com/fee-delayer-ifp). It’s a good idea to attach proof of your income to the necessary forms (bank statements, pay stubs, disability checks, EBT cards, etc.)."
+      - "**Step 6:** The person you are suing must get a copy of all the documents you file. You can ask the clerk or sheriff’s department to send the notice, or you can hire a process server to deliver it – you cannot deliver it yourself. All three options require a fee but if you filled out a fee waiver and it was accepted then you likely won’t need to pay anything. You can ask the clerk of the City Court for guidance."
+      - "**Step 7:** You will receive proof that the person you are suing received your documents. File that proof with the clerk of the City Court."
+      - "**Step 8:** The court will set a trial date for your case. Do not miss your trial date."
+      - "**Step 9:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**Step 10:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 11:** Present your case, closely following any instructions given by the judge."
+      - "**Step 12:** Receive the judge’s order either at the end of the hearing or at a later date via mail."
       - "Step13: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Ask the judge or clerk of court for support."
     what_if_i_disagree:
       - The appeals process is different depending on where you file. For information about appeals, contact the City Court where you filed your claim. Find the location and contact information for each City Court [here](http://www.lasc.org/links.asp#CityandParishCourts).
     resources:
       - "[General Information about Small Claims Court in Louisiana](https://lasc.libguides.com/c.php?g=463399&p=3167530)"
   - resource_category: Civil Tort
-    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case. 
+    who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
     when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
     time: The whole process will most likely take over a year.
     cost: Hundreds or even thousands of dollars.
@@ -206,10 +207,11 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
 

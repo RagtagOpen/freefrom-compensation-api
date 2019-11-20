@@ -2,49 +2,51 @@ state: NJ
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime, or if you are the spouse, parent, or child of someone who was killed as a result of a crime.
 
       Eligible crimes include:
 
       * Domestic violence
-      
+
       * Assault
-      
+
       * Murder
-      
+
       * Manslaughter
-      
-      * Burglary 
-      
-      * Sexual assault 
-      
-      * Kidnapping 
-      
-      * Carjacking 
-      
+
+      * Burglary
+
+      * Sexual assault
+
+      * Kidnapping
+
+      * Carjacking
+
       * Hit and run
-      
+
       * Human trafficking
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in New Jersey or if you live in New Jersey and the crime happened in a different state that does not offer compensation to non-residents.
     when: The application must be _received_ within **3 years** after the date of the crime.
     time: On average, it takes 3.5 months for an application to be approved or denied.
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
-      
+
       * Counseling
-      
+
       * Lost wages
-      
+
       * Funeral expenses
-      
-      * Childcare 
-      
+
+      * Childcare
+
       * Crime scene cleanup
 
     likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-To Apply” below for more information.
@@ -52,41 +54,36 @@ resources:
     story: You will need to include detailed information about what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "You Must Report the Crime to the Police: You must report the crime to the police within **9 months** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Cooperation is Required: You must cooperate with the police during the investigation and with anyone reviewing your application."
-      - "Having a Criminal Record May Disqualify You: You may be ineligible for compensation if you have outstanding warrants, or pending felony charges."
-      - "Not All Costs Are Covered: You cannot get compensation for property loss. property damage or pain and suffering."      
+      - "**You Must Report the Crime to the Police** You must report the crime to the police within **9 months** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with the police during the investigation and with anyone reviewing your application."
+      - "**Having a Criminal Record May Disqualify You:** You may be ineligible for compensation if you have outstanding warrants, or pending felony charges."
+      - "**Not All Costs Are Covered:** You cannot get compensation for property loss. property damage or pain and suffering."
     steps:
-      - "Step 1: Report the crime to the police within **9 months** of the incident and get a police report."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
-      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: After carefully reading the instructions, download, print and complete [this application](https://www.nj.gov/oag/njvictims/pdfs/VCCO-Application-Instructions.pdf), or apply online [here](https://vcco.lps.nj.gov/)."
-      - "Step 4: Attach or upload the police report and copies of bills for each expense you include in your application."
+      - "**Step 1:** Report the crime to the police within **9 months** of the incident and get a police report."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** After carefully reading the instructions, download, print and complete [this application](https://www.nj.gov/oag/njvictims/pdfs/VCCO-Application-Instructions.pdf), or apply online [here](https://vcco.lps.nj.gov/)."
+      - "**Step 4:** Attach or upload the police report and copies of bills for each expense you include in your application."
       - |
-        Step 5: Sign or electronically verify (if submitting online) and submit your application through the online portal or by mail to: 
+
+        **Step 5:** Sign or electronically verify (if submitting online) and submit your application through the online portal or by mail to:
 
 
-        Victim of Crime Compensation Office
-
-        50 Park Place, 5th Floor
-
-        Newark, New Jersey 07102
-
-
+        Victim of Crime Compensation Office<br />50 Park Place, 5th Floor<br />Newark, New Jersey 07102
     what_to_expect:
       - The Victim of Crime Compensation Office will send you a letter within 10 days confirming that they have received your application.
       - The VCCO will review your entire application to make sure all of the information you’ve included is true and accurate.
       - The VCCO might ask you for more information. If so, respond as soon as possible.
-      - The VCCO will either approve or deny your application and send you a written decision explaining why. 
-      - "TIP: To check the status of your application, you can call VCCO at (877) 658-2221 or (973) 648-2107 or  [email](mailto:njvictims@njvictims.org)."
+      - The VCCO will either approve or deny your application and send you a written decision explaining why.
+      - "**TIP:** To check the status of your application, you can call VCCO at (877) 658-2221 or (973) 648-2107 or  [email](mailto:njvictims@njvictims.org)."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - You can request a hearing by giving written notice to the VCCO within **45 days** of receiving your decision.
       - You will receive a written notice of the time and place for the hearing and must submit all relevant evidence to the Review Board at least 10 days before the hearing is scheduled.
       - The Review Board will make its decision within three months and mail you a written decision in the mail.
       - If you want to appeal the Review Board decision, you must file an appeal directly to the Appellate Division of the Superior Court.
-      - "TIP: The appeal to the Superior Court will follow the more complex rules that apply to a normal civil case. This will be complicated, and it’s a good idea to try and find a lawyer to represent you."
+      - "**TIP:** The appeal to the Superior Court will follow the more complex rules that apply to a normal civil case. This will be complicated, and it’s a good idea to try and find a lawyer to represent you."
     resources:
       - "[New Jersey - Victims of Crime Compensation Office](https://www.nj.gov/oag/njvictims/eligibility.html)"
       - "[New Jersey Victims of Crime Compensation Office - Claim Application and Instructions - English](https://www.nj.gov/oag/njvictims/pdfs/VCCO-Application-Instructions.pdf)"
@@ -98,20 +95,23 @@ resources:
     cost: It is free of charge.
     likelihood: A prosecutor will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the prosecutor of your costs, the more likely you are to get compensation.
     covered_expenses: |
-      You can get compensated for the following expenses: 
 
-      * Lost wages 
-      
+      You can get compensated for the following expenses:
+
+      * Lost wages
+
       * Medical bills
-      
+
       * Funeral costs
-      
+
       * Stolen or damaged property
-      
+
       * Other out-of-pocket costs directly related to the crime
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or attend the sentencing hearing.
     story: |
+
+
 
       * You must share your story:
 
@@ -124,76 +124,82 @@ resources:
         * If the prosecutor asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the prosecutor assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the prosecutor assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather information and documents you have relating to the costs you are trying to get covered. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay because of the abuse."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Contact the Prosecutor’s Office in the county where the crime took place and ask to speak with the prosecutor assigned to your case. Tell the prosecutor you are seeking criminal restitution."
-      - "TIP: You can find the location and contact information for the prosecutors in each county [here](https://criminal.findlaw.com/criminal-legal-help/new-jersey-district-attorneys.html)."
-      - "Step 4: Share all the information and documents you’ve gathered with the prosecutor assigned to your case."
-      - "Step 5: Stay in contact with the prosecutor assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the prosecutor assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting criminal restitution can be challenging. If you need help, ask the prosecutor assigned to your case for support."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather information and documents you have relating to the costs you are trying to get covered. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay because of the abuse."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Contact the Prosecutor’s Office in the county where the crime took place and ask to speak with the prosecutor assigned to your case. Tell the prosecutor you are seeking criminal restitution."
+      - "**TIP:** You can find the location and contact information for the prosecutors in each county [here](https://criminal.findlaw.com/criminal-legal-help/new-jersey-district-attorneys.html)."
+      - "**Step 4:** Share all the information and documents you’ve gathered with the prosecutor assigned to your case."
+      - "**Step 5:** Stay in contact with the prosecutor assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the prosecutor assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting criminal restitution can be challenging. If you need help, ask the prosecutor assigned to your case for support."
     resources:
-      - "[Restitution: A Payback for VIctims - Brochure](https://www.njcourts.gov/forms/11544_cep_restitution_victims.pdf)"
+      - "[Restitution: A Payback for Victims - Brochure](https://www.njcourts.gov/forms/11544_cep_restitution_victims.pdf)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $3,000 or less.
     when: |
+
       You must file claims for assault and battery within **1 year** of the wrongful conduct; for false imprisonment within **2 years** of the wrongful conduct; and for property damage within **6 years** of the damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/new-jersey-law/new-jersey-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims. 
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/new-jersey-law/new-jersey-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Office of the Special Civil Part of the Superior Court in the county where the person that harmed you lives.
 
-      TIP: Find the location of the Superior Court Special Civil Part Offices in each county [here](https://www.njcourts.gov/forms/10150_spcclerkofc.pdf).
+      **TIP:** Find the location of the Superior Court Special Civil Part Offices in each county [here](https://www.njcourts.gov/forms/10150_spcclerkofc.pdf).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $3,000 or less.
     cost: |
+
       Fees vary depending on how many people you are suing and how you decide to deliver your documents to the defendant(s). Generally, the fees range from $35-$175.
 
-      TIP: If you can’t afford to pay the fees, you can apply for a waiver. [Here](https://www.njcourts.gov/forms/11208_filingfeewaiver.pdf) are the forms and instructions on how to complete and submit them.
+      **TIP:** If you can’t afford to pay the fees, you can apply for a waiver. [Here](https://www.njcourts.gov/forms/11208_filingfeewaiver.pdf) are the forms and instructions on how to complete and submit them.
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section for more information.
     safety: You will likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to share the specifics about your story with the judge, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney. However, it’s important to keep in mind that the attorney may cost more than the amount of money you are requesting.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments in [this resource](https://njcourts.gov/forms/10282_collect_money_jdgmnt.pdf)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments in [this resource](https://njcourts.gov/forms/10282_collect_money_jdgmnt.pdf)."
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the Superior Court’s Special CIvil Part Office in the county where the person that harmed you lives. This is where you’ll file all your paperwork."
-      - "TIP: Find the location of the Superior Court Special Civil Part Offices in each county [here](https://www.njcourts.gov/forms/10150_spcclerkofc.pdf)."
-      - "Step 3: Access a Small Claims Complaint and Summons online [here](https://www.njcourts.gov/forms/10151_sc_non_motorveh.pdf?c=lfY) (starting on page 7), or get one from the clerk in the Special Civil Part Office."
-      - "Step 4: After carefully reading the instructions in [this packet](https://www.njcourts.gov/forms/10151_sc_non_motorveh.pdf?c=lfY), complete the Small Claims Summons and Complaint and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). You can also request forms from the clerk of the Superior Court Special Civil Part Office."
-      - "TIP: Make at least 3 copies of all forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
-      - "Step 5: File the completed Summons, Complaint, and any attachments with the clerk in the Special Civil Part Office and pay the filing fee."
-      - "TIP: If you can’t afford to pay the fees, you can apply for a waiver. [Here](https://www.njcourts.gov/forms/11208_filingfeewaiver.pdf) are the necessary forms and instructions on how to complete and submit them."
-      - "Step 6: The defendant must get a copy of all the documents you file. Ask the clerk for guidance in how to deliver your documents."
-      - "Step 7: You will receive a postcard in the mail with your court date. You must appear on this date or your case may be dismissed. If an emergency prevents you from attending, call the Court right away."
-      - "Step 8: Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 10: Present your case, closely following any directions given by the judge."
-      - "Step 11: Receive the judge’s decision either at the end of the hearing or later in the mail."
-      - "Step 12: If you win your small claims case and are awarded a judgment, you will need to take steps to collect that money. Read more about collecting a judgment [here](https://njcourts.gov/forms/10282_collect_money_jdgmnt.pdf)."
+      - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the Superior Court’s Special CIvil Part Office in the county where the person that harmed you lives. This is where you’ll file all your paperwork."
+      - "**TIP:** Find the location of the Superior Court Special Civil Part Offices in each county [here](https://www.njcourts.gov/forms/10150_spcclerkofc.pdf)."
+      - "**Step 3:** Access a Small Claims Complaint and Summons online [here](https://www.njcourts.gov/forms/10151_sc_non_motorveh.pdf?c=lfY) (starting on page 7), or get one from the clerk in the Special Civil Part Office."
+      - "**Step 4:** After carefully reading the instructions in [this packet](https://www.njcourts.gov/forms/10151_sc_non_motorveh.pdf?c=lfY), complete the Small Claims Summons and Complaint and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). You can also request forms from the clerk of the Superior Court Special Civil Part Office."
+      - "**TIP:** Make at least 3 copies of all forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
+      - "**Step 5:** File the completed Summons, Complaint, and any attachments with the clerk in the Special Civil Part Office and pay the filing fee."
+      - "**TIP:** If you can’t afford to pay the fees, you can apply for a waiver. [Here](https://www.njcourts.gov/forms/11208_filingfeewaiver.pdf) are the necessary forms and instructions on how to complete and submit them."
+      - "**Step 6:** The defendant must get a copy of all the documents you file. Ask the clerk for guidance in how to deliver your documents."
+      - "**Step 7:** You will receive a postcard in the mail with your court date. You must appear on this date or your case may be dismissed. If an emergency prevents you from attending, call the Court right away."
+      - "**Step 8:** Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**Step 9:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 10:** Present your case, closely following any directions given by the judge."
+      - "**Step 11:** Receive the judge’s decision either at the end of the hearing or later in the mail."
+      - "**Step 12:** If you win your small claims case and are awarded a judgment, you will need to take steps to collect that money. Read more about collecting a judgment [here](https://njcourts.gov/forms/10282_collect_money_jdgmnt.pdf)."
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
-      - "Step 1: You must file a Notice of Appeal  in the Appellate Division of Superior Court within 45 days of the court’s decision, pay a filing fee of $250, and request a transcript of your case from the Appellate Division."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**Step 1:** You must file a Notice of Appeal  in the Appellate Division of Superior Court within 45 days of the court’s decision, pay a filing fee of $250, and request a transcript of your case from the Appellate Division."
       - |
-        Step 2: Send copies of your appeals documents to:
+
+
+
+        **Step 2:** Send copies of your appeals documents to:
 
         * All parties in the case who appeared in Court;
 
         * The local Superior Court office that handled your small claims case; and
 
         * The Judge who decided your small claims case.
-      - "Step 3: You will have to pay an additional $300 to the clerk of the Appellate Division within **30 days** of filing the Notice of Appeal. If you win, this $300 will be refunded."
-      - "TIP: An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
-      - "TIP: Consider whether the amount you could win is worth the cost of filing an appeal."
+      - "**Step 3:** You will have to pay an additional $300 to the clerk of the Appellate Division within **30 days** of filing the Notice of Appeal. If you win, this $300 will be refunded."
+      - "**TIP:** An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
+      - "**TIP:** Consider whether the amount you could win is worth the cost of filing an appeal."
     resources:
       - "[New Jersey Small Claims Court Forms](https://njcourts.gov/selfhelp/catalog.html?keywords=Small%20Claims%20set&customer=Prose)"
       - "[New Jersey Courts Smalls Claims Home](https://njcourts.gov/selfhelp/small_claims.html#small-claims-home)"
@@ -209,32 +215,33 @@ resources:
     who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
     when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
     time: The whole process will most likely take over a year.
-    cost: Hundreds or even thousands of dollars. 
+    cost: Hundreds or even thousands of dollars.
     likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
     safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
     story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way.
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
-        
+
         * The name and address of the person that harmed you
-        
+
         * Date of the incident(s)
-        
+
         * Brief description of the incident(s)
-        
+
         * Itemized list of costs that resulted from the incident(s)
-        
+
         * Copies of important documents
-        
+
         * If you know it, the income / assets of the person that harmed you
-        
+
         * If you can, the type of claim you want to bring against the person that harmed you
 
     resources:

@@ -2,6 +2,7 @@ state: CO
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you or a family member were harmed as the result of a crime.
 
       Eligible crimes include:
@@ -24,14 +25,15 @@ resources:
 
       * Human trafficking
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Colorado or if you live in Colorado and were injured in a state or country that doesn’t have a crime victim compensation program.
     when: The application must be _received_ within **1 year** after the date of the crime.
     time: On average, it takes 1.5 months for an application to be approved or denied.
     cost: It is free to apply.
-    award: You can receive up to $30,000 for your expenses. 
+    award: You can receive up to $30,000 for your expenses.
     covered_expenses: |
-      You can get compensation for the following expenses: 
+
+      You can get compensation for the following expenses:
 
       * Medical expenses
 
@@ -47,32 +49,32 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "You Must Report the Crime to the Police: You must report the crime within **72 hours** of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Cooperation is Required: You must cooperate with the police as they investigate the crime and with anyone reviewing your application."
-      - "Not All Costs Are Covered: You can’t get compensation for property loss, property damage, pain and suffering, or costs of participating in a trial."      
+      - "**You Must Report the Crime to the Police** You must report the crime within **72 hours** of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with the police as they investigate the crime and with anyone reviewing your application."
+      - "**Not All Costs Are Covered:** You can’t get compensation for property loss, property damage, pain and suffering, or costs of participating in a trial."
     steps:
-      - "Step 1: Report the crime to the police within **72 hours** of the incident and get a police report."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
-      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: You must apply in the Judicial District where the crime occurred. Locate the Judicial Districts using [this map](https://www.courts.state.co.us/userfiles/File/Administration/Executive/Budgeting/FY2009_Budget_Request/c1/04-districtmap.pdf)."
-      - "Step 4: Find the name and contact information for the Victim Compensation Administrator in each Judicial District [here](https://drive.google.com/file/d/0B-a2yjieZHUdMEd3a0poNzhpRl9qeWItUVlLb25LdXllaGI4/view)."
-      - "TIP: Call (303) 239-4493 or email [Kate.Horn-Murphy@state.co.us](mailto:Kate.Horn-Murphy@state.co.us) for help locating the correct Victim Compensation Administrator for your application."
-      - "Step 5: Contact the Victim Compensation Administrator in the Judicial District where the crime happened and ask for an application. You can also access an application online [here](https://cdpsdocs.state.co.us/ovp/Vic_Comp/VC_English_Application_2_18_16.pdf)."
-      - "Step 6: After carefully reading the instructions, complete and sign the application and attach the police report and copies of bills for each expense you include in your application."
-      - "Step 7: Submit your application and all attachments to the Victim Compensation Administrator in the Judicial District where the crime happened."
-      - "TIP: Contact the Victim Compensation Administrator in the Judicial District where the crime happened and ask if there are any specific guidelines about how or where you should submit your application."
+      - "**Step 1:** Report the crime to the police within **72 hours** of the incident and get a police report."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** You must apply in the Judicial District where the crime occurred. Locate the Judicial Districts using [this map](https://www.courts.state.co.us/userfiles/File/Administration/Executive/Budgeting/FY2009_Budget_Request/c1/04-districtmap.pdf)."
+      - "**Step 4:** Find the name and contact information for the Victim Compensation Administrator in each Judicial District [here](https://drive.google.com/file/d/0B-a2yjieZHUdMEd3a0poNzhpRl9qeWItUVlLb25LdXllaGI4/view)."
+      - "**TIP:** Call (303) 239-4493 or email [Kate.Horn-Murphy@state.co.us](mailto:Kate.Horn-Murphy@state.co.us) for help locating the correct Victim Compensation Administrator for your application."
+      - "**Step 5:** Contact the Victim Compensation Administrator in the Judicial District where the crime happened and ask for an application. You can also access an application online [here](https://cdpsdocs.state.co.us/ovp/Vic_Comp/VC_English_Application_2_18_16.pdf)."
+      - "**Step 6:** After carefully reading the instructions, complete and sign the application and attach the police report and copies of bills for each expense you include in your application."
+      - "**Step 7:** Submit your application and all attachments to the Victim Compensation Administrator in the Judicial District where the crime happened."
+      - "**TIP:** Contact the Victim Compensation Administrator in the Judicial District where the crime happened and ask if there are any specific guidelines about how or where you should submit your application."
     what_to_expect:
       - The Victim Compensation Administrator will review your entire application to make sure all of the information you’ve included is true and accurate.
       - The Administrator may ask you for more information or documentation. If they do, respond as soon as possible.
       - The Administrator will either approve or deny your application, and will send you a copy of their written decision.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Victim Compensation Administrator in the Judicial District where the crime happened to let them know."
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Victim Compensation Administrator in the Judicial District where the crime happened to let them know."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - You must request a reconsideration hearing before the Crime Victim Compensation Board. Do not delay in filing this request.
       - The Board will schedule a hearing and send you notice. At the hearing, you must convince the Board that your application should be granted. You are allowed to present evidence and witnesses.
-      - The Board will decide whether to grant or deny your application. If you are still unhappy with the Board’s decision, you can file an appeal to a court within **30 days**. 
-      - "TIP: The appeal will have complex procedures and requirements. It’s a good idea to consult with an attorney to help you with this process."
+      - The Board will decide whether to grant or deny your application. If you are still unhappy with the Board’s decision, you can file an appeal to a court within **30 days**.
+      - "**TIP:** The appeal will have complex procedures and requirements. It’s a good idea to consult with an attorney to help you with this process."
     resources:
       - "[Victim Compensation Program](https://www.colorado.gov/pacific/dcj/Vic_Comp)"
       - "[Victim Compensation Application](https://cdpsdocs.state.co.us/ovp/Vic_Comp/VC_English_Application_2_18_16.pdf)"
@@ -83,6 +85,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -102,77 +105,83 @@ resources:
       * Other out-of-pocket costs directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
-      * You must share your story: 
+
+
+
+      * You must share your story:
 
         * With the police when you report the crime; and
 
         * With the District Attorney assigned to your case.
 
-      * You may have to share your story: 
+      * You may have to share your story:
 
         * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. Read more about collecting restitution [here](https://www.courts.state.co.us/Self_Help/Restitution.cfm). You can also ask the District Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. Read more about collecting restitution [here](https://www.courts.state.co.us/Self_Help/Restitution.cfm). You can also ask the District Attorney assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Contact the office of the District Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and ask for a “Victim Impact Statement.”"
-      - "TIP: Find the location and contact information for the District Attorney in each county [here](https://criminal.findlaw.com/criminal-legal-help/colorado-district-attorneys.html)."
-      - "Step 4: Complete the Victim Impact Statement and attach copies of all the documents you’ve gathered. Send the Statement and the attachments to the District Attorney assigned to your case."
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting restitution can be challenging. [Here](https://www.courts.state.co.us/Self_Help/Restitution.cfm) is a great resource to learn more. You can also ask the District Attorney assigned to your case for support."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Contact the office of the District Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and ask for a “Victim Impact Statement.”"
+      - "**TIP:** Find the location and contact information for the District Attorney in each county [here](https://criminal.findlaw.com/criminal-legal-help/colorado-district-attorneys.html)."
+      - "**Step 4:** Complete the Victim Impact Statement and attach copies of all the documents you’ve gathered. Send the Statement and the attachments to the District Attorney assigned to your case."
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting restitution can be challenging. [Here](https://www.courts.state.co.us/Self_Help/Restitution.cfm) is a great resource to learn more. You can also ask the District Attorney assigned to your case for support."
     resources:
       - "[Victim Restitution](https://www.courts.state.co.us/Self_Help/Restitution.cfm)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $7,500 or less.
     when: |
+
       You must file claims for assault and battery and personal injury within  **2 years** of the wrongful conduct, and for damage to property within **3 years** of the damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/colorado-law/colorado-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/colorado-law/colorado-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the County Court in the county where the person that harmed you lives.
 
-      TIP: You can find the location and contact information for every County Court [here](https://www.courts.state.co.us/Courts/County/Choose.cfm).
+      **TIP:** You can find the location and contact information for every County Court [here](https://www.courts.state.co.us/Courts/County/Choose.cfm).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $7,500 or less.
     cost: |
+
       You will have to pay a filing fee. The amount of the fee varies depending on how much money you are asking for and ranges between $31-$55. You may also have to pay fees to deliver your documents to the defendant.
 
-      TIP: If you can’t afford to pay the fees, you can ask the court to waive them. Find out more about how to ask for a fee waiver [here](https://www.courts.state.co.us/Forms/Forms_List.cfm?Form_Type_ID=119).
+      **TIP:** If you can’t afford to pay the fees, you can ask the court to waive them. Find out more about how to ask for a fee waiver [here](https://www.courts.state.co.us/Forms/Forms_List.cfm?Form_Type_ID=119).
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
-    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you. 
+    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: Attorneys are not allowed in small claims court. You must represent yourself.
     challenges:
-      - You Will Have to Represent Yourself: You will most likely have to face the person that harmed you in court and you will have to represent yourself.
-      - Collecting A Judgment  Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments [here](https://www.courts.state.co.us/Self_Help/collectjudgment/).
+      - "**You Will Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and you will have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments [here](https://www.courts.state.co.us/Self_Help/collectjudgment/)."
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claim and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the County Court in the county where the person that harmed you lives. This is where you’ll file all your paperwork. You can find the location and contact information for every County Court [here](https://www.courts.state.co.us/Courts/County/Choose.cfm)."
-      - "Step 3: Carefully read [these instructions](https://www.courts.state.co.us/Forms/PDF/JDF%20248%20Instructions%20forSmall%20Claims%20R7-13.pdf) on how to file a small claims case."
-      - "Step 4: Complete a Notice, Claim, and Summons to Appear for Trial form. You can find that form online [here](https://www.courts.state.co.us/Forms/PDF/JDF%20250%20Notice%20Claims%20and%20Summons%20for%20Trial%20.pdf) or request one from the clerk of the County Court. Do not attach any documents to this form."
-      - "TIP: [This resource](https://www.courts.state.co.us/Forms/PDF/JDF%20248%20Instructions%20forSmall%20Claims%20R7-13.pdf) provides great guidance on how to complete the form."
-      - "Step 5: File the completed form with the clerk of the County Court and pay the filing fee. If you can’t afford to pay the fees, you can ask the court to waive them. Find out more about how to ask for a fee waiver [here](https://www.courts.state.co.us/Forms/Forms_List.cfm?Form_Type_ID=119)."
-      - "Step 6: The defendant must get a copy of everything you file. You can send your documents by certified mail, a private process server, or the sheriff’s office. Read more about each of these options [here](https://www.courts.state.co.us/Forms/PDF/JDF%20248%20Instructions%20forSmall%20Claims%20R7-13.pdf) under Step 3. You can also ask the clerk of the County Court for help."
-      - "Step 7: The clerk will set a date for the trial in your case. Do not miss this trial date."
-      - "Step 8: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "TIP: Learn more about preparing for trial in [this resource](https://www.courts.state.co.us/Forms/PDF/JDF%20248%20Instructions%20forSmall%20Claims%20R7-13.pdf) under “Preparing for the Court Trial.”"
-      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 10: Present your case, closely following any instructions given by the judge."
-      - "Step 11: Receive the judge’s order at the end of the hearing or later in the mail."
-      - "Step 12: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting your money [here](https://www.courts.state.co.us/Self_Help/collectjudgment/)."
+      - "**Step 1:** Collect any and all documents and other evidence that support your claim and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the County Court in the county where the person that harmed you lives. This is where you’ll file all your paperwork. You can find the location and contact information for every County Court [here](https://www.courts.state.co.us/Courts/County/Choose.cfm)."
+      - "**Step 3:** Carefully read [these instructions](https://www.courts.state.co.us/Forms/PDF/JDF%20248%20Instructions%20forSmall%20Claims%20R7-13.pdf) on how to file a small claims case."
+      - "**Step 4:** Complete a Notice, Claim, and Summons to Appear for Trial form. You can find that form online [here](https://www.courts.state.co.us/Forms/PDF/JDF%20250%20Notice%20Claims%20and%20Summons%20for%20Trial%20.pdf) or request one from the clerk of the County Court. Do not attach any documents to this form."
+      - "**TIP:** [This resource](https://www.courts.state.co.us/Forms/PDF/JDF%20248%20Instructions%20forSmall%20Claims%20R7-13.pdf) provides great guidance on how to complete the form."
+      - "**Step 5:** File the completed form with the clerk of the County Court and pay the filing fee. If you can’t afford to pay the fees, you can ask the court to waive them. Find out more about how to ask for a fee waiver [here](https://www.courts.state.co.us/Forms/Forms_List.cfm?Form_Type_ID=119)."
+      - "**Step 6:** The defendant must get a copy of everything you file. You can send your documents by certified mail, a private process server, or the sheriff’s office. Read more about each of these options [here](https://www.courts.state.co.us/Forms/PDF/JDF%20248%20Instructions%20forSmall%20Claims%20R7-13.pdf) under Step 3. You can also ask the clerk of the County Court for help."
+      - "**Step 7:** The clerk will set a date for the trial in your case. Do not miss this trial date."
+      - "**Step 8:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**TIP:** Learn more about preparing for trial in [this resource](https://www.courts.state.co.us/Forms/PDF/JDF%20248%20Instructions%20forSmall%20Claims%20R7-13.pdf) under “Preparing for the Court Trial.”"
+      - "**Step 9:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 10:** Present your case, closely following any instructions given by the judge."
+      - "**Step 11:** Receive the judge’s order at the end of the hearing or later in the mail."
+      - "**Step 12:** If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting your money [here](https://www.courts.state.co.us/Self_Help/collectjudgment/)."
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
-      - "Step 1: You must file a Notice of Appeal and pay an appeal bond within **14 days** of the small claims case judgment."
-      - "Step 2: You must also file the Notice of Appeal in the District Court within **35 days** after filing it in the County Court, and request a written transcript of the small claims case."
-      - "Step 3: The District Court will review the evidence and transcript from the small claims case and decide if the judge in that case made a mistake. You will get a written decision in the mail. "
-      - "TIP: Read more about how to appeal [here](https://www.courts.state.co.us/Forms/PDF/JDF%20126%20Instructions%20for%20filing%20a%20County%20Civil%20or%20Small%20Claims%20Appeal.pdf)."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**Step 1:** You must file a Notice of Appeal and pay an appeal bond within **14 days** of the small claims case judgment."
+      - "**Step 2:** You must also file the Notice of Appeal in the District Court within **35 days** after filing it in the County Court, and request a written transcript of the small claims case."
+      - "**Step 3:** The District Court will review the evidence and transcript from the small claims case and decide if the judge in that case made a mistake. You will get a written decision in the mail. "
+      - "**TIP:** Read more about how to appeal [here](https://www.courts.state.co.us/Forms/PDF/JDF%20126%20Instructions%20for%20filing%20a%20County%20Civil%20or%20Small%20Claims%20Appeal.pdf)."
     resources:
       - "[Small Claims Handbook - A Guide for Non-Lawyers](https://www.courts.state.co.us/userfiles/File/Media/Brochures/smallclaimsweb.pdf)"
       - "[Instructions for Filing Small Claims Appeal](https://www.courts.state.co.us/Forms/PDF/JDF%20126%20Instructions%20for%20filing%20a%20County%20Civil%20or%20Small%20Claims%20Appeal.pdf)"
@@ -188,10 +197,11 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
 

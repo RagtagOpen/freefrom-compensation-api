@@ -2,6 +2,7 @@ state: HI
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a violent crime or if you are the legal dependent of someone who was killed as the result of a crime.
 
       Eligible crimes include:
@@ -10,7 +11,7 @@ resources:
 
       * Manslaughter
 
-      * Assault 
+      * Assault
 
       * Kidnapping
 
@@ -20,13 +21,14 @@ resources:
 
       * Human Trafficking
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Hawai’i.
     when: The application must be _received_ within **18 months** after the date of the crime. This deadline can be waived if you can show a good reason for why you were unable to file in time.
     time: On average, it takes 2.5 months for your application to be approved or denied.
     cost: It is free to apply.
     award: You can receive up to $10,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -41,22 +43,23 @@ resources:
 
     likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-to Apply” below for more information.
     safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
-    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience. 
+    story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "You Must Report the Crime to the Police: You must report the crime to the police within **72 hours**. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "You May Have to Have a Medical Exam: The Commission may appoint an impartial licensed physician or psychologist to examine you (at no cost to you)."
-      - "Not All Costs Are Covered: You can’t get compensation for property loss or damage, telephon bills, or meals."      
+      - "**You Must Report the Crime to the Police** You must report the crime to the police within **72 hours**. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**You May Have to Have a Medical Exam:** The Commission may appoint an impartial licensed physician or psychologist to examine you (at no cost to you)."
+      - "**Not All Costs Are Covered:** You can’t get compensation for property loss or damage, telephon bills, or meals."
     steps:
-      - "Step 1: Report the crime to the police within **72 hours** of the incident and get a police report."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, insurance statements, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: After carefully reading the instructions, complete [this two-page application](https://dps.hawaii.gov/cvcc/files/2013/01/APPLICATION-ONLY.pdf) and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
-      - "Step 4: After carefully reading the instructions, complete a [Medical Authorization Form](https://dps.hawaii.gov/cvcc/files/2019/07/Medical-Authorization-1.pdfmedical authorization form) for each and every doctor, hospital, or other health care provider you saw as a result of the incident."
-      - "Step 5: If you are claiming lost wages, you must fill out the top portion of the [Employment Authorization Form](https://dps.hawaii.gov/cvcc/files/2019/07/Lost-Earnings-1.pdf) and then give it to your employer. Your employer must complete and return the form to the Crime Victim Compensation Commission."
+      - "**Step 1:** Report the crime to the police within **72 hours** of the incident and get a police report."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, insurance statements, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** After carefully reading the instructions, complete [this two-page application](https://dps.hawaii.gov/cvcc/files/2013/01/APPLICATION-ONLY.pdf) and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
+      - "**Step 4:** After carefully reading the instructions, complete a [Medical Authorization Form](https://dps.hawaii.gov/cvcc/files/2019/07/Medical-Authorization.pdf) for each and every doctor, hospital, or other health care provider you saw as a result of the incident."
+      - "**Step 5:** If you are claiming lost wages, you must fill out the top portion of the [Employment Authorization Form](https://dps.hawaii.gov/cvcc/files/2019/07/Lost-Earnings-1.pdf) and then give it to your employer. Your employer must complete and return the form to the Crime Victim Compensation Commission."
       - |
-        TIP: You can also request forms from the Crime Victim Compensation Commission by calling (808) 587-1143 or from the neighbor islands:
+
+        **TIP:** You can also request forms from the Crime Victim Compensation Commission by calling (808) 587-1143 or from the neighbor islands:
 
         * Hawai‘i County (808) 974-4000, x71143
 
@@ -66,27 +69,21 @@ resources:
 
         * Moloka‘i/Lāna‘i 1-800-468-4644, x71143
       - |
-        Step 6: Mail or deliver the completed application in person along with any other documents to:
+
+        **Step 6:** Mail or deliver the completed application in person along with any other documents to:
 
 
-        Crime Victim Compensation Commission
-
-        State of Hawaii Department of Public Safety
-
-        1164 Bishop Street, Suite 1530
-
-        Honolulu, Hawai’i  96813
-
-
-      - "TIP: Run through the checklist at the bottom of the application before you submit it to be sure that you’ve provided all the necessary information."
-      - "TIP: Remember, you must submit your application within **18 months** of the crime. It’s a good idea to follow-up [with an email](mailto:cvcc@hawaii.rr.com) confirming that your application was received."
-      - TIP: If you are close to the 18-month deadline but don’t have certain documents (police report, invoices, receipts), do not wait to submit your application. Instead, submit the application and follow-up with the documents once you get them.
+        Crime Victim Compensation Commission<br />State of Hawaii Department of Public Safety<br />1164 Bishop Street, Suite 1530<br />Honolulu, Hawai’i  96813
+      - "**TIP:** Run through the checklist at the bottom of the application before you submit it to be sure that you’ve provided all the necessary information."
+      - "**TIP:** Remember, you must submit your application within **18 months** of the crime. It’s a good idea to follow-up [with an email](mailto:cvcc@hawaii.rr.com) confirming that your application was received."
+      - "**TIP:** If you are close to the 18-month deadline but don’t have certain documents (police report, invoices, receipts), do not wait to submit your application. Instead, submit the application and follow-up with the documents once you get them."
     what_to_expect:
       - The Commission will review and investigate your entire application to make sure all of the information you’ve included is true and accurate.
       - The Commission might ask you for more information. If so, respond with the requested information or documents as soon as possible.
       - The Commission will approve or deny your application and send you a written decision in the mail.
       - |
-        TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Commission to let them know. You can contact the Commission via [email](mailto:cvcc@hawaii.rr.com) or by calling (808) 587-1143 or from the neighbor islands:
+
+        **TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Commission to let them know. You can contact the Commission via [email](mailto:cvcc@hawaii.rr.com) or by calling (808) 587-1143 or from the neighbor islands:
 
         * Hawai‘i County (808) 974-4000, x71143
 
@@ -95,12 +92,12 @@ resources:
         * Maui County (808) 984-2400, x71143
 
         * Moloka‘i/Lāna‘i 1-800-468-4644, x71143
-        
+
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - You must submit a written notice of appeal within **60 days** after the decision.
       - The Commission will set a hearing for your appeal. At the hearing, you will have a chance to tell the Commission why you disagree with its decision and provide any additional information and documents that you think the Commission should consider when deciding your appeal.
-      - "TIP: Make sure to bring any and all documentation with you to the hearing. It’s better to have too many documents than to have left something important at home."
+      - "**TIP:** Make sure to bring any and all documentation with you to the hearing. It’s better to have too many documents than to have left something important at home."
       - The Commission will make a decision and notify you in writing.
     resources:
       - "[State of Hawai’i Crime Victim Compensation Commission Website](https://dps.hawaii.gov/cvcc/)"
@@ -111,6 +108,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing and / or restitution hearing. The more evidence you can give the Prosecuting Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical costs
@@ -124,6 +122,8 @@ resources:
     safety: You may have to testify in front of the defendant as part of the criminal case and/or at the restitution hearing.
     story: |
 
+
+
       * You must share your story:
 
         * With the police when you report the crime; and
@@ -135,66 +135,69 @@ resources:
         * If the Prosecuting Attorney asks you to testify in the criminal case or make a statement at the restitution hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for pain and suffering or emotional trauma. "
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the Prosecuting Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for pain and suffering or emotional trauma. "
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the Prosecuting Attorney assigned to your case for support."
     steps:
-      - "Step 1: Make a report to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather information and documents you have relating to the hardship the crime has caused. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay as a result of your injuries caused by the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Contact the office of the Prosecuting Attorney in the county where the crime occurred and ask to speak to the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
-      - "TIP: Find the location and contact information for the Prosecuting Attorneys’ office in each county [here](https://criminal.findlaw.com/criminal-legal-help/hawaii-district-attorneys.html)."
-      - "Step 4: The criminal case will continue against the person that harmed you. If they are found guilty or plead guilty, the Prosecuting Attorney will submit your name, address, and telephone number to Adult Client Services."
-      - "Step 5: A probation officer will then send you a letter asking if you would like restitution. **You must respond to this letter within two weeks** with documents that show your costs, for example: receipts, invoices, or estimates to verify your losses and expenses."
-      - "TIP: Keep your contact information up-to-date with the Prosecuting Attorneys’ office so you don’t miss this letter."
-      - "Step 6: Your request for restitution will be included in a pre-sentence report submitted to the court before the person that harmed you is sentenced."
-      - "Step 7: The judge will decide whether or not to award you criminal restitution at the sentencing hearing."
+      - "**Step 1:** Make a report to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather information and documents you have relating to the hardship the crime has caused. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay as a result of your injuries caused by the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Contact the office of the Prosecuting Attorney in the county where the crime occurred and ask to speak to the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
+      - "**TIP:** Find the location and contact information for the Prosecuting Attorneys’ office in each county [here](https://criminal.findlaw.com/criminal-legal-help/hawaii-district-attorneys.html)."
+      - "**Step 4:** The criminal case will continue against the person that harmed you. If they are found guilty or plead guilty, the Prosecuting Attorney will submit your name, address, and telephone number to Adult Client Services."
+      - "**Step 5:** A probation officer will then send you a letter asking if you would like restitution. **You must respond to this letter within two weeks** with documents that show your costs, for example: receipts, invoices, or estimates to verify your losses and expenses."
+      - "**TIP:** Keep your contact information up-to-date with the Prosecuting Attorneys’ office so you don’t miss this letter."
+      - "**Step 6:** Your request for restitution will be included in a pre-sentence report submitted to the court before the person that harmed you is sentenced."
+      - "**Step 7:** The judge will decide whether or not to award you criminal restitution at the sentencing hearing."
     resources:
       - "[Civil Justice for Victims of Crime in Hawai’i](https://victimsofcrime.org/docs/CJ%20Brochures/cj_bro_hawaii_1.pdf?sfvrsn=0)"
       - "[Hawai’i State Judiciary - Restitution](https://www.courts.state.hi.us/services/adult_client_services/restitution)"
   - resource_category: Small Claims Court
     who: You are eligible to bring claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must bring claims for assault, personal injury, or property damage within **2 years** of the wrongful conduct.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/hawaii-law/hawaii-statutes-of-limitations.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/hawaii-law/hawaii-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in person at the District Court Legal Documents Branch on the island where the person that harmed you lives or where the harm occurred.
 
-      TIP: You can find the location and contact information for the proper District Court on your island [here](https://www.courts.state.hi.us/general_information/contact/contact_information) under “Contact Us” by clicking the island or circuit where the person that harmed you lives or where the harm occurred.
+      **TIP:** You can find the location and contact information for the proper District Court on your island [here](https://www.courts.state.hi.us/general_information/contact/contact_information) under “Contact Us” by clicking the island or circuit where the person that harmed you lives or where the harm occurred.
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $5,000 or less.
     cost: |
+
       You will have to pay a filing fee of $35. You may also have to pay fees to deliver your documents to the defendant.
 
-      TIP: If you can’t afford to pay the fees, you can ask the court for a waiver. Visit this [Court Forms](https://www.courts.state.hi.us/self-help/courts/forms/court_forms) page, select “District Court Civil Claims” under the location where you’ll be filing, and download and complete the “Cost Relief From Filing Fees” form. It’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.).
+      **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. Visit this [Court Forms](https://www.courts.state.hi.us/self-help/courts/forms/court_forms) page, select “District Court Civil Claims” under the location where you’ll be filing, and download and complete the “Cost Relief From Filing Fees” form. It’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.).
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
     safety: You will most likely have to face your harm-doer in court. You can expect a bailiff to be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish. But it’s important to keep in mind that the attorney may cost more than the amount of money you are requesting.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you, which may be challenging. [This resource](https://www.courts.state.hi.us/self-help/small_claims_info) has more information about collecting a judgment (see No. 10)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you, which may be challenging. [This resource](https://www.courts.state.hi.us/self-help/small_claims_info) has more information about collecting a judgment (see No. 10)."
     steps:
-      - "Step 1: Collect all documents that support your claims and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the District Court on the island where the person that harmed you lives or where the harm occurred. This is where you’ll file all your paperwork."
-      - "TIP: You can find the location and contact information for the proper District Court on your island [here](https://www.courts.state.hi.us/general_information/contact/contact_information) under “Contact Us” by clicking the island or circuit where the person that harmed you lives or where the harm occurred."
-      - "Step 3: You will need to complete a Statement of Claim and Notice Form.  Each District Court has its own forms. To find the correct form, visit [this Court Forms](https://www.courts.state.hi.us/self-help/courts/forms/court_forms) page, select “District Court Civil Claims” under the location where you’ll be filing, and download the “Statement of Claim (General Form)”."
-      - "TIP: You can also request the required forms from the clerk of the District Court."
-      - "Step 4: After carefully reading any instructions, complete the Statement of Claim and attach copies of documents relating to what happened (for example, a police report) and showing all of your costs (for example, medical bills). "
-      - "TIP: If you need help completing the Statement of Claim, ask the clerk at the District Court for help."
-      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
-      - "Step 5: File the completed Statement of Claim and any attachments with the clerk and pay the filing fee."
-      - "TIP: If you can’t afford the fee, you can ask the court for a waiver. Visit this [Court Forms](https://www.courts.state.hi.us/self-help/courts/forms/court_forms) page, select “District Court Civil Claims” under the location where you’ll be filing, and download and complete the “Cost Relief From Filing Fees” form. It’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)."
-      - "Step 6: The defendant must get a copy of your complaint. The rules for how you can get your complaint to the defendant vary depending on where you file. Ask the clerk for support."
-      - "Step 7: The clerk will set a trial date between five and 30 days from when you filed the Statement of Claim. Do not miss this court date."
-      - "Step 8: Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 10: Present your case, closely following any directions given by the judge."
-      - "Step 11: Receive the judge’s order either at the end of the hearing or later in the mail."
-      - "Step 12: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. [This resource](https://www.courts.state.hi.us/self-help/small_claims_info) has more information about collecting a judgment (see No. 10)."
+      - "**Step 1:** Collect all documents that support your claims and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the District Court on the island where the person that harmed you lives or where the harm occurred. This is where you’ll file all your paperwork."
+      - "**TIP:** You can find the location and contact information for the proper District Court on your island [here](https://www.courts.state.hi.us/general_information/contact/contact_information) under “Contact Us” by clicking the island or circuit where the person that harmed you lives or where the harm occurred."
+      - "**Step 3:** You will need to complete a Statement of Claim and Notice Form.  Each District Court has its own forms. To find the correct form, visit [this Court Forms](https://www.courts.state.hi.us/self-help/courts/forms/court_forms) page, select “District Court Civil Claims” under the location where you’ll be filing, and download the “Statement of Claim (General Form)”."
+      - "**TIP:** You can also request the required forms from the clerk of the District Court."
+      - "**Step 4:** After carefully reading any instructions, complete the Statement of Claim and attach copies of documents relating to what happened (for example, a police report) and showing all of your costs (for example, medical bills). "
+      - "**TIP:** If you need help completing the Statement of Claim, ask the clerk at the District Court for help."
+      - "**TIP:** Make at least 3 copies of all the forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
+      - "**Step 5:** File the completed Statement of Claim and any attachments with the clerk and pay the filing fee."
+      - "**TIP:** If you can’t afford the fee, you can ask the court for a waiver. Visit this [Court Forms](https://www.courts.state.hi.us/self-help/courts/forms/court_forms) page, select “District Court Civil Claims” under the location where you’ll be filing, and download and complete the “Cost Relief From Filing Fees” form. It’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)."
+      - "**Step 6:** The defendant must get a copy of your complaint. The rules for how you can get your complaint to the defendant vary depending on where you file. Ask the clerk for support."
+      - "**Step 7:** The clerk will set a trial date between five and 30 days from when you filed the Statement of Claim. Do not miss this court date."
+      - "**Step 8:** Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**Step 9:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 10:** Present your case, closely following any directions given by the judge."
+      - "**Step 11:** Receive the judge’s order either at the end of the hearing or later in the mail."
+      - "**Step 12:** If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. [This resource](https://www.courts.state.hi.us/self-help/small_claims_info) has more information about collecting a judgment (see No. 10)."
     what_if_i_disagree:
       - Small claims court decisions in Hawai’i are final and cannot be appealed.
     resources:
@@ -212,10 +215,11 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
 

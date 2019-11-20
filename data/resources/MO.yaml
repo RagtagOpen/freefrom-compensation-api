@@ -2,29 +2,31 @@ state: MO
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if your family member was killed as the result of a crime.
 
       Eligible crimes include: any crime that involves violence or the threat of violence.
     where: You are eligible to apply if the crime occurred in Missouri.
     when: The application must be _received_ within **2 years** after the date of the crime.
     time: On average, it takes 3 months for an application to be approved or denied.
-    cost: It is free to apply. 
-    award: You can receive up to $25,000 for your expenses. 
+    cost: It is free to apply.
+    award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
-      You can get compensation for the following expenses: 
+
+      You can get compensation for the following expenses:
 
       * Medical expenses
-      
+
       * Counseling expenses
-      
+
       * Lost wages
-      
+
       * Rehabilitation costs
-      
+
       * Dental bills
-      
+
       * Funeral and burial expenses
-      
+
       * Mental health counseling
 
     likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See the “How-to Apply” section below for more information.
@@ -32,63 +34,61 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You don’t need an attorney to apply.
     challenges:
-      - "Not All Costs Are Covered: You can’t get compensated for property damage, pain and suffering, relocation, house payments, rent, utilities, food and/or clothing costs, tuition reimbursement, or monetary losses from identity theft."   
+      - "**Not All Costs Are Covered:** You can’t get compensated for property damage, pain and suffering, relocation, house payments, rent, utilities, food and/or clothing costs, tuition reimbursement, or monetary losses from identity theft."
     steps:
-      - "Step 1: Report the crime to the police and get a police report, obtain a restraining order, or write up a sworn statement that you are a survivor of domestic violence and you are scared for your safety if you go to the police."
-      - "Step 2: Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: After carefully reading [these instructions](https://dps.mo.gov/dir/programs/cvc/documents/application-instructions.pdf) and [this checklist](https://dps.mo.gov/dir/programs/cvc/documents/checklist.pdf), fill out [this application](https://dps.mo.gov/dir/programs/cvc/documents/812-1321.pdf) and attach a police report, restraining order, or sworn statement along with bills for every cost you include."
-      - "Step 4: Sign the application."
+      - "**Step 1:** Report the crime to the police and get a police report, obtain a restraining order, or write up a sworn statement that you are a survivor of domestic violence and you are scared for your safety if you go to the police."
+      - "**Step 2:** Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** After carefully reading [these instructions](https://dps.mo.gov/dir/programs/cvc/documents/application-instructions.pdf) and [this checklist](https://dps.mo.gov/dir/programs/cvc/documents/checklist.pdf), fill out [this application](https://dps.mo.gov/dir/programs/cvc/documents/812-1321.pdf) and attach a police report, restraining order, or sworn statement along with bills for every cost you include."
+      - "**Step 4:** Sign the application."
       - |
-        Step 5: Submit the completed application online or by mail to:
+
+        **Step 5:** Submit the completed application online or by mail to:
 
 
-        Department of Public Safety Crime Victims’ Compensation 
-
-        P.O. Box 1589 
-
-        Jefferson City, Missouri 65102
-
-
-      - "TIP: Remember, **your application must be received within 2 years after the crime occurred**. It’s a good idea to follow-up with a phone call or email to confirm that your application was received. Call the Department of Public Safety Crime VIctims’ Compensation Program at (573) 526-6006 or email cvc@dps.mo.gov."
-      - "TIP: If you need help completing your application, you can call the Department of Public Safety Crime Victims’ Compensation Program at (573) 526-6006."
+        Department of Public Safety Crime Victims’ Compensation<br />P.O. Box 1589<br />Jefferson City, Missouri 65102
+      - "**TIP:** Remember, **your application must be received within 2 years after the crime occurred**. It’s a good idea to follow-up with a phone call or email to confirm that your application was received. Call the Department of Public Safety Crime VIctims’ Compensation Program at (573) 526-6006 or email cvc@dps.mo.gov."
+      - "**TIP:** If you need help completing your application, you can call the Department of Public Safety Crime Victims’ Compensation Program at (573) 526-6006."
     what_to_expect:
       - The Department of Public Safety Crime Victims’ Compensation Program will review your entire application to make sure all of the information you’ve included is true and accurate.
       - You may be asked for more information. If you are, you must respond within **30 days** or ask for an extension of time. If you don’t, your application may be denied.
       - The Program will either approve or deny your application and will send you a copy of the decision in the mail.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, [email](mailto:cvc@dps.mo.gov) the Program to let them know."
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, [email](mailto:cvc@dps.mo.gov) the Program to let them know."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal."
       - You can appeal the Program’s decision by sending a written request for a hearing within **30 days** from the date of the decision.
       - A hearing and pre-conference will be scheduled. Do not miss these dates.
-      - "TIP: Make sure to bring any and all documents and other evidence relating to the crime and showing your costs to all scheduled hearings."
+      - "**TIP:** Make sure to bring any and all documents and other evidence relating to the crime and showing your costs to all scheduled hearings."
     resources:
       - "[Missouri Crime Victims’ Compensation Program Guidelines](https://dps.mo.gov/dir/programs/cvc/guidelines.php)"
       - "[Missouri Crime Victims’ Compensation Forms](https://dps.mo.gov/dir/programs/cvc/forms.php)"
   - resource_category: Criminal Restitution
     who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
-    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced. 
+    time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced.
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecuting Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
-      
+
       * Dental bills
-      
+
       * Counseling costs
-      
+
       * Transportation costs
-      
+
       * Lost wages
-      
+
       * Stolen or damaged property
-      
-      * Other out-of-pocket costs directly related to the crime 
+
+      * Other out-of-pocket costs directly related to the crime
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
+
 
       * You must share your story:
 
@@ -101,68 +101,71 @@ resources:
         * If the Prosecuting Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the Prosecuting Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the Prosecuting Attorney assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Fill out [this Victim Impact Statement](https://greenecountymo.gov/files/files.php?id=10821), and attach bills for each cost you include."
-      - "Step 4: Contact the office of the Prosecuting Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and give them your completed Victim Impact Statement and all of your bills and receipts. Continue to send the attorney evidence of any ongoing costs."
-      - "TIP: You can find the location and contact information for the Prosecuting Attorney’s office in each county [here](https://www.prosecutors.mo.gov/map)."
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the Prosecuting Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting criminal restitution can be challenging. If you need help, ask the Prosecuting Attorney assigned to your case for support."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Fill out [this Victim Impact Statement](https://greenecountymo.gov/files/files.php?id=10821), and attach bills for each cost you include."
+      - "**Step 4:** Contact the office of the Prosecuting Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and give them your completed Victim Impact Statement and all of your bills and receipts. Continue to send the attorney evidence of any ongoing costs."
+      - "**TIP:** You can find the location and contact information for the Prosecuting Attorney’s office in each county [here](https://www.prosecutors.mo.gov/map)."
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the Prosecuting Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting criminal restitution can be challenging. If you need help, ask the Prosecuting Attorney assigned to your case for support."
     resources:
       - "[Civil Justice for Victims of Crime in Missouri](https://victimsofcrime.org/docs/default-source/CJ%20Brochures/missouri-cj-booklet-2015.pdf?sfvrsn=2)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less. If you are under 18, an adult must help you file.
     when: |
+
       When: You must file claims for assault and battery within **2 years** of the assault or battery, and for personal injury or property damage within **5 years** of the injury or damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/missouri-law/missouri-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/missouri-law/missouri-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Circuit Court in the county where the person that harmed you lives.
 
-      TIP: You can find the location and contact information for the Circuit Court in each county using the “Find a Court” function [here](https://www.courts.mo.gov).
+      **TIP:** You can find the location and contact information for the Circuit Court in each county using the “Find a Court” function [here](https://www.courts.mo.gov).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $5,000 or less.
     cost: |
+
       You are required to pay a fee to file your case. These fees range from $17-$50.  There are also fees ranging from $10-$36 to deliver the documents you file to the defendant. These fees can be waived. See the “How-to” section below for more details.
 
-      TIP: You can find the specific fees in the county where you’re filing by searching the county [here](https://www.courts.mo.gov) and searching the local rules located under the “Local Rules & Filing Information” tab.
+      **TIP:** You can find the specific fees in the county where you’re filing by searching the county [here](https://www.courts.mo.gov) and searching the local rules located under the “Local Rules & Filing Information” tab.
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-to” section below for more information.
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
-    attorney: You can be represented by a lawyer if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court. 
+    attorney: You can be represented by a lawyer if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money in [this resource](http://www.mobar.org/uploadedFiles/Home/Publications/Legal_Resources/Brochures_and_Booklets/small%20claims.pdf)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money in [this resource](http://www.mobar.org/uploadedFiles/Home/Publications/Legal_Resources/Brochures_and_Booklets/small%20claims.pdf)."
     steps:
-      - "Step 1: Collect any and all documents and other evidence that supports your claims and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the Circuit Court in the county where the person that harmed you lives. This is where you will file all your paperwork."
-      - "TIP: You can find the location of the Circuit Court in each county using the “Find a Court” function [here](https://www.courts.mo.gov)."
-      - "Step 3: Fill out a [Small Claims Court 
+      - "**Step 1:** Collect any and all documents and other evidence that supports your claims and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the Circuit Court in the county where the person that harmed you lives. This is where you will file all your paperwork."
+      - "**TIP:** You can find the location of the Circuit Court in each county using the “Find a Court” function [here](https://www.courts.mo.gov)."
+      - "**Step 3:** Fill out a [Small Claims Court
       Petition](https://www.courts.mo.gov/file.jsp?id=706) and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
-      - "TIP: You must include the correct address of the person that harmed you. The Clerk cannot find the address for you."
-      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to give to the court, send the defendant, and keep for your records."
-      - "Step 4: File the completed Small Claims Court Petition with the clerk of the Circuit Court in the proper county."
-      - "Step 5: Pay filing fees. If you can’t afford the fees, you can request a waiver by completing and filing a [Motion and Affidavit in Support of Request to Proceed as a Poor Person](https://www.courts.mo.gov/file.jsp?id=62133). Ask the Clerk if you need to file any other documents in addition to the Motion and Affidavit."
-      - "Step 6: The defendant must get a copy of your complaint. After you file your claim, the court will mail a notice to the defendant. If the defendant signs for the notice, they have been served and you don’t need to take any other action. If the defendant doesn’t sign, ask the clerk to send another notice. If the defendant still does not sign, ask the clerk for guidance on what to do next."
-      - "Step 7: The court will schedule a hearing for your case. Do not miss this court date."
-      - "Step 8: Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 10: Present your case, closely following any directions given by the judge."
-      - "Step 11: Receive the judge’s decision either at the end of the hearing or later in the mail."
-      - "Step 12: If you win your small claims case and are awarded a judgment, you will need to take steps to collect that money.  Learn more about collecting judgments [here](http://www.mobar.org/uploadedFiles/Home/Publications/Legal_Resources/Brochures_and_Booklets/small%20claims.pdf)."
+      - "**TIP:** You must include the correct address of the person that harmed you. The Clerk cannot find the address for you."
+      - "**TIP:** Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to give to the court, send the defendant, and keep for your records."
+      - "**Step 4:** File the completed Small Claims Court Petition with the clerk of the Circuit Court in the proper county."
+      - "**Step 5:** Pay filing fees. If you can’t afford the fees, you can request a waiver by completing and filing a [Motion and Affidavit in Support of Request to Proceed as a Poor Person](https://www.courts.mo.gov/file.jsp?id=62133). Ask the Clerk if you need to file any other documents in addition to the Motion and Affidavit."
+      - "**Step 6:** The defendant must get a copy of your complaint. After you file your claim, the court will mail a notice to the defendant. If the defendant signs for the notice, they have been served and you don’t need to take any other action. If the defendant doesn’t sign, ask the clerk to send another notice. If the defendant still does not sign, ask the clerk for guidance on what to do next."
+      - "**Step 7:** The court will schedule a hearing for your case. Do not miss this court date."
+      - "**Step 8:** Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**Step 9:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 10:** Present your case, closely following any directions given by the judge."
+      - "**Step 11:** Receive the judge’s decision either at the end of the hearing or later in the mail."
+      - "**Step 12:** If you win your small claims case and are awarded a judgment, you will need to take steps to collect that money.  Learn more about collecting judgments [here](http://www.mobar.org/uploadedFiles/Home/Publications/Legal_Resources/Brochures_and_Booklets/small%20claims.pdf)."
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
-      - "Step 1: Complete and file an Application for Trial de Novo within 10 days of the day the judge decided your case. You will have to pay a filing fee that is likely to be a few hundred dollars."
-      - "Step 2: You will get a completely new trial before a new judge. However, the new trial will be in Circuit Court instead of small claims court."
-      - "TIP: The rules of the circuit division are more complicated and the judge and the clerk are not allowed to help you. So, if you get a new trial, it’s a good idea to find an attorney to represent you."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**Step 1:** Complete and file an Application for Trial de Novo within 10 days of the day the judge decided your case. You will have to pay a filing fee that is likely to be a few hundred dollars."
+      - "**Step 2:** You will get a completely new trial before a new judge. However, the new trial will be in Circuit Court instead of small claims court."
+      - "**TIP:** The rules of the circuit division are more complicated and the judge and the clerk are not allowed to help you. So, if you get a new trial, it’s a good idea to find an attorney to represent you."
     resources:
       - "[Missouri Small Claims Court Handbook](http://www.mobar.org/uploadedFiles/Home/Publications/Legal_Resources/Brochures_and_Booklets/small%20claims.pdf)"
       - "[Missouri Small Claims Forms](https://www.courts.mo.gov/page.jsp?id=704)"
@@ -177,10 +180,11 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
 
@@ -200,5 +204,6 @@ resources:
 
     resources:
       - "[Find a Lawyer-Missouri Lawyers Help](http://missourilawyershelp.org/find-lawyer/)"
-      - "[Finding a Lawyer | Division of Legal Services](https://dss.mo.gov/dls/find-a-lawyer.htm)"
+      - "[Finding a Lawyer |
+ Division of Legal Services](https://dss.mo.gov/dls/find-a-lawyer.htm)"
       - "[Find a Lawyer - The Missouri Bar](http://www.mobar.org/forthepublic/findalawyer.htm)"

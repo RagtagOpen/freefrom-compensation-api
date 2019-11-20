@@ -2,6 +2,7 @@ state: DE
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you lived with a family member and witnessed domestic violence.
 
       Eligible crimes include:
@@ -24,13 +25,14 @@ resources:
 
       * Human Trafficking
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Delaware or if you live in Delaware and were injured by a crime that happened in a state that doesn’t give compensation to non-residents.
     when: The application must be _received_ within **1 year** after the date of the crime.
     time: On average, it takes between 1-2 months for your application to be approved or denied.
     cost: It is free to apply.
     award: Generally, you can receive up to $25,000 for your expenses. If the crime left you permanently and totally disabled, you can receive up to $50,000.
     covered_expenses: |
+
       You can get compensated for the following expenses:
 
       * Medical expenses
@@ -53,36 +55,32 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "You Must Report the Crime to the Police: You must report the crime within **72 hours** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Not All Costs Are Covered: You cannot get compensation for lost, damaged, or stolen property or for pain and suffering."
-      - "Cooperation is Required: You must fully cooperate with the police while they investigate the crime and with agency staff while they review your application."
+      - "**You Must Report the Crime to the Police** You must report the crime within **72 hours** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Not All Costs Are Covered:** You cannot get compensation for lost, damaged, or stolen property or for pain and suffering."
+      - "**Cooperation is Required:** You must fully cooperate with the police while they investigate the crime and with agency staff while they review your application."
     steps:
-      - "Step 1: Report the crime to the police within **72 hours** of the incident and get a police report."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
-      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Access the Claim Form [online](https://attorneygeneral.delaware.gov/wp-content/uploads/sites/50/2017/03/Application.pdf), or ask for a form and get help completing it by calling Delaware Victims’ Compensation Assistance Program (VCAP) at (302) 255-1770 or 1-800-464-HELP."
-      - "Step 4: After carefully reading the instructions, fill out the application and attach the police report and copies of bills for each expense you include in your application."
-      - "Step 5: Sign the application in front of a witness. The witness will also sign the form. The witness can be anyone over 18 who knows you."
+      - "**Step 1:** Report the crime to the police within **72 hours** of the incident and get a police report."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Access the Claim Form [online](https://attorneygeneral.delaware.gov/wp-content/uploads/sites/50/2017/03/Application.pdf), or ask for a form and get help completing it by calling Delaware Victims’ Compensation Assistance Program (VCAP) at (302) 255-1770 or 1-800-464-HELP."
+      - "**Step 4:** After carefully reading the instructions, fill out the application and attach the police report and copies of bills for each expense you include in your application."
+      - "**Step 5:** Sign the application in front of a witness. The witness will also sign the form. The witness can be anyone over 18 who knows you."
       - |
-        Step 6: Submit the completed application and other required forms and documents (police reports, medical bills, etc.) in person or by mail to:
+
+        **Step 6:** Submit the completed application and other required forms and documents (police reports, medical bills, etc.) in person or by mail to:
 
 
-        Delaware Victims’ Compensation Assistance Program
-
-        900 North King St., Suite 4
-
-        Wilmington, DE  19801
-
-      - "TIP: Remember, **your application must be received within 1 year after the crime occurred.** It’s a good idea to follow-up with a phone call to confirm that your application was received. Call the Delaware Victims’ Compensation Assistance Program at (302) 255-1770."
-      - "TIP: If you need help completing your application, you can call the Delaware Victims’ Compensation Assistance Program at (302) 255-1770."
+        Delaware Victims’ Compensation Assistance Program<br />900 North King St., Suite 4<br />Wilmington, DE  19801
+      - "**TIP:** Remember, **your application must be received within 1 year after the crime occurred.** It’s a good idea to follow-up with a phone call to confirm that your application was received. Call the Delaware Victims’ Compensation Assistance Program at (302) 255-1770."
+      - "**TIP:** If you need help completing your application, you can call the Delaware Victims’ Compensation Assistance Program at (302) 255-1770."
     what_to_expect:
       - After receiving your application, VCAP will assign you a case number, and an investigator will review and investigate your entire application to make sure all of the information you’ve included is true and accurate.
       - The investigator may ask you for more documents or other information about your application. If they do, you must respond within 45 days. If you don’t respond, your application may be denied.
       - VCAP will either approve or deny your application and will send you a written decision in the mail.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call the Delaware VCAP at (302) 255-1770."
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call the Delaware VCAP at (302) 255-1770."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - To appeal the decision, you must file a request for reconsideration within **15 days** after the decision is mailed. The request should include any information that shows why your application should be approved. VCAP will provide a final decision by mail.
       - To appeal the final decision, you must request an appeal with the Appeals Board within **15 days** after the date the final decision is mailed.
     resources:
@@ -95,6 +93,7 @@ resources:
     cost: It is free of charge.
     likelihood: An Assistant Attorney General will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the prosecuting attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Property loss or damage
@@ -108,6 +107,9 @@ resources:
       * Other out-of-pocket losses resulting from the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and/or at the sentencing hearing.
     story: |
+
+
+
       * You must share your story:
 
         * With the police when you report the crime and during the investigation; and
@@ -118,75 +120,78 @@ resources:
 
         * If you are asked to testify in the criminal case or make a statement at the sentencing hearing.
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the prosecuting attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the prosecuting attorney assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any other invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Complete a [Victim Loss and Restitution Statement](https://attorneygeneral.delaware.gov/wp-content/uploads/sites/50/2016/09/victimlossrestitutionstatement.pdf)."
-      - "Step 4: Contact the Criminal Division of the Attorney General’s Office and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and ask for a Victim Loss and Restitution Statement. Contact the Attorney General at (302) 577-8500."
-      - "TIP: Find the location and contact information for the prosecuting attorney’s office in each county [here](https://criminal.findlaw.com/criminal-legal-help/delaware-district-attorneys.html)."
-      - "TIP: If you need help filling out the Victim Loss and Restitution Statement, ask the attorney assigned to your case for support."
-      - "Step 5: Mail the completed Victim Loss and Restitution Statement to the attorney assigned to your case."
-      - "Step 6: Stay in contact with the attorney assigned to your case to make sure that you’re aware of important dates, including the sentencing hearing and restitution hearing."
-      - "Step 7: At the sentencing hearing, the prosecuting attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting restitution can be challenging. If you need help, ask the prosecuting attorney assigned to your case for support. "
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any other invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Complete a [Victim Loss and Restitution Statement](https://attorneygeneral.delaware.gov/wp-content/uploads/sites/50/2016/09/victimlossrestitutionstatement.pdf)."
+      - "**Step 4:** Contact the Criminal Division of the Attorney General’s Office and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and ask for a Victim Loss and Restitution Statement. Contact the Attorney General at (302) 577-8500."
+      - "**TIP:** If you need help filling out the Victim Loss and Restitution Statement, ask the attorney assigned to your case for support."
+      - "**Step 5:** Mail the completed Victim Loss and Restitution Statement to the attorney assigned to your case."
+      - "**Step 6:** Stay in contact with the attorney assigned to your case to make sure that you’re aware of important dates, including the sentencing hearing and restitution hearing."
+      - "**Step 7:** At the sentencing hearing, the prosecuting attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting restitution can be challenging. If you need help, ask the prosecuting attorney assigned to your case for support. "
     resources:
       - "[Delaware Victims’ Rights Task Force](https://www.delawarevictimservices.org/legal-system.html)"
-      - "[Delaware Attorney General - CriminalDivision](https://attorneygeneral.delaware.gov/criminal/)"
+      - "[Delaware Attorney General - Criminal Division](https://attorneygeneral.delaware.gov/criminal/)"
   - resource_category: Small Claims Court
     who: You are eligible to file a claim in front of the Justice of the Peace (small claims courts in Delaware) if you are 18 or older and the amount of money you are asking for is $15,000 or less.
     when: |
+
       You must file claims for property damage, personal injury, and assault within **2 years** of the wrongful conduct.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/delaware-law/delaware-statutes-of-limitations.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/delaware-law/delaware-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       File your case in the Justice of the Peace Court in the county where the person who harmed you lives or where the harm occurred.
 
-      TIP: Find the locations of all the Justice of the Peace Courts [here](https://www.courts.delaware.gov/locations/court.aspx).
+      **TIP:** Find the locations of all the Justice of the Peace Courts [here](https://www.courts.delaware.gov/locations/court.aspx).
     time: The whole process will generally take several months.
     covered_expenses: The total amount you are seeking must be $15,000 or less.
     cost: |
+
       You must pay a filing fee, which ranges from $35-$50. There are also other fees that you might have to pay as the case continues.
 
-      TIP: Find the exact fee amounts [here](https://courts.delaware.gov/help/fees/jpfees.aspx#waiver).
+      **TIP:** Find the exact fee amounts [here](https://courts.delaware.gov/help/fees/jpfees.aspx#waiver).
     likelihood: our chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section for more information.
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: |
+
       You can be represented by an attorney if you wish. But it’s important to keep in mind that the attorney may cost more than the amount of money you get from the court.
 
-      TIP: If you can’t afford an attorney, find out more information about free legal assistance [here](https://www.courts.delaware.gov/help/legalassistance.aspx).
+      **TIP:** If you can’t afford an attorney, find out more information about free legal assistance [here](https://www.courts.delaware.gov/help/legalassistance.aspx).
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and represent yourself."
-      - "Collecting a Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you, which may be challenging. Read more about collecting money in [this resource](https://courts.delaware.gov/help/judgments/jp-revive.aspx)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you, which may be challenging. Read more about collecting money in [this resource](https://courts.delaware.gov/help/judgments/jp-revive.aspx)."
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the Justice of the Peace Court in the county where the person that harmed you lives or where the harm occurred."
-      - "TIP: Find the locations of all the Justice of the Peace Courts [here](https://www.courts.delaware.gov/locations/court.aspx)."
-      - "Step 3: After carefully reading the instructions, fill out the Complaint form (Civil Form No. 1) and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). You can find the Complaint [here](https://courts.delaware.gov/forms/download.aspx?id=10828)."
-      - "TIP: For help filling out the Complaint, you can review [this sample form](https://courts.delaware.gov/help/proceedings/docs/gendebt.pdf), read [these instructions](https://courts.delaware.gov/help/proceedings/docs/gendebtinst.pdf), or use [this interactive interview](https://www.lscd.com/node/438/debt-action-justice-peace-interactive-form)."
-      - "TIP: Make at least 3 copies of all forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
-      - "Step 4: File the completed Complaint and attachments with the clerk of the Justice of the Peace Court and pay the filing fees."
-      - "TIP: If you can’t afford the fees, you can apply for a waiver by filling out an Application and Affidavit to Proceed in Forma Pauperis (Civil Form 49), signing it in front of a notary, and filing it with the court. You can find the Application [here](https://courts.delaware.gov/forms/download.aspx?id=6628). You may need to include proof of your income (bank statements, pay stubs, disability check, EBT card, etc.)."
-      - "Step 5: The defendant must get a copy of all the documents you file. The Court will arrange for this, but it’s a good idea to confirm that the clerk doesn’t need any additional information from you."
-      - "Step 6: The Court will schedule a hearing for your case. Do not miss this court date."
-      - "Step 7: Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "TIP: For more information about preparing for court, read [this helpful resource](https://courts.delaware.gov/help/proceedings/JP_preparetrial.aspx)."
-      - "Step 8: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 9: Present your case, closely following any directions given by the judge."
-      - "Step 10: Receive the judge’s decision either at the end of the hearing or later in the mail."
-      - "Step 11: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Read more about collecting a judgment [here](https://courts.delaware.gov/help/judgments/jp-revive.aspx)."
+      - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the Justice of the Peace Court in the county where the person that harmed you lives or where the harm occurred."
+      - "**TIP:** Find the locations of all the Justice of the Peace Courts [here](https://www.courts.delaware.gov/locations/court.aspx)."
+      - "**Step 3:** After carefully reading the instructions, fill out the Complaint form (Civil Form No. 1) and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). You can find the Complaint [here](https://courts.delaware.gov/forms/download.aspx?id=10828)."
+      - "**TIP:** For help filling out the Complaint, you can review [this sample form](https://courts.delaware.gov/help/proceedings/docs/gendebt.pdf), read [these instructions](https://courts.delaware.gov/help/proceedings/docs/gendebtinst.pdf), or use [this interactive interview](https://www.lscd.com/node/438/debt-action-justice-peace-interactive-form)."
+      - "**TIP:** Make at least 3 copies of all forms and attachments you fill out so that you have enough copies to file with the court, send to the defendant, and keep for your records."
+      - "**Step 4:** File the completed Complaint and attachments with the clerk of the Justice of the Peace Court and pay the filing fees."
+      - "**TIP:** If you can’t afford the fees, you can apply for a waiver by filling out an Application and Affidavit to Proceed in Forma Pauperis (Civil Form 49), signing it in front of a notary, and filing it with the court. You can find the Application [here](https://courts.delaware.gov/forms/download.aspx?id=6628). You may need to include proof of your income (bank statements, pay stubs, disability check, EBT card, etc.)."
+      - "**Step 5:** The defendant must get a copy of all the documents you file. The Court will arrange for this, but it’s a good idea to confirm that the clerk doesn’t need any additional information from you."
+      - "**Step 6:** The Court will schedule a hearing for your case. Do not miss this court date."
+      - "**Step 7:** Prepare for your appearance in court by thinking through what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**TIP:** For more information about preparing for court, read [this helpful resource](https://courts.delaware.gov/help/proceedings/JP_preparetrial.aspx)."
+      - "**Step 8:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 9:** Present your case, closely following any directions given by the judge."
+      - "**Step 10:** Receive the judge’s decision either at the end of the hearing or later in the mail."
+      - "**Step 11:** If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Read more about collecting a judgment [here](https://courts.delaware.gov/help/judgments/jp-revive.aspx)."
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
-      - "Step 1: Within **15 days** after the judge’s decision you must file the following at the Clerk’s Office of the Court of Common Pleas: 1) a Notice of Appeal; 2) an original Praecipe and one copy; 3) an original Summons on Appeal and one copy; and 4) a new Complaint."
-      - "TIP: Find the appeals forms [here](https://courts.delaware.gov/forms/download.aspx?id=7028)."
-      - "Step 2: Within **10 days** after you file the documents, you must pay a non-refundable $135.00 filing fee."
-      - TIP: An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process.
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**Step 1:** Within **15 days** after the judge’s decision you must file the following at the Clerk’s Office of the Court of Common Pleas: 1) a Notice of Appeal; 2) an original Praecipe and one copy; 3) an original Summons on Appeal and one copy; and 4) a new Complaint."
+      - "**TIP:** Find the appeals forms [here](https://courts.delaware.gov/forms/list.aspx?ag=Justice%20Of%20The%20Peace%20Court&sec=Forms)."
+      - "**Step 2:** Within **10 days** after you file the documents, you must pay a non-refundable $135.00 filing fee."
+      - "**TIP:** An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
     resources:
       - "[Justice of the Peace Court - What to Know When Coming to Court](https://courts.delaware.gov/jpcourt/)"
       - "[Justice of the Peace Court - FAQs](https://courts.delaware.gov/help/proceedings/jp_faqs.aspx)"
@@ -202,10 +207,11 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
 

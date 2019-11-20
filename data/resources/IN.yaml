@@ -2,9 +2,10 @@ state: IN
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were physically or emotionally harmed as the result of a violent crime or if you are the parent, spouse, or child of someone killed as the result of a crime.
 
-      Eligible crimes include: 
+      Eligible crimes include:
 
       * Domestic violence
 
@@ -28,16 +29,18 @@ resources:
 
       * Stalking
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Indiana.
     when: The application must be _received_ within **180 days** (just under 6 months) after the date of the crime. If you did not submit your application within 180 days after the crime, you can file within 2 years of the crime. You must explain in your application why you waited to submit it.
     time: |
+
       On average, it takes 3 months for an application to be approved or denied.
 
-      TIP: After you apply, you can check the status of your application [here](https://vcc.cji.in.gov/Public/Login.aspx?Avx=5) using your claim number and four-digit pin, or by calling 1-800-353-1484.
+      **TIP:** After you apply, you can check the status of your application [here](https://vcc.cji.in.gov/Public/Login.aspx?Avx=5) using your claim number and four-digit pin, or by calling 1-800-353-1484.
     cost: It is free to apply.
     award: You can receive up to $15,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -59,44 +62,36 @@ resources:
     story: You will have to include information about what happened to you in your application and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "You Must Report the Crime: You must report the crime to law enforcement within **72 hours** and obtain a police report. An Order of Protection is not enough. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Cooperation is Required: You must cooperate with the police and anyone reviewing your application while they investigate the crime."
-      - "Not All Costs Are Covered: You cannot get reimbursed for the following: property damage and stolen items; damages for pain and suffering; relocation expenses; travel expenses related to court proceedings; rent, utilities, or food; crime scene cleanup; or burial expenses."
-      - "Your Financial Situation May Impact Compensation: Benefits may not be awarded if your net worth exceeded $200,000 at the time of the crime."       
+      - "**You Must Report the Crime:** You must report the crime to law enforcement within **72 hours** and obtain a police report. An Order of Protection is not enough. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with the police and anyone reviewing your application while they investigate the crime."
+      - "**Not All Costs Are Covered:** You cannot get reimbursed for the following: property damage and stolen items; damages for pain and suffering; relocation expenses; travel expenses related to court proceedings; rent, utilities, or food; crime scene cleanup; or burial expenses."
+      - "**Your Financial Situation May Impact Compensation:** Benefits may not be awarded if your net worth exceeded $200,000 at the time of the crime."
     steps:
-      - "Step 1: Report the crime to the police within 72 hours of the incident and get a police report."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
-      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime. These documents do not have to be submitted at the time of filing."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: You can apply online [here](https://vcc.cji.in.gov/Application/NewApplicationVictim.aspx), download an application [here](https://www.in.gov/cji/2333.htm), or request an application by contacting your local law enforcement agency or the Victim Services department of you county prosecutor’s office."
-      - "Step 4:   After carefully reading the instructions, fill out and sign or electronically sign the application."
+      - "**Step 1:** Report the crime to the police within 72 hours of the incident and get a police report."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime. These documents do not have to be submitted at the time of filing."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** You can apply online [here](https://vcc.cji.in.gov/Application/NewApplicationVictim.aspx), download an application [here](https://www.in.gov/cji/2333.htm), or request an application by contacting your local law enforcement agency or the Victim Services department of you county prosecutor’s office."
+      - "**Step 4:**   After carefully reading the instructions, fill out and sign or electronically sign the application."
       - |
-        Step 5: Submit your completed and signed application online, in person, or by mail to:
+
+        **Step 5:** Submit your completed and signed application online, in person, or by mail to:
 
 
-        The Indiana Criminal Justice Institute
-
-        101 W. Washington Street
-
-        Suite 1170 East
-
-        Indianapolis, Indiana  46204
-
-
-
-      - "TIP: Remember, **your application must be received within 180 days after the crime occurred**. It’s a good idea to follow-up with an email to [ViolentCrimeCompensation@cji.in.gov](http://crimevictimscomp.ga.gov/wp-content/uploads/2018/05/CVCP-Application-with-Consent-Rev-April-2018.pdf) confirming that your application was received."
-      - "TIP: Do not wait until the suspect is arrested or convicted to submit the application. Remember, you do not need to submit medical bills or police reports at the time of filing."
-      - "TIP: You can also contact the Indiana Victim Compensation Division/the Violent Crime Compensation Fund for assistance: 1-800-353-1484;  [ViolentCrimeCompensation@cji.in.gov](mailto:ViolentCrimeCompensation@cji.in.gov)."
+        The Indiana Criminal Justice Institute<br />101 W. Washington Street<br />Suite 1170 East<br />Indianapolis, Indiana  46204
+      - "**TIP:** Remember, **your application must be received within 180 days after the crime occurred**. It’s a good idea to follow-up with an email to [ViolentCrimeCompensation@cji.in.gov](mailto:ViolentCrimeCompensation@cji.in.gov) confirming that your application was received."
+      - "**TIP:** Do not wait until the suspect is arrested or convicted to submit the application. Remember, you do not need to submit medical bills or police reports at the time of filing."
+      - "**TIP:** You can also contact the Indiana Victim Compensation Division/the Violent Crime Compensation Fund for assistance: 1-800-353-1484;  [ViolentCrimeCompensation@cji.in.gov](mailto:ViolentCrimeCompensation@cji.in.gov)."
     what_to_expect:
       - A Claim Analyst will review your entire application to make sure all of the information you’ve included is true and accurate.
       - If additional information is needed, you will receive a written explanation of what is needed. You must respond with the requested information within **30 days**.
       - Your application will be approved or denied and a written decision will be sent by mail or email.
-      - "TIP: You may be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, email [ViolentCrimeCompensation@cji.in.gov](mailto:ViolentCrimeCompensation@cji.in.gov) or call 1-800-353-1484."
+      - "**TIP:** You may be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, email [ViolentCrimeCompensation@cji.in.gov](mailto:ViolentCrimeCompensation@cji.in.gov) or call 1-800-353-1484."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal."
       - You must send a written request for an administrative hearing within **30 days** after the decision.
       - A hearing date will be scheduled and held at the Indiana Government Center in Indianapolis. Don’t miss this court date.
-      - "TIP: Bring as much information as possible with you that relates to the crime or shows the costs you had to pay."
+      - "**TIP:** Bring as much information as possible with you that relates to the crime or shows the costs you had to pay."
       - A written decision will be made within 10 days. You will receive the decision in the mail.
       - If you do not agree with the hearing decision, you must appeal within 21 days by filing a written appeal to the director.
     resources:
@@ -105,10 +100,11 @@ resources:
   - resource_category: Criminal Restitution
     who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged as a result of someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of the crime in court.
     time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So the timing of the criminal restitution decision depends on when the defendant is sentenced.
-    cost: It is free of charge. 
+    cost: It is free of charge.
     likelihood: A County Prosecutor will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County Prosecutor of your costs, the more likely you are to get compensation.
     covered_expenses: |
-      You can get compensation for the following expenses: 
+
+      You can get compensation for the following expenses:
 
       * Medical costs
 
@@ -127,6 +123,8 @@ resources:
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and/or at the sentencing hearing.
     story: |
 
+
+
       * You must share your story:
 
         * With the police when you report the crime; and
@@ -138,27 +136,28 @@ resources:
         * If the County Prosecutor asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Prosecutor assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Prosecutor assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have relating to the costs you are trying to get covered. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay as a result of the abuse."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay in a safe place."
-      - "Step 3: Contact the office of the County Prosecutor in the county where the crime occurred and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and want to be notified about court dates."
-      - "TIP: Find the location and contact information for the County Prosecutor in each county [here](https://www.in.gov/ipac/2330.htm)."
-      - "Step 4: Share the information and documents you have gathered with the attorney assigned to your case."
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the County Prosecutor assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting restitution can be challenging. If you need help, ask the County Prosecutor assigned to your case for support."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have relating to the costs you are trying to get covered. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay as a result of the abuse."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay in a safe place."
+      - "**Step 3:** Contact the office of the County Prosecutor in the county where the crime occurred and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and want to be notified about court dates."
+      - "**TIP:** Find the location and contact information for the County Prosecutor in each county [here](https://www.in.gov/ipac/2330.htm)."
+      - "**Step 4:** Share the information and documents you have gathered with the attorney assigned to your case."
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the County Prosecutor assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting restitution can be challenging. If you need help, ask the County Prosecutor assigned to your case for support."
     resources:
   - resource_category: Small Claims Court
-    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less ($8,000 or less in Marion County). 
+    who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less ($8,000 or less in Marion County).
     when: |
+
       You must file claims for personal injury and personal property damage within 2 years of the date of the injury or damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/indiana-law/indiana-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/indiana-law/indiana-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: Small claims cases are filed in the small claims division of the Circuit, Superior, or Small Claims Court in the county where the person who harmed you lives or is employed, or where the damage or injury occurred. The locations of the courts can be found [here](https://www.in.gov/judiciary/files/court-directory.pdf).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $6,000 or less ($8,000 or less in Marion County). If you hire an attorney, you likely will not recover attorney’s fees.
@@ -167,35 +166,36 @@ resources:
     safety: You will most likely have to face the person who harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and what those injuries cost you.
     attorney: |
+
       You can be represented by an attorney if you wish. But it’s important to keep in mind that the attorney may cost more than the amount of money you receive from the court.
 
-      TIP: Still have questions? You can view an informational video [here](https://www.in.gov/judiciary/3966.htm) to find out more.
+      **TIP:** Still have questions? You can view an informational video [here](https://www.in.gov/judiciary/3966.htm) to find out more.
 
-      TIP: Marion County Small Claims Court has different rules than the small claims courts in other counties. [Here](https://www.indy.gov/agency/marion-county-circuit-small-claims-court) is more information.
+      **TIP:** Marion County Small Claims Court has different rules than the small claims courts in other counties. [Here](https://www.indy.gov/agency/marion-county-circuit-small-claims-court) is more information.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person who harmed you in court and represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person who harmed you, which may be challenging. Read more about collecting money [here](https://www.in.gov/judiciary/files/small-claims-manual.pdf)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person who harmed you in court and represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person who harmed you, which may be challenging. Read more about collecting money [here](https://www.in.gov/judiciary/files/small-claims-manual.pdf)."
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the proper Circuit, Superior, or Small Claims Court in the county where the person who harmed you lives or is employed, or where the damage or injury occurred. The locations of the courts can be found [here](https://www.in.gov/judiciary/files/court-directory.pdf)."
-      - "Step 3: Get an application from the clerk’s office and fill it out fully and completely. Attach copies of documents relating to what happened (for example, a police report) and showing all of your costs (for example, medical bills)."
-      - "TIP: Make 3 copies of all the forms and attachments you fill out: 1 for the court, 1 to send the defendant, and 1 to keep for your records."
-      - "Step 4: File your complaint and attachments with the court and pay the filing fees."
-      - "Step 5: The defendant must get a copy of your complaint and other documents. You can send your documents by certified mail or through the Sheriff’s office."
-      - "Step 6: You will receive written proof that the defendant got your documents. File that proof with the clerk of the court."
-      - "Step 7: After filing you will be told the time and date of your trial or hearing. Do not miss your court date."
-      - "Step 8: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you will bring witnesses."
-      - "Step 9: Collect all papers and evidence supporting your claim that you want the judge to see. Make several copies to take to court."
-      - "Step 10: Decide who you want to testify on your behalf in court. Have questions for these witnesses prepared and create an outline summarizing your case."
-      - "Step 11: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 12: Present your case, closely following any directions given by the judge."
-      - "Step 13: Receive the judge’s order either at the end of the hearing or later in the mail."
-      - "Step 14: If the judge awards you a judgment, you will have to collect the money from the person who harmed you. This can be challenging. Read more about collecting money [here](https://www.in.gov/judiciary/files/small-claims-manual.pdf)."
-      - "TIP: Marion County Small Claims Court has different rules than the small claims courts in other counties. [Here](https://www.indy.gov/agency/marion-county-circuit-small-claims-court) is more information."
-      - "TIP: It is helpful to be as prepared as possible, and it may be helpful to go to the courtroom before your court date to watch a similar case."
+      - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the proper Circuit, Superior, or Small Claims Court in the county where the person who harmed you lives or is employed, or where the damage or injury occurred. The locations of the courts can be found [here](https://www.in.gov/judiciary/files/court-directory.pdf)."
+      - "**Step 3:** Get an application from the clerk’s office and fill it out fully and completely. Attach copies of documents relating to what happened (for example, a police report) and showing all of your costs (for example, medical bills)."
+      - "**TIP:** Make 3 copies of all the forms and attachments you fill out: 1 for the court, 1 to send the defendant, and 1 to keep for your records."
+      - "**Step 4:** File your complaint and attachments with the court and pay the filing fees."
+      - "**Step 5:** The defendant must get a copy of your complaint and other documents. You can send your documents by certified mail or through the Sheriff’s office."
+      - "**Step 6:** You will receive written proof that the defendant got your documents. File that proof with the clerk of the court."
+      - "**Step 7:** After filing you will be told the time and date of your trial or hearing. Do not miss your court date."
+      - "**Step 8:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you will bring witnesses."
+      - "**Step 9:** Collect all papers and evidence supporting your claim that you want the judge to see. Make several copies to take to court."
+      - "**Step 10:** Decide who you want to testify on your behalf in court. Have questions for these witnesses prepared and create an outline summarizing your case."
+      - "**Step 11:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 12:** Present your case, closely following any directions given by the judge."
+      - "**Step 13:** Receive the judge’s order either at the end of the hearing or later in the mail."
+      - "**Step 14:** If the judge awards you a judgment, you will have to collect the money from the person who harmed you. This can be challenging. Read more about collecting money [here](https://www.in.gov/judiciary/files/small-claims-manual.pdf)."
+      - "**TIP:** Marion County Small Claims Court has different rules than the small claims courts in other counties. [Here](https://www.indy.gov/agency/marion-county-circuit-small-claims-court) is more information."
+      - "**TIP:** It is helpful to be as prepared as possible, and it may be helpful to go to the courtroom before your court date to watch a similar case."
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
       - You must act within **30 days** after the judge’s decision. Appeals are complicated and complex. It’s a good idea to consult with an attorney as soon as possible.
     resources:
       - "[Small Claims Guide Manual](https://www.in.gov/judiciary/files/small-claims-manual.pdf)"
@@ -213,10 +213,11 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
 

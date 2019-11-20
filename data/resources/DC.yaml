@@ -2,6 +2,7 @@ state: DC
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime.
 
       Eligible crimes include:
@@ -32,13 +33,14 @@ resources:
 
       * Stalking
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in DC or if you are a DC resident and were harmed in a different country.
     when: The application must be _received_ within **1 year** after the date of the crime.
     time: On average, it takes 2 months for an application to be approved or denied.
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical costs
@@ -66,51 +68,44 @@ resources:
     attorney: You do not need an attorney to apply.
     challenges:
       - |
-        You Must Report the Crime to the Police: You must report the crime within **7 days** of the incident and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report.
+
+        **You must report the crime to the police:** You must report the crime within **7 days** of the incident and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report.
+
 
           * For domestic violence, you do not have to report the crime to the police if you get a protective order.
 
           * For sexual assault, you do not have to report the crime to the police if you get a sexual assault exam.
-      - Cooperation is Required: You must cooperate with the police as they investigate the crime and with anyone reviewing your application.
-      - Not All Costs Are Covered: You can’t get compensation for pain and suffering or property loss, or damage.      
+      - "**Cooperation is Required:** You must cooperate with the police as they investigate the crime and with anyone reviewing your application."
+      - "**Not All Costs Are Covered:** You can’t get compensation for pain and suffering or property loss, or damage."
     steps:
-      - "Step 1: Report the crime to the police within **7 days** of the incident and get a police report. As an alternative, obtain a protective order (for domestic violence) or an exam (for sexual assault)."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
-      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: After carefully reading the instructions, complete and sign [this application](https://www.dccourts.gov/sites/default/files/CVCP%20Application%20August%202019.pdf). You can also request an application from the Crime Victim Compensation Program by calling (202) 879-4216."
-      - "Step 4: Attach the police report, protective order, and copies of bills for each expense you include in your application."
+      - "**Step 1:** Report the crime to the police within **7 days** of the incident and get a police report. As an alternative, obtain a protective order (for domestic violence) or an exam (for sexual assault)."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** After carefully reading the instructions, complete and sign [this application](https://www.dccourts.gov/sites/default/files/CVCP%20Application%20August%202019.pdf). You can also request an application from the Crime Victim Compensation Program by calling (202) 879-4216."
+      - "**Step 4:** Attach the police report, protective order, and copies of bills for each expense you include in your application."
       - |
-        Step 5: Submit your completed application and all attachments by mail or in person to: 
+
+        **Step 5:** Submit your completed application and all attachments by mail or in person to:
 
 
-        Crime Victim Compensation Program
-
-        Court Building A
-
-        515 5th Street NW, Suite 109
-
-        Washington, DC 20001
+        Crime Victim Compensation Program<br />Court Building A<br />515 5th Street NW, Suite 109<br />Washington, DC 20001
 
 
-        You can also submit in person to: 
+        You can also submit in person to:
 
 
-        United Medical Center
-
-        1310 Southern Avenue SE, Room 311
-
-        Washington, DC 20032
-      - "TIP: Remember, your application must be filed within **1 year** after the crime occurred. It’s a good idea to follow-up with a phone call to CVC to confirm that your application was received. Contact CVC by calling (202) 879-4216."
-      - "TIP: If you are close to the 1-year deadline but don’t have certain documents (police report, invoices, receipts), do not wait to submit your application. Instead, submit your application and follow-up with the documents when you get them."
+        United Medical Center<br />1310 Southern Avenue SE, Room 311<br />Washington, DC 20032
+      - "**TIP:** Remember, your application must be filed within **1 year** after the crime occurred. It’s a good idea to follow-up with a phone call to CVC to confirm that your application was received. Contact CVC by calling (202) 879-4216."
+      - "**TIP:** If you are close to the 1-year deadline but don’t have certain documents (police report, invoices, receipts), do not wait to submit your application. Instead, submit your application and follow-up with the documents when you get them."
     what_to_expect:
       - A claims examiner will review your entire application to make sure all of the information you’ve included is true and accurate.
       - The claims examiner may ask you for more information or documentation. If they do, respond as soon as possible.
       - The claims examiner will make a recommendation to approve or deny your application and will send that recommendation to the Program Director.
       - The Program Director will approve or deny your application and will send you a copy of the decision in the mail.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Crime Victim Compensation Program by phone at (202) 879-4216 to let them know."
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Crime Victim Compensation Program by phone at (202) 879-4216 to let them know."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - If you have new or different information that wasn’t available when you applied, you can file a Request for Reconsideration within 30 days of the decision. The Program Director will review any new information and send you a copy of their decision.
       - If you are still unhappy with the decision, or if you did not have any new or different information, you can file an Appeal within **30 days**.
     resources:
@@ -125,6 +120,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecuting Attorney of your costs, the more you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -133,7 +129,7 @@ resources:
 
       * Physical therapy costs
 
-      * Lost income 
+      * Lost income
 
       * Funeral-related expenses
 
@@ -142,7 +138,9 @@ resources:
       * Other out-of-pocket expenses directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
-      * You must share your story: 
+
+
+      * You must share your story:
 
         * With the police when you report the crime; and
 
@@ -152,81 +150,71 @@ resources:
 
         * If the Prosecuting Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the Prosecuting Attorney  assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the Prosecuting Attorney  assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Contact the Victim Witness Assistance division of the United States Attorney’s Office at (202) 252-7130. Identify yourself as a crime victim seeking restitution, and ask to speak to the Prosecuting Attorney assigned to your case."
-      - "Step 4:  Share the information and documents you have gathered with the attorney assigned to your case and complete any forms and provide any information requested by the attorney."
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the Prosecuting Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting restitution can be challenging. Ask the Prosecuting Attorney assigned to your case for help."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Contact the Victim Witness Assistance division of the United States Attorney’s Office at (202) 252-7130. Identify yourself as a crime victim seeking restitution, and ask to speak to the Prosecuting Attorney assigned to your case."
+      - "**Step 4:**  Share the information and documents you have gathered with the attorney assigned to your case and complete any forms and provide any information requested by the attorney."
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the Prosecuting Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting restitution can be challenging. Ask the Prosecuting Attorney assigned to your case for help."
     resources:
       - "[Victim Witness Assistance Unit](https://ovsjg.dc.gov/page/crime-victims-legal-rights)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for assault and battery and false imprisonment within **1 year** of the wrongful conduct, and for personal injury and property damage within **3 years** of the injury or damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/dc-law/district-of-columbia-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/dc-law/district-of-columbia-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Small Claims Clerk’s Office located at:
 
 
-      Court Building B
-
-      510 4th Street, NW
-
-      Room 120
-
-      Washington, DC 20001
+      Court Building B<br />510 4th Street, NW<br />Room 120<br />Washington, DC 20001
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $10,000 or less.
     cost: |
+
       You will have to pay a filing fee. The amount of the fee varies depending on how much money you are asking for and ranges between $5-$45. You may also have to pay fees to deliver your documents to the defendant. Find a full list of fees [here](https://www.dccourts.gov/services/civil-matters/filing-fees) under “Small Claims Filing Fees.”
 
-      TIP: If you can’t afford to pay the fees, you can ask the court to waive them. Find the required forms and instructions on how to ask for a waiver [here](https://www.dccourts.gov/services/judge-in-chambers/in-forma-pauperis-fee-waiver).
+      **TIP:** If you can’t afford to pay the fees, you can ask the court to waive them. Find the required forms and instructions on how to ask for a waiver [here](https://www.dccourts.gov/services/judge-in-chambers/in-forma-pauperis-fee-waiver).
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://www.dccourts.gov/sites/default/files/SmallClaimsHandbook.pdf) under “How Do I Collect My Judgment?”"
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting money [here](https://www.dccourts.gov/sites/default/files/SmallClaimsHandbook.pdf) under “How Do I Collect My Judgment?”"
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
       - |
-        Step 2: After carefully reading the instructions, complete a [Statement of Claim](https://www.dccourts.gov/sites/default/files/matters-docs/Statement%20of%20Claim%20Form%20(Rev%20June%202018)-fillable.pdf) and [Information Sheet](https://www.dccourts.gov/sites/default/files/matters-docs/SmallClaimsInformationSheet.pdf).  You can also request these forms from the Small Claims Clerk’s Office located at:
+
+        **Step 2:** After carefully reading the instructions, complete a [Statement of Claim](https://www.dccourts.gov/sites/default/files/2019-09/Statement%20of%20Claim%20Form%20and%20Notice_Final%20Fillable.pdf).  You can also request these forms from the Small Claims Clerk’s Office located at:
 
 
-        Court Building B
-
-        510 4th Street, NW
-
-        Room 119
-
-        Washington, DC 20001
-
-
-      - "Step 3: Attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills) to the Statement of Claim form, and sign the completed form in front of a notary."
-      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to give to the court, send the defendant, and keep for your records."
-      - "Step 4: File the completed Information Sheet and Statement of Claim form (with all attachments) with the clerk of the Small Claims Court and pay the filing fees."
-      - "TIP: If you can’t afford to pay the fees, you can ask the court to waive them. Find the required forms and instructions on how to ask for a waiver [here](https://www.dccourts.gov/services/judge-in-chambers/in-forma-pauperis-fee-waiver)."
-      - "Step 5: The defendant must get a copy of everything you file. You can send your documents by certified mail or through a process server. Both options require a fee. Find out more about the process in [this resource](https://www.dccourts.gov/sites/default/files/SmallClaimsHandbook.pdf) under “How Can I Serve the Statement  of Claim on the Defendant(s)?”"
-      - "Step 6: The clerk will set a date for the trial in your case. Do not miss the trial date."
-      - "Step 7: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "TIP: Read more about preparing for court in [this resource](https://www.dccourts.gov/sites/default/files/SmallClaimsHandbook.pdf) under “How Do I Prepare For Court?”"
-      - "Step 8: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 9: Present your case, closely following any instructions given by the judge. Learn more about what will happen in court in [this resource](https://www.dccourts.gov/sites/default/files/SmallClaimsHandbook.pdf) under “What Happens at the Initial Hearing?”"
-      - "Step 10: Receive the judge’s order at the end of the hearing or later in the mail."
-      - "Step 11: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting your money [here](https://www.dccourts.gov/sites/default/files/SmallClaimsHandbook.pdf) under “How Do I Collect My Judgment?”"
+        Court Building B<br />510 4th Street, NW<br />Room 119<br />Washington, DC 20001
+      - "**Step 3:** Attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills) to the Statement of Claim form, and sign the completed form in front of a notary."
+      - "**TIP:** Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to give to the court, send the defendant, and keep for your records."
+      - "**Step 4:** File the completed Information Sheet and Statement of Claim form (with all attachments) with the clerk of the Small Claims Court and pay the filing fees."
+      - "**TIP:** If you can’t afford to pay the fees, you can ask the court to waive them. Find the required forms and instructions on how to ask for a waiver [here](https://www.dccourts.gov/services/judge-in-chambers/in-forma-pauperis-fee-waiver)."
+      - "**Step 5:** The defendant must get a copy of everything you file. You can send your documents by certified mail or through a process server. Both options require a fee. Find out more about the process in [this resource](https://www.dccourts.gov/sites/default/files/SmallClaimsHandbook.pdf) under “How Can I Serve the Statement  of Claim on the Defendant(s)?”"
+      - "**Step 6:** The clerk will set a date for the trial in your case. Do not miss the trial date."
+      - "**Step 7:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**TIP:** Read more about preparing for court in [this resource](https://www.dccourts.gov/sites/default/files/SmallClaimsHandbook.pdf) under “How Do I Prepare For Court?”"
+      - "**Step 8:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 9:** Present your case, closely following any instructions given by the judge. Learn more about what will happen in court in [this resource](https://www.dccourts.gov/sites/default/files/SmallClaimsHandbook.pdf) under “What Happens at the Initial Hearing?”"
+      - "**Step 10:** Receive the judge’s order at the end of the hearing or later in the mail."
+      - "**Step 11:** If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting your money [here](https://www.dccourts.gov/sites/default/files/SmallClaimsHandbook.pdf) under “How Do I Collect My Judgment?”"
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
       - File a Motion for Judicial Review in the Small Claims Clerk’s Office within **10 business days** after the judgment. An Associate Judge will review the initial determination and all the evidence and make a decision. You cannot present new evidence.
     resources:
       - "[Filing a Case for $10,000 or Less](https://www.dccourts.gov/services/civil-matters/requesting-10k-or-less)"
@@ -244,10 +232,11 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes: 
+
+        You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
 

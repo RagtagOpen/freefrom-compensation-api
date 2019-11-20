@@ -2,49 +2,51 @@ state: PA
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime.
 
       Eligible crimes include:
 
       * Domestic violence
-      
+
       * Assault
-      
+
       * Burglary
-      
+
       * Sexual assault
-      
+
       * Murder
-      
+
       * DUI
-      
-      * Child abuse 
-      
+
+      * Child abuse
+
       * Stalking
-      
+
       * Human trafficking
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Colorado or if you live in Colorado and were injured in a state or country that doesn’t have a crime victim compensation program.
-    when: The application must be _received_ within **2 years** after the date of the crime. 
+    when: The application must be _received_ within **2 years** after the date of the crime.
     time: On average, it takes 3 months for an application to be approved or denied.
-    cost: It is free to apply. 
+    cost: It is free to apply.
     award: You can receive up to $35,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
-      
+
       * Dental bills
-      
+
       * Counseling and therapy costs
-      
+
       * Lost wages / income
-      
+
       * Relocation
-      
+
       * Funeral-related expenses
-      
+
       * Crime-scene clean-up
 
     likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-to Apply” below for more information.
@@ -52,45 +54,39 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "You Must Report the Crime: You must report the crime  to police or apply for a protective order within **3 days** of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Cooperation is Required: You must cooperate with the police as they investigate the crime and with anyone reviewing your application."
-      - "Not All Costs Are Covered: You can’t get compensation for property loss, property damage, or pain and suffering."     
+      - "**You Must Report the Crime:** You must report the crime  to police or apply for a protective order within **3 days** of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with the police as they investigate the crime and with anyone reviewing your application."
+      - "**Not All Costs Are Covered:** You can’t get compensation for property loss, property damage, or pain and suffering."
     steps:
-      - "Step 1: Report the crime to the police or apply for a restraining order within **3 days** of the incident."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
-      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: You can apply for compensation online or by mail. To apply online, use the Pennsylvania online portal [here](https://www.dave.pa.gov/Public/VictimLogin.aspx). To apply by mail, access an application online [here](https://pcv.pccd.pa.gov/available-services/Documents/Victims%20Compensation%20Assistance%20Program%20Short%20Form%20(2).pdf) or request an application from the Victim Compensation Assistance Program by calling (717) 783-5153."
-      - "TIP: You can get help completing your application by working with your local Victim Service Program. Find the program in your county [here](https://pcv.pccd.pa.gov/available-services/Pages/Interactive-Map.aspx)."
-      - "Step 4: After carefully reading the instructions, complete and sign the application and attach (or if applying online, upload) copies of the police report, restraining order, and bills for each expense you include in your application."
+      - "**Step 1:** Report the crime to the police or apply for a restraining order within **3 days** of the incident."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** You can apply for compensation online or by mail. To apply online, use the Pennsylvania online portal [here](https://www.dave.pa.gov/Public/VictimLogin.aspx). To apply by mail, access an application online [here](https://pcv.pccd.pa.gov/available-services/Documents/Victims%20Compensation%20Assistance%20Program%20Short%20Form%20(2).pdf) or request an application from the Victim Compensation Assistance Program by calling (717) 783-5153."
+      - "**TIP:** You can get help completing your application by working with your local Victim Service Program. Find the program in your county [here](https://pcv.pccd.pa.gov/available-services/Pages/Interactive-Map.aspx)."
+      - "**Step 4:** After carefully reading the instructions, complete and sign the application and attach (or if applying online, upload) copies of the police report, restraining order, and bills for each expense you include in your application."
       - |
-        Step 5: Submit your application and all attachments online through the online portal or via mail to:
+
+        **Step 5:** Submit your application and all attachments online through the online portal or via mail to:
 
 
-        Pennsylvania Victims Compensation Assistance Program
-
-        P.O. Box 1167
-
-        Harrisburg, Pennsylvania 17108
-
-
-      - "TIP: Remember, **your application must be received within 2 years after the crime occurred**. It’s a good idea to follow-up with VCAP to confirm your application was received. Contact VCAP via phone at (717) 783-5153."
+        Pennsylvania Victims Compensation Assistance Program<br />P.O. Box 1167<br />Harrisburg, Pennsylvania 17108
+      - "**TIP:** Remember, **your application must be received within 2 years after the crime occurred**. It’s a good idea to follow-up with VCAP to confirm your application was received. Contact VCAP via phone at (717) 783-5153."
     what_to_expect:
       - The Victims Compensation Assistance Program staff will review your entire application to make sure all of the information you’ve included is true and accurate.
       - VCAP may ask you for more information or documents. If they do, respond as soon as possible.
       - VCAP will send you a written decision either approving or denying your application.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call VCAP at (717) 783-5153 to let them know. "
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call VCAP at (717) 783-5153 to let them know. "
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - You will receive a Request for Reconsideration form with the decision. You must complete this form and send it back to the Victim Compensation Assistance Program along with any new evidence you want them to consider within **30 days**. VCAP will review any new evidence and send you a decision.
       - If you still don’t agree with the decision, you can request a hearing. VCAP will send you all the forms you need to complete to request a hearing with the new decision. You must return the completed forms along with any new evidence you want VCAP to consider within **30 days** of the new decision. VCAP will schedule a hearing with a hearing officer. You should bring any and all evidence and documents you want the hearing officer to consider with you to the hearing.
       - The hearing officer will make a recommendation to the Commission about whether to grant or deny your application. The Commission will make a decision and mail you a copy.
-      - If you’re still unhappy with the decision, you must appeal to the Commonwealth Court. 
-      - "TIP: An appeal to Commonwealth Court will have more complex rules and procedures. It’s a good idea to find an attorney to help you with this process."
-      - "TIP: Read about the appeals process in more detail [here](https://www.pccd.pa.gov/Victim-Services/Documents/APPEALS%20PROCESS.pdf)."
+      - If you’re still unhappy with the decision, you must appeal to the Commonwealth Court.
+      - "**TIP:** An appeal to Commonwealth Court will have more complex rules and procedures. It’s a good idea to find an attorney to help you with this process."
+      - "**TIP:** Read about the appeals process in more detail [here](https://www.pccd.pa.gov/Victim-Services/Documents/APPEALS%20PROCESS.pdf)."
     resources:
       - "[Victims Compensation Assistance Program - General Info](https://pcv.pccd.pa.gov/available-services/Pages/Victims-Compensation.aspx)"
-      - "[Victims Compensation Assistance Program - Helping Crime Victims](https://www.pccd.pa.gov/Victim-Services/Pages/Victims-Compensation-Assistance-Program-(VCAP).aspx)"
       - "[Victims Compensation FAQs](https://pcv.pccd.pa.gov/available-services/Pages/Victims-Compensation-FAQ.aspx)"
       - "[Victim Compensation Assistance Program Application](https://pcv.pccd.pa.gov/available-services/Documents/Victims%20Compensation%20Assistance%20Program%20Short%20Form%20(2).pdf)"
       - "[Online Application Portal](https://www.dave.pa.gov/Public/VictimLogin.aspx)"
@@ -102,24 +98,27 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
-      You can get compensation for the following expenses: 
+
+      You can get compensation for the following expenses:
 
       * Medical bills
-      
+
       * Psychiatric and psychological care
-      
+
       * Physical therapy costs
-      
+
       * Lost income
-      
+
       * Funeral-related expenses
-      
+
       * Property damage
-      
+
       * Other out-of-pocket costs directly related to the crime
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
+
 
       * You must share your story:
 
@@ -127,75 +126,78 @@ resources:
 
         *With the District Attorney assigned to your case.
 
-      * You may have to share your story: 
+      * You may have to share your story:
 
         * If the District Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support. You can also read more about collecting restitution [here](https://www.ova.pa.gov/Documents/restitution%20handout%20-%20victims.pdf)."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the District Attorney assigned to your case for support. You can also read more about collecting restitution [here](https://www.ova.pa.gov/Documents/restitution%20handout%20-%20victims.pdf)."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Contact the office of the District Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
-      - "TIP: Find the location and contact information for the District Attorney in each county [here](https://www.pdaa.org/da-directory/)."
-      - "Step 4: Share the information and documents you have gathered with the attorney assigned to your case and complete any forms they give you. If you need help completing any of the forms, ask the attorney for support."
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting restitution can be challenging. Ask the attorney assigned to your case for help if you need support. You can also read more about collecting restitution [here](https://www.ova.pa.gov/Documents/restitution%20handout%20-%20victims.pdf)."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Contact the office of the District Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
+      - "**TIP:** Find the location and contact information for the District Attorney in each county [here](https://www.pdaa.org/da-directory/)."
+      - "**Step 4:** Share the information and documents you have gathered with the attorney assigned to your case and complete any forms they give you. If you need help completing any of the forms, ask the attorney for support."
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the District Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting restitution can be challenging. Ask the attorney assigned to your case for help if you need support. You can also read more about collecting restitution [here](https://www.ova.pa.gov/Documents/restitution%20handout%20-%20victims.pdf)."
     resources:
       - "[Restitution - Office of Victim Advocate](https://www.ova.pa.gov/Programs/RestitutionTaskForce/Pages/default.aspx)"
       - "[Understanding Restitution When You Are a Victim of a Crime](https://www.ova.pa.gov/Documents/restitution%20handout%20-%20victims.pdf)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $12,000 or less.
     when: |
+
       You must file claims for assault and battery, false imprisonment, personal injury, and property damage within **2 years** of the wrongful conduct or damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/pennsylvania-law/pennsylvania-statutes-of-limitations.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/pennsylvania-law/pennsylvania-statutes-of-limitations.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Magisterial District Court in the county where the person that harmed you lives or where the harm happened.
 
-      TIP: Find the Magisterial District Court in each county [here](https://ballotpedia.org/Pennsylvania_Magisterial_Districts). 
+      **TIP:** Find the Magisterial District Court in each county [here](https://statelaws.findlaw.com/pennsylvania-law/pennsylvania-civil-statute-of-limitations-laws.html).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $12,000 or less.
     cost: |
+
       You will have to pay a filing fee which varies depending on the amount of money you are asking for and ranges from $40-$80. There may also be additional fees to cover the cost of delivering copies of the documents you file to the defendant.
 
-      TIP: If you can’t afford to pay the fees, you can ask the court to waive them. [Here](https://www.palawhelp.org/resource/petition-to-waive-court-costs-2) is a great resource with the required form and assistance in completing it.
+      **TIP:** If you can’t afford to pay the fees, you can ask the court to waive them. [Here](https://www.palawhelp.org/resource/petition-to-waive-court-costs-2) is a great resource with the required form and assistance in completing it.
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
-    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you. 
+    story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Learn more about collecting a judgement [here](https://www.pghfirm.com/blog/5-steps-how-to-collect-a-judgment-in-pennsylvania)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Learn more about collecting a judgement [here](https://www.pghfirm.com/blog/5-steps-how-to-collect-a-judgment-in-pennsylvania)."
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages. "
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the Magisterial District Court in the county where the person that harmed you lives or where the harm happened. This is where you’ll file all of your paperwork."
-      - "TIP: Find the Magisterial District Court in each county [here](https://ballotpedia.org/Pennsylvania_Magisterial_Districts)."
-      - "Step 3: After carefully reading the instructions, complete a Complaint form. You can access one online [here](http://www.pacourts.us/assets/files/setting-897/file-771.pdf?cb=0bb1db) or request one from the clerk of the Magisterial District Court."
-      - "TIP: [Here](https://www.pabar.org/clips/bringingsuitBeforeDJ.pdf) is a great resource with guidance on how to complete the complaint."
-      - "Step 4: Attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
-      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to file with the court, send to the defendant, and keep for your records."
-      - "Step 5: File the completed Complaint and any attachments with the clerk of the Magisterial District Court and pay the filing fee. If you can’t afford to pay the fees, you can ask the court to waive them. [Here](https://www.palawhelp.org/resource/petition-to-waive-court-costs-2) is a great resource with the required form and assistance in completing it."
-      - "Step 6: The defendant must get a copy of everything you file. You can send your documents by certified mail, a private process server, or the sheriff’s office. Read more about those options [here](https://www.pabar.org/clips/bringingsuitBeforeDJ.pdf). You can also ask the clerk for help."
+      - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages. "
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the Magisterial District Court in the county where the person that harmed you lives or where the harm happened. This is where you’ll file all of your paperwork."
+      - "**TIP:** Find the Magisterial District Court in each county [here](https://ballotpedia.org/Pennsylvania_Magisterial_Districts)."
+      - "**Step 3:** After carefully reading the instructions, complete a Complaint form. You can access one online [here](http://www.pacourts.us/assets/files/setting-897/file-771.pdf?cb=0bb1db) or request one from the clerk of the Magisterial District Court."
+      - "**TIP:** [Here](https://www.pabar.org/clips/bringingsuitBeforeDJ.pdf) is a great resource with guidance on how to complete the complaint."
+      - "**Step 4:** Attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
+      - "**TIP:** Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to file with the court, send to the defendant, and keep for your records."
+      - "**Step 5:** File the completed Complaint and any attachments with the clerk of the Magisterial District Court and pay the filing fee. If you can’t afford to pay the fees, you can ask the court to waive them. [Here](https://www.palawhelp.org/resource/petition-to-waive-court-costs-2) is a great resource with the required form and assistance in completing it."
+      - "**Step 6:** The defendant must get a copy of everything you file. You can send your documents by certified mail, a private process server, or the sheriff’s office. Read more about those options [here](https://www.pabar.org/clips/bringingsuitBeforeDJ.pdf). You can also ask the clerk for help."
       - "Sep 7: The clerk will set a date for the trial in your case. Do not miss the trial date."
-      - "Step 8: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 10: Present your case, closely following any instructions given by the judge."
-      - "Step 11: Receive the judge’s order at the end of the hearing or later in the mail."
-      - "Step 12: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting a judgment [here](https://www.pghfirm.com/blog/5-steps-how-to-collect-a-judgment-in-pennsylvania)."
+      - "**Step 8:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**Step 9:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 10:** Present your case, closely following any instructions given by the judge."
+      - "**Step 11:** Receive the judge’s order at the end of the hearing or later in the mail."
+      - "**Step 12:** If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting a judgment [here](https://www.pghfirm.com/blog/5-steps-how-to-collect-a-judgment-in-pennsylvania)."
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
-      - "Step 1: You must file a Notice of Appeal within 30 days after the date of the judgment. The Notice of Appeal should be filed with the prothonotary in the county courthouse."
-      - "Step 2: You must pay a filing fee."
-      - "Step 3: You must deliver the Notice to the defendant and file proof that the defendant received it with the clerk."
-      - "Step 4: The case will then move to the Common Pleas Court to be heard by a different judge."
-      - "TIP: An appeal will follow more complex rules and procedures. It’s a good idea to find an attorney to help you with this process."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**Step 1:** You must file a Notice of Appeal within 30 days after the date of the judgment. The Notice of Appeal should be filed with the prothonotary in the county courthouse."
+      - "**Step 2:** You must pay a filing fee."
+      - "**Step 3:** You must deliver the Notice to the defendant and file proof that the defendant received it with the clerk."
+      - "**Step 4:** The case will then move to the Common Pleas Court to be heard by a different judge."
+      - "**TIP:** An appeal will follow more complex rules and procedures. It’s a good idea to find an attorney to help you with this process."
     resources:
       - "[Bringing Suit Before a Magisterial District Judge](https://www.pabar.org/clips/bringingsuitBeforeDJ.pdf)"
       - "[Small Claims Court - General Information](https://pa211sw.communityos.org/zf/profile/service/id/1589488)"
@@ -207,29 +209,30 @@ resources:
     cost: Hundreds or even thousands of dollars.
     likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
     safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
-    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way. 
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way.
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
-        
+
         * The name and address of the person that harmed you
-        
+
         * Date of the incident(s)
-        
+
         * Brief description of the incident(s)
-        
+
         * Itemized list of costs that resulted from the incident(s)
-        
+
         * Copies of important documents
-        
+
         * If you know it, the income / assets of the person that harmed you
-        
+
         * If you can, the type of claim you want to bring against the person that harmed you
 
     resources:

@@ -2,6 +2,7 @@ state: MD
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent of someone who was killed as the result of a crime.
 
       Eligible crimes include:
@@ -22,13 +23,14 @@ resources:
 
       * Human trafficking
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Maryland or if you live in Maryland and the crime happened in a state that does not offer compensation to non-residents.
     when: The application must be _received_ within **3 years** after the date of the crime.
     time: On average, it takes 2 months for an application to be approved or denied.
     cost: It is free to apply.
     award: You can receive up to $45,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical costs
@@ -45,51 +47,43 @@ resources:
     safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: |
+
       You do not need to have an attorney to apply.
 
-      TIP: You can get help filling out the application from a victim services coordinator.  See “How to Apply” below for more information.
+      **TIP:** You can get help filling out the application from a victim services coordinator.  See “How to Apply” below for more information.
     challenges:
-      - "You Must Report the Crime: You must report the crime within **48 hours** to: the police department in your local jurisdiction; the District Court Commissioner's Office; the Sexual Assault Forensic Exam Unit in your area; an educational disciplinary authority; or through an application for a protective order.  However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Cooperation is Required: You must cooperate with the police and the person reviewing your application."
-      - "Not All Costs Are Covered: You can’t get compensated for property damage."
+      - "**You Must Report the Crime:** You must report the crime within **48 hours** to: the police department in your local jurisdiction; the District Court Commissioner's Office; the Sexual Assault Forensic Exam Unit in your area; an educational disciplinary authority; or through an application for a protective order.  However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Cooperation is Required:** You must cooperate with the police and the person reviewing your application."
+      - "**Not All Costs Are Covered:** You can’t get compensated for property damage."
     steps:
-      - "Step 1: Report the crime to the police within **48 hours** of the incident and get a police report."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
-      - "Step 2: Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: After carefully reading the instructions, complete and sign an application. The applications are available online in English [here](https://www.dpscs.state.md.us/cicb/English-CICB-Instructions-and-Application.pdf) and in Spanish [here](http://www.dpscs.state.md.us/cicb/Spanish-CICB-Instructions-and-Application.pdf)."
+      - "**Step 1:** Report the crime to the police within **48 hours** of the incident and get a police report."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** After carefully reading the instructions, complete and sign an application. The applications are available online in English [here](https://www.dpscs.state.md.us/cicb/English-CICB-Instructions-and-Application.pdf) and in Spanish [here](http://www.dpscs.state.md.us/cicb/Spanish-CICB-Instructions-and-Application.pdf)."
       - |
-        TIP: You can also request an application in writing or in person from the Criminal Injuries Compensation Board (CICB) at:
+
+        **TIP:** You can also request an application in writing or in person from the Criminal Injuries Compensation Board (CICB) at:
 
 
-        Maryland Criminal Injuries Compensation Board
-
-        6776 Reistertown Road, Ste 206
-
-        Baltimore, Maryland 21215
-
-      - "TIP:  If you need help completing your application, you can call the CICB and ask to speak to a victim services coordinator. Call the CICB at (410) 585-3010."
-      - "Step 4: Attach the police report and copies of bills for each expense you include in your application."
+        Maryland Criminal Injuries Compensation Board<br />6776 Reistertown Road, Ste 206<br />Baltimore, Maryland 21215
+      - "**TIP:**  If you need help completing your application, you can call the CICB and ask to speak to a victim services coordinator. Call the CICB at (410) 585-3010."
+      - "**Step 4:** Attach the police report and copies of bills for each expense you include in your application."
       - |
-        Step 5: Submit the completed application including the documents showing your costs in person or by mail to:
+
+        **Step 5:** Submit the completed application including the documents showing your costs in person or by mail to:
 
 
-        Maryland Criminal Injuries Compensation Board
-
-        6776 Reistertown Road, Ste 206
-
-        Baltimore, Maryland 21215
-
-
-      - "TIP: Remember, **your application must be received within 3 years after the crime occurred**. It’s a good idea to follow-up with a phone call to confirm that your application was received. Call the Maryland CICB at (410) 585-3010."
-      - "TIP: If you are close to the 3 year deadline but don’t have certain documents (police report, invoices, receipts) do not wait to submit your application. Instead, submit the application and follow up with the documents when you get them."
+        Maryland Criminal Injuries Compensation Board<br />6776 Reistertown Road, Ste 206<br />Baltimore, Maryland 21215
+      - "**TIP:** Remember, **your application must be received within 3 years after the crime occurred**. It’s a good idea to follow-up with a phone call to confirm that your application was received. Call the Maryland CICB at (410) 585-3010."
+      - "**TIP:** If you are close to the 3 year deadline but don’t have certain documents (police report, invoices, receipts) do not wait to submit your application. Instead, submit the application and follow up with the documents when you get them."
     what_to_expect:
       - A claims examiner will be assigned to your claim and will review your entire application to make sure all of the information you’ve included is true and accurate.
       - The CICB Board will decide if they think you are entitled to compensation and will make a recommendation to the Secretary of the Department of Public Safety and Correctional Services. You will receive a copy of the Board’s recommendation in the mail.
       - The Secretary will make a final decision about whether to deny or approve your application and will mail you a copy of that decision.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call the CICB at 410-585-3010."
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call the CICB at 410-585-3010."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - If you don’t agree with the Board’s recommendation, you must file a written appeal within **15 days**. The Board will hold a hearing on your appeal. Be sure to bring any and all documents that show your costs.
       - If you don’t agree with the Secretary’s final decision, you must appeal in writing to the local Circuit Court within **30 days**.
     resources:
@@ -101,6 +95,7 @@ resources:
     cost: It is free of charge.
     likelihood: A State’s Attorney will be assigned to the criminal case on behalf of the state. They will ask the Judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the State's Attorney of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -122,6 +117,8 @@ resources:
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
 
+
+
       * You must share your story:
 
         * With the police when you report the crime; and
@@ -133,33 +130,36 @@ resources:
         * If the State's Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the State's Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the State's Attorney assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of expenses that you have had to pay as a result of the crime with you in a safe place."
-      - "Step 3: Contact the office of the State's Attorney in the county where the crime happened and ask to speak to the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and ask for a  Request for Restitution."
-      - "TIP: You can find the location and contact information for the office of the State's Attorney for each county [here](https://criminal.findlaw.com/criminal-legal-help/maryland-district-attorneys.html)."
-      - "Step 4: Complete the Request for Restitution and attach copies of all documents that show the costs you are trying to get covered. Send your completed Request and attachments to the State's Attorney assigned to your case and ask that they share the information with the defendant’s attorney."
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the State's Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting restitution can be challenging. Read more about the collection process [here](https://www.mdcrimevictims.org/victim-services/legal-rights-in-the-criminal-justice-system/your-rights-as-a-victim-to-restitution/)."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of expenses that you have had to pay as a result of the crime with you in a safe place."
+      - "**Step 3:** Contact the office of the State's Attorney in the county where the crime happened and ask to speak to the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and ask for a  Request for Restitution."
+      - "**TIP:** You can find the location and contact information for the office of the State's Attorney for each county [here](https://criminal.findlaw.com/criminal-legal-help/maryland-district-attorneys.html)."
+      - "**Step 4:** Complete the Request for Restitution and attach copies of all documents that show the costs you are trying to get covered. Send your completed Request and attachments to the State's Attorney assigned to your case and ask that they share the information with the defendant’s attorney."
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the State's Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting restitution can be challenging. Read more about the collection process [here](https://www.mdcrimevictims.org/victim-services/legal-rights-in-the-criminal-justice-system/your-rights-as-a-victim-to-restitution/)."
     resources:
       _ "[Maryland Crime Victims Resource Center Brochure](https://www.mdcrimevictims.org/victim-services/legal-rights-in-the-criminal-justice-system/your-rights-as-a-victim-to-restitution/)"
       - "[The People’s Law Library of Maryland - Rights of a Crime Victim, or Victim’s Representative](https://www.peoples-law.org/rights-crime-victim-or-victims-representative)"
+      - "[Your Rights as a Victim to Restitution](https://www.mdcrimevictims.org/victim-services/legal-rights-in-the-criminal-justice-system/your-rights-as-a-victim-to-restitution/)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must file claims for assault and battery within **1 year** of the incident, and for personal injury and property damage within **3 years** of the injury or damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/maryland-law/maryland-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/maryland-law/maryland-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the District Court in the county where the person that harmed you lives or where the harm took place.
 
-      TIP: You can find the location and contact information for the District Court in each county [here](https://www.courts.state.md.us/district/directories/courtmap).
+      **TIP:** You can find the location and contact information for the District Court in each county [here](https://www.courts.state.md.us/district/directories/courtmap).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: "The total amount you are seeking must be $5,000 or less. You cannot bring claims for: false imprisonment, malicious prosecution, slander or libel."
     cost: You are required to pay a $34 fee to file the claim, plus a fee to send your documents to the person that harmed you. If you can’t afford to pay these fees, you can ask for a waiver. See the “How-To” section below for more information.
@@ -167,32 +167,33 @@ resources:
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: |
+
       You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
 
-      TIP: Still have questions? [Here](https://mdcourts.gov/sites/default/files/import/district/forms/civil/dccv001br.pdf) is a great resource to find out more.
+      **TIP:** Still have questions? [Here](https://mdcourts.gov/sites/default/files/import/district/forms/civil/dccv001br.pdf) is a great resource to find out more.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Learn more about collecting your money [here](https://mdcourts.gov/legalhelp/collectingjudgment)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Learn more about collecting your money [here](https://mdcourts.gov/legalhelp/collectingjudgment)."
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claims and show the amount of your damages. "
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the correct District Court. You can use the drop down menu on [this map](https://www.courts.state.md.us/district/directories/courtmap). This is where you will file all your paperwork."
-      - "Step 3: Fill out the [Complaint/Application and Affidavit in Support of Judgment](https://mdcourts.gov/sites/default/files/import/district/forms/civil/dccv001f.pdf) and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). File the completed Complaint and the attached documents with the clerk at the District Court."
-      - "TIP: Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to give to the court, send the defendant, and keep for your records."
-      - "Step 4: Pay the filing fee. If you cannot afford the fee, complete a [Request for Waiver of Prepaid Costs](https://mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdc089.pdf/ccdc089.pdf) and attach evidence of your income (bank statements, pay stubs, disability check, EBT cards, etc.). File the Waiver with your Complaint."
-      - "Step 5: The defendant must get a copy of your complaint and other documents. You can send your documents by certified mail, a private process server, or the sheriff’s office. Each option requires a fee. Read more about each of these options [here](https://mdcourts.gov/sites/default/files/import/district/forms/civil/dccv001br.pdf)."
-      - "Step 6: You will receive written proof that the defendant got your documents. File that proof with the clerk of the court."
-      - "Step 7: The Court will schedule a date for your hearing. Do not miss your court date."
-      - "Step 8: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 10: Present your case, closely following any instructions given by the judge."
-      - "Step 11: Receive the judge’s order either at the end of the hearing or later in the mail. "
-      - "Step 12: If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting your money [here](https://mdcourts.gov/legalhelp/collectingjudgment)."
+      - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages. "
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the correct District Court. You can use the drop down menu on [this map](https://www.courts.state.md.us/district/directories/courtmap). This is where you will file all your paperwork."
+      - "**Step 3:** Fill out the [Complaint/Application and Affidavit in Support of Judgment](https://mdcourts.gov/sites/default/files/import/district/forms/civil/dccv001f.pdf) and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). File the completed Complaint and the attached documents with the clerk at the District Court."
+      - "**TIP:** Make at least 3 copies of all the forms and attachments you fill out so that you will have enough to give to the court, send the defendant, and keep for your records."
+      - "**Step 4:** Pay the filing fee. If you cannot afford the fee, complete a [Request for Waiver of Prepaid Costs](https://mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdc089.pdf/ccdc089.pdf) and attach evidence of your income (bank statements, pay stubs, disability check, EBT cards, etc.). File the Waiver with your Complaint."
+      - "**Step 5:** The defendant must get a copy of your complaint and other documents. You can send your documents by certified mail, a private process server, or the sheriff’s office. Each option requires a fee. Read more about each of these options [here](https://mdcourts.gov/sites/default/files/import/district/forms/civil/dccv001br.pdf)."
+      - "**Step 6:** You will receive written proof that the defendant got your documents. File that proof with the clerk of the court."
+      - "**Step 7:** The Court will schedule a date for your hearing. Do not miss your court date."
+      - "**Step 8:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**Step 9:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 10:** Present your case, closely following any instructions given by the judge."
+      - "**Step 11:** Receive the judge’s order either at the end of the hearing or later in the mail. "
+      - "**Step 12:** If the judge awards you a judgment, you will have to collect the money from the person that harmed you. This can be challenging. Learn more about collecting your money [here](https://mdcourts.gov/legalhelp/collectingjudgment)."
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
-      - "Step 1: You must file a notice of appeal with Maryland Circuit Court within **30 days** after the judge makes their decision."
-      - "Step 2: You must pay a Circuit Court filing fee.  If you cannot afford the fee, you may ask for a waiver."
-      - "TIP: Learn more [here](https://www.peoples-law.org/appeal-or-enforce-decision)."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**Step 1:** You must file a notice of appeal with Maryland Circuit Court within **30 days** after the judge makes their decision."
+      - "**Step 2:** You must pay a Circuit Court filing fee.  If you cannot afford the fee, you may ask for a waiver."
+      - "**TIP:** Learn more [here](https://www.peoples-law.org/appeal-or-enforce-decision)."
     resources:
       - "[Maryland Courts Information on Small Claims](https://mdcourts.gov/legalhelp/smallclaims)"
       - "[Small Claims Brochure](https://mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv001br.pdf/dccv001br.pdf)"
@@ -210,10 +211,11 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
 

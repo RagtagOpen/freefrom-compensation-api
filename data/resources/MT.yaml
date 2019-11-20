@@ -2,80 +2,72 @@ state: MT
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime, if your immediate family member was killed as the result of a crime, or if you are a minor child of a survivor of domestic violence who witnessed the crime at home (a parent or legal guardian must apply for you if you are under the age of 18).
 
-      TIP: You can apply even if the person that harmed you was never arrested for or convicted of the crime.
+      **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime occurred in Montana or if you live in Montana and were injured in a state that won’t award compensation to non-residents.
     when: The application must be _received_ within **1 year** after the date of the crime. If you don’t file in time, you must explain why your application is late. Even with an explanation, a late application may not be approved.
     time: On average, it takes 2 months for an application to be approved or denied.
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
-      
+
       * Dental expenses
-      
-      * Mental health treatment 
-      
+
+      * Mental health treatment
+
       * Prescription drugs
-      
+
       * Ambulance charges
-      
-      * Funeral costs 
-      
-      * Lost wages 
-      
+
+      * Funeral costs
+
+      * Lost wages
+
       * Mental health counseling
 
     likelihood: Your chances of getting compensation depend on whether you fully and properly complete the application and meet all of the criteria. See “How-to Apply” for more information.
-    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply. 
+    safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "You must report the crime to police: You must report the crime within **72 hours** and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
-      - "Not all expenses are covered: You cannot get compensated for property loss or repairs, pain and suffering, non-medical expenses, in-patient psychiatric care, or drug counseling."    
+      - "**You must report the crime to police:** You must report the crime within **72 hours** and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**Not all expenses are covered:** You cannot get compensated for property loss or repairs, pain and suffering, non-medical expenses, in-patient psychiatric care, or drug counseling."
     steps:
-      - "Step 1: Report the crime to the police within 72 hours of the incident and get a police report."
-      - "TIP: You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
-      - "Step 2: Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Get a claim form at any law enforcement agency, hospital, victim assistance program, or by contacting the Crime Victim Compensation Program at (406) 444-3653. You can also request a claim form online [here](https://dojmt.gov/victims/crime-victim-compensation/)."
-      - "Step 4: After carefully reading the instructions, complete and sign the claim form."
+      - "**Step 1:** Report the crime to the police within 72 hours of the incident and get a police report."
+      - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
+      - "**Step 2:** Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Get a claim form at any law enforcement agency, hospital, victim assistance program, or by contacting the Crime Victim Compensation Program at (406) 444-3653. You can also request a claim form online [here](https://dojmt.gov/victims/crime-victim-compensation/)."
+      - "**Step 4:** After carefully reading the instructions, complete and sign the claim form."
       - |
-        Step 5: Submit the completed and signed form along with any other documents and evidence (for example, police report and medical records) to the Crime Victim Compensation Program in person or by mail to:
+
+        **Step 5:** Submit the completed and signed form along with any other documents and evidence (for example, police report and medical records) to the Crime Victim Compensation Program in person or by mail to:
 
 
-        Montana Crime Victim Compensation Program
-
-        P.O. Box 201410 
-
-        Helena, Montana 59620
-
-
-      - "TIP: Remember, **your application must be received within 1 year after the crime occurred**. It’s a good idea to follow up with a phone call to confirm that your application was received."
+        Montana Crime Victim Compensation Program<br />P.O. Box 201410<br />Helena, Montana 59620
+      - "**TIP:** Remember, **your application must be received within 1 year after the crime occurred**. It’s a good idea to follow up with a phone call to confirm that your application was received."
     what_to_expect:
       - The Montana Crime Victim Compensation program will review your claim form and check to make sure all of the information you’ve included in it is true and accurate.
       - Representatives of the CVC program might ask you for additional information. If they do, respond to the request as soon as possible.
       - The CVC program will approve or deny your application and will send you a written decision in the mail.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your claim form, call the CVC program at (406) 444-3653."
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your claim form, call the CVC program at (406) 444-3653."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - You must request an informal hearing within **30 days** of the date of the written decision. The request must be in writing and must include include why you want to appeal.
       - |
+
         Send the written request by mail to:
 
 
-        Montana Crime Victim Compensation Program
-
-        P.O. Box 201410 
-
-        Helena Montana 59620
-
-
+        Montana Crime Victim Compensation Program<br />P.O. Box 201410<br />Helena Montana 59620
       - You will get a notice telling you when and where your hearing will be. At the hearing, you will have the chance to explain why you should get compensation.
-      - "TIP: Make sure to bring any and all documents and other evidence relating to the crime and showing your costs; for example: police reports, medical bills, other receipts, etc."
+      - "**TIP:** Make sure to bring any and all documents and other evidence relating to the crime and showing your costs; for example: police reports, medical bills, other receipts, etc."
     resources:
       - "[Montana Department of Justice Crime Victim Compensation](https://dojmt.gov/victims/crime-victim-compensation/)"
   - resource_category: Criminal Restitution
@@ -84,26 +76,29 @@ resources:
     cost: It is free of charge.
     likelihood: A County Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
-      
+
       * Dental expenses
-      
-      * Counseling or therapy costs 
-      
+
+      * Counseling or therapy costs
+
       * Lost income
-      
+
       * Funeral or burial services
-      
+
       * Damaged or lost property
-      
+
       * Other out-of-pocket expenses related directly to the crime
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
 
-      * You must share your story: 
+
+
+      * You must share your story:
 
         * With the police when you report the crime; and
 
@@ -114,28 +109,29 @@ resources:
         * If the County Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Contact the office of the County Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney assigned to your case that you are seeking criminal restitution."
-      - "Step 4: Share the information and documents you’ve gathered with the attorney assigned to your case and continue to send them evidence of any ongoing costs."
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the County Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting restitution can be challenging. If you need help, ask the County Attorney assigned to your case for support."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Contact the office of the County Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney assigned to your case that you are seeking criminal restitution."
+      - "**Step 4:** Share the information and documents you’ve gathered with the attorney assigned to your case and continue to send them evidence of any ongoing costs."
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the County Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting restitution can be challenging. If you need help, ask the County Attorney assigned to your case for support."
     resources:
       - "[Montana Crime Victim Restitution Pamphlet](https://cor.mt.gov/Portals/104/Victims/Crime%20Victim%20Restitution-tree.pdf?ver=2019-05-15-130905-797%20())."
       - "[Montana State Page Regarding Criminal Restitution](https://cor.mt.gov/Victims/VictimsRestitution)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $7,000 or less.
     when: |
-      You must file claims for assault and battery within **2 years** of the incident; personal injury within **3 years** of the injury; and damage to property within **2 years** of the damage. 
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/montana-law/montana-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+      You must file claims for assault and battery within **2 years** of the incident; personal injury within **3 years** of the injury; and damage to property within **2 years** of the damage.
+
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/montana-law/montana-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: You must file your small claims case in the county where the person who harmed you lives or where the harm occurred. Find the location of the justice court in each county using the dropdown search function [here](https://courts.mt.gov/courts/lcourt).
     time: The whole process will generally take 2-4 months.
     covered_expenses: The total amount you are seeking must be $7,000 or less.
@@ -145,28 +141,28 @@ resources:
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: Attorneys are only allowed in small claims court if both parties have one, so you can only have a lawyer if the person who harmed you also does. When deciding if you want a lawyer, it’s important to keep in mind that they may cost more than the amount of money you receive from court.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Learn more about collecting judgments in the “Instructions for Small Claims cases” [here](https://courts.mt.gov/forms/civilforms#6980141-small-claims)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Learn more about collecting judgments in the “Instructions for Small Claims cases” [here](https://courts.mt.gov/forms/civilforms#6980141-small-claims)."
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claim and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the justice court in the county where the person who harmed you lives. This is where you will file all your paperwork."
-      - "TIP: Find the location of the justice court in each county using the dropdown search function [here](https://courts.mt.gov/courts/lcourt)."
-      - "Step 3: Request a complaint form from the clerk of the justice court, or access it online [here](https://courts.mt.gov/forms/civilforms#6980141-small-claims)."
-      - "Step 4: Complete the complaint and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). Sign the complaint in front of the justice court clerk."
-      - "TIP: Make 3 copies of all the forms and attachments you fill out: 1 for the court, 1 to send the defendant, and 1 to keep for your records."
-      - "Step 5: File the complaint in the justice court located in the county where the person that harmed you lives and pay the filing fee. If you can’t afford the fee, complete an affidavit asking the court to waive the fee."
-      - "Step 6: The person that harmed you must get a copy of your complaint. You must fill out a form called a praecipe and make two copies of the complaint and any other filed documents. You must then ask the Sheriff’s office to deliver the documents or hire a process server."
-      - "Step 7: The court will schedule a hearing for your case. Do not miss this court date."
-      - "Step 8: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses. If you decide that you do want to bring witnesses, ask the clerk for help in how to proceed."
-      - "Step 9: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 10: Present you case, closely following any directions given by the judge."
-      - "Step 11: Receive the judge’s decision either at the end of the hearing or later in the mail."
-      - "Step 12: If you win your small claims case and are awarded a judgment, you will need to take steps to collect that money. Learn more about collecting the judgment in the “Instructions for Small Claims cases” [here](https://courts.mt.gov/forms/civilforms#6980141-small-claims)."
+      - "**Step 1:** Collect any and all documents and other evidence that support your claim and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the justice court in the county where the person who harmed you lives. This is where you will file all your paperwork."
+      - "**TIP:** Find the location of the justice court in each county using the dropdown search function [here](https://courts.mt.gov/courts/lcourt)."
+      - "**Step 3:** Request a complaint form from the clerk of the justice court, or access it online [here](https://courts.mt.gov/forms/civilforms#6980141-small-claims)."
+      - "**Step 4:** Complete the complaint and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills). Sign the complaint in front of the justice court clerk."
+      - "**TIP:** Make 3 copies of all the forms and attachments you fill out: 1 for the court, 1 to send the defendant, and 1 to keep for your records."
+      - "**Step 5:** File the complaint in the justice court located in the county where the person that harmed you lives and pay the filing fee. If you can’t afford the fee, complete an affidavit asking the court to waive the fee."
+      - "**Step 6:** The person that harmed you must get a copy of your complaint. You must fill out a form called a praecipe and make two copies of the complaint and any other filed documents. You must then ask the Sheriff’s office to deliver the documents or hire a process server."
+      - "**Step 7:** The court will schedule a hearing for your case. Do not miss this court date."
+      - "**Step 8:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses. If you decide that you do want to bring witnesses, ask the clerk for help in how to proceed."
+      - "**Step 9:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 10:** Present you case, closely following any directions given by the judge."
+      - "**Step 11:** Receive the judge’s decision either at the end of the hearing or later in the mail."
+      - "**Step 12:** If you win your small claims case and are awarded a judgment, you will need to take steps to collect that money. Learn more about collecting the judgment in the “Instructions for Small Claims cases” [here](https://courts.mt.gov/forms/civilforms#6980141-small-claims)."
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
-      - "Step 1: You must file a written appeal with the justice court within 10 days after the judge’s order is signed, pay the required fee, and complete any other procedures that are necessary."
-      - "Step 2: Attend your hearing date at the District Court. The District Court will not let you introduce any new evidence or witnesses. Instead, the judge will only decide whether the small claims case was decided correctly on the legal points."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**Step 1:** You must file a written appeal with the justice court within 10 days after the judge’s order is signed, pay the required fee, and complete any other procedures that are necessary."
+      - "**Step 2:** Attend your hearing date at the District Court. The District Court will not let you introduce any new evidence or witnesses. Instead, the judge will only decide whether the small claims case was decided correctly on the legal points."
     resources:
       - "[Montana Small Claims Court forms](https://courts.mt.gov/forms/civilforms#6980141-small-claims)"
       - "[Another source of montana Small Claims Court forms](https://www.uslegalforms.com/smallclaims/montana/)"
@@ -176,37 +172,39 @@ resources:
   - resource_category: Civil Tort
     who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
     when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
-    time: The whole process will most likely take over a year. 
+    time: The whole process will most likely take over a year.
     cost: Hundreds or even thousands of dollars.
     likelihood: Your likelihood of success depends on several factors, including the evidence you are able to present, the judge or jury assigned to your case, and the attorney that represents you.
     safety: You will be required to appear in court on several occasions and will have to be in the same room as the person that harmed you.
-    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way. 
+    story: You will have to tell your story several times and will be questioned by the person that harmed you or their attorney. There will be professionals in the room to support you along the way.
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
-        
+
         * The name and address of the person that harmed you
-        
+
         * Date of the incident(s)
-        
+
         * Brief description of the incident(s)
-        
+
         * Itemized list of costs that resulted from the incident(s)
-        
+
         * Copies of important documents
-        
+
         * If you know it, the income / assets of the person that harmed you
-       
+
         * If you can, the type of claim you want to bring against the person that harmed you
 
     resources:
       - "[FIND-A-LAWYER Search Page- Montana State Bar Association](http://205.209.45.153/iabar/AttorneyOnLineMontana.nsf/srch?OpenForm)"
       - "[Browse Montana Attorneys by Practice Areas](https://www.martindale.com/by-location/montana-lawyers/)"
-      - "[Top Attorneys in Montana | Super Lawyers](https://attorneys.superlawyers.com/montana/)"
+      - "[Top Attorneys in Montana |
+ Super Lawyers](https://attorneys.superlawyers.com/montana/)"
       - "[Montana Legal Services Association: Home](https://www.mtlsa.org)"

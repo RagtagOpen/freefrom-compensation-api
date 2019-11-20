@@ -2,6 +2,7 @@ state: UT
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent of someone who was killed as the result of a crime.
 
 
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -55,41 +57,35 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You don’t need an attorney to apply.
     challenges:
-      - "The Police Must Be Involved: You must report the crime to the police and get a police report."
-      - "Not All Costs Are Covered: You can’t get compensated for property damage or pain and suffering."
+      - "**The Police Must Be Involved:** You must report the crime to the police and get a police report."
+      - "**Not All Costs Are Covered:** You can’t get compensated for property damage or pain and suffering."
     steps:
-      - "Step 1: Report the crime to the police and get a police report."
-      - "Step 2: Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Access an application online [here](https://justice.utah.gov/Crime/Comp/CVRApplication_English.pdf)."
+      - "**Step 1:** Report the crime to the police and get a police report."
+      - "**Step 2:** Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Access an application online [here](https://justice.utah.gov/Crime/Comp/CVRApplication_English.pdf)."
       - |
-          TIP: Applications are also available from:
+
+          **TIP:** Applications are also available from:
 
 
-          Utah Office for Victims of Crime
-
-          350 East 500 South, Suite 200, Salt Lake City, Utah 84111
-
-          Telephone: 801-238-2360 or 1-800-621-7444
-      - "Step 4: After carefully reading the instructions, fill out and sign the application and attach the police report and copies of itemized bills for every cost you are trying to get covered."
+          Utah Office for Victims of Crime<br />350 East 500 South, Suite 200, Salt Lake City, Utah 84111<br />Telephone: 801-238-2360 or 1-800-621-7444
+      - "**Step 4:** After carefully reading the instructions, fill out and sign the application and attach the police report and copies of itemized bills for every cost you are trying to get covered."
       - |
-        Step 5: Submit the completed application including the attachments by [email](mailto:crimevictims@utah.gov) or in person or by mail to:
+
+        **Step 5:** Submit the completed application including the attachments by [email](mailto:crimevictims@utah.gov) or in person or by mail to:
 
 
-        Utah Office for Victims of Crime
-
-        350 East 500 South, Suite 200
-
-        Salt Lake City, Utah 84111
-      - "TIP: If you need help completing the application, the Utah Office for Victims of Crime will help. Contact them via [email](mailto:crimevictims@utah.gov) or phone at (801) 238-2360."
+        Utah Office for Victims of Crime<br />350 East 500 South, Suite 200<br />Salt Lake City, Utah 84111
+      - "**TIP:** If you need help completing the application, the Utah Office for Victims of Crime will help. Contact them via [email](mailto:crimevictims@utah.gov) or phone at (801) 238-2360."
     what_to_expect:
       - You will receive confirmation that your application was received.
       - The Office for Victims of Crime will review your application to make sure all of the information you’ve included in it is true and accurate.
       - OVC may ask you for additional information or documents. If they do, respond as quickly as possible.
       - Your application will be approved or denied, and you will receive a written decision in the mail.
-      - "TIP: You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call OVC to update them with your new address at (801) 238-2360."
+      - "**TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, call OVC to update them with your new address at (801) 238-2360."
     what_if_i_disagree:
-      - "TIP: Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
+      - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - You must appeal the decision within **3 years** after you submitted your application (not 3 years from the date of the decision).
       - The Office for Victims of Crime will review your application and appeal materials and make a decision.
       - The decision after your appeal is final.
@@ -102,6 +98,7 @@ resources:
     cost: It is free of charge.
     likelihood: A County Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Lost or damaged property
@@ -118,6 +115,8 @@ resources:
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and /or at the sentencing hearing.
     story: |
 
+
+
       * You must share your story:
 
         * With the police when you report the crime; and
@@ -129,60 +128,64 @@ resources:
         * If the County Attorney asks you to testify in the criminal case or make a statement at the sentencing hearing.
 
     challenges:
-      - "There Must Be A Criminal Case: There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
-      - "Not All Costs Are Covered: You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
-      - "Collecting Restitution Can Be Challenging: Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
+      - "**There Must Be A Criminal Case:** There must be a criminal case against the person that harmed you, and that person must either plead guilty or be found guilty in court."
+      - "**Not All Costs Are Covered:** You cannot get compensation for punitive damages, pain and suffering, or emotional trauma."
+      - "**Collecting Restitution Can Be Challenging:** Even if the judge awards you restitution, it can be difficult to collect the money. You can ask the County Attorney assigned to your case for support."
     steps:
-      - "Step 1: Report the crime to law enforcement."
-      - "TIP: If the crime was already reported by someone else, you can skip Step 1."
-      - "Step 2: Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any other invoices or receipts for costs you had to pay as a result of the crime."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 3: Contact the office of the County Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
-      - "TIP: Find the location and contact information for the County Attorney in each county [here](https://upc.utah.gov/contacts-attorneys.php)."
-      - "Step 4: Share the information and documents you have gathered with the attorney assigned to your case."
-      - "Step 5: Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
-      - "Step 6: At the sentencing hearing, the County Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
-      - "TIP: Collecting criminal restitution can be challenging. Ask the attorney assigned to your case for support if you need help. [Here](http://www.webercountyutah.gov/Attorney/Victim_Witness/pdf/restitution.pdf) is a resource for more information."
+      - "**Step 1:** Report the crime to law enforcement."
+      - "**TIP:** If the crime was already reported by someone else, you can skip Step 1."
+      - "**Step 2:** Gather all the information and documents you have that relate to the crime or show your costs. For example: the police report, medical bills, and any other invoices or receipts for costs you had to pay as a result of the crime."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 3:** Contact the office of the County Attorney in the county where the crime took place and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution."
+      - "**TIP:** Find the location and contact information for the County Attorney in each county [here](https://upc.utah.gov/contacts-attorneys.php)."
+      - "**Step 4:** Share the information and documents you have gathered with the attorney assigned to your case."
+      - "**Step 5:** Stay in contact with the attorney assigned to your case to make sure that you are aware of important dates, including the sentencing hearing."
+      - "**Step 6:** At the sentencing hearing, the County Attorney assigned to your case will present evidence of your costs and ask the judge to award you criminal restitution."
+      - "**TIP:** Collecting criminal restitution can be challenging. Ask the attorney assigned to your case for support if you need help. [Here](http://www.webercountyutah.gov/Attorney/Victim_Witness/pdf/restitution.pdf) is a resource for more information."
     resources:
       - "[How to Obtain Your Restitution](http://www.webercountyutah.gov/Attorney/Victim_Witness/pdf/restitution.pdf)"
       - "[Utah Restitution Questions and Answers](https://www.royutah.org/DocumentCenter/View/284/Restitution-Questions-and-Answers-PDF)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for assault and battery within **4 years** of the wrongful action; for false imprisonment within **1 year** of the wrongful action; for personal injury within **4 years** of the injury; and for property damage within **3 years** of the damage.
 
-      TIP: Check out [this resource](https://statelaws.findlaw.com/utah-law/utah-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/utah-law/utah-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Justice Court in the county where the person that harmed you lives or where the harm happened.
 
-      TIP: Find the location and contact information for each Justice Court [here](https://www.utcourts.gov/howto/smallclaims/#where).
+      **TIP:** Find the location and contact information for each Justice Court [here](https://www.utcourts.gov/howto/smallclaims/#where).
 
-      TIP: Cache County does not have a county Justice Court. If the person that harmed you lives in Cache County, or if the harm happened in Cache County, file your claims in the District Court.
+      **TIP:** Cache County does not have a county Justice Court. If the person that harmed you lives in Cache County, or if the harm happened in Cache County, file your claims in the District Court.
     time: The whole process will generally take several weeks to several months.
     cost: |
+
       You are required to pay a filing fee, which rage from $60.00 to $185.00. You may also have to pay other fees to send your documents to the defendant.
 
-      TIP: If you can’t afford the fees, you may request a fee waiver by completing [this form](https://www.utcourts.gov/resources/forms/waiver/docs/1301GE_Motion_to_Waive_Fees_and_Statement_Supporting.pdf) and attaching proof of your income (pay stubs, bank statements, disability checks, EBT cards, etc.)
+      **TIP:** If you can’t afford the fees, you may request a fee waiver by completing [this form](https://www.utcourts.gov/resources/forms/waiver/docs/1301GE_Motion_to_Waive_Fees_and_Statement_Supporting.pdf) and attaching proof of your income (pay stubs, bank statements, disability checks, EBT cards, etc.)
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
     safety: You will most likely have to face the person that harmed  you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you get from court.
     challenges:
-      - "You Will Likely Have to Represent Yourself: You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
-      - "Collecting A Judgment Can Be Challenging: If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments [here](https://www.utcourts.gov/howto/judgment/)."
+      - "**You Will Likely Have to Represent Yourself:** You will most likely have to face the person that harmed you in court and will likely have to represent yourself."
+      - "**Collecting A Judgment Can Be Challenging:** If you win a judgment, you will have to collect the money from the person that harmed you which may be challenging. Read more about collecting judgments [here](https://www.utcourts.gov/howto/judgment/)."
     steps:
-      - "Step 1: Collect any and all documents and other evidence that support your claim and show the amount of your damages."
-      - "TIP: Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "Step 2: Locate the Justice Court in the county where the person that harmed you lives or where the harm occurred. This is where you will file all your paperwork."
-      - "TIP: Find the location and contact information for each Justice Court [here](https://www.utcourts.gov/howto/smallclaims/#where)."
-      - "TIP: Cache County does not have a county Justice Court. If the person that harmed you lives in Cache County, or if the harm happened in Cache County, file your claims in the District Court."
-      - "Step 3: Get a Small Claims Affidavit and Summons form from the clerk of the Justice Court."
-      - "Step 4: Complete the Affidavit and Summons form including the name and complete street address of the person that harmed you. Attach copies of documents that relate to what happened (for example, a police report) and show all of your costs (for example, medical bills)."
-      - "TIP: Make at least 3 copies of all the forms and attachments so that you will have enough to file with the court, send to the defendant, and keep for your records."
-      - "Step 5: Sign the Affidavit and Summons and file the forms and attachments with the clerk."
-      - "Step 6: Pay the filing fees. If you can’t afford the fees, you may request a fee waiver by completing [this form](https://www.utcourts.gov/resources/forms/waiver/docs/1301GE_Motion_to_Waive_Fees_and_Statement_Supporting.pdf) and attaching proof of your income (pay stubs, bank statements, disability checks, EBT cards, etc.)"
+      - "**Step 1:** Collect any and all documents and other evidence that support your claim and show the amount of your damages."
+      - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
+      - "**Step 2:** Locate the Justice Court in the county where the person that harmed you lives or where the harm occurred. This is where you will file all your paperwork."
+      - "**TIP:** Find the location and contact information for each Justice Court [here](https://www.utcourts.gov/howto/smallclaims/#where)."
+      - "**TIP:** Cache County does not have a county Justice Court. If the person that harmed you lives in Cache County, or if the harm happened in Cache County, file your claims in the District Court."
+      - "**Step 3:** Get a Small Claims Affidavit and Summons form from the clerk of the Justice Court."
+      - "**Step 4:** Complete the Affidavit and Summons form including the name and complete street address of the person that harmed you. Attach copies of documents that relate to what happened (for example, a police report) and show all of your costs (for example, medical bills)."
+      - "**TIP:** Make at least 3 copies of all the forms and attachments so that you will have enough to file with the court, send to the defendant, and keep for your records."
+      - "**Step 5:** Sign the Affidavit and Summons and file the forms and attachments with the clerk."
+      - "**Step 6:** Pay the filing fees. If you can’t afford the fees, you may request a fee waiver by completing [this form](https://www.utcourts.gov/resources/forms/waiver/docs/1301GE_Motion_to_Waive_Fees_and_Statement_Supporting.pdf) and attaching proof of your income (pay stubs, bank statements, disability checks, EBT cards, etc.)"
       - |
-        Step 7: The person you are suing must get a copy of the documents you’ve filed. You can deliver the documents by:
+
+        **Step 7:** The person you are suing must get a copy of the documents you’ve filed. You can deliver the documents by:
 
         * Personal service by the sheriff’s office
 
@@ -191,20 +194,20 @@ resources:
         * Service by mail.
 
 
-        [Here](https://www.utcourts.gov/howto/smallclaims/#serving_affidavit) is a good resource for more information.
-      - "Step 8: You will receive proof that the defendant received your documents. File that proof with the clerk of the Justice Court."
-      - "Step 9: The court will set a trial date for your case. Do not miss your trial date."
-      - "Step 10: Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
-      - "Step 11: Attend your court date. Bring your evidence and witnesses with you."
-      - "Step 12: Present your case, closely following any instructions given by the judge."
-      - "Step 13: Receive the judge’s order either at the end of the hearing or at a later date via mail."
-      - "Step 14: If you win your case, you will need to take steps to collect that money. Read more about collecting judgments [here](https://www.utcourts.gov/howto/judgment/)."
+      - "**TIP:** [Here](https://www.utcourts.gov/howto/smallclaims/#serving_affidavit) is a good resource for more information."
+      - "**Step 8:** You will receive proof that the defendant received your documents. File that proof with the clerk of the Justice Court."
+      - "**Step 9:** The court will set a trial date for your case. Do not miss your trial date."
+      - "**Step 10:** Prepare for your appearance in court by thinking about what you want to tell the judge, what evidence you want to present, and whether or not you want to bring witnesses."
+      - "**Step 11:** Attend your court date. Bring your evidence and witnesses with you."
+      - "**Step 12:** Present your case, closely following any instructions given by the judge."
+      - "**Step 13:** Receive the judge’s order either at the end of the hearing or at a later date via mail."
+      - "**Step 14:** If you win your case, you will need to take steps to collect that money. Read more about collecting judgments [here](https://www.utcourts.gov/howto/judgment/)."
     what_if_i_disagree:
-      - "TIP: Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
-      - "Step 1: You must file a notice of appeal in the Justice Court within 28 days after the date of the judge’s order. You must pay a filing fee unless the court waives the fee."
-      - "Step 2: After the notice of appeal is filed, the clerk of the District Court will schedule a new trial. You will receive notice of the new trial date."
-      - "Step 3: The new trial will be heard in the District Court in the same county where you filed your small claims case."
-      - "TIP: An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
+      - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
+      - "**Step 1:** You must file a notice of appeal in the Justice Court within 28 days after the date of the judge’s order. You must pay a filing fee unless the court waives the fee."
+      - "**Step 2:** After the notice of appeal is filed, the clerk of the District Court will schedule a new trial. You will receive notice of the new trial date."
+      - "**Step 3:** The new trial will be heard in the District Court in the same county where you filed your small claims case."
+      - "**TIP:** An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
     resources:
       - "[Basic Information on Small Claims Court](https://www.utcourts.gov/howto/smallclaims/)"
       - "[Rules for Small Claims Court in Utah](https://www.utcourts.gov/resources/rules/srpe/)"
@@ -220,10 +223,11 @@ resources:
     challenges:
       - A civil tort is a lengthy, complex process, and it can often be hard to find a lawyer. The person you are suing will need to have assets and income in order for you to actually recover any money.
     steps:
-      - "Step 1: Find an attorney you trust."
-      - "Step 2: If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
+      - "**Step 1:** Find an attorney you trust."
+      - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
-        TIP: You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
+
+        **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
 
