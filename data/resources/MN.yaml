@@ -2,6 +2,7 @@ state: MN
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if your family member was harmed as the result of a crime.
 
       Eligible crimes include:
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $50,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical and hospital bills
@@ -70,6 +72,7 @@ resources:
       - "**Step 3:** After carefully reading the instructions, complete an application. You can find an application online in English [here](https://dps.mn.gov/divisions/ojp/forms-documents/documents/Reparations-claim-form-English.pdf) and in Spanish [here](https://dps.mn.gov/divisions/ojp/forms-documents/documents/Reparations-claim-form-Spanish.pdf). You can also request an application from the Minnesota Crime Victims Reparations Board by calling (651) 201-7300 or via email at [dps.justiceprograms@state.mn.us](mailto:dps.justiceprograms@state.mn.us)."
       - "**Step 4:** Sign and date the application and attach the police report and copies of bills for each expense you include in your application."
       - |
+
         Mail, email, or deliver in person the completed application along with any other documents to:
 
 
@@ -102,6 +105,7 @@ resources:
     cost: It is free of charge.
     likelihood: A County Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County Attorney of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -122,6 +126,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -157,16 +162,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court (also known as Conciliation Court in Minnesota) if you are 18 or older and the amount of money you are asking for is $15,000 or less.
     when: |
+
       You must file claims for assault and battery, false imprisonment, and personal injury within **2 years** of the wrongful conduct, and for property damage within **6 years** of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/minnesota-law/minnesota-civil-statute-of-limitations-laws.html) to see deadlines for other claims.
     where: |
+
       You must file your small claims case in the District Court in the county where the person that harmed you lives or where the harm happened.
 
       **TIP:** You can find the location and contact information for the District Court in each county using the map and dropdown menu [here](http://www.mncourts.gov/Find-Courts.aspx).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $15,000 or less.
     cost: |
+
       You are required to pay a filing fee ranging from $65-$85, depending on where you file. You can find the filing fees for every county [here](http://www.mncourts.gov/Find-Courts.aspx). Select where you’ll file under “County”, and “Conciliation” under “Fee Category.” You’ll find the filing fee under “First Paper Filed.” You will most likely also have to pay fees to deliver your documents to the person you are suing.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing an Affidavit of Inability to Pay Conciliation Court Filing Fee. It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.). You can find the Affidavit online [here](http://mncourts.gov/Help-Topics/Fee-Waiver-IFP.aspx) or request one from the Court Administrator of the District Court.
@@ -220,6 +228,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

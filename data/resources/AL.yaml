@@ -2,6 +2,7 @@ state: AL
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a violent crime or if you are the dependent of someone who was killed as the result of a crime.
 
       Elligible crimes include:
@@ -29,6 +30,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $20,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -89,6 +91,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get reimbursed for expenses including for the following expenses:
 
       * Lost or damaged property
@@ -110,6 +113,7 @@ resources:
         * **Human Trafficking Victims:** Any profits that the wrongdoer earned through human trafficking shall be used to pay restitution to victims.
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -143,10 +147,12 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less.
     when: |
+
       You must file claims for false imprisonment, assault, and battery within **6 years** of the wrongful conduct, and for personal injury within **2 years** of the injury.
 
       **TIP:** Check out [this resource](https://www.lawyers.com/legal-info/research/alabama/alabama-statutes-of-limitations.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Small Claims Division of the District Court in the county where the person that harmed you lives or has an office.
       **TIP:** You can find the location and contact information for the District Court in each county [here](https://ballotpedia.org/Alabama_District_Courts).
     time: The whole process generally takes several weeks to several months.
@@ -175,6 +181,7 @@ resources:
       - "**Step 10:** Present your case, closely following any directions given by the judge."
       - "**Step 11:** Receive the judge’s order either at the end of the hearing or later in the mail."
       - |
+
         **Step 12:** If the judge awards you a judgment, the defendant has 14 days to pay you. It is your responsibility to collect the compensation if the defendant does not pay voluntarily. There are two ways to try to collect your compensation (both ways require you to pay a fee):
 
         * [Writ of Execution](http://eforms.alacourt.gov/Civil%20Forms/Writ%20of%20Execution.pdf)  - allows the sheriff to seize property belonging to the wrongdoer.
@@ -202,6 +209,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
           * Your name and address

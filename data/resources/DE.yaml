@@ -2,6 +2,7 @@ state: DE
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you lived with a family member and witnessed domestic violence.
 
       Eligible crimes include:
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: Generally, you can receive up to $25,000 for your expenses. If the crime left you permanently and totally disabled, you can receive up to $50,000.
     covered_expenses: |
+
       You can get compensated for the following expenses:
 
       * Medical expenses
@@ -65,6 +67,7 @@ resources:
       - "**Step 4:** After carefully reading the instructions, fill out the application and attach the police report and copies of bills for each expense you include in your application."
       - "**Step 5:** Sign the application in front of a witness. The witness will also sign the form. The witness can be anyone over 18 who knows you."
       - |
+
         **Step 6:** Submit the completed application and other required forms and documents (police reports, medical bills, etc.) in person or by mail to:
 
 
@@ -90,6 +93,7 @@ resources:
     cost: It is free of charge.
     likelihood: An Assistant Attorney General will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the prosecuting attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Property loss or damage
@@ -103,6 +107,7 @@ resources:
       * Other out-of-pocket losses resulting from the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and/or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -136,16 +141,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file a claim in front of the Justice of the Peace (small claims courts in Delaware) if you are 18 or older and the amount of money you are asking for is $15,000 or less.
     when: |
+
       You must file claims for property damage, personal injury, and assault within **2 years** of the wrongful conduct.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/delaware-law/delaware-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       File your case in the Justice of the Peace Court in the county where the person who harmed you lives or where the harm occurred.
 
       **TIP:** Find the locations of all the Justice of the Peace Courts [here](https://www.courts.delaware.gov/locations/court.aspx).
     time: The whole process will generally take several months.
     covered_expenses: The total amount you are seeking must be $15,000 or less.
     cost: |
+
       You must pay a filing fee, which ranges from $35-$50. There are also other fees that you might have to pay as the case continues.
 
       **TIP:** Find the exact fee amounts [here](https://courts.delaware.gov/help/fees/jpfees.aspx#waiver).
@@ -153,6 +161,7 @@ resources:
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: |
+
       You can be represented by an attorney if you wish. But it’s important to keep in mind that the attorney may cost more than the amount of money you get from the court.
 
       **TIP:** If you can’t afford an attorney, find out more information about free legal assistance [here](https://www.courts.delaware.gov/help/legalassistance.aspx).
@@ -201,6 +210,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

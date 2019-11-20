@@ -2,6 +2,7 @@ state: MI
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as a result of a crime, or if you are the spouse, parent, grandparent, child, sibling, or grandchild of someone who was killed as a result of a crime.
 
       Eligible crimes include:
@@ -35,6 +36,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -70,6 +72,7 @@ resources:
       - "**Step 3:** After carefully reading the instructions, fill out [this](https://www.michigan.gov/documents/mdch/CVSC_Comp_App_10-11_379345_7.pdf) application. If you need assistance completing your application, call the toll free number 877-251-7373 or 517-373-7373."
       - "**Step 4:** Sign and date the application and attach the police report and copies of bills for each expense you include in your application."
       - |
+
         **Step 5:** Mail, fax or deliver in person the completed application along with any other documents to:
 
 
@@ -99,6 +102,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney  will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecuting Attorney  of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -119,6 +123,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -154,16 +159,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less.
     when: |
+
       You must file claims for false imprisonment within **2 years** of the incident; and for personal injury and property damage within **3 years** of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/michigan-law/michigan-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the small claims division of the district court in the county where the person that harmed you lives or where the harm occurred.
 
       **TIP:** Use the dropdown menu [here](https://courts.michigan.gov/self-help/directories/pages/trial-court-directory.aspx) to locate the proper District Court.
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $6,000 or less. You cannot bring claims for slander, libel, assault, battery, fraud, or intentional misconduct.
     cost: |
+
       You are required to pay a filing fee ranging from $30-$70. There are also fees you must pay to deliver your documents to the defendant. However, these fees can be waived.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing [this form](https://michiganlegalhelp.org/self-help-tools/going-court/do-it-yourself-fee-waiver). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.).
@@ -215,6 +223,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

@@ -2,6 +2,7 @@ state: MO
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if your family member was killed as the result of a crime.
 
       Eligible crimes include: any crime that involves violence or the threat of violence.
@@ -11,6 +12,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -40,6 +42,7 @@ resources:
       - "**Step 3:** After carefully reading [these instructions](https://dps.mo.gov/dir/programs/cvc/documents/application-instructions.pdf) and [this checklist](https://dps.mo.gov/dir/programs/cvc/documents/checklist.pdf), fill out [this application](https://dps.mo.gov/dir/programs/cvc/documents/812-1321.pdf) and attach a police report, restraining order, or sworn statement along with bills for every cost you include."
       - "**Step 4:** Sign the application."
       - |
+
         **Step 5:** Submit the completed application online or by mail to:
 
 
@@ -65,6 +68,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecuting Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -83,6 +87,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -115,16 +120,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less. If you are under 18, an adult must help you file.
     when: |
+
       When: You must file claims for assault and battery within **2 years** of the assault or battery, and for personal injury or property damage within **5 years** of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/missouri-law/missouri-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Circuit Court in the county where the person that harmed you lives.
 
       **TIP:** You can find the location and contact information for the Circuit Court in each county using the “Find a Court” function [here](https://www.courts.mo.gov).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $5,000 or less.
     cost: |
+
       You are required to pay a fee to file your case. These fees range from $17-$50.  There are also fees ranging from $10-$36 to deliver the documents you file to the defendant. These fees can be waived. See the “How-to” section below for more details.
 
       **TIP:** You can find the specific fees in the county where you’re filing by searching the county [here](https://www.courts.mo.gov) and searching the local rules located under the “Local Rules & Filing Information” tab.
@@ -175,6 +183,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
@@ -195,5 +204,6 @@ resources:
 
     resources:
       - "[Find a Lawyer-Missouri Lawyers Help](http://missourilawyershelp.org/find-lawyer/)"
-      - "[Finding a Lawyer | Division of Legal Services](https://dss.mo.gov/dls/find-a-lawyer.htm)"
+      - "[Finding a Lawyer |
+ Division of Legal Services](https://dss.mo.gov/dls/find-a-lawyer.htm)"
       - "[Find a Lawyer - The Missouri Bar](http://www.mobar.org/forthepublic/findalawyer.htm)"

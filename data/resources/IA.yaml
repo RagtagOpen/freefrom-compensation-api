@@ -2,6 +2,7 @@ state: IA
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if your spouse, child, parent or sibling was killed as the result of a crime.
 
       Eligible crimes include:
@@ -35,6 +36,7 @@ resources:
     cost: It is free to apply.
     award:  Iowa has maximum awards based on expense type. You can find a list of the maximum award amounts [here](https://www.iowaattorneygeneral.gov/for-crime-victims/crime-victim-compensation-program/crime-victim-compensation-facts) under “What are Covered Costs?”
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical costs
@@ -65,6 +67,7 @@ resources:
       - "**Step 4:** After carefully reading the instructions, fill out the application. Attach the police report and copies of bills for each expense you include in your application."
       - "**Step 5:** Sign the Repayment and Subrogation Agreement and the Medical & Mental Health Information Releases."
       - |
+
         **Step 6:** Submit the completed application including any other required forms and documents through the online portal or by mail to:
 
 
@@ -89,6 +92,7 @@ resources:
     cost: It is free of charge.
     likelihood: A County Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -107,6 +111,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -139,10 +144,12 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,500 or less.
     when: |
+
       You must file claims for personal injury within **2 years** of the injury and for property damage within **5 years** of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/iowa-law/iowa-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       Where: You must file your small claims case in the Small Claims Division of the District Court that serves the county where the person that harmed you lives.
 
       **TIP:** Find the location of the District Court in each county [here](https://www.iowacourts.gov/iowa-courts/district-court).
@@ -196,6 +203,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

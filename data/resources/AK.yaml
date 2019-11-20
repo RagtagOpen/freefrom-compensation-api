@@ -2,6 +2,7 @@ state: AK
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime, or if you are the legal dependent or family member of someone who was killed as the result of a crime.
 
       Eligible crimes include:
@@ -35,10 +36,12 @@ resources:
     cost: It is free to apply.
     award: |
 
+
       * If you were injured, you can receive up to $40,000 for your expenses.
 
       * If your parent or legal guardian was killed, you can receive up to $80,000 for yoru expense.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -72,10 +75,11 @@ resources:
       - "**Step 3:** After carefully reading the instructions, fill out [this application](http://doa.alaska.gov/vccb/pdf/application.pdf) on your own or work with a lawyer. Depending on what type of costs you are trying to get covered, you may have to fill out additional forms. You can review the additional forms [here](http://doa.alaska.gov/vccb/victims/eligibility.html) by selecting them under “Claim Documentation Forms.”"
       - "**Step 4:** Sign and date Sections 11 and 12 of the application."
       - |
+
         **Step 5:** Submit your completed application and other documents through the [online portal](https://aws.state.ak.us/VccbOnline/Default.aspx), by e-mail at doa.vccb@alaska.gov, fax to 907-465-2379, or mail to:
 
 
-        Alaska VCCB<br /|P.O. Box 110230<br /|Juneau, Alaska 99811
+        Alaska VCCB<br />P.O. Box 110230<br />Juneau, Alaska 99811
       - "**TIP:** Remember, **your application must be received within 2 years after the crime occurred.** It’s a good idea to follow up with a phone call to confirm that your application was received."
       - "**TIP:** You can get help filling out the application by calling 1-800-764-3040, or by contacting victim advocates at local shelters, victim-witness paralegals at any prosecutor’s office, or witness coordinators at local police departments."
     what_to_expect:
@@ -95,6 +99,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -110,6 +115,7 @@ resources:
       * Other out-of-pocket expenses that are directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at  the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -146,11 +152,13 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file most claims for personal injury and assault and battery within **2 years** of the injury; and for misdemeaor sexual abuse or assault within **3 years** of the date of the assault.
 
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/alaska-law/alaska-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Alaska District Court in the county where the person that harmed you lives or works.
 
 
@@ -206,6 +214,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

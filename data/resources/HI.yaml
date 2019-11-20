@@ -2,6 +2,7 @@ state: HI
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a violent crime or if you are the legal dependent of someone who was killed as the result of a crime.
 
       Eligible crimes include:
@@ -27,6 +28,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $10,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -56,6 +58,7 @@ resources:
       - "**Step 4:** After carefully reading the instructions, complete a [Medical Authorization Form](https://dps.hawaii.gov/cvcc/files/2019/07/Medical-Authorization.pdf) for each and every doctor, hospital, or other health care provider you saw as a result of the incident."
       - "**Step 5:** If you are claiming lost wages, you must fill out the top portion of the [Employment Authorization Form](https://dps.hawaii.gov/cvcc/files/2019/07/Lost-Earnings-1.pdf) and then give it to your employer. Your employer must complete and return the form to the Crime Victim Compensation Commission."
       - |
+
         **TIP:** You can also request forms from the Crime Victim Compensation Commission by calling (808) 587-1143 or from the neighbor islands:
 
         * Hawai‘i County (808) 974-4000, x71143
@@ -66,6 +69,7 @@ resources:
 
         * Moloka‘i/Lāna‘i 1-800-468-4644, x71143
       - |
+
         **Step 6:** Mail or deliver the completed application in person along with any other documents to:
 
 
@@ -78,6 +82,7 @@ resources:
       - The Commission might ask you for more information. If so, respond with the requested information or documents as soon as possible.
       - The Commission will approve or deny your application and send you a written decision in the mail.
       - |
+
         **TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, contact the Commission to let them know. You can contact the Commission via [email](mailto:cvcc@hawaii.rr.com) or by calling (808) 587-1143 or from the neighbor islands:
 
         * Hawai‘i County (808) 974-4000, x71143
@@ -103,6 +108,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing and / or restitution hearing. The more evidence you can give the Prosecuting Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical costs
@@ -115,6 +121,7 @@ resources:
 
     safety: You may have to testify in front of the defendant as part of the criminal case and/or at the restitution hearing.
     story: |
+
 
 
       * You must share your story:
@@ -149,16 +156,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to bring claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must bring claims for assault, personal injury, or property damage within **2 years** of the wrongful conduct.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/hawaii-law/hawaii-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in person at the District Court Legal Documents Branch on the island where the person that harmed you lives or where the harm occurred.
 
       **TIP:** You can find the location and contact information for the proper District Court on your island [here](https://www.courts.state.hi.us/general_information/contact/contact_information) under “Contact Us” by clicking the island or circuit where the person that harmed you lives or where the harm occurred.
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $5,000 or less.
     cost: |
+
       You will have to pay a filing fee of $35. You may also have to pay fees to deliver your documents to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. Visit this [Court Forms](https://www.courts.state.hi.us/self-help/courts/forms/court_forms) page, select “District Court Civil Claims” under the location where you’ll be filing, and download and complete the “Cost Relief From Filing Fees” form. It’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.).
@@ -208,6 +218,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

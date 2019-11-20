@@ -2,6 +2,7 @@ state: MS
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you are a parent, spouse, or child of someone who died as the result of a crime.
 
       Eligible crimes include:
@@ -33,6 +34,7 @@ resources:
     cost: There may be a cost to notarize and mail the application form, but otherwise it is free to apply.
     award: You can receive up to $20,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -63,6 +65,7 @@ resources:
       - "**Not All Costs Are Covered:** You cannot get reimbursed for property damage, pain and suffering, or attorneys fees."
       - |
 
+
         **A Criminal Record Might Disqualify You:**
 
 
@@ -82,6 +85,7 @@ resources:
       - "**Step 4:** Attach the police report and copies of bills for each expense you include in your application."
       - "**Step 5:** Sign page 4 of the application in front of a notary. Signing the application without a notary will delay the application process."
       - |
+
         Mail, or fax the completed application along with any other documents to the address listed on the application to:
 
 
@@ -108,6 +112,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the better the likelihood that you will get reimbursed.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -124,6 +129,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -156,10 +162,12 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court (also referred to as “Justice Courts” in Mississippi) if you are 18 or older and the amount of money you are asking for is $3,500 or less.
     when: |
+
       You must file claims for assault within **2 years** of the assault; and for personal injury and property damage within **3 years** of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/mississippi-law/mississippi-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Justice Court in the county where the person who harmed you lives or where the injury occurred.
 
       **TIP:** Find the location of the Justice Court in each county [here](https://ballotpedia.org/Mississippi_Justice_Courts).
@@ -213,6 +221,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

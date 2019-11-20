@@ -2,6 +2,7 @@ state: ID
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime.
 
       Eligible crimes include:
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical and hospital bills
@@ -57,6 +59,7 @@ resources:
       - "**Step 3:** After carefully reading the instructions, complete an Application. You can find the application online [here](https://crimevictimcomp.idaho.gov/wp-content/uploads/sites/17/2017/08/cv_cvcp_app_2012.pdf). You can also request an application from the Crime Victims Compensation Program by calling (208) 334-6080."
       - "**Step 4:** Sign and date the application and attach the police report and copies of bills for each expense you include in your application."
       - |
+
         **Step 5:** Mail or deliver the application in person to:
 
 
@@ -82,6 +85,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecuting Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -99,6 +103,7 @@ resources:
       * Other out-of-pocket costs directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -131,16 +136,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must file claims for assault and battery, false imprisonment, and personal injury within 2 years of the wrongful conduct, and for property damage within 3 years of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/idaho-law/idaho-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Magistrate Court in the county where the person that harmed you lives or where the harm happened.
 
       **TIP:** You can find the location and contact information for the Magistrate Court in each county [here](https://ballotpedia.org/Idaho_Magistrate_Division).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $5,000 or less.
     cost: |
+
       You are required to pay a $69 fee to file your claims, plus fees to send your documents to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. Find out more about how to request a waiver [here](https://www.idaholegalaid.org/node/1134/fee-waiver).
@@ -194,6 +202,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

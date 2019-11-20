@@ -2,6 +2,7 @@ state: WA
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a violent crime.
 
       Eligible crimes include:
@@ -35,6 +36,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $190,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -66,6 +68,7 @@ resources:
       - "**Step 3:** You can apply for compensation online or by mail. To apply online, use the online portal [here](https://secure.lni.wa.gov/cvbenefits/). To apply by mail, download an application [here](https://lni.wa.gov/forms-publications/F800-042-000.pdf), or request an application from the Crime Victims Compensation Program. Contact CVC via phone at (360) 902-5333 or via email at [CrimeVictimsProgramM@Lni.wa.gov](mailto:CrimeVictimsProgramM@Lni.wa.gov)."
       - "**Step 4:** After carefully reading the instructions, complete and sign the application and attach (or if applying online, upload) copies of the police report and bills for each expense you include in your application."
       - |
+
         **Step 5:** Submit your application and all attachments online through the online portal or via mail to:
 
 
@@ -77,6 +80,7 @@ resources:
       - "CVC staff may ask you for more information or documents. If they do, respond as soon as possible."
       - "CVC will approve or deny your application and will send you a written decision."
       - |
+
         **TIP:** You will be receiving important information in the mail, so make sure to keep your address up to date. If your address changes after you submit your application, send a written address change request to CVC including the following information:
 
         * Name
@@ -102,6 +106,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecuting Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -119,6 +124,7 @@ resources:
       * Other out-of-pocket costs directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -150,16 +156,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must file claims for assault, battery, and false imprisonment within 2 years of the wrongful conduct, and for personal injury and property damage within 3 years of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/washington-law/washington-statutes-of-limitations.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the small claims division of the District Court in the county where the person that harmed you lives or where the harm happened.
 
       **TIP:** You can find the location and contact information for the District Court in each county [here](http://www.courts.wa.gov/court_dir/?fa=court_dir.county), or search by city [here](http://www.courts.wa.gov/court_dir/?fa=court_dir.city).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $5,000 or less.
     cost: |
+
       You will have to pay a filing fee, which ranges from $14-$29 depending on which county you file in. You may have to pay some additional fees to deliver your documents to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](https://www.washingtonlawhelp.org/files/C9D2EA3F-0350-D9AF-ACAE-BF37E9BC9FFA/attachments/391C2AF3-FF05-D3E8-D395-506D8E1CAD98/3245en_filing-fee-waiver-general-info.pdf) is a great resource with instructions on how to ask the court for a waiver and links to the proper forms.
@@ -214,6 +223,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

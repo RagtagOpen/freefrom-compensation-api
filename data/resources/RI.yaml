@@ -2,6 +2,7 @@ state: RI
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you or a family member were harmed as the result of a violent crime.
 
       Eligible crimes include:
@@ -33,6 +34,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -64,6 +66,7 @@ resources:
       - "**TIP:** If you need help completing your application, contact the Crime Victim Compensation Program for support. Contact the Program by phone at (401) 462-7655 or via [email](mail to:crimevictims@treasury.ri.gov) at crimevictims@treasury.ri.gov."
       - "**Step 4:** Sign the last page of the application and attach the police report and copies of bills for each expense you include in your application."
       - |
+
         **Step 5:** Submit the completed application including any attachments to:
 
 
@@ -89,6 +92,7 @@ resources:
     cost: It is free of charge.
     likelihood: An Assistant Attorney General will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the prosecuting attorney of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical and dental bills
@@ -105,6 +109,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -136,20 +141,24 @@ resources:
       - "[State of Rhode Island - Restitution](http://www.riag.ri.gov/CriminalUnit/VictimServicesUnit.php)"
   - resource_category: Small Claims Court
     who: |
+
       You are eligible to file claims in small claims court if you are 18 or older, the amount of money you are asking for is $2,500 or less, and you have a claim based on a contract, a retail sale, or service.
 
       ****TIP:** You can only bring a claim against the person that harmed you in Rhode Island small claims court if that person somehow breached an oral or written contract they had with you.**
     when: |
+
       You must file claims for breach of contract for the sale of goods within **4 years** of the breach, and for general breach of contract claims within **10 years** of the breach.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/rhode-island-law/rhode-island-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the District Court in the county division where the person that harmed you lives.
 
       **TIP:** Find the location and contact information for each District Court [here](https://www.courts.ri.gov/Courts/districtcourt/PDF/District-HomeDivisonsandContacts.pdf).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $2,500, **and your claim must be related to a breached contract (oral or written).**
     cost: |
+
       You must pay fees of at least $75, and additional fees may apply depending on how you choose to have your documents delivered to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](https://www.courts.ri.gov/PublicResources/forms/District%20Court%20Forms/Motion,%20Affidavit,%20and%20Order%20to%20Proceed%20In%20Forma%20Pauperis.pdf) is a great resource with the required forms and instructions on how to complete them. It’s a good idea to provide proof of your income (bank statements, pay stubs, EBT card, disability checks).
@@ -200,6 +209,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

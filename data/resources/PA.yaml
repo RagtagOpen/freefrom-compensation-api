@@ -2,6 +2,7 @@ state: PA
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime.
 
       Eligible crimes include:
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $35,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -64,6 +66,7 @@ resources:
       - "**TIP:** You can get help completing your application by working with your local Victim Service Program. Find the program in your county [here](https://pcv.pccd.pa.gov/available-services/Pages/Interactive-Map.aspx)."
       - "**Step 4:** After carefully reading the instructions, complete and sign the application and attach (or if applying online, upload) copies of the police report, restraining order, and bills for each expense you include in your application."
       - |
+
         **Step 5:** Submit your application and all attachments online through the online portal or via mail to:
 
 
@@ -96,6 +99,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -114,6 +118,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -147,16 +152,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $12,000 or less.
     when: |
+
       You must file claims for assault and battery, false imprisonment, personal injury, and property damage within **2 years** of the wrongful conduct or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/pennsylvania-law/pennsylvania-statutes-of-limitations.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Magisterial District Court in the county where the person that harmed you lives or where the harm happened.
 
       **TIP:** Find the Magisterial District Court in each county [here](https://ballotpedia.org/Pennsylvania_Magisterial_Districts).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $12,000 or less.
     cost: |
+
       You will have to pay a filing fee which varies depending on the amount of money you are asking for and ranges from $40-$80. There may also be additional fees to cover the cost of delivering copies of the documents you file to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court to waive them. [Here](https://www.palawhelp.org/resource/petition-to-waive-court-costs-2) is a great resource with the required form and assistance in completing it.
@@ -209,6 +217,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

@@ -2,6 +2,7 @@ state: ME
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a violent crime or if you are the legal dependent or family member of someone who was killed as the result of a crime.
 
       Eligible crimes include:
@@ -25,6 +26,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $15,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -58,6 +60,7 @@ resources:
       - "**Step 4:** Attach the police report and copies of bills for each expense you include in your application."
       - "**Step 5:** Sign and date **both** the medical Release and the Agreement and Warning on page 2 of the application."
       - |
+
         **Step 6:** Mail or deliver in person the completed application along with any other documents to:
 
 
@@ -84,6 +87,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecutorial District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecutorial District Attorney of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Counseling costs
@@ -102,6 +106,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -134,16 +139,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less.
     when: |
+
       You must file claims for assault, battery, and false imprisonment within **2 years** of the date of the wrongful action; and for personal injury and property damage within **6 years** of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/maine-law/maine-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the District Court in the county where the person that harmed you lives or where the harm happened.
 
       **TIP:** You can find the location of the District Court in each county [here](https://www.courts.maine.gov/maine_courts/district/index.shtml).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $6,000.00 or less.
     cost: |
+
       The fee to file a case is $70 and the fee to request a hearing to discover the defendant’s assets (called a disclosure hearing) is $30.
 
       **TIP:** If you can’t afford to pay the fees, you can ask for a waiver by completing and filing [this form](https://www.courts.maine.gov/fees_forms/forms/pdf_forms/cv/CV-067,%20App%20to%20Proceed%20without%20Fee,%20Rev.%2003_13.pdf).
@@ -151,6 +159,7 @@ resources:
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: |
+
       You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
 
       **TIP:** Still have questions? [Here](https://courts.maine.gov/maine_courts/small_claims/sc-guide.pdf)  is a great resource to find out more.
@@ -166,6 +175,7 @@ resources:
       - "**Step 4:** File the Statement of Claim Form and all attachments with the court and pay the filing fee."
       - "**TIP:** If you can’t afford to pay the fees, you can ask for a waiver by completing and filing [this form](https://www.courts.maine.gov/fees_forms/forms/pdf_forms/cv/CV-067,%20App%20to%20Proceed%20without%20Fee,%20Rev.%2003_13.pdf)."
       - |
+
         **Step 5:** The defendant must get a copy of your Statement of Claim form. You can do this in any of the following ways:
 
         * Clerk’s Office Service: You can have the clerk’s office send the Statement of Claim to the defendant. You will have to fill out a [form](https://www.courts.maine.gov/fees_forms/forms/pdf_forms/sc/SC-006,%20Aff%20&%20Req%20for%20Service,%20Rev.%2006.14.pdf) and pay a fee.
@@ -208,6 +218,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

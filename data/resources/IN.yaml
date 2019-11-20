@@ -2,6 +2,7 @@ state: IN
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were physically or emotionally harmed as the result of a violent crime or if you are the parent, spouse, or child of someone killed as the result of a crime.
 
       Eligible crimes include:
@@ -32,12 +33,14 @@ resources:
     where: You are eligible to apply if the crime happened in Indiana.
     when: The application must be _received_ within **180 days** (just under 6 months) after the date of the crime. If you did not submit your application within 180 days after the crime, you can file within 2 years of the crime. You must explain in your application why you waited to submit it.
     time: |
+
       On average, it takes 3 months for an application to be approved or denied.
 
       **TIP:** After you apply, you can check the status of your application [here](https://vcc.cji.in.gov/Public/Login.aspx?Avx=5) using your claim number and four-digit pin, or by calling 1-800-353-1484.
     cost: It is free to apply.
     award: You can receive up to $15,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -71,6 +74,7 @@ resources:
       - "**Step 3:** You can apply online [here](https://vcc.cji.in.gov/Application/NewApplicationVictim.aspx), download an application [here](https://www.in.gov/cji/2333.htm), or request an application by contacting your local law enforcement agency or the Victim Services department of you county prosecutor’s office."
       - "**Step 4:**   After carefully reading the instructions, fill out and sign or electronically sign the application."
       - |
+
         **Step 5:** Submit your completed and signed application online, in person, or by mail to:
 
 
@@ -99,6 +103,7 @@ resources:
     cost: It is free of charge.
     likelihood: A County Prosecutor will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County Prosecutor of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical costs
@@ -117,6 +122,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and/or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -148,6 +154,7 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less ($8,000 or less in Marion County).
     when: |
+
       You must file claims for personal injury and personal property damage within 2 years of the date of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/indiana-law/indiana-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
@@ -159,6 +166,7 @@ resources:
     safety: You will most likely have to face the person who harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and what those injuries cost you.
     attorney: |
+
       You can be represented by an attorney if you wish. But it’s important to keep in mind that the attorney may cost more than the amount of money you receive from the court.
 
       **TIP:** Still have questions? You can view an informational video [here](https://www.in.gov/judiciary/3966.htm) to find out more.
@@ -208,6 +216,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

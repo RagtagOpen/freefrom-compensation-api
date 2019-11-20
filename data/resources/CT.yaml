@@ -2,6 +2,7 @@ state: CT
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent or family member of someone that was killed as the result of a crime.
 
       Eligible crimes include:
@@ -38,10 +39,12 @@ resources:
     award: |
 
 
+
       * If You Were Injured: You can receive up to $15,000 for physical injuries, and $5,000 for emotional injuries.
 
       * If Your Family Member Was Killed: You can receive up to $25,000 to cover costs related to their death.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical services
@@ -63,11 +66,13 @@ resources:
     safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: |
+
       You do not need an attorney to apply.
 
       **TIP:** You can go to the hospital and get a sexual assault forensic examination at no cost even if you do not report the sexual assault.  Your information will be kept confidential and no one other than the hospital will have your name.
     challenges:
       - |
+
         **You Must Report the Crime:**
 
         * **If you experienced domestic violence, sexual assault, child abuse, or human trafficking:** You must report the crime to a medical provider, mental health provider, school personnel, advocate, or domestic violence or sexual assault counselor; **or** have a civil protective order or forensic sexual assault exam.
@@ -75,6 +80,7 @@ resources:
         * **For other crimes:** You must report the crime to the police within **5 days** of the incident and get a police report.
       - "**You must cooperate with the police:** You must cooperate with the police during the investigation, and with anyone reviewing and investigating your application."
       - |
+
         **Not All Costs Are Covered:**
 
 
@@ -91,6 +97,7 @@ resources:
         * Attorney's fees
     steps:
       - |
+
         **Step 1:** You must report the crime:
 
         * **If you experienced domestic violence, sexual assault, child abuse, or human trafficking:** Report the crime to a medical or mental health provider, school personnel, advocate, or domestic violence or sexual assault counselor; **or** get a civil protective order or forensic sexual exam.
@@ -100,6 +107,7 @@ resources:
       - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
       - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
       - |
+
         **Step 3:** You must complete an application. Connecticut has different applications depending on what type of injuries you’ve experienced. Access applications for:
 
         * Physical injuries [here](https://www.jud.ct.gov/webforms/forms/vs008PI.pdf)
@@ -110,6 +118,7 @@ resources:
       - "**TIP:** You can also get applications by contacting the Victim Compensation Program by phone at 1-888-286-7347, or email at [OVSCompesation@jud.ct.gov](mailto:OVSCompesation@jud.ct.gov)."
       - "**Step 4:** After carefully reading the instructions, complete and sign the proper application(s) and attach copies of documents that relate to the crime (for example, a police report or statement from a domestic violence counselor) and bills for each expense you include in your application(s)."
       - |
+
         **Step 5:** Submit the application in person, via mail, or via email to:
 
         Office of Victim Services<br />Victim Compensation Unit<br />225 Spring Street, 4th Floor<br />Wethersfield, CT 06109<br />Fax: 860-263-2780<br />Email: [OVSCompensation@jud.ct.gov](mailto:OVSCompensation@jud.ct.gov)
@@ -136,6 +145,7 @@ resources:
     cost: It is free of charge.
     likelihood: A State’s Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the State's Attorney of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -151,6 +161,7 @@ resources:
       * Other costs directly related to the crime.
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -183,16 +194,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must file claims for assault and battery, property damage, and false imprisonment within **3 years** of the wrongful conduct, and for personal injury within **2 years** of the injury.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/connecticut-law/connecticut-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Superior Court in the judicial district where you or the person that harmed you lives or where the harm happened.
 
       **TIP:** Find the location of the Superior Court in each town / city [here](https://www.jud.ct.gov/directory/directory/directions/smallclaims.htm).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $5,000 or less.
     cost: |
+
       You must pay a filing fee of $95.00. You may also have to pay fees to deliver your documents to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing [this form](https://www.jud.ct.gov/webforms/forms/CV120.pdf). You must sign the form in front of a notary, and it’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.).
@@ -244,6 +258,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
@@ -263,6 +278,7 @@ resources:
         * If you can, the type of claim you want to bring against the person that harmed you
     resources:
       - "[FindLaw - Connecticut Lawyers](https://lawyers.findlaw.com/lawyer/state/connecticut)"
-      - "[LegalMatch | Find the right Attorney in Connecticut](https://www.legalmatch.com/find/connecticut-lawyers.html)"
+      - "[LegalMatch |
+ Find the right Attorney in Connecticut](https://www.legalmatch.com/find/connecticut-lawyers.html)"
       - "[Attorney/ Firm Lookup- Connecticut Judicial Branch](https://www.jud.ct.gov/attorneyfirminquiry/AttorneyFirmInquiry.aspx)"
       - "[Find Lawyers and Law firms by practice area in Connecticut](https://www.hg.org/lawyer-connecticut.html)"

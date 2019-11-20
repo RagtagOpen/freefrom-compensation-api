@@ -2,6 +2,7 @@ state: MA
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a violent crime.
 
       Eligible crimes include:
@@ -37,6 +38,7 @@ resources:
     cost: It is free to apply.
     award: Generally, you can receive up to $25,000 for your expenses. If the crime left you permanently and totally disabled, you can receive up to $50,000.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -73,6 +75,7 @@ resources:
       - "**Step 3:** After carefully reading the instructions, fill out [this application](https://www.mass.gov/files/documents/2019/04/02/application%20for%20web%20040119.pdf) on your own or work with a [lawyer](https://massclavc.org/other-help/) or a local [Victim Witness Assistance Program](https://massclavc.org/other-help/)."
       - "**Step 4:** Fill out the entire application and attach copies of any documents that show the costs you’ve included in your application. Once you are certain everything is accurate and complete, sign the box at the top of page 1."
       - |
+
         **Step 5:** Submit the completed application and attached documents in person or by mail to:
 
 
@@ -102,6 +105,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -120,6 +124,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -154,10 +159,12 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $7,000 or less.
     when: |
+
       You must file a claim for personal injury or property damage within **3 years** of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/massachusetts-law/massachusetts-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
 
 
       * **In-Person Filing**: You can file your small claims case in person in the District Court in the county where the person that harmed you lives or, if you or the person that harmed you live in Boston, in the Boston Municipal Court in your / their neighborhood. Find the locations for the Massachusetts District Courts [here](https://www.mass.gov/orgs/district-court/locations?_page=1), and for the Boston Municipal Courts [here](https://www.mass.gov/orgs/boston-municipal-court/locations?_page=1).
@@ -170,6 +177,7 @@ resources:
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured or otherwise damaged and how much those injuries and damage cost you.
     attorney: |
+
       You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
 
       **TIP:** Still have questions? [Here](http://www.lawv.net/Resources/Self-Help-Library/Representing-Yourself/Going-to-Magistrate-Court-How-to-file-your-own-civil-case#1) is a great resource to find out more.
@@ -215,6 +223,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
@@ -234,7 +243,8 @@ resources:
         * If you can, the type of claim you want to bring against the person that harmed you
 
     resources:
-      - "[Finding a lawyer | Mass.gov](https://www.mass.gov/info-details/finding-a-lawyer)"
+      - "[Finding a lawyer |
+ Mass.gov](https://www.mass.gov/info-details/finding-a-lawyer)"
       - "[Find an Attorney in Massachusetts](https://www.martindale.com/by-location/massachusetts-lawyers/)"
       - "[Massachusetts State Bar Association - Lawyer Search](https://www.massbar.org/search)"
       - "[Legal Match - Top Rated Attorneys in Massachusetts](https://www.legalmatch.com/find/massachusetts-lawyers.html)"

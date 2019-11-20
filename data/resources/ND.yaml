@@ -2,6 +2,7 @@ state: ND
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a violent crime or if you are the legal dependent of someone who was killed as the result of a crime.
 
       Eligible crimes include:
@@ -33,6 +34,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical treatment
@@ -59,12 +61,14 @@ resources:
       - "**Step 2:** Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
       - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
       - |
+
         **Step 3:** Access the Crime Victim Compensation Application [here](https://docr.nd.gov/sites/www/files/documents/victims/CVC%20Forms/CVC%20App.pdf), or by request from the:
 
 
         ND DOCR Crime Victims Compensation Program<br />ND Department of Corrections & Rehabilitation<br />PO Box 1898<br />Bismarck, ND 58502<br />(701) 328-6195
       - "**Step 4:** After carefully reading the instructions, complete and sign the application and attach the police report and copies of bills for each expense you include in your application."
       - |
+
         **Step 5:** Submit the completed application and other documents via email to DOCRcompensation@nd.gov or by mail to:
 
 
@@ -90,6 +94,7 @@ resources:
     cost: It is free of charge.
     likelihood: A State’s Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the State's Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -100,6 +105,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -132,16 +138,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to bring claims in small claims court if you are 18 or older and the amount of money you are asking for is $15,000 or less.
     when: |
+
       You must bring claims for assault and battery within **2 years** of the wrongful conduct; for personal injury within **6 years** of the injury; and for property damage within **6 years** of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/north-dakota-law/north-dakota-civil-statute-of-limitations-laws.html) to see deadlines for different types of claims.
     where: |
+
       You must file your small claims case in small claims division of the District Court in the county where the person who harmed you lives.
 
       **TIP:** Find the location and contact information for the District Court in each county using [this map](https://www.ndcourts.gov/district-court).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $15,000 or less.
     cost: |
+
       You will have to pay a filing fee of $10. You may also have to pay fees to deliver your documents to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](http://www.legalassist.org/image/cache/Petition-In_Forma_Pauperis.pdf) is the form you’ll need to ask for a waiver. It’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.). Ask the clerk for support if you need help completing the form.
@@ -190,6 +199,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

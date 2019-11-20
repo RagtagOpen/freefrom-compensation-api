@@ -2,6 +2,7 @@ state: MT
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime, if your immediate family member was killed as the result of a crime, or if you are a minor child of a survivor of domestic violence who witnessed the crime at home (a parent or legal guardian must apply for you if you are under the age of 18).
 
       **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
@@ -11,6 +12,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -44,6 +46,7 @@ resources:
       - "**Step 3:** Get a claim form at any law enforcement agency, hospital, victim assistance program, or by contacting the Crime Victim Compensation Program at (406) 444-3653. You can also request a claim form online [here](https://dojmt.gov/victims/crime-victim-compensation/)."
       - "**Step 4:** After carefully reading the instructions, complete and sign the claim form."
       - |
+
         **Step 5:** Submit the completed and signed form along with any other documents and evidence (for example, police report and medical records) to the Crime Victim Compensation Program in person or by mail to:
 
 
@@ -58,6 +61,7 @@ resources:
       - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - You must request an informal hearing within **30 days** of the date of the written decision. The request must be in writing and must include include why you want to appeal.
       - |
+
         Send the written request by mail to:
 
 
@@ -72,6 +76,7 @@ resources:
     cost: It is free of charge.
     likelihood: A County Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -90,6 +95,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -122,6 +128,7 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $7,000 or less.
     when: |
+
       You must file claims for assault and battery within **2 years** of the incident; personal injury within **3 years** of the injury; and damage to property within **2 years** of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/montana-law/montana-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
@@ -176,6 +183,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
@@ -197,5 +205,6 @@ resources:
     resources:
       - "[FIND-A-LAWYER Search Page- Montana State Bar Association](http://205.209.45.153/iabar/AttorneyOnLineMontana.nsf/srch?OpenForm)"
       - "[Browse Montana Attorneys by Practice Areas](https://www.martindale.com/by-location/montana-lawyers/)"
-      - "[Top Attorneys in Montana | Super Lawyers](https://attorneys.superlawyers.com/montana/)"
+      - "[Top Attorneys in Montana |
+ Super Lawyers](https://attorneys.superlawyers.com/montana/)"
       - "[Montana Legal Services Association: Home](https://www.mtlsa.org)"

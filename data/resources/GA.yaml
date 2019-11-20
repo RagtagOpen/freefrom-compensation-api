@@ -2,6 +2,7 @@ state: GA
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent of someone who was seriously injured as the result of a crime.
 
       Eligible crimes include:
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -58,6 +60,7 @@ resources:
       - "**Step 3:** After carefully reading the instructions, complete [this application](http://crimevictimscomp.ga.gov/wp-content/uploads/2019/07/Victims-Compensation-Application-Rev-July-2019.pdf) and attach the police report and copies of bills for each expense you include in your application."
       - "**TIP:** You can also get an application by contacting the Victims Compensation Division of the Criminal Justice Coordinating Council. Contact the Division by phone at (404) 657-2222 or via email at [victims.info@cjcc.ga.gov](mailto:victims.info@cjcc.ga.gov)."
       - |
+
         **Step 4:** Sign and submit the completed application and any attachments in person, by mail, or via email to:
 
 
@@ -75,6 +78,7 @@ resources:
     what_if_i_disagree:
       - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - |
+
         You must complete [this Appeal Request](http://crimevictimscomp.ga.gov/wp-content/uploads/2016/12/Appeal-Form-2.pdf?x44846) and submit it within **30 days** of the decision date by mail or email to:
 
 
@@ -93,6 +97,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -108,6 +113,7 @@ resources:
       * Other out-of-pocket expenses directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and/or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -139,16 +145,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $15,000 or less.
     when: |
+
       You must file claims for assault and battery, false imprisonment, and personal injury within **2 years** of the wrongful conduct, and for property damage within **4 years** of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/georgia-law/georgia-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Magistrate Court in the county where the person that harmed you lives.
 
       **TIP:** Find the location and contact information for the Magistrate Court in each county [here](https://ballotpedia.org/Georgia_Magistrate_Courts).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $15,000 or less.
     cost: |
+
       You will have to pay a filing fee between $45 and $55. You may also have to pay fees to deliver your documents to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. Each county’s Magistrate Court has its own fee waiver forms. Contact the clerk of the Magistrate Court where you are filing for more information.
@@ -183,7 +192,8 @@ resources:
       - "**Step 2:** Your appeal will be heard by the State or Superior Court in the same county where you filed your small claims case."
       - "**TIP:** An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
     resources:
-      - "[How to Sue in Magistrate’s Court | Brochure](https://www.georgialegalaid.org/files/6FCBD72D-B465-109D-9EC1-5A4F52A74EE9/attachments/A9125E62-DA54-5289-4DA9-0166ABD67715/21681Magistrates%20court.pdf)"
+      - "[How to Sue in Magistrate’s Court |
+ Brochure](https://www.georgialegalaid.org/files/6FCBD72D-B465-109D-9EC1-5A4F52A74EE9/attachments/A9125E62-DA54-5289-4DA9-0166ABD67715/21681Magistrates%20court.pdf)"
       - "[Georgia Small Claims Court: An Overview](https://www.nolo.com/legal-encyclopedia/georgia-small-claims-court-31687.html)"
       - "[How to File a Small Claims Lawsuit in Georgia](https://www.wikihow.com/File-a-Small-Claims-Lawsuit-in-Georgia)"
       - "[Georgia Magistrate Court Forms](https://georgiamagistratecouncil.com/forms/)"
@@ -201,6 +211,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
@@ -220,5 +231,7 @@ resources:
         * If you can, the type of claim you want to bring against the person that harmed you
     resources:
       - "[Find a Lawyer- State of Georgia](https://www.gabar.org/forthepublic/findalawyer.cfm)"
-      - "[FindLaw | Georgia Lawyers](https://lawyers.findlaw.com/lawyer/state/georgia)"
-      - "[Martindale | Find an Attorney in Georgia](https://www.martindale.com/by-location/georgia-lawyers/) "
+      - "[FindLaw |
+ Georgia Lawyers](https://lawyers.findlaw.com/lawyer/state/georgia)"
+      - "[Martindale |
+ Find an Attorney in Georgia](https://www.martindale.com/by-location/georgia-lawyers/) "

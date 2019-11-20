@@ -2,6 +2,7 @@ state: WI
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent or family member of someone that was killed as the result of a crime.
 
       Eligible crimes include:
@@ -27,6 +28,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $40,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -56,6 +58,7 @@ resources:
       - "**Step 3:** After carefully reading the instructions, fill out [this application](https://docs.google.com/document/d/1sPZ_U7DcMTIwujoxs7uXFQ3nyZiEBVmM/edit), print and sign it, and attach the police report and copies of bills for each expense you include in your application."
       - "**TIP:** You can also contact Wisconsin’s Office of Crime Victim Services (OCVS) and ask for a paper application. Contact OCVS by phone at (608) 266-1221 or email at [ocvs@doj.state.wi.us](mailto:ocvs@doj.state.wi.us)."
       - |
+
         **Step 4:** Submit your completed application and any additional documents in person, by mail, or by email to:
 
 
@@ -81,6 +84,7 @@ resources:
     cost: It is free of charge.
     likelihood: A district attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the district attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
         * Property loss or damage
@@ -94,6 +98,7 @@ resources:
         * Lost income
     safety: You may have to testify in front of the person who harmed you as part of the criminal case and/or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -125,16 +130,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for assault and battery, false imprisonment, personal injury, and property damage within **3 years** of the wrongful conduct.
 
       Check out [this resource](https://statelaws.findlaw.com/wisconsin-law/wisconsin-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the circuit court in the county where the person who harmed you lives or where the harm happened.
 
       **TIP:** Find the location of the circuit court in each county [here](https://www.wicourts.gov/courts/circuit/ccsites.htm).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $10,000.00 or less.
     cost: |
+
       You must pay a filing fee of $94.50. You may also have to pay fees to deliver your documents to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing a [Petition for Waiver of Fees and Costs - Affidavit of Indigency](https://www.wicourts.gov/forms/CV-410A.PDF). You must sign the Petition in front of a notary, and it’s a good idea to attach evidence of your income (bank statements, pay stubs, disability checks, EBT cards, etc.).
@@ -142,6 +150,7 @@ resources:
     safety: You will most likely have to face the person who harmed you in court. A sheriff or bailiff will be present in court to ensure your safety. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specific details about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: |
+
       You can be represented by an attorney if you wish, but it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
 
       **TIP:** Still have questions? [Here](https://www.wicourts.gov/formdisplay/SC-6000V_instructions.pdf?formNumber=SC-6000V&formType=Instructions&formatId=2&language=en) is a great resource to find out more.
@@ -193,6 +202,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
           * Your name and address
@@ -211,7 +221,11 @@ resources:
 
           * If possible, the type of claim you want to bring against the person who harmed you
     resources:
-      - "[State Bar of Wisconsin | I Need A Lawyer](https://www.wisbar.org/forpublic/ineedalawyer/pages/i-need-a-lawyer.aspx)"
-      - "[LegalMatch | Wisconsin Lawyers](https://www.legalmatch.com/find/wisconsin-lawyers.html)"
-      - "[Top Attorneys in Wisconsin | Super Lawyers](https://attorneys.superlawyers.com/wisconsin/)"
-      - "[FindLaw | Milwaukee Lawyers](https://lawyers.findlaw.com/lawyer/statepractice/wisconsin/milwaukee)"
+      - "[State Bar of Wisconsin |
+ I Need A Lawyer](https://www.wisbar.org/forpublic/ineedalawyer/pages/i-need-a-lawyer.aspx)"
+      - "[LegalMatch |
+ Wisconsin Lawyers](https://www.legalmatch.com/find/wisconsin-lawyers.html)"
+      - "[Top Attorneys in Wisconsin |
+ Super Lawyers](https://attorneys.superlawyers.com/wisconsin/)"
+      - "[FindLaw |
+ Milwaukee Lawyers](https://lawyers.findlaw.com/lawyer/statepractice/wisconsin/milwaukee)"

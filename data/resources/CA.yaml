@@ -2,6 +2,7 @@ state: CA
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if a family member that you lived with for at least 2 years was harmed or died as the result of a crime.
 
       Eligible crimes include:
@@ -35,6 +36,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $70,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -68,6 +70,7 @@ resources:
       - "**TIP:** Spanish language applications can be found [here](https://victims.ca.gov/docs/forms/victims/apps/victimcompensationapp_Spanish.pdf?2017-11-16) and [here](https://victims.ca.gov/docs/forms/victims/apps/handprintapp_Spanish.pdf?2019-04-23). Other language applications can be found [here](https://victims.ca.gov/victims/howtoapply.aspx)."
       - "**Step 3:** Attach or upload the documents you’ve gathered that relate to the crime and show your costs."
       - |
+
         **Step 4:** Sign or electronically sign your application and submit it and all attached documents online or via mail to:
 
 
@@ -97,6 +100,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of  your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for expenses such as:
 
       * Stolen or damaged property
@@ -116,6 +120,7 @@ resources:
       * Other out-of-pocket expenses directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -156,16 +161,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for assault and battery and personal injury within **2 years** of the wrongful conduct, and for property damage within **3 years** of the date of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/california-law/california-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the county where the person that harmed you lives or where the harm occurred.
 
       **TIP:** Find the location of the proper small claims court by inputting your community or zip code into [this](https://www.courts.ca.gov/find-my-court.htm) search engine.
     time: The whole process generally takes several weeks to several months.
     covered_expenses: The total amount you are seeking must be $10,000.00 or less.
     cost: |
+
       Fees depend on the amount of money you are asking for and range from $50-$75 for filing, plus fees necessary to deliver your documents to the defendant. You can find a list of all of the potential fees [here](https://www.courts.ca.gov/documents/StatewideCivilFeeSchedule-20160101.pdf).
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](https://www.courts.ca.gov/selfhelp-feewaiver.htm) is a great resource with the necessary forms and specific instructions on how to ask the court to waive your fees.
@@ -173,6 +181,7 @@ resources:
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: |
+
       Attorneys are not allowed in small claims court in California, so you will have to represent yourself before the judge. You can work with a lawyer before or after you go to court, but it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
 
       **TIP:** Still have questions? You can work with a Small Claims Advisor for help during the process. Find a Small Claims Advisor in your county [here](https://www.courts.ca.gov/selfhelp-advisors.htm).
@@ -227,6 +236,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

@@ -2,6 +2,7 @@ state: VA
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime.
 
       Eligible crimes include:
@@ -33,6 +34,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -58,6 +60,7 @@ resources:
       - "**You Must Report the Crime to the Police** You must report the crime within **5 days** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "**You must cooperate with the police:** You must cooperate with the police when they investigate the crime and anyone reviewing and investigating your application for compensation. "
       - |
+
         **Not All Costs Are Covered:** You cannot get compensation for:
 
         * Pain and suffering
@@ -74,6 +77,7 @@ resources:
       - "**TIP:** You can get help filling out the application through a Victim Witness Assistant Program. Find the location and contact information for all of the Programs [here](https://www.dcjs.virginia.gov/sites/dcjs.virginia.gov/files/publications/victims/virginia-victim-assistance-directory.pdf)."
       - "**Step 4:** Complete the Notarized Authorization on page 9 of the application and sign in front of a notary. Read [this resource](http://www.cicf.state.va.us/sites/default/files/Documents/Notarized-Authorization-Guide.pdf) for more information."
       - |
+
         **Step 5:** Mail the completed application, along with any other documents, to:
 
 
@@ -109,6 +113,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Commonwealth Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Commonwealth Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical costs
@@ -124,6 +129,7 @@ resources:
       * Other out-of-pocket expenses resulting from the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and/or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -156,16 +162,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must file claims for assault, battery, and false imprisonment within **2 years** after the wrongful conduct, and for property damage within **5 years** of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/virginia-law/virginia-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the General District Court in the county where the person who harmed you lives.
 
       **TIP:** Find the location and contact information for the General District Court in each county using [this map](http://www.courts.state.va.us/courts/maps/home.html).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $5,000.00 or less.
     cost: |
+
       Filing fees will vary depending on which county in which you file your case. You can check the fee amount by visiting [this website](http://webdev.courts.state.va.us/cgi-bin/DJIT/ef_djs_gdfees_calc.cgi), selecting the proper court (in the county where the person that harmed you lives or works), and selecting “Warrant In Debt – Small Claims” from the list of case types.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. [Here](https://selfhelp.vacourts.gov/node/14/filing-fees-waivers) is a great resource with the proper forms and instructions on how to request a waiver of the fees.
@@ -219,6 +228,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

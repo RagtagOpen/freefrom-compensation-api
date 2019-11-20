@@ -2,6 +2,7 @@ state: UT
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent of someone who was killed as the result of a crime.
 
 
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -63,12 +65,14 @@ resources:
       - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
       - "**Step 3:** Access an application online [here](https://justice.utah.gov/Crime/Comp/CVRApplication_English.pdf)."
       - |
+
           **TIP:** Applications are also available from:
 
 
           Utah Office for Victims of Crime<br />350 East 500 South, Suite 200, Salt Lake City, Utah 84111<br />Telephone: 801-238-2360 or 1-800-621-7444
       - "**Step 4:** After carefully reading the instructions, fill out and sign the application and attach the police report and copies of itemized bills for every cost you are trying to get covered."
       - |
+
         **Step 5:** Submit the completed application including the attachments by [email](mailto:crimevictims@utah.gov) or in person or by mail to:
 
 
@@ -94,6 +98,7 @@ resources:
     cost: It is free of charge.
     likelihood: A County Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Lost or damaged property
@@ -109,6 +114,7 @@ resources:
       * Other out-of-pocket expenses directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and /or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -142,10 +148,12 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for assault and battery within **4 years** of the wrongful action; for false imprisonment within **1 year** of the wrongful action; for personal injury within **4 years** of the injury; and for property damage within **3 years** of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/utah-law/utah-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Justice Court in the county where the person that harmed you lives or where the harm happened.
 
       **TIP:** Find the location and contact information for each Justice Court [here](https://www.utcourts.gov/howto/smallclaims/#where).
@@ -153,6 +161,7 @@ resources:
       **TIP:** Cache County does not have a county Justice Court. If the person that harmed you lives in Cache County, or if the harm happened in Cache County, file your claims in the District Court.
     time: The whole process will generally take several weeks to several months.
     cost: |
+
       You are required to pay a filing fee, which rage from $60.00 to $185.00. You may also have to pay other fees to send your documents to the defendant.
 
       **TIP:** If you can’t afford the fees, you may request a fee waiver by completing [this form](https://www.utcourts.gov/resources/forms/waiver/docs/1301GE_Motion_to_Waive_Fees_and_Statement_Supporting.pdf) and attaching proof of your income (pay stubs, bank statements, disability checks, EBT cards, etc.)
@@ -175,6 +184,7 @@ resources:
       - "**Step 5:** Sign the Affidavit and Summons and file the forms and attachments with the clerk."
       - "**Step 6:** Pay the filing fees. If you can’t afford the fees, you may request a fee waiver by completing [this form](https://www.utcourts.gov/resources/forms/waiver/docs/1301GE_Motion_to_Waive_Fees_and_Statement_Supporting.pdf) and attaching proof of your income (pay stubs, bank statements, disability checks, EBT cards, etc.)"
       - |
+
         **Step 7:** The person you are suing must get a copy of the documents you’ve filed. You can deliver the documents by:
 
         * Personal service by the sheriff’s office
@@ -216,6 +226,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

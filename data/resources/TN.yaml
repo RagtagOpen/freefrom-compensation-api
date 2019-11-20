@@ -2,6 +2,7 @@ state: TN
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent of someone who was killed as the result of a crime.
 
       Eligible crimes include:
@@ -37,6 +38,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $32,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -66,6 +68,7 @@ resources:
       - "**TIP:** If you need help completing your application, contact a Customer Service Representative at (615) 741-2734."
       - "**Step 4:** Sign Section G in front of a notary. If you do not sign in front of a notary, the decision on your application will be delayed."
       - |
+
         **Step 5:** Submit the completed application including any attachments to:
 
 
@@ -94,6 +97,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -108,6 +112,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -140,16 +145,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $25,000 or less.
     when: |
+
       You must file claims for assault and battery, personal injury, and false imprisonment within **1 year** of the wrongful conduct. However, if criminal charges are brought against the person that harmed you, then you will have two **2 years** to bring the claim.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/tennessee-law/tennessee-statutes-of-limitations.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the General Sessions Court in the county where the harm happened or where the person that harmed you lives.
 
       **TIP:** Find the location and contact information for the General Sessions Court in each county [here](https://www.tncourts.gov/courts/general-sessions-courts/clerks).
     time: The whole process generally takes several weeks to several months.
     covered_expenses: The total amount you are seeking must be $25,000 or less.
     cost: |
+
       Fees are different depending on where you file your claim. You will need to contact the clerk of the General Sessions court in the county where you are filing for the exact filing fees that will apply to your case. Find the location and contact information for the clerk of the General Sessions Court in each county [here](https://www.tncourts.gov/courts/general-sessions-courts/clerks).
 
       **TIP:** If you can’t afford to pay the fees, you may be able to get them waived. Ask the clerk of the General Sessions court in the county where you are filing for more information.
@@ -201,6 +209,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

@@ -2,6 +2,7 @@ state: NC
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime.
 
       Eligible crimes include:
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $30,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical costs
@@ -62,6 +64,7 @@ resources:
       - "**Step 4:** Attach the police report and copies of bills for each expense you include in your application."
       - "**Step 5:** Sign the completed application in front of a notary."
       - |
+
         **Step 6:** Submit your completed application by mail or in person to:
 
 
@@ -75,6 +78,7 @@ resources:
     what_if_i_disagree:
       - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - |
+
         You must submit a written Petition for a Contested Case Hearing to:
 
 
@@ -91,6 +95,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -111,6 +116,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -143,16 +149,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is either $5,000 or less, or $10,000 or less, depending on the county where you file.
     when: |
+
       You must file claims for assault and battery, false imprisonment, personal injury, and property damage within **3 years** of the wrongful conduct, injury, or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/north-carolina-law/north-carolina-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Superior Court in the county where the person that harmed you lives.
 
       **TIP:** Find the Superior Court in each county using [this map](https://www.nccourts.gov/locations).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be either $5,000 or less, or $10,000 or less, depending on which county you are filing in. Use the interactive map above to find the contact information for the clerk of the Superior Court in each county. You can call the clerk to find out how much you are allowed to sue for in that county.
     cost: |
+
       You will have to pay a $96 filing fee. You may also have to pay fees to deliver your documents to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver by completing and submitting [this form](https://www.nccourts.gov/documents/forms/petition-to-proceed-as-an-indigent). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)
@@ -204,6 +213,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

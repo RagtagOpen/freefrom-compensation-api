@@ -2,6 +2,7 @@ state: NV
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a violent crime or if you are the dependent of someone who was killed as the result of a violent crime.
 
       Eligible crimes include:
@@ -25,6 +26,7 @@ resources:
       **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Nevada.
     when: |
+
       The application must be received within **1 year** of the crime, or if you are unable to file within **1 year**, within a reasonable time after you are able to file.
 
       **TIP:** If you do not file within the 1-year window, you can ask for a waiver of the deadline from the Board of Examiners by explaining why you filed after the deadline.
@@ -32,6 +34,7 @@ resources:
     cost: It is free to apply.
     award: Generally, you can receive up to $35,000 for your expenses. If the crime caused a catastrophic injury, you may be able to receive more.
     covered_expenses: |
+
       You can receive compensation for the following expenses:
 
       * Medical care
@@ -75,6 +78,7 @@ resources:
       - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
       - "**Step 2:** Gather all the documents you can that relate to the crime or show the costs you are trying to get covered. For example: the police report, hospital or doctor bills, and any invoices or receipts for costs you had to pay as a result of the crime."
       - |
+
         A fully completed, signed application in blue or black ink is required. If the application is submitted electronically, then an electronic signature is also acceptable. After carefully reading the instructions, fill out the application in one of the following formats:
 
         * Online at [http://voc.nv.gov/VOC/Application](http://voc.nv.gov/VOC/Application%20);
@@ -88,6 +92,7 @@ resources:
       - "**TIP:** Find the contact information for the Nevada Victims of Crime Program [here](http://voc.nv.gov/Contact/)."
       - "**Step 4:** Attach a copy of the police report and copies of documents that show the costs you are trying to get covered to your application."
       - |
+
         **Step 5:** Submit your application via mail, email or in-person to:
 
 
@@ -119,6 +124,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -137,6 +143,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -170,16 +177,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for personal injury, assault, and battery within **2 years**, and claims for fraud or damage to property within **3 years**.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/nevada-law/nevada-civil-statute-of-limitations-laws.html) to see deadlines for different types of claims.
     where: |
+
       You must file your small claims case in the Justice Court in the township where the person who harmed you lives, or where the harm happened.
 
       **TIP:** Find the location and contact information for the Justice Court in each township [here](https://nvcourts.gov/Find_a_Court/Justice_Courts/).
     time: The whole process will generally take a few months.
     covered_expenses: You may bring claims for up to $10,000 in small claims court.
     cost: |
+
       You should contact the specific court for current fees, but in general, filing fees range from $45 to $175, depending on the total amount of money you are asking for.
 
       **TIP:** Most courts accept fee waiver applications if you cannot afford the filing fee. Find more information about Fee Waivers [here](http://selfhelp.nvcourts.gov/self-help/getting-started/court-forms-fees-and-waivers/court-fees-and-fee-waivers).
@@ -230,6 +240,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

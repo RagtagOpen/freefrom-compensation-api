@@ -2,6 +2,7 @@ state: AR
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you or a family member were harmed as the result of a violent crime.
 
       Eligible crimes include:
@@ -35,6 +36,7 @@ resources:
     cost: It is free to apply.
     award: Generally, you can receive up to  $10,000 for your expenses. If the crime left you permanently and totally disabled, you can receive up to $25,000.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -63,6 +65,7 @@ resources:
       - "**Step 3:**  Fill out and sign the application form that can be found [here](https://arkansasag.gov/site/assets/files/1088/crime_victims_application_5-_11-23-15.pdf)."
       - "**Step 4:**  Attach a copy of the police report and copies of documents that show the costs you are trying to get covered to your application."
       - |
+
         **Step 5:**  Submit your application in person or by mail to:
 
 
@@ -89,6 +92,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney will be assigned to the criminal case on behalf of the state. They will ask the Judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecuting Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical services
@@ -106,6 +110,7 @@ resources:
       * Other out-of-pocket costs directly related to the crime
     safety: You may have to testify in the criminal case and / or attend the sentencing hearing in front of the person that caused you harm.
     story: |
+
 
 
       * You must share your story:
@@ -135,15 +140,18 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must file claims for personal injury and property damage within **3 years** of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/arkansas-law/arkansas-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the small claims division of the District Court in the county where the injury took place or where the person that harmed you lives.
 
       **TIP:** You can find the location of the proper small claims court [here](https://www.arcourts.gov/courts/district-courts).
     time: Several weeks to several months.
     cost: |
+
       There is a $50 filing fee and a $15 technology fee for filing your claims in small claims court.
 
       **TIP:** If you can’t afford to pay the fees, tell the clerk that you want to ask to judge to waive them. Follow any instructions the clerk gives you.
@@ -193,6 +201,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

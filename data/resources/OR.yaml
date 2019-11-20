@@ -2,6 +2,7 @@ state: OR
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a violent crime, or if you are the legal dependent of someone who died as a result of a crime.
 
       Eligible crimes include:
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $47,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Hospital and medical bills
@@ -61,6 +63,7 @@ resources:
       - "**Step 2:** Gather all the documents you have that relate to the crime or show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
       - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
       - |
+
         **Step 3:** You can apply online or via paper application.
 
         * **Applying online:** You can access the online application [here](https://justice.oregon.gov/victims/compensation) and instruction on how to apply online [here](https://justice.oregon.gov/victims/compensation/Documents/Crime%20Victim%20Portal%20Tutorial%20Victim.pdf).
@@ -68,6 +71,7 @@ resources:
         * **Paper application:** Contact the [Victim Assistance Program](https://www.doj.state.or.us/crime-victims/victims-resources/other-resources/county-victim-assistance-programs/) in your county for a paper application.
       - "**Step 4:** After carefully reading the instructions, complete and sign / electronically sign the application and attach or upload a copy of the police report / protective order and of bills for each expense you include in  your application."
       - |
+
         **Step 5:** Submit your completed application and attachments online or via mail to:
 
 
@@ -95,6 +99,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -115,6 +120,7 @@ resources:
 
     safety: You may have to testify in the criminal case and / or attend the sentencing hearing with your harm-doer present.
     story: |
+
 
 
       * You must share your story:
@@ -147,16 +153,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for personal injury or assault and battery within **2 years** of the date of the wrongful action, and for property damage within **6 years** of the date of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/oregon-law/oregon-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the circuit court or justice court in the county where the person that harmed you lives or where  the harm happened.
 
       **TIP:** Find the location of the circuit court in each county [here](https://www.courts.oregon.gov/courts/Pages/default.aspx), and the justice court in each county [here](https://ballotpedia.org/Oregon_Justice_Courts).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: You can seek up to $10,000 in a circuit court and $5,000 in a justice court.
     cost: |
+
       The filing fee depends on how much you are claiming and range from $53-$95.
 
       **TIP:** If you cannot afford the filing fee, you can apply for a deferral or waiver of the fees by completing and filing the forms found [here](https://www.courts.oregon.gov/forms/Pages/fee-waiver.aspx). You will have to show proof of your income and monthly bills for the past two months, and appear before a judge or other court staff.
@@ -208,6 +217,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

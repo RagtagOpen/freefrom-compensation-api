@@ -2,6 +2,7 @@ state: OH
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a violent crime, or if you are the legal dependent of someone who died as a result of a crime.
 
       Eligible crimes include:
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $50,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical and dental bills
@@ -63,6 +65,7 @@ resources:
       - "**Step 3:** After carefully reading the instructions, complete [this application](https://cvonlinecompensationapp.ohioattorneygeneral.gov) online. You can also print the application [here](https://www.ohioattorneygeneral.gov/Files/Individuals-and-Families/Victims/Crime-Victim-Comp-Form.aspx), or request one in person from the Attorney General’s Office."
       - "**Step 4:** Attach the police report and copies of bills for each expense you include in your application."
       - |
+
         **Step 5:** Sign or electronically sign the application and submit it online or by mail along with any attachments to:
 
 
@@ -78,6 +81,7 @@ resources:
       - You can appeal the decision to the Court of Claims of Ohio by submitting  a [Notice of Appeal](https://ohiocourtofclaims.gov/pdf/forms/notice_of_appeal_from_the_attorney_generals_final_decision.pdf). The Notice must be received by the Court of Claims of Ohio within **30 days** of the date printed on the Final Decision of the Attorney General.
       - On the form, you will have to explain the reasons why you do not agree with the decision. Include any relevant information and documents.
       - |
+
         Mail the appeal letter to the Court of Claims of Ohio:
 
 
@@ -100,6 +104,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney will be assigned to the criminal case on behalf of the state. They will ask the Judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecuting Attorney of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -114,6 +119,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -147,16 +153,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $6,000 or less.
     when: |
+
       You must file claims for assault and battery within **1 year** of the assault or battery, and for personal injury and property damage within **2 years** of the date of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/ohio-law/ohio-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the small claims division of the municipal or county court in the county where the person that harmed you lives.
 
       **TIP:** You can find the location and contact information for the magistrate and county courts for each county [here](https://www.supremecourt.ohio.gov/JudSystem/trialCourts/).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: "The total amount you are seeking must be $6,000.00 or less. You cannot bring claims for: libel, slander, punitive or exemplary damages."
     cost: |
+
       Fees depend on the court where you file your claim.  Call the court and ask what the fee is in that county.
 
       **TIP:** If you cannot afford the fee, you may file an affidavit of indigency with the court and ask that your fee be waived. Court staff can provide you with instructions for how to file the affidavit.
@@ -207,6 +216,7 @@ resources:
       - "**Step 1:** Find an attorney you trust. "
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

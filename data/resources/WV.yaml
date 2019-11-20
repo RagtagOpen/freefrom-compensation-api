@@ -2,6 +2,7 @@ state: WV
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent of someone who was killed as the result of a crime.
 
       Eligible crimes include:
@@ -33,10 +34,12 @@ resources:
     cost: It is free to apply.
     award: |
 
+
       * If you were injured, you can receive up to $35,000 for your expenses.
 
       * If your parent or another relative that was your legal guardian was killed, you can receive up to $50,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -56,6 +59,7 @@ resources:
     attorney: You do not need an attorney to apply. However, if you seek help from an attorney to file the application, reasonable fees will be covered at no cost to you. See “How to Apply” below for more information.
     challenges:
       - |
+
         **The Police Must Be Involved:**
 
         * **You Must Report Crimes Other Than Sexual Assault to the Police:** For any crime other than sexual assault, you must report the crime to law enforcement within **72 hours** and obtain a police report. An Order of Protection is not enough. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report.
@@ -93,6 +97,7 @@ resources:
     cost: It is free of charge.
     likelihood: A prosecuting attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence of your costs you can give to the prosecuting attorney, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -108,6 +113,7 @@ resources:
       * Other out-of-pocket costs directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and/or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -136,6 +142,7 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you have been harmed by the wrongful action of another person.
     when: |
+
       You must file claims for assault and battery, personal injury and property damage within 2 years of the date of the wrongful action.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/west-virginia-law/west-virginia-statutes-of-limitations.html) to see deadlines for other types of claims.
@@ -147,6 +154,7 @@ resources:
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a lawyer and/or friend or family member with you for support.
     story: You will have to tell the judge specific details about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: |
+
       You can be represented by an attorney if you wish, but it’s important to keep in mind that the attorney may cost more than the amount of money you receive from the court.
 
       **TIP:** Still have questions? [Here](http://www.lawv.net/Resources/Self-Help-Library/Representing-Yourself/Going-to-Magistrate-Court-How-to-file-your-own-civil-case#1) is a great resource to find out more.
@@ -193,6 +201,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
@@ -214,4 +223,5 @@ resources:
       - "[Find trusted lawyers in West Virginia](https://wvlawyerreferral.org/)"
       - "[Find the best lawyer in West Virginia - Avvo](https://www.avvo.com/all-lawyers/wv.html)"
       - "[The West Virginia State Bar](https://wvbar.org/)"
-      - "[Top Attorneys in West Virginia | Super Lawyers](https://attorneys.superlawyers.com/west-virginia/)"
+      - "[Top Attorneys in West Virginia |
+ Super Lawyers](https://attorneys.superlawyers.com/west-virginia/)"

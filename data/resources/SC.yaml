@@ -2,6 +2,7 @@ state: SC
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were injured as the result of a crime.
 
 
@@ -33,6 +34,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $15,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -54,6 +56,7 @@ resources:
       - "**You Must Report the Crime to the Police** You must report the crime to the police within 48 hours. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "**You must cooperate with the police:** You must cooperate with the police when they investigate the crime and anyone reviewing and investigating your application for compensation."
       - |
+
         **Not All Costs Are Covered:** You can’t get compensation for:
 
         * Property damage or loss
@@ -71,6 +74,7 @@ resources:
       - "**Step 3:** After carefully reading the instructions, complete [this application](http://www.sova.sc.gov/documents/DCVC%20App%20Rev%20Aug%202018%20Fillable.pdf) and attach copies of documents that relate to what happened (for example, a police report) and show all your costs (for example, medical bills)."
       - "**TIP:** You can also request an application from the Department of Crime Victim Compensation and get help completing your compensation from a Victim Advocate by calling 1-800-220-5370 or (803) 734-1900."
       - |
+
         **Step 4:** Mail the completed application along with any other documents or attachments to:
 
 
@@ -96,6 +100,7 @@ resources:
     cost: It is free of charge.
     likelihood: An attorney called a Solicitor will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Solicitor of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -111,6 +116,7 @@ resources:
       * Stolen or damaged property
     safety: You may have to testify in front of the defendant as part of the criminal case and / or at the restitution hearing.
     story: |
+
 
 
       * You must share your story:
@@ -142,16 +148,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $7,500 or less.
     when: |
+
       You must file claims for assault and battery, personal injury, and property damage within 3 years of the wrongful conduct.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/south-carolina-law/south-carolina-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Magistrate Court in the county where the person that harmed you lives or where the harm happened.
 
       **TIP:** Find the location of the Magistrate Court in each county by using the “County Information Lookup” dropdown menu [here](https://www.sccourts.org/).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: "The total amount you are seeking must be $7,500.00 or less. You cannot bring claims for: false imprisonment, malicious prosecution, slander or libel."
     cost: |
+
       Filing fees vary depending on which county you file your case in but are generally no more than $100. You may also have to pay other fees to deliver your documents to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing [this form](https://www.sccourts.org/forms/pdf/SCCA405CP.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.).
@@ -159,6 +168,7 @@ resources:
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: |
+
       You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you are requesting.
 
       **TIP:** Still have questions? [Here](https://www.sccourts.org/selfhelp/FAQMagistrate.pdf) is a great resource to find out more.
@@ -205,6 +215,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
 
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 

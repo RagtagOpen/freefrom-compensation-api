@@ -2,6 +2,7 @@ state: FL
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if your spouse, parent, child, or sibling was killed as the result of a crime.
 
       Eligible crimes include:
@@ -27,6 +28,7 @@ resources:
     when: |
 
 
+
       * For crimes that occurred before October 1, 2019: Your application must be _received_ within **1 year** of the date of the crime, or within **2 years** if you can show good cause for why you filed late.
 
       * For crimes that occurred after October 1, 2019: Your application must be _received_ within **3 years** of the date of the crime, or within **5 years** if you can show good cause for why you filed late.
@@ -36,6 +38,7 @@ resources:
     cost: There is no cost to apply.
     award: Generally, you can receive up to $25,000 for your expenses. If the crime caused a catastrophic injury, you can receive up to $50,000.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical and dental treatment
@@ -59,6 +62,7 @@ resources:
     attorney: You can, but do not need to, hire a lawyer. You must notify the Attorney General if you hire a lawyer.
     challenges:
       - |
+
         **You Must Report the Crime to the Police**
 
           * For crimes occurring before October 1, 2019: You must report the crime within **72 hours** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report in the [Reporting Time Explanation Form](http://myfloridalegal.com/webfiles.nsf/WF/MRAY-73XKJL/$file/RptTimeExpl.pdf).
@@ -75,6 +79,7 @@ resources:
       - "**Step 4:** Attach the police report and copies of itemized bills for every cost you include in your application."
       - "**Step 5:** Sign the application."
       - |
+
         **Step 6:** Mail, email, fax, or deliver in person the completed application along with any other documents to:
 
 
@@ -101,6 +106,7 @@ resources:
     cost: It is free of charge.
     likelihood: A State Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the State Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -118,6 +124,7 @@ resources:
       * Other out-of-pocket expenses directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -149,16 +156,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $5,000 or less.
     when: |
+
       You must file claims for personal injury, assault and battery, and property damage within **4 years** of the date of injury, assault, or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/florida-law/florida-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file small claims in County Court (Civil Division) in the county where the person that harmed you lives or where the harm happened.
 
       **TIP:** You can find the contact information and location of the County Court in each county [here](https://dos.myflorida.com/library-archives/research/florida-information/government/local-resources/clerks-of-county-courts/).
     time: The whole process will generally take several months.
     covered_expenses: The total amount you are seeking must be $5,000.00 or less.
     cost: |
+
       Filing fees vary by county based on the amount of money you are asking for, the type of claim you’re bringing, and how you decide to deliver your documents to the defendant. Check with the appropriate county clerk to find out the specific fees that will apply to your case.
 
       **TIP:** If you can’t afford the fees, you can ask for a waiver by filing an [Application for Determination of Civil Indigent Status](http://www.miami-dadeclerk.com/library/eFiling/Application%20for%20Determination%20of%20Civil%20Indigent%20Status.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)
@@ -211,6 +221,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

@@ -2,6 +2,7 @@ state: OK
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible if you were harmed as the result of a violent crime.
 
       Eligible crimes include:
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $20,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -51,6 +53,7 @@ resources:
     safety: This application is made directly to the state. You will not need to confront the person that harmed you to apply.
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: |
+
       You do not need an attorney to apply.
 
       **TIP:**  Make sure to give the Crime Victims Compensation Board, Victim Witness Coordinator, and District Attorney the most complete information you have as this will likely speed up the time it takes to process your claim.
@@ -65,6 +68,7 @@ resources:
       - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with  you in a safe place."
       - "**Step 3:** After carefully reading the instructions, fill out [this application](https://www.okvictimscomp.com/wp-content/uploads/2019-Official-Claim-Form-EN_1.pdf) and attach the police report and copies of bills for each expense you include in your application."
       - |
+
         **Step 4:** Sign the completed application and submit it to Oklahoma Crime Victims Compensation by email to [victimsservices@dac.state.ok.us](mailto:victimsservices@dac.state.ok.us) or in person or via mail to:
 
 
@@ -90,6 +94,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -108,6 +113,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -142,10 +148,12 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for assault, battery, and false imprisonment within **1 year** of the wrongful action; and for trespass, property damage, personal injury, and fraud within **2 years** of the wrongful action.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/oklahoma-law/oklahoma-statutes-of-limitations.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the District Court in the county where the person that harmed you lives.
 
       **TIP:** Find the location of the District Court in each county [here](http://www.oscn.net/applications/oscn/start.asp?viewType=COURTS).
@@ -156,6 +164,7 @@ resources:
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell specifics about your story to the judge, including how you were injured or otherwise damaged and how much those injuries and damage cost you.
     attorney: |
+
       You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you receive from court.
 
       **TIP:** Some counties in Oklahoma have a designated Domestic Violence Court for claims involving domestic violence. Be sure to check with the court clerk about this option and if it applies to you.
@@ -201,6 +210,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

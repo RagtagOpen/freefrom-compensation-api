@@ -2,6 +2,7 @@ state: NY
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime, are a close relative or dependent of someone who died as the result of a crime, or are a child who witnessed a crime.
 
       Eligible crimes include:
@@ -31,6 +32,7 @@ resources:
     cost: It is free to apply.
     award: New York has maximum awards based on expense type. You can find a list of the maximum award amounts [here](https://ovs.ny.gov/sites/default/files/brochure/ovs-crime-victim-brochure-2018-web-final-3-18.pdf).
     covered_expenses: |
+
       You can receive compensation for the following expenses:
 
       * Medical bills
@@ -72,6 +74,7 @@ resources:
       - "**Step 5:** Complete and sign the “Authorization for Release of Health Information Pursuant to HIPAA” form attached to the application for each health service provider listed on the application. If you need more than one HIPAA form, you can print extra copies or photocopy a blank form."
       - |
 
+
         **Step 6:** Submit the completed application and other documents through the online portal or in person or by mail to:
 
 
@@ -97,6 +100,7 @@ resources:
     cost: It is free of charge.
     likelihood: A District Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the District Attorney of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -115,6 +119,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -149,10 +154,12 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is either $3,000 or less, or $5,000 or less, depending on where you file.
     when: |
+
       You must file claims for assault and battery within **1 year** of the wrongful conduct; for claims for false imprisonment within **1 year** of the imprisonment; and for personal injury and property damage within **3 years** of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/new-york-law/new-york-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
 
       * **If the person that harmed you lives or works in a city:** You can file your small claims case in the Small Claims Court**:
 
@@ -166,6 +173,7 @@ resources:
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $5,000 or less in City Court; $3,000 or less in Town & Village Court.
     cost: |
+
       You will have to pay a filing fee of $10-$20, depending on the court and the amount of money you are asking for. Contact the clerk of the court where you’re filing your case to ask about specific fees.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver. Find out more about how to ask for a fee waiver [here](https://www.nycourts.gov/courthelp/GoingToCourt/feeWaiver.shtml).
@@ -173,6 +181,7 @@ resources:
     safety: You will most likely have to face the person that harmed you in court. A bailiff should be present in court if you feel unsafe. You can also bring a friend or family member with you for support.
     story: You will have to tell the judge specifics about what happened to you, including how you were injured and how much those injuries cost you.
     attorney: |
+
       You can be represented by an attorney if you wish. But, it’s important to keep in mind that the attorney may cost more than the amount of money you are requesting.
 
       **TIP:** Still have questions? [Here](http://www.nycourts.gov/courthelp/pdfs/SmallClaimsHandbook.pdf) is a great resource to find out more.
@@ -220,6 +229,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

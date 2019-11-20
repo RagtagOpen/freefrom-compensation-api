@@ -2,6 +2,7 @@ state: DC
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime.
 
       Eligible crimes include:
@@ -39,6 +40,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical costs
@@ -66,6 +68,7 @@ resources:
     attorney: You do not need an attorney to apply.
     challenges:
       - |
+
         **You must report the crime to the police:** You must report the crime within **7 days** of the incident and obtain a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report.
 
 
@@ -82,6 +85,7 @@ resources:
       - "**Step 3:** After carefully reading the instructions, complete and sign [this application](https://www.dccourts.gov/sites/default/files/CVCP%20Application%20August%202019.pdf). You can also request an application from the Crime Victim Compensation Program by calling (202) 879-4216."
       - "**Step 4:** Attach the police report, protective order, and copies of bills for each expense you include in your application."
       - |
+
         **Step 5:** Submit your completed application and all attachments by mail or in person to:
 
 
@@ -116,6 +120,7 @@ resources:
     cost: It is free of charge.
     likelihood: A Prosecuting Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the Prosecuting Attorney of your costs, the more you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -133,6 +138,7 @@ resources:
       * Other out-of-pocket expenses directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
       * You must share your story:
 
@@ -162,10 +168,12 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for assault and battery and false imprisonment within **1 year** of the wrongful conduct, and for personal injury and property damage within **3 years** of the injury or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/dc-law/district-of-columbia-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Small Claims Clerk’s Office located at:
 
 
@@ -173,6 +181,7 @@ resources:
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $10,000 or less.
     cost: |
+
       You will have to pay a filing fee. The amount of the fee varies depending on how much money you are asking for and ranges between $5-$45. You may also have to pay fees to deliver your documents to the defendant. Find a full list of fees [here](https://www.dccourts.gov/services/civil-matters/filing-fees) under “Small Claims Filing Fees.”
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court to waive them. Find the required forms and instructions on how to ask for a waiver [here](https://www.dccourts.gov/services/judge-in-chambers/in-forma-pauperis-fee-waiver).
@@ -187,6 +196,7 @@ resources:
       - "**Step 1:** Collect any and all documents and other evidence that support your claims and show the amount of your damages."
       - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
       - |
+
         **Step 2:** After carefully reading the instructions, complete a [Statement of Claim](https://www.dccourts.gov/sites/default/files/2019-09/Statement%20of%20Claim%20Form%20and%20Notice_Final%20Fillable.pdf).  You can also request these forms from the Small Claims Clerk’s Office located at:
 
 
@@ -225,6 +235,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address

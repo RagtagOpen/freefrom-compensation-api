@@ -2,6 +2,7 @@ state: NE
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if you are the legal dependent of someone who was killed as the result of a crime.
 
       * Eligible crimes include:
@@ -32,6 +33,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $25,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical expenses
@@ -59,6 +61,7 @@ resources:
       - "**Step 4:** After carefully reading the instructions, fill out the application. Attach the police report and copies of itemized bills for every cost you are trying to get covered. If you are asking for lost wages you must submit 3 payroll stubs and a statement from your employer confirming certain information about the lost wages."
       - "**Step 5:** Sign the application in front of a notary. Signing the application without a notary will delay the application process."
       - |
+
         **Step 6:** Submit the completed application including any other required forms and documents (police reports, medical bills, etc.) in person or by mail to:
 
 
@@ -85,6 +88,7 @@ resources:
     cost:  It is free of charge.
     likelihood: A County Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County Attorney of your costs, the more likely you are to get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -102,6 +106,7 @@ resources:
       * Other out-of-pocket costs directly related to the crime
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -134,6 +139,7 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $3,500 or less.
     when: |
+
       You must file claims for assault and battery within **1 year** of the incident, personal injury within **4 years** of the injury, and property damage within **4 years** of the damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/nebraska-law/nebraska-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
@@ -193,6 +199,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
@@ -212,5 +219,7 @@ resources:
         * If you can, the type of claim you want to bring against the person that harmed you
     resources:
       - "[Nebraska Find-a-Lawyer](https://www.nefindalawyer.com)"
-      - "[Legal Resources & Information | Nebraska Judicial Branch](https://supremecourt.nebraska.gov/self-help/legal-resources-information)"
-      - "[Nebraska Lawyers | find the right Attorney in Nebraska](https://www.legalmatch.com/find/nebraska-lawyers.html)"
+      - "[Legal Resources & Information |
+ Nebraska Judicial Branch](https://supremecourt.nebraska.gov/self-help/legal-resources-information)"
+      - "[Nebraska Lawyers |
+ find the right Attorney in Nebraska](https://www.legalmatch.com/find/nebraska-lawyers.html)"

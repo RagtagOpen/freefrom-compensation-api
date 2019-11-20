@@ -2,6 +2,7 @@ state: NH
 resources:
   - resource_category: Victims of Crime Act (VOCA)
     who: |
+
       You are eligible to apply if you were harmed as the result of a crime or if your immediate family member was killed as the result of a crime.
 
       Eligible crimes include:
@@ -33,6 +34,7 @@ resources:
     cost: It is free to apply.
     award: You can receive up to $30,000 for your expenses.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical and dental care
@@ -62,6 +64,7 @@ resources:
       - "**TIP:** If you need help filling out your application, contact the Victim Assistance Program in your county. [Here](https://www.doj.nh.gov/criminal/victim-assistance/assistance-programs.htm) is the contact information for the Victim Assistance Program in each county."
       - "**Step 4:** Sign and date the application and attach the police report and copies of bills for each expense you include in your application."
       - |
+
         **Step 5:** Mail, fax, or deliver in person the completed application along with all attachments to:
 
 
@@ -81,6 +84,7 @@ resources:
     what_if_i_disagree:
       - "**TIP:** Read the decision carefully and look for any instructions about how to appeal. Follow those instructions carefully."
       - |
+
         Within **14 days** after the decision you must send either a request for reconsideration or a notice of appeal to:
 
 
@@ -95,6 +99,7 @@ resources:
     cost: It is free of charge.
     likelihood: A County Attorney will be assigned to the criminal case on behalf of the state. They will ask the judge to grant you criminal restitution at the defendant’s sentencing hearing. The more evidence you can give the County attorney of your costs, the more likely it will be that you will get compensation.
     covered_expenses: |
+
       You can get compensation for the following expenses:
 
       * Medical bills
@@ -115,6 +120,7 @@ resources:
 
     safety: You may have to testify in front of the person that harmed you as part of the criminal case and / or at the sentencing hearing.
     story: |
+
 
 
       * You must share your story:
@@ -148,16 +154,19 @@ resources:
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
+
       You must file claims for assault and battery, personal injury, and property damage within **3 years** of the wrongful conduct.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/new-hampshire-law/new-hampshire-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
+
       You must file your small claims case in the Circuit Court District Division in the county where the person that harmed you lives.
 
       **TIP:** You can find the location and contact information for the Circuit Court District Division in each county [here](https://www.courts.state.nh.us/courtlocations/index.htm#district).
     time: The whole process will generally take several weeks to several months.
     covered_expenses: The total amount you are seeking must be $10,000 or less.
     cost: |
+
       The filing fee depends on how much money you are asking for and range from $90-$145. There may be additional costs to deliver your documents to the defendant.
 
       **TIP:** If you can’t afford to pay the fees, you can ask the court for a waiver by completing and filing [this form](https://www.courts.state.nh.us/forms/ecourt/nhjb-2886-dfpe-MotiontoWaiveFilingFee.pdf).
@@ -208,6 +217,7 @@ resources:
       - "**Step 1:** Find an attorney you trust."
       - "**Step 2:** If you are unable to find an attorney on your own, we have included some helpful links in the “Resources” section."
       - |
+
         **TIP:** You are more likely to find representation if you are prepared with certain information when you contact an attorney. That information includes:
 
         * Your name and address
