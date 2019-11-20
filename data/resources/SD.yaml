@@ -68,7 +68,7 @@ resources:
       - "**TIP:** You may still be eligible for compensation even if you didn’t report the crime in time. Apply and explain why you waited to report."
       - "**Step 2:** Gather all the documents you have that relate to the crime or that show the costs you are trying to get covered. For example: the police report, medical bills, and any invoices or receipts for costs you had to pay as a result of the crime."
       - "**TIP:** Keep all original receipts, bills, statements, and other documentation of the costs you’ve had to pay with you in a safe place."
-      - "**Step 3:** After carefully reading the instructions, download, print, and complete [this application](https://dps.sd.gov/application/files/1115/6659/7253/primary-cvc2019.pdf)and attach or upload the police report and copies of bills for each expense you include in your application."
+      - "**Step 3:** After carefully reading the instructions, download, print, and complete [this application](https://dps.sd.gov/application/files/1115/6659/7253/primary-cvc2019.pdf) and attach or upload the police report and copies of bills for each expense you include in your application."
       - "**Step 4:** Sign all required pages of the application"
       - |
 
@@ -90,7 +90,7 @@ resources:
     resources:
       - "[South Dakota - Crime Victims’ Compensation Program](https://dss.sd.gov/formsandpubs/docs/VS/cvc_brochure.pdf) "
       - "[South Dakota Crime Victims’ Assistance Program - Eligibility and Apply](https://dps.sd.gov/victims-services/crime-victims-compensation/eligibility-and-apply-cvc)"
-      - "[South Dakota Crime Victims’ Compensation Program - Application and Instructions](https://dps.sd.gov/application/files/1115/6659/7253/primary-cvc2019.pdf.) "
+      - "[South Dakota Crime Victims’ Compensation Program - Application and Instructions](https://dps.sd.gov/application/files/1115/6659/7253/primary-cvc2019.pdf)"
   - resource_category: Criminal Restitution
     who: You are eligible for criminal restitution if you were injured, lost money, or had property damaged by someone else’s crime and that person (the defendant) either pleads guilty or is found guilty of that crime in court.
     time: The judge assigned to the criminal case decides whether to award criminal restitution when sentencing the defendant. So, the timing of the criminal restitution decision depends on when the defendant is sentenced.
@@ -196,7 +196,7 @@ resources:
     what_if_i_disagree:
       - You cannot appeal a judge’s decision in small claims court in South Dakota.
     resources:
-      - "[Small Claims Court Forms} (https://ujs.sd.gov/Small_Claims/)"
+      - "[Small Claims Court Forms](https://ujs.sd.gov/Small_Claims/)"
       - "[How to Use South Dakota’s Small Claims Court](https://ujs.sd.gov/uploads/pubs/small_claims_brochure.pdf)"
       - "[South Dakota Small Claims Website](https://ujs.sd.gov/uploads/secondcircuit/SmallClaims.pdf)"
       - "[Small Claims Court - Small Claims Action](http://www.redbookrights.org/small-claims-courtsmall-claims-action/)"
