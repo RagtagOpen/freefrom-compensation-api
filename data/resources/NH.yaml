@@ -144,6 +144,7 @@ resources:
       - "**TIP:** Collecting restitution can be challenging. Ask the County Attorney assigned to your case for support if you need help."
     resources:
       - "[Victim / Witness Assistance Programs](https://www.doj.nh.gov/criminal/victim-assistance/assistance-programs.htm)"
+      - "[Restitution Info Booklet](https://www.nh.gov/nhdoc/divisions/victim/documents/restitution_booklet.pdf)"
   - resource_category: Small Claims Court
     who: You are eligible to file claims in small claims court if you are 18 or older and the amount of money you are asking for is $10,000 or less.
     when: |
@@ -188,9 +189,11 @@ resources:
       - You must file a Notice of Appeal with the New Hampshire Supreme Court within **30 days** of the decision and pay a filing fee.
       - "**TIP:** An appeal will follow more complex rules and procedures. It’s a good idea to find an attorney to help you with this process."
     resources:
-      -"[Circuit Court District Division - Small Claims](https://www.courts.state.nh.us/district/eclaims/complaint.htm)"
+      - "[Circuit Court District Division - Small Claims](https://www.courts.state.nh.us/district/eclaims/complaint.htm)"
       - "[New Hampshire Online Filing System](https://turbocourt.com/go.jsp?act=actShowState&tmstp=1569094327020&id=29465829&clerkassistance=null) "
       - "[New Hampshire Small Claims Forms](https://www.courts.state.nh.us/district/forms/allforms.htm#sc)"
+      - "[Small Claims - New Hampshire Judicial Branch](https://www.courts.state.nh.us/district/eclaims/)"
+      - "[Small Claims Court - New Hampshire Legal Aid](https://nhlegalaid.org/self-help-guides/consumer/small-claims-court)"
   - resource_category: Civil Tort
     who: You can file a civil tort claim against the person that harmed you if the law recognizes a cause of action that fits the facts of your case.
     when: Generally, a claim must be filed within 1-2 years of the actions that caused you injury. The exact deadline depends on the type of claim you bring.
