@@ -125,7 +125,6 @@ resources:
       - "**TIP:** Keep all original receipts, bills, statements and other documentation of the costs you’ve had to pay with you in a safe place."
       - "**Step 3:** Complete a [Victim Loss and Restitution Statement](https://attorneygeneral.delaware.gov/wp-content/uploads/sites/50/2016/09/victimlossrestitutionstatement.pdf)."
       - "**Step 4:** Contact the Criminal Division of the Attorney General’s Office and ask to speak with the attorney assigned to your case. Tell the attorney that you are seeking criminal restitution and ask for a Victim Loss and Restitution Statement. Contact the Attorney General at (302) 577-8500."
-      - "**TIP:** Find the location and contact information for the prosecuting attorney’s office in each county [here](https://criminal.findlaw.com/criminal-legal-help/delaware-district-attorneys.html)."
       - "**TIP:** If you need help filling out the Victim Loss and Restitution Statement, ask the attorney assigned to your case for support."
       - "**Step 5:** Mail the completed Victim Loss and Restitution Statement to the attorney assigned to your case."
       - "**Step 6:** Stay in contact with the attorney assigned to your case to make sure that you’re aware of important dates, including the sentencing hearing and restitution hearing."
@@ -133,13 +132,13 @@ resources:
       - "**TIP:** Collecting restitution can be challenging. If you need help, ask the prosecuting attorney assigned to your case for support. "
     resources:
       - "[Delaware Victims’ Rights Task Force](https://www.delawarevictimservices.org/legal-system.html)"
-      - "[Delaware Attorney General - CriminalDivision](https://attorneygeneral.delaware.gov/criminal/)"
+      - "[Delaware Attorney General - Criminal Division](https://attorneygeneral.delaware.gov/criminal/)"
   - resource_category: Small Claims Court
     who: You are eligible to file a claim in front of the Justice of the Peace (small claims courts in Delaware) if you are 18 or older and the amount of money you are asking for is $15,000 or less.
     when: |
       You must file claims for property damage, personal injury, and assault within **2 years** of the wrongful conduct.
 
-      **TIP:** Check out [this resource](https://statelaws.findlaw.com/delaware-law/delaware-statutes-of-limitations.html) to see deadlines for other types of claims.
+      **TIP:** Check out [this resource](https://statelaws.findlaw.com/delaware-law/delaware-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
     where: |
       File your case in the Justice of the Peace Court in the county where the person who harmed you lives or where the harm occurred.
 
@@ -181,7 +180,7 @@ resources:
     what_if_i_disagree:
       - "**TIP:** Read the judge’s decision carefully and look for instructions on how to appeal. Follow those instructions carefully."
       - "**Step 1:** Within **15 days** after the judge’s decision you must file the following at the Clerk’s Office of the Court of Common Pleas: 1) a Notice of Appeal; 2) an original Praecipe and one copy; 3) an original Summons on Appeal and one copy; and 4) a new Complaint."
-      - "**TIP:** Find the appeals forms [here](https://courts.delaware.gov/forms/download.aspx?id=7028)."
+      - "**TIP:** Find the appeals forms [here](https://courts.delaware.gov/forms/list.aspx?ag=Justice%20Of%20The%20Peace%20Court&sec=Forms)."
       - "**Step 2:** Within **10 days** after you file the documents, you must pay a non-refundable $135.00 filing fee."
       - "**TIP:** An appeal will have more complex rules and procedures to follow. It’s a good idea to try and find an attorney to help you with this process."
     resources:
