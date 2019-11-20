@@ -25,6 +25,8 @@ resources:
       **TIP:** You can apply even if the person that harmed you was never arrested for or convicted of the crime.
     where: You are eligible to apply if the crime happened in Florida.
     when: |
+
+
       * For crimes that occurred before October 1, 2019: Your application must be _received_ within **1 year** of the date of the crime, or within **2 years** if you can show good cause for why you filed late.
 
       * For crimes that occurred after October 1, 2019: Your application must be _received_ within **3 years** of the date of the crime, or within **5 years** if you can show good cause for why you filed late.
@@ -150,13 +152,14 @@ resources:
       You must file claims for personal injury, assault and battery, and property damage within **4 years** of the date of injury, assault, or damage.
 
       **TIP:** Check out [this resource](https://statelaws.findlaw.com/florida-law/florida-civil-statute-of-limitations-laws.html) to see deadlines for other types of claims.
-    where: You must file small claims in County Court (Civil Division) in the county where the person that harmed you lives or where the harm happened.
+    where: |
+      You must file small claims in County Court (Civil Division) in the county where the person that harmed you lives or where the harm happened.
+
+      **TIP:** You can find the contact information and location of the County Court in each county [here](https://dos.myflorida.com/library-archives/research/florida-information/government/local-resources/clerks-of-county-courts/).
     time: The whole process will generally take several months.
     covered_expenses: The total amount you are seeking must be $5,000.00 or less.
     cost: |
       Filing fees vary by county based on the amount of money you are asking for, the type of claim you’re bringing, and how you decide to deliver your documents to the defendant. Check with the appropriate county clerk to find out the specific fees that will apply to your case.
-
-      **TIP:** You can find the contact information and location of the County Court in each county [here](https://dos.myflorida.com/library-archives/research/florida-information/government/local-resources/clerks-of-county-courts/).
 
       **TIP:** If you can’t afford the fees, you can ask for a waiver by filing an [Application for Determination of Civil Indigent Status](http://www.miami-dadeclerk.com/library/eFiling/Application%20for%20Determination%20of%20Civil%20Indigent%20Status.pdf). It’s a good idea to attach proof of your income (bank statements, pay stubs, disability checks, EBT cards, etc.)
     likelihood: Your chances of getting compensation depend on whether you are able to convince the judge that your claim meets the legal requirements and that the amount of money you are asking for is accurate and supported by evidence. See the “How-To” section below for more information.
