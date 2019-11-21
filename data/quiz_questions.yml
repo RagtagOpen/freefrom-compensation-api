@@ -43,7 +43,7 @@
 - title: "Award"
   description: "Some types of compensation have limits on how much money they will pay out. Other types will only cover certain kinds of costs (for example: one may pay for medical bills but not property damage). How much and what type of compensation are you seeking?"
   responses:
-    - text: "I need compensation to cover costs, including damaged property (for example, a broken laptop), that are less than $10,000 in total."
+    - text: "I need compensation to cover costs, including damaged property (for example, a broken laptop), that are LESS than $10,000 in total."
       mindsets:
         - "The Reimbursement Boss"
         - "The Resourceful Strategist"
