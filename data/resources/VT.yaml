@@ -60,7 +60,7 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You don’t need an attorney to apply.
     challenges:
-      - "**You Must Report the Crime to the Police** You must report the crime to the police, who must decide that a crime was committed. However, you don’t have to have a police report to apply."
+      - "**You Must Report the Crime to the Police:** You must report the crime to the police, who must decide that a crime was committed. However, you don’t have to have a police report to apply."
       - "**Not All Costs Are Covered:** You can’t get compensated for property damage or pain and suffering."
     steps:
       - "**Step 1:** Report the crime to the police."

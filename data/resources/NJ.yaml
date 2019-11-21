@@ -54,7 +54,7 @@ resources:
     story: You will need to include detailed information about what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "**You Must Report the Crime to the Police** You must report the crime to the police within **9 months** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**You Must Report the Crime to the Police:** You must report the crime to the police within **9 months** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "**Cooperation is Required:** You must cooperate with the police during the investigation and with anyone reviewing your application."
       - "**Having a Criminal Record May Disqualify You:** You may be ineligible for compensation if you have outstanding warrants, or pending felony charges."
       - "**Not All Costs Are Covered:** You cannot get compensation for property loss. property damage or pain and suffering."

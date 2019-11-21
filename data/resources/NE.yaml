@@ -50,7 +50,7 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "**You Must Report the Crime to the Police** You must report the crime within 3 days of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**You Must Report the Crime to the Police:** You must report the crime within 3 days of the incident. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "**Not All Costs Are Covered:** You can’t get compensated for property loss or pain and suffering. "
     steps:
       - "**Step 1:** Report the crime to the police within 3 days of the incident and get a police report."
