@@ -46,7 +46,7 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "**You Must Report the Crime to the Police** You must report the crime to the police within **72 hours**. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**You Must Report the Crime to the Police:** You must report the crime to the police within **72 hours**. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "**You May Have to Have a Medical Exam:** The Commission may appoint an impartial licensed physician or psychologist to examine you (at no cost to you)."
       - "**Not All Costs Are Covered:** You can’t get compensation for property loss or damage, telephon bills, or meals."
     steps:

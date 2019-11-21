@@ -13,7 +13,7 @@
         - "The Justice Seeker"
 
 - title: "Timeframe"
-  description: Some types of compensation take longer than others. How urgently do you need the money?
+  description: Some types of compensation take longer than others. How quickly do you need the money?
   responses:
     - text: "I need the money quickly (2-6 months)."
       mindsets:

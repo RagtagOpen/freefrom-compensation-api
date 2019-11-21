@@ -50,7 +50,7 @@ resources:
     story: You will have to describe what happened to you in your application, and you may have to answer follow-up questions about your experience.
     attorney: You do not need an attorney to apply.
     challenges:
-      - "**You Must Report the Crime to the Police** You must report the crime within **72 hours** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
+      - "**You Must Report the Crime to the Police:** You must report the crime within **72 hours** and get a police report. However, you may still be eligible for compensation even if you did not report in time. Apply and explain why you waited to report."
       - "**For Sexual Assault, You Must Have an Exam:** If the crime was a sexual assault, you must have a forensic medical exam before applying."
       - "**Cooperation is Required:** You must cooperate with the police during their investigation, and with anyone reviewing and investigating your application."
       - "**Not All Costs Are Covered:** You can’t get compensation for attorney's fees, property losss or damage, or pain and suffering."
