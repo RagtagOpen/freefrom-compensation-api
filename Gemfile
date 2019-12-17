@@ -17,6 +17,8 @@ gem 'json'
 gem 'knock'
 gem 'devise'
 gem "administrate"
+gem 'turbolinks'
+
 
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'

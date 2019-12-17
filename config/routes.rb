@@ -1,13 +1,12 @@
 Rails.application.routes.draw do
   namespace :admin do
-    resources :users
     resources :mindsets
     resources :quiz_questions
     resources :quiz_responses
     resources :resources
     resources :resource_categories
 
-    root to: "users#index"
+    root to: "mindsets#index"
   end
 
   devise_for :users
@@ -32,5 +31,5 @@ Rails.application.routes.draw do
 
   resources :quiz_responses, only: [:show, :update, :destroy]
 
-  root to: 'admin#index'
+  root to: 'admin/mindsets#index'
 end
