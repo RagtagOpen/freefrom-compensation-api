@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :users
   post 'user_tokens' => 'user_token#create'
   get '/users/current'  => 'users#current'
 
@@ -19,4 +20,6 @@ Rails.application.routes.draw do
   end
 
   resources :quiz_responses, only: [:show, :update, :destroy]
+
+  root to: 'admin#index'
 end
