@@ -16,6 +16,7 @@ gem 'carmen'
 gem 'json'
 gem 'knock'
 gem 'devise'
+gem "administrate"
 
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'

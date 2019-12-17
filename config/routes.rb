@@ -1,4 +1,15 @@
 Rails.application.routes.draw do
+  namespace :admin do
+    resources :users
+    resources :mindsets
+    resources :quiz_questions
+    resources :quiz_responses
+    resources :resources
+    resources :resource_categories
+
+    root to: "users#index"
+  end
+
   devise_for :users
   post 'user_tokens' => 'user_token#create'
   get '/users/current'  => 'users#current'
