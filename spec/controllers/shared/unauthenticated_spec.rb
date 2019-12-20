@@ -26,26 +26,27 @@ RSpec.shared_examples 'an unauthenticated object' do |model, params = {}|
     end
   end
 
+  # When unauthenticated, create/destroy/update routes redirect
   describe '#create' do
     let(:create_params) { params[:create] || {} }
 
-    it 'returns 401' do
+    it 'returns 302' do
       post :create, params: create_params
-      expect(response.status).to eq(401)
+      expect(response.status).to eq(302)
     end
   end
 
   describe '#destroy' do
-    it 'returns 401' do
+    it 'returns 302' do
       delete :destroy, params: { id: id }
-      expect(response.status).to eq(401)
+      expect(response.status).to eq(302)
     end
   end
 
   describe '#update' do
-    it 'returns 401' do
+    it 'returns 302' do
       put :update, params: { id: id }
-      expect(response.status).to eq(401)
+      expect(response.status).to eq(302)
     end
   end
 end

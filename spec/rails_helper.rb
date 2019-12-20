@@ -60,16 +60,16 @@ RSpec.configure do |config|
   config.filter_rails_from_backtrace!
   # arbitrary gems may also be filtered via:
   # config.filter_gems_from_backtrace("gem name")
+
+  config.include Devise::Test::IntegrationHelpers, type: :request
+  config.include Devise::Test::ControllerHelpers, type: :controller
 end
 
 def setup_admin_controller_spec
-  let(:user) { create(:user, :admin) }
-  let(:token) { Knock::AuthToken.new(payload: { sub: user.id }).token }
-
-  let(:headers) { { 'Authorization': "Bearer #{token}" } }
+  let(:user) { create(:user) }
   let(:id) { 1000 }
 
   before(:each) do
-    request.headers.merge! headers
+    sign_in user
   end
 end

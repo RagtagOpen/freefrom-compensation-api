@@ -1,10 +1,8 @@
 require 'rails_helper'
 require_relative './shared/unauthenticated_spec'
-require_relative './shared/regular_user_spec'
 
 describe QuizResponsesController, type: :controller do
   it_behaves_like 'an unauthenticated object', QuizResponse, create: { quiz_question_id: 123 }
-  it_behaves_like 'an object authenticated with a regular user', create: { quiz_question_id: 123 }
 
   context 'with admin user' do
     setup_admin_controller_spec
