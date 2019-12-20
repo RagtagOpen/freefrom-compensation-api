@@ -1,4 +1,6 @@
-require "administrate/base_dashboard"
+# frozen_string_literal: true
+
+require 'administrate/base_dashboard'
 
 class ResourceDashboard < Administrate::BaseDashboard
   # ATTRIBUTE_TYPES
@@ -29,7 +31,7 @@ class ResourceDashboard < Administrate::BaseDashboard
     steps: Field::Text,
     challenges: Field::Text,
     what_to_expect: Field::Text,
-    what_if_i_disagree: Field::Text,
+    what_if_i_disagree: Field::Text
   }.freeze
 
   # COLLECTION_ATTRIBUTES
@@ -38,62 +40,62 @@ class ResourceDashboard < Administrate::BaseDashboard
   # By default, it's limited to four items to reduce clutter on index pages.
   # Feel free to add, remove, or rearrange items.
   COLLECTION_ATTRIBUTES = %i[
-  id
-  state
-  who
-  resource_category
+    id
+    state
+    who
+    resource_category
   ].freeze
 
   # SHOW_PAGE_ATTRIBUTES
   # an array of attributes that will be displayed on the model's show page.
   SHOW_PAGE_ATTRIBUTES = %i[
-  resource_category
-  id
-  state
-  time
-  cost
-  award
-  likelihood
-  safety
-  story
-  created_at
-  updated_at
-  who
-  when
-  covered_expenses
-  attorney
-  tips
-  where
-  resources
-  steps
-  challenges
-  what_to_expect
-  what_if_i_disagree
+    resource_category
+    id
+    state
+    time
+    cost
+    award
+    likelihood
+    safety
+    story
+    created_at
+    updated_at
+    who
+    when
+    covered_expenses
+    attorney
+    tips
+    where
+    resources
+    steps
+    challenges
+    what_to_expect
+    what_if_i_disagree
   ].freeze
 
   # FORM_ATTRIBUTES
   # an array of attributes that will be displayed
   # on the model's form (`new` and `edit`) pages.
   FORM_ATTRIBUTES = %i[
-  resource_category
-  state
-  time
-  cost
-  award
-  likelihood
-  safety
-  story
-  who
-  when
-  covered_expenses
-  attorney
-  tips
-  where
-  resources
-  steps
-  challenges
-  what_to_expect
-  what_if_i_disagree
+    resource_category
+    state
+    time
+    cost
+    award
+    likelihood
+    safety
+    story
+    who
+    when
+    covered_expenses
+    attorney
+    tips
+    where
+    resources
+    steps
+    challenges
+    what_to_expect
+    what_if_i_disagree
   ].freeze
 
   # COLLECTION_FILTERS

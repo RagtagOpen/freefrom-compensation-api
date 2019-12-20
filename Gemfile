@@ -6,6 +6,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '2.6.3'
 
 gem 'active_model_serializers'
+gem 'administrate'
 
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
@@ -13,11 +14,9 @@ gem 'bcrypt', '~> 3.1.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'carmen'
-gem 'json'
 gem 'devise'
-gem "administrate"
+gem 'json'
 gem 'turbolinks'
-
 
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'

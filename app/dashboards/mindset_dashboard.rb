@@ -1,4 +1,6 @@
-require "administrate/base_dashboard"
+# frozen_string_literal: true
+
+require 'administrate/base_dashboard'
 
 class MindsetDashboard < Administrate::BaseDashboard
   # ATTRIBUTE_TYPES
@@ -14,7 +16,7 @@ class MindsetDashboard < Administrate::BaseDashboard
     description: Field::Text,
     created_at: Field::DateTime,
     updated_at: Field::DateTime,
-    slug: Field::String,
+    slug: Field::String
   }.freeze
 
   # COLLECTION_ATTRIBUTES
@@ -23,32 +25,32 @@ class MindsetDashboard < Administrate::BaseDashboard
   # By default, it's limited to four items to reduce clutter on index pages.
   # Feel free to add, remove, or rearrange items.
   COLLECTION_ATTRIBUTES = %i[
-  id
-  name
-  slug
-  description
+    id
+    name
+    slug
+    description
   ].freeze
 
   # SHOW_PAGE_ATTRIBUTES
   # an array of attributes that will be displayed on the model's show page.
   SHOW_PAGE_ATTRIBUTES = %i[
-  resource_category
-  id
-  name
-  description
-  created_at
-  updated_at
-  slug
+    resource_category
+    id
+    name
+    description
+    created_at
+    updated_at
+    slug
   ].freeze
 
   # FORM_ATTRIBUTES
   # an array of attributes that will be displayed
   # on the model's form (`new` and `edit`) pages.
   FORM_ATTRIBUTES = %i[
-  resource_category
-  name
-  description
-  slug
+    resource_category
+    name
+    description
+    slug
   ].freeze
 
   # COLLECTION_FILTERS
