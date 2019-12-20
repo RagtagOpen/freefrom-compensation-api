@@ -1,10 +1,8 @@
 require 'rails_helper'
 require_relative './shared/unauthenticated_spec'
-require_relative './shared/regular_user_spec'
 
 describe ResourceCategoriesController, type: :controller do
   it_behaves_like 'an unauthenticated object', ResourceCategory
-  it_behaves_like 'an object authenticated with a regular user'
 
   describe '#index' do
     context 'where resource categories exist' do

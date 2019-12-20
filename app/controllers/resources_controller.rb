@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 class ResourcesController < ApplicationController
-  before_action :authenticate_admin, only: %i[create destroy update]
   before_action :find_resource, only: %i[destroy links show steps update]
   before_action :require_state, only: %i[create search]
 

@@ -2,7 +2,7 @@
   "name": "FreeFrom Compensation API",
   "description": "API Layer for https://compensation-quiz.freefrom.org/",
   "scripts": {
-    "postdeploy": "bundle exec rake db:migrate && bundle exec rake import_data"
+    "postdeploy": "bundle exec rake db:migrate"
   },
   "addons": ["heroku-postgresql"],
   "formation": { "web": { "quantity": 1 } },

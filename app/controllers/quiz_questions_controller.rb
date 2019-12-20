@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 class QuizQuestionsController < ApplicationController
-  before_action :authenticate_admin, only: %i[create destroy update]
   before_action :find_quiz_question, only: %i[destroy links responses show steps update]
 
   def show

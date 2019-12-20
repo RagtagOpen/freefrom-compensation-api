@@ -1,6 +1,15 @@
 Rails.application.routes.draw do
-  post 'user_tokens' => 'user_token#create'
-  get '/users/current'  => 'users#current'
+  namespace :admin do
+    resources :mindsets
+    resources :quiz_questions
+    resources :quiz_responses
+    resources :resources
+    resources :resource_categories
+
+    root to: "mindsets#index"
+  end
+
+  devise_for :users
 
   resources :resource_categories, only: [:index, :show, :create, :update, :destroy] do
     resources :resources, only: [:create]
@@ -19,4 +28,6 @@ Rails.application.routes.draw do
   end
 
   resources :quiz_responses, only: [:show, :update, :destroy]
+
+  root to: 'admin/mindsets#index'
 end

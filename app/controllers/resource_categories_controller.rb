@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 class ResourceCategoriesController < ApplicationController
-  before_action :authenticate_admin, only: %i[create destroy update]
   before_action :find_resource_category, only: %i[destroy show update]
 
   def index

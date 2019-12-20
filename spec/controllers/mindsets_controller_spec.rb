@@ -1,10 +1,8 @@
 require 'rails_helper'
 require_relative './shared/unauthenticated_spec'
-require_relative './shared/regular_user_spec'
 
 describe MindsetsController, type: :controller do
   it_behaves_like 'an unauthenticated object', Mindset, create: { resource_category_id: 123 }
-  it_behaves_like 'an object authenticated with a regular user', create: { resource_category_id: 123 }
 
   describe '#index' do
     context 'where mindsets exist' do

@@ -28,51 +28,8 @@ Run the command `gem install rails` (make sure `rails --version` returns 5.2.3)
 4. Run `rake db:setup` to create the test and development databases
 5. Run `rake db:migrate` to set up the necessary database tables
 6. Run `bundle exec rails s` to start the server
-7. Run `bundle exec rake import_data` to import seed data
 
 ## API Documentation
-### Users and Authentication
-#### POST /user_tokens
-Generates a new [JWT](https://jwt.io/introduction/) for the user whose authentication information is specified in the request payload.
-
-_Request Payload:_
-```
-{
- "auth": {
-   "email": "foo@bar.com",
-   "password": "secret"
- }
-}
-```
-
-_Response Payload:_
-On success, this endpoint will return a `201 Created` response status as well as a body with a new JWT in the shape:
-```
-{"jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9"}
-```
-On failure, this endpoint will return `401 Unauthorized`.
-
-#### GET /users/current
-Returns a serialized representation of the user as long as a valid JWT is passed as a header.
-
-_Request Headers:_
-```
-{
-  Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
-}
-```
-
-_Response Payload:_
-On success, this endpoint will return a `200 Success` status and a JSON representation of the user corresponding to the JWT:
-```
-{
-  "id": 3,
-  "username": "foo",
-  "email": "foo@bar.com",
-  "role": "admin"
-}
-```
-On failure, this endpoint will return `401 Unauthorized`.
 
 ### Resource Categories
 #### POST /resource_categories**
@@ -113,14 +70,14 @@ _Request Payload_: The request payload may include any of the following fields. 
 |`seo_keywords`|array[string]|
 |`share_image`|binary|
 
-_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource Category in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource Category in the response body. If the request was unauthorized, it will return a `302 Redirected` status. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
 
 #### DELETE /resource_categories/:id**
 Deletes an existing Resource Category.
 
 _Request Payload_: This endpoint requires no request payload.
 
-_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `302 Redirected` status. If the Resource Category doesn't exist, it will return a `404 Not Found` response.
 
 #### GET /resource_categories/:id
 Fetches an existing Resource Category.
@@ -164,7 +121,7 @@ _Response Payload_: On success, this endpoint will return a `201 Created` status
   "updated_at": "2019-08-02T16:36:09.933Z"
 }
 ```
-If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource Category ID or state parameter are invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
+If the request was unauthorized, it will return a `302 Redirected` status. If the Resource Category ID or state parameter are invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
 
 
 #### PUT /resources/:id**
@@ -189,14 +146,14 @@ _Request Payload_: The request payload may include any of the following fields. 
 |`tips`|array[string]|
 |`resource_category_id`|int|
 
-_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource doesn't exist, it will return a `404 Not Found` response.
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Resource in the response body. If the request was unauthorized, it will return a `302 Redirected` status. If the Resource doesn't exist, it will return a `404 Not Found` response.
 
 #### DELETE /resources/:id**
 Deletes an existing Resource.
 
 _Request Payload_: This endpoint requires no request payload.
 
-_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Resource doesn't exist, it will return a `404 Not Found` response.
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `302 Redirected` status. If the Resource doesn't exist, it will return a `404 Not Found` response.
 
 #### GET /resources/:id
 Fetches an existing Resource.
@@ -229,7 +186,7 @@ _Response Payload_: On success, this endpoint will return a `201 Created` status
   "updated_at": "2019-08-02T16:55:56.098Z"
 }
 ```
-If the request was unauthorized, it will return a `401 Unauthorized` status. If the ResourceCategory ID is invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
+If the request was unauthorized, it will return a `302 Redirected` status. If the ResourceCategory ID is invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
 
 #### PUT /mindsets/:id**
 Updates an existing Mindset.
@@ -242,14 +199,14 @@ _Request Payload_: The request payload may include any of the following fields. 
 |`description`|string|
 |`resource_category_id`|int|
 
-_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Mindset in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Mindset doesn't exist, it will return a `404 Not Found` response.
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Mindset in the response body. If the request was unauthorized, it will return a `302 Redirected` status. If the Mindset doesn't exist, it will return a `404 Not Found` response.
 
 #### DELETE /mindsets/:id**
 Deletes an existing Mindset.
 
 _Request Payload_: This endpoint requires no request payload.
 
-_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Mindset doesn't exist, it will return a `404 Not Found` response.
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `302 Redirected` status. If the Mindset doesn't exist, it will return a `404 Not Found` response.
 
 #### GET /mindsets/:id
 Fetches an existing Mindset.
@@ -281,7 +238,7 @@ _Response Payload_: On success, this endpoint will return a `201 Created` status
   "updated_at": "2019-08-02T16:55:56.098Z"
 }
 ```
-If the request was unauthorized, it will return a `401 Unauthorized` status.
+If the request was unauthorized, it will return a `302 Redirected` status.
 
 #### PUT /quiz_questions/:id**
 Updates an existing QuizQuestion.
@@ -293,14 +250,14 @@ _Request Payload_: The request payload may include any of the following fields. 
 |`title`|string|
 |`description`|string|
 
-_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Quiz Question in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Quiz Question doesn't exist, it will return a `404 Not Found` response.
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated Quiz Question in the response body. If the request was unauthorized, it will return a `302 Redirected` status. If the Quiz Question doesn't exist, it will return a `404 Not Found` response.
 
 #### DELETE /quiz_questions/:id**
 Deletes an existing Quiz Question.
 
 _Request Payload_: This endpoint requires no request payload.
 
-_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the Quiz Question doesn't exist, it will return a `404 Not Found` response.
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `302 Redirected` status. If the Quiz Question doesn't exist, it will return a `404 Not Found` response.
 
 #### GET /quiz_questions/:id
 Fetches an existing Quiz Question.
@@ -339,7 +296,7 @@ _Response Payload_: On success, this endpoint will return a `201 Created` status
   "updated_at": "2019-08-02T16:55:56.098Z"
 }
 ```
-If the request was unauthorized, it will return a `401 Unauthorized` status. If the QuizQuestion ID is invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
+If the request was unauthorized, it will return a `302 Redirected` status. If the QuizQuestion ID is invalid, this endpoint will return a `400 Bad Request` response, along with an error message explaining what went wrong.
 
 #### PUT /quiz_responses/:id**
 Updates an existing QuizResponse.
@@ -352,14 +309,14 @@ _Request Payload_: The request payload may include any of the following fields. 
 |`quiz_question_id`|int|
 |`mindset_ids`|array[int]|
 
-_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated QuizResponse in the response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the QuizResponse doesn't exist, it will return a `404 Not Found` response.
+_Response Payload_: On success, this endpoint will return a `200 Success` response and the updated QuizResponse in the response body. If the request was unauthorized, it will return a `302 Redirected` status. If the QuizResponse doesn't exist, it will return a `404 Not Found` response.
 
 #### DELETE /quiz_responses/:id**
 Deletes an existing QuizResponse.
 
 _Request Payload_: This endpoint requires no request payload.
 
-_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `401 Unauthorized` status. If the QuizResponse doesn't exist, it will return a `404 Not Found` response.
+_Response Payload_: On success, this endpoint will return a `204 No Content` response and an empty response body. If the request was unauthorized, it will return a `302 Redirected` status. If the QuizResponse doesn't exist, it will return a `404 Not Found` response.
 
 #### GET /quiz_responses/:id
 Fetches an existing QuizResponse.
@@ -368,12 +325,7 @@ _Request Payload_: This endpoint requires no request payload.
 
 _Response Payload_: On success, this endpoint will return a `200 Success` status and a QuizResponse in the response body. If the QuizResponse doesn't exist, it will return a `404 Not Found` respons (or an empty array if no QuizQuestions exist) in the response body.
 
-### ** Requires a JWT to be passed in as a header:
-```
-{
-  Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
-}
-```
+### ** Requires a user logged in
 
 ## Contributing
 To contribute, see [CONTRIBUTING.md](./contributing.md)

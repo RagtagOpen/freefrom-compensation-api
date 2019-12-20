@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 class MindsetsController < ApplicationController
-  before_action :authenticate_admin, only: %i[create destroy update]
   before_action :find_mindset, only: %i[destroy show update]
 
   def show
