@@ -329,4 +329,4 @@ _Response Payload_: On success, this endpoint will return a `200 Success` status
 ### ** Requires a user logged in
 
 ## Contributing
-To contribute, see [CONTRIBUTING.md](./contributing.md)
+To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
