@@ -7,6 +7,8 @@ module Admin
       array_fields = %w[challenges resources tips steps what_if_i_disagree what_to_expect]
 
       array_fields.each do |field|
+        next unless params['resource'][field]
+
         params['resource'][field] = params['resource'][field].split("\r\n\r\n*-*-*-*-*\r\n\r\n")
       end
 
