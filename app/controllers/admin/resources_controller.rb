@@ -10,7 +10,7 @@ module Admin
         params['resource'][field] = params['resource'][field].split("\r\n\r\n*-*-*-*-*\r\n\r\n")
       end
 
-      permitted_fields = array_fields.each_with_object({}) do |h, field|
+      permitted_fields = array_fields.each_with_object({}) do |field, h|
         h[field.to_sym] = []
         h
       end
