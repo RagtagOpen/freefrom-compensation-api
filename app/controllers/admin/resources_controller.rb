@@ -2,26 +2,21 @@
 
 module Admin
   class ResourcesController < Admin::ApplicationController
+    # rubocop:disable AbcSize
     def resource_params
-      array_fields = [
-        "tips",
-        "resources",
-        "steps",
-        "challenges",
-        "what_to_expect",
-        "what_if_i_disagree",
-      ]
+      array_fields = %w[challenges resources tips steps what_if_i_disagree what_to_expect]
 
       array_fields.each do |field|
-        params["resource"][field] = params["resource"][field].split("\r\n\r\n*-*-*-*-*\r\n\r\n")
+        params['resource'][field] = params['resource'][field].split("\r\n\r\n*-*-*-*-*\r\n\r\n")
       end
 
-      permitted_fields = array_fields.inject({}) do |h, field|
+      permitted_fields = array_fields.each_with_object({}) do |h, field|
         h[field.to_sym] = []
         h
       end
 
       params.require(resource_name).permit(*dashboard.permitted_attributes, **permitted_fields)
     end
+    # rubocop:enable AbcSize
   end
 end
