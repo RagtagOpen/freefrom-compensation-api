@@ -25,13 +25,13 @@ class ResourceDashboard < Administrate::BaseDashboard
     when: Field::Text,
     covered_expenses: Field::Text,
     attorney: Field::Text,
-    tips: Field::Text,
+    tips: StringArrayField,
     where: Field::Text,
-    resources: Field::Text,
-    steps: Field::Text,
-    challenges: Field::Text,
-    what_to_expect: Field::Text,
-    what_if_i_disagree: Field::Text
+    resources: StringArrayField,
+    steps: StringArrayField,
+    challenges: StringArrayField,
+    what_to_expect: StringArrayField,
+    what_if_i_disagree: StringArrayField
   }.freeze
 
   # COLLECTION_ATTRIBUTES
