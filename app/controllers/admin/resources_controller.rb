@@ -2,7 +2,7 @@
 
 module Admin
   class ResourcesController < Admin::ApplicationController
-    # rubocop:disable AbcSize
+    # rubocop:disable Metrics/AbcSize
     def resource_params
       array_fields = %w[challenges resources tips steps what_if_i_disagree what_to_expect]
 
@@ -19,6 +19,6 @@ module Admin
 
       params.require(resource_name).permit(*dashboard.permitted_attributes, **permitted_fields)
     end
-    # rubocop:enable AbcSize
+    # rubocop:enable Metrics/AbcSize
   end
 end

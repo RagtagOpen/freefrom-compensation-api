@@ -10,11 +10,9 @@ class QuizResponsesController < ApplicationController
   def create
     @quiz_response = QuizResponse.new(quiz_question_id: params[:quiz_question_id])
 
-    if @quiz_response.save
-      render status: 201, json: @quiz_response
-    else
-      render status: 400, json: { error: @quiz_response.errors.full_messages.first } and return
-    end
+    render status: 400, json: { error: @quiz_response.errors.full_messages.first } and return unless @quiz_response.save
+
+    render status: 201, json: @quiz_response
   end
 
   def destroy
