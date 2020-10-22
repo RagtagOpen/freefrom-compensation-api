@@ -90,7 +90,7 @@ describe ResourceCategoriesController, type: :controller do
 
             body = JSON.parse(response.body)
 
-            params.keys.each do |key|
+            params.each_key do |key|
               expect(body[key.to_s]).to eq(params[key.to_sym])
             end
           end
