@@ -1,3 +1,10 @@
+# Hack to fix Heroku segfault
+# https://stackoverflow.com/questions/66927024/cant-push-to-heroku-sassc-segmentation-fault
+# FIXME remove if https://github.com/sass/sassc-ruby/issues/197 is fixed
+Rails.application.config.assets.configure do |env|
+  env.export_concurrent = false
+end
+
 # Be sure to restart your server when you modify this file.
 
 # Version of your assets, change this if you want to expire all your assets.
