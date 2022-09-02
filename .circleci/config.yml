@@ -1,8 +1,12 @@
-# Ruby CircleCI 2.0 configuration file
+# Ruby CircleCI configuration file
 #
 # Check https://circleci.com/docs/2.0/language-ruby/ for more details
 #
-version: 2
+version: 2.1
+
+orbs:
+  heroku: circleci/heroku@1.2.6
+
 jobs:
   build:
     docker:
@@ -57,5 +61,24 @@ jobs:
       - store_artifacts:
           path: /tmp/test-results
           destination: test-results
-    branches:
-      ignore:
+
+  deploy:
+    executor: heroku/default
+    steps:
+      - checkout
+      - heroku/install
+      - heroku/deploy-via-git:
+          app-name: freefrom-compensation-api
+
+workflows:
+  build_and_deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only:
+                - main
+                - master
